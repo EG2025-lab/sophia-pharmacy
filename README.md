@@ -7,7 +7,7 @@ SOPHIA is an independent project founded by **Enrico Giuliano, pharmacist and Fo
 
 Our aim is to reduce pharmacists' information burden, help reduce errors and improve pharmacy service. These are development goals; their impact still needs to be measured.
 
-**[Explore SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Discuss a collaboration](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners) · [Collaboration brief](COLLABORATION.md)**
+**[Explore SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Discuss a collaboration](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners) · [Collaboration brief](COLLABORATION.md) · [Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions)**
 
 ## From FarmAI to SOPHIA
 
