@@ -32,7 +32,7 @@ These are invited roles, not confirmed appointments. Enrico can contribute pharm
 
 1. **Agree the scope.** Use general professional questions, public sources and explicitly synthetic boundary cases. Exclude patient records, confidential documents and individual treatment decisions.
 2. **Freeze the reference material.** Bind each question to exact identifiers, authoritative URLs, document revisions, retrieval dates and SHA-256 hashes. Check access and reuse permissions. A cached document proves the captured version only; it does not establish current validity.
-3. **Write the oracle first.** List every information need, its expected supported fact or expected clarification/abstention, source section or page, and critical failure conditions. A qualified reviewer checks it before seeing system answers. [ORACLE_TEMPLATE.json](ORACLE_TEMPLATE.json) provides the structure; it contains no reference answers.
+3. **Write the oracle first.** List every information need, its expected supported fact or expected clarification/abstention, source section or page, and critical failure conditions. A qualified reviewer checks it before seeing system answers. Keep fixture failure conditions and expected outcomes in the evaluator material, not as hints inside the user question. [ORACLE_TEMPLATE.json](ORACLE_TEMPLATE.json) provides the structure; it contains no reference answers.
 4. **Check the fixtures without paid model calls.** Test routing, package identity, RCP/FI association, parsing, section coverage and deterministic boundary controls. Report these as technical tests, not answer-quality results.
 5. **Agree execution separately.** Select the system versions, access arrangement, comparison method, spending limit and recording procedure. Paid model calls require a separately agreed budget. The publication of this proposal does not start any model run.
 6. **Record and review.** Preserve the complete answers, tool outcomes, source receipts, timestamps and failures. Review against the frozen oracle, independently where possible. Keep both original reviewer assessments and any subsequent adjudication.
@@ -72,7 +72,7 @@ A fix must address the failing mechanism. A memorised answer or exception for on
 
 ## Join the pilot
 
-Start in [GitHub Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions), select your interest through the [SOPHIA contact page](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners), or [email Enrico](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%2020-question%20pilot).
+Introduce yourself in the **[pilot discussion](https://github.com/EG2025-lab/sophia-pharmacy/discussions/5)**, select your interest through the [SOPHIA contact page](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners), or [email Enrico](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%2020-question%20pilot).
 
 Please share your role, relevant public experience, the workstream that interests you and a small first contribution. Participation, access to restricted beta material, publication credit and any commercial or research terms must be agreed separately. No institutional partnership, funding, compensation or outcome is promised by this invitation.
 

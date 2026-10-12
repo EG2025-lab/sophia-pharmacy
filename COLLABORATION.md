@@ -11,7 +11,7 @@ We welcome exploratory conversations with researchers, developers, AI specialist
 | Legislative references and versions | Six official-source cases with expected facts, dates and clarification conditions. | [Issue #3](https://github.com/EG2025-lab/sophia-pharmacy/issues/3) |
 | Evaluation with professional review | Review the 20-question proposal, source-bound oracle and reviewer rubric before execution. | [Issue #4](https://github.com/EG2025-lab/sophia-pharmacy/issues/4) |
 
-See the [20-question pilot protocol](pilot/README.md), [candidate questions](pilot/questions.csv) and [blank review form](pilot/review-template.csv). Contributors can start with one case family. Initial protocol and fixture work can be done without paid model calls.
+See the [20-question pilot protocol](pilot/README.md), [candidate questions](pilot/questions.csv) and [blank review form](pilot/review-template.csv). Contributors can start with one case family. Initial protocol and fixture work can be done without paid model calls. **[Join the pilot discussion](https://github.com/EG2025-lab/sophia-pharmacy/discussions/5).**
 
 ## 1. Reliable retrieval of official medicines documents
 
