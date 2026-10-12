@@ -7,7 +7,19 @@ SOPHIA is an independent project founded by **Enrico Giuliano, pharmacist and Fo
 
 Our aim is to reduce pharmacists' information burden, help reduce errors and improve pharmacy service. These are development goals; their impact still needs to be measured.
 
-**[Explore SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Discuss a collaboration](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners) · [Collaboration brief](COLLABORATION.md) · [Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions)**
+**[Explore SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Collaboration brief](COLLABORATION.md) · [20-question pilot proposal](pilot/README.md) · [Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions)**
+
+## Open collaboration opportunities
+
+Start with one small, reviewable contribution. Each opportunity sets out a first deliverable and criteria to agree before execution.
+
+| Opportunity | First contribution | Details |
+| --- | --- | --- |
+| Official medicines documents | Fixtures across at least three medicines/formulations; correct identity and both RCP/FI, including missing documents. | [Join the document-reading workstream](https://github.com/EG2025-lab/sophia-pharmacy/issues/2) |
+| Italian pharmaceutical legislation | Six source-bound cases covering exact references, dates, applicability and incorrect references. | [Join the legislative-retrieval workstream](https://github.com/EG2025-lab/sophia-pharmacy/issues/3) |
+| Pharmacist and AI evaluation | Review a 20-question pilot protocol, citation checks and independent professional review criteria. | [Join the evaluation workstream](https://github.com/EG2025-lab/sophia-pharmacy/issues/4) |
+
+The [pilot proposal](pilot/README.md) includes 20 candidate question templates and blank review forms. It is **not yet frozen or run**. We welcome pharmacists, developers and AI researchers; initial protocol and fixture work does not require paid model calls.
 
 ## From FarmAI to SOPHIA
 
@@ -47,7 +59,7 @@ Our development work uses **[ToolUniverse](https://github.com/mims-harvard/ToolU
 
 Use **[Let's talk on the SOPHIA website](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners)** to select your areas of interest and prepare an email, or contact **[Enrico Giuliano](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20collaboration)** directly.
 
-Tell us about your expertise, the question you would like to explore and a realistic first contribution. See the [collaboration brief](COLLABORATION.md) for possible starting points.
+Tell us about your expertise, the question you would like to explore and a realistic first contribution. You can also comment on an opportunity above or help refine the [pilot protocol](pilot/README.md).
 
 ## Project status
 

@@ -3,6 +3,16 @@
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.
 
+## Opportunities open now
+
+| Workstream | Bounded first deliverable | Join |
+| --- | --- | --- |
+| Medicine identity and RCP/FI reading | A fixture specification for at least three different medicines/formulations, with missing-document and ambiguity cases. | [Issue #2](https://github.com/EG2025-lab/sophia-pharmacy/issues/2) |
+| Legislative references and versions | Six official-source cases with expected facts, dates and clarification conditions. | [Issue #3](https://github.com/EG2025-lab/sophia-pharmacy/issues/3) |
+| Evaluation with professional review | Review the 20-question proposal, source-bound oracle and reviewer rubric before execution. | [Issue #4](https://github.com/EG2025-lab/sophia-pharmacy/issues/4) |
+
+See the [20-question pilot protocol](pilot/README.md), [candidate questions](pilot/questions.csv) and [blank review form](pilot/review-template.csv). Contributors can start with one case family. Initial protocol and fixture work can be done without paid model calls.
+
 ## 1. Reliable retrieval of official medicines documents
 
 **Question:** Can an AI workflow consistently identify the correct medicine and package and use both the SmPC/RCP and PIL/FI?
@@ -41,7 +51,7 @@ Possible work includes source adapters, retrieval orchestration, observable fail
 4. Record source versions, system versions, outcomes and limitations.
 5. Review the results together and decide whether a larger collaboration is justified.
 
-This is an invitation to discuss a protocol. No evaluation dataset, benchmark result, institutional endorsement or clinical validation is claimed by this document.
+This is an invitation to agree a protocol. Candidate question templates are available, but their source bindings and reference answers still need to be frozen and reviewed. No executed benchmark, measured result, institutional endorsement or clinical validation is claimed.
 
 ## Contact
 

@@ -1,0 +1,45 @@
+{
+  "protocol_version": "0.1",
+  "status": "PROPOSED_NOT_FROZEN",
+  "case_id": "REPLACE_WITH_CASE_ID",
+  "frozen_question": null,
+  "freeze_timestamp_utc": null,
+  "reference_date": null,
+  "jurisdiction": null,
+  "medicine_package_aic_if_applicable": null,
+  "reviewer_role": "Pharmacist or relevant domain reviewer; appointment to be agreed",
+  "sources": [
+    {
+      "source_id": "REPLACE_WITH_SOURCE_ID",
+      "authority": null,
+      "url": null,
+      "document_type": null,
+      "revision_date": null,
+      "retrieved_at_utc": null,
+      "sha256": null,
+      "identity_binding": null,
+      "section_or_page": null,
+      "access_level": "NOT_CHECKED",
+      "reuse_permission_checked": false
+    }
+  ],
+  "information_needs": [
+    {
+      "need_id": "N01",
+      "description": null,
+      "expected_fact_or_clarification_or_abstention": null,
+      "supporting_source_ids": [],
+      "section_or_page": null,
+      "critical_if_wrong": null
+    }
+  ],
+  "contrary_case_expectation": null,
+  "held_out_variant_reference": null,
+  "critical_failure_conditions": [],
+  "predeclared_acceptance_rule": null,
+  "oracle_approved_before_run": false,
+  "oracle_approval_reference": null,
+  "system_version_under_test": null,
+  "run_status": "NOT_RUN",
+  "notes": "Blank template. Keep frozen reference answers separate from system input. Do not fill with patient data, credentials or unsupported clinical/legal claims."
+}
