@@ -29,7 +29,7 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 
 ## Stato e confini
 
-La beta corrente è **0.7.76**. Il confronto con le Actions FarmAI verifica 17 collegamenti tra schema e bridge e 13 casi di adattamento con fonti registrate o dati sintetici. La versione conserva il testo normativo ricevuto entro il limite della Action e distingue lettura completa, parziale e di completezza sconosciuta. I bridge e i lettori AIFA restano invariati. Passano 30 verifiche di contratto/adattatore, 1.130 test app offline e 100 scenari API con confini sintetici. Non sono state generate nuove risposte reali: utilità e equivalenza generale al GPT restano da valutare. Lo [stato aggiornato](docs/STATUS.md) e la [pagina di trasparenza](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) riportano evidenze e limiti.
+La0.7.77 è caricata nella beta con bridge0.7.46 e Clinical2.0.0-rc.69. Tre nuove prove reali76: una risposta completa nello scope e due FAIL di copertura. La77 corregge cause comuni di lettura dei documenti e ricerca; gli originali e i contrari sono verificati. CI finale:1138 test app,489 bridge,28 browser sintetico e100 replay API con confini simulati. Nessuna nuova domanda reale77 dopo le correzioni, nessuna validazione clinica umana o equivalenza generale al GPT. Tavily clinico resta HOLD; la popolazione adulta non è inferita da patients. Voti, stati delle case e gate della roadmap non avanzano automaticamente. [Stato ed evidenze](docs/STATUS.md).
 
 Questo repository contiene documentazione pubblica e opportunità di collaborazione; il codice dell'applicazione non è pubblicato qui. Non fornisce consigli riferiti a singoli pazienti e non dichiara certificazioni o prestazioni cliniche validate.
 
