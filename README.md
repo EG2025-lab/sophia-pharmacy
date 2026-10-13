@@ -67,7 +67,7 @@ Tell us about your expertise, the question you would like to explore and a reali
 
 ## Project status
 
-Current beta: **0.7.77**. Three new real76 questions:one scoped complete answer,two coverage FAILs.77 repairs common source-admission and search mechanisms;1138 app checks,489 bridge checks,28 synthetic browser checks and100 scripted-boundary API scenarios pass. Originals and opposing cases are checked separately. No real77 answer after repair,human clinical validation or general GPT parity. Tavily clinical remains HOLD;adult eligibility is not inferred from patients. Scores,house states and roadmap gates do not automatically advance. [Scope and history](docs/STATUS.md).
+Current beta: **0.7.77**. Three new real questions on 0.7.76 produced one complete answer within the reviewed scope and two coverage failures. Version 0.7.77 repairs common document-admission and search mechanisms. The final CI passes 1,138 app tests, 489 bridge tests, 28 synthetic browser checks and 100 API replay scenarios with simulated boundaries; recorded originals and opposing cases are checked separately. No new real answers were evaluated after these repairs. These checks do not establish clinical validation or general GPT parity. The clinical Tavily fallback remains on hold, and adult eligibility is not inferred from the word “patients”. Scores, house states and roadmap gates do not advance automatically. [Scope and history](docs/STATUS.md).
 
 **[Current status and evidence](docs/STATUS.md) · [Transparency and interactive architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)**
 
