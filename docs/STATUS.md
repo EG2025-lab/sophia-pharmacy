@@ -1,6 +1,14 @@
 # SOPHIA status and evaluation
 
-Reviewed 13 October 2026. Current restricted beta: **0.7.76**.
+Reviewed13October2026(UTC). Current beta: **0.7.77**. Three new real76 questions:one scoped complete answer,two coverage FAILs.77 repairs common source-admission and search mechanisms;1138 app checks,489 bridge checks,28 synthetic browser checks and100 scripted-boundary API scenarios pass. Originals and opposing cases are checked separately. No real77 answer after repair,human clinical validation or general GPT parity. Tavily clinical remains HOLD;adult eligibility is not inferred from patients. Scores,house states and roadmap gates do not automatically advance.
+
+Original product documents arrived but some headings,units and shared dosage declarations were rejected. Scientific SDK discovery was not invoked;institutional web recovery read eight pages without admitted evidence.77 preserves literal dose,form,route,operator,value and unit. A complete original abstract is only a qualified candidate;patients does not establish adult eligibility. Minimized general SDK discovery,personal-data checks and different web channels remain distinct.
+
+Technical tests use scripted external boundaries and do not measure model intelligence,accuracy or production speed. Real77 usefulness,eligibility,professional review and governance remain open. The20-question pilot is still a proposal. [Transparency](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) and [roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap) preserve prior results.
+
+## Historical status before the new76 battery
+
+Reviewed 13 October 2026. Restricted beta at that review: **0.7.76**.
 
 The FarmAI Actions study compares the actual schemas, bridge contracts and SOPHIA's application adapters. Seventeen operation/path/contract mappings and 13 adapter checks passed on 76. The latter include a recorded AIFA RCP/FI pair in both reading orders, recorded legislative passages, native tool-result continuation checks and synthetic contrary/length/completeness cases. The study does not execute the FarmAI GPT or reproduce ChatGPT's private orchestration.
 
