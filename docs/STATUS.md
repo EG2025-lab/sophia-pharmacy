@@ -1,5 +1,25 @@
 # SOPHIA status and evaluation
 
+Reviewed 13 October 2026. Current restricted beta: **0.7.75**.
+
+Three real 0.7.74 submissions used one medicines, one legislative and one clinical question, adapted from three families of the synthetic 100-case suite to real official sources. The protocol was fixed before execution. All three answers remain in the owner's history; the first was recovered from the existing saved request without another inference.
+
+|Area|Observed coverage on 74|
+|---|---|
+|Medicines: SmPC/PIL storage of a prefilled insulin pen|Incomplete: exact package identified, original documents obtained but passages rejected by identity admission.|
+|Legislation: current provision, cross-references and exceptions|Scoped documentary pass: validity, retention, package exceptions and partial delivery distinguished.|
+|Clinical: exercise versus inactive control for insomnia|Incomplete: unrelated interventions retrieved; requested effects not established.|
+
+The two incomplete answers disclose their limits rather than invent target facts. These three observations do not establish general accuracy or independent clinical/legal validation. Their completion times were about 61,94 and 117 seconds, not a latency benchmark. A 100/100 synthetic technical result had not predicted real coverage.
+
+Version 75 distinguishes product-labelled U/unità from international UI/IU, binds the original named container independently in SmPC/PIL and retains shared source conditions. Scientific discovery preserves the requested intervention; comparator broadening is discovery-only. Complete comparative abstracts may reach semantic review as explicitly unverified candidates. No prewritten answer or medicine-code exception was added. Legislative and official medicines extraction components are preserved.
+
+Validation is offline:1123 application contracts, original 89-pagePDF admission with separate SmPC/PIL binding and contrary unit/concentration cases, generalized positive/negative families, and 100 complete synthetic-boundary API replays on the final 75 inventory. Initial staging attempts and regressions remain recorded. No paid model question was repeated after fixes, as requested: the real answers of 75 remain to be evaluated.
+
+All 16 qualitative scores and house states remain unchanged. The [transparency review](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) and [roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap) preserve prior results and prioritize independent professional review before wider rollout.
+
+## Historical status:0.7.74
+
 Reviewed on 13 October 2026. Current restricted beta: **0.7.74**.
 
 This release repairs asynchronous navigation across feedback, requests, privacy, signatures and shared reviews. Pages immediately show their destination and loading state; failures offer retry in the same area. Stale results cannot repaint another page or account. Personal privacy controls do not wait for the administrative queue.
