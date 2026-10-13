@@ -1,0 +1,28 @@
+name: Improve documentation / Migliora la documentazione
+description: Report a broken link, unclear explanation or public-source metadata gap.
+title: "[Documentation]: "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        You can write in Italian or English. Use this form for the public repository documentation. For a private beta conversation or a security concern, contact Enrico privately through the website. Never paste patient data, credentials or private transcripts.
+  - type: input
+    id: location
+    attributes:
+      label: Page or file / Pagina o file
+      description: Include the public URL or repository path.
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What is unclear or incorrect? / Qual è il problema?
+      description: Describe the observation and the expected improvement. If relevant, include a public official source and date.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested change / Modifica proposta
+      description: Optional small, reviewable correction. Separate verified facts from suggestions.

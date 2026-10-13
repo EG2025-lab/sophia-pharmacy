@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General questions / Domande generali
+    url: https://github.com/EG2025-lab/sophia-pharmacy/discussions
+    about: Discuss the project and the proposed pilot in English or Italian.
+  - name: Private contact / Contatto riservato
+    url: https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners
+    about: Contact Enrico privately; never post patient data, credentials or confidential information.
