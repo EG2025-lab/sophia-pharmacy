@@ -63,7 +63,9 @@ Tell us about your expertise, the question you would like to explore and a reali
 
 ## Project status
 
-Current restricted beta 0.7.72 adds question-wide planning and bounded source recovery, verified offline. Live answer quality remains to be evaluated. [Current status and limits](docs/STATUS.md) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html).
+Current beta: **0.7.73**. Public release labels are consistent; version72 engines are preserved. No new real model answers have been evaluated. [Current scope and history](docs/STATUS.md).
+
+Restricted beta 0.7.73 preserves the question-wide planning and bounded source recovery introduced in 0.7.72 and verified offline. Live answer quality remains to be evaluated. [Current status and limits](docs/STATUS.md) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html).
 
 **[Current status and evidence](docs/STATUS.md) · [Transparency and interactive architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)**
 

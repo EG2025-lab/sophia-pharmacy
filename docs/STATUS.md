@@ -1,6 +1,16 @@
 # SOPHIA status and evaluation
 
-Reviewed on 13 October2026. Current restricted beta: 0.7.72.
+Reviewed on 13 October 2026. Current restricted beta: **0.7.73**.
+
+This release aligns the app version shown on Security and compliance, Privacy and Terms with the running app. Release labels use one current reference; policy dates, component versions, archived responses and historical tests retain their own identities. Seven HTTP regressions include a future release and legacy static URLs. The application suite passes 1,117 offline checks with network access denied.
+
+The question-wide research workflow and all engines/bridges are unchanged from 0.7.72. No new real model answer was evaluated and no model API credit was used. This presentation and release-control fix does not improve or validate clinical accuracy, utility, response timing or overall regulatory compliance.
+
+The [public transparency page](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) remains the canonical source for scores and both architecture houses. The 16 scores, house states and professional/governance gates are unchanged. The [roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap) identifies the current beta without replacing historical results.
+
+## Historical status: 0.7.72
+
+Reviewed on 13 October2026. Restricted beta at that review: 0.7.72.
 
 The new version adds an internal plan for the pharmacist’s whole question, separates the relevant source domains, and checks which requested points are answered, partial or unresolved. Useful missing information can trigger bounded further reading/search through the existing permitted tools. Planning does not create evidence, grant access or certify completeness.
 
