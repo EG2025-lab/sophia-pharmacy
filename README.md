@@ -63,7 +63,7 @@ Tell us about your expertise, the question you would like to explore and a reali
 
 ## Project status
 
-Current beta: **0.7.75**. Three real questions on0.7.74 found one scoped documentary pass (legislation) and two coverage failures (medicines and clinical research), with limits disclosed. The successor repairs common identity/discovery causes and passes100offline application scenarios with synthetic boundaries, plus original-source and contrary checks. No real model runs were repeated after repairs; real75answer usefulness is still unmeasured. [Current scope and preserved history](docs/STATUS.md).
+Current beta: **0.7.75**. Three real questions on0.7.74 found one scoped documentary pass (legislation) and two coverage failures (medicines and clinical research), with limits disclosed. The successor repairs common identity/discovery causes and passes 100 offline application scenarios with synthetic boundaries, plus original-source and contrary checks. No real model runs were repeated after repairs; real 75 answer usefulness is still unmeasured. [Current scope and preserved history](docs/STATUS.md).
 
 **[Current status and evidence](docs/STATUS.md) · [Transparency and interactive architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)**
 
