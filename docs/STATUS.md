@@ -1,6 +1,16 @@
 # SOPHIA status and evaluation
 
-Reviewed on 13 October 2026. Current restricted beta: **0.7.73**.
+Reviewed on 13 October 2026. Current restricted beta: **0.7.74**.
+
+This release repairs asynchronous navigation across feedback, requests, privacy, signatures and shared reviews. Pages immediately show their destination and loading state; failures offer retry in the same area. Stale results cannot repaint another page or account. Personal privacy controls do not wait for the administrative queue.
+
+Technical scope: 1,117 existing offline application checks, 10 network-denied loader regressions and synthetic browser scenarios with delays, failures and rapid navigation across desktop/mobile/reduced motion. The server, engines, source readers, storage, model/provider and permissions are preserved. No new real model answer has been evaluated.
+
+The [public transparency page](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) remains canonical for scores and both houses. All 16 scores and room states are unchanged. This navigation fix does not validate clinical accuracy, utility, reasoning latency or overall regulatory compliance.
+
+## Historical status: 0.7.73
+
+Reviewed on 13 October 2026. Restricted beta at that review: **0.7.73**.
 
 This release aligns the app version shown on Security and compliance, Privacy and Terms with the running app. Release labels use one current reference; policy dates, component versions, archived responses and historical tests retain their own identities. Seven HTTP regressions include a future release and legacy static URLs. The application suite passes 1,117 offline checks with network access denied.
 
@@ -10,7 +20,7 @@ The [public transparency page](https://sophia-pharmacy.enricogiuliano.chatgpt.si
 
 ## Historical status: 0.7.72
 
-Reviewed on 13 October2026. Restricted beta at that review: 0.7.72.
+Reviewed on 13 October 2026. Restricted beta at that review: 0.7.72.
 
 The new version adds an internal plan for the pharmacist’s whole question, separates the relevant source domains, and checks which requested points are answered, partial or unresolved. Useful missing information can trigger bounded further reading/search through the existing permitted tools. Planning does not create evidence, grant access or certify completeness.
 
