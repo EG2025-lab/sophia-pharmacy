@@ -63,6 +63,8 @@ Tell us about your expertise, the question you would like to explore and a reali
 
 ## Project status
 
+**[Current status and evidence](docs/STATUS.md) · [Transparency and interactive architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)**
+
 This repository is a **public project overview and collaboration space**. It contains documentation, not the application source code.
 
 SOPHIA is in development. Regulatory assessment and clinical validation are ongoing work, not completed certifications. This repository provides no patient-specific advice and no guarantee of product availability or clinical performance.
