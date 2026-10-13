@@ -1,3 +1,23 @@
+# SOPHIA status and evaluation
+
+Reviewed on 13 October2026. Current restricted beta: 0.7.72.
+
+The new version adds an internal plan for the pharmacist’s whole question, separates the relevant source domains, and checks which requested points are answered, partial or unresolved. Useful missing information can trigger bounded further reading/search through the existing permitted tools. Planning does not create evidence, grant access or certify completeness.
+
+Technical evidence includes 1110 offline application checks, with 19 new workflow tests and synthetic integrated medicine-document, legal and clinical paths. Official medicine documents retain separate SmPC and leaflet identity/hash bindings; clinical scope and source-state checks and finalization remain in place. The current source CI and deployed-version record are maintained in the private development repository.
+
+No new live-model replay has been run on 0.7.72 at the owner’s request. The earlier three live questions on 0.7.70 did not achieve requested coverage. Their shared admission/retrieval causes were corrected in0.7.71 and are preserved. Offline checks are not proof of answer usefulness, average latency/cost, independent benchmarking or human clinical validation. The project is not yet ready for broad pharmacy rollout.
+
+All 16 qualitative maturity scores remain unchanged after this technical update. The public website is the canonical source for current scores, evidence, roadmap and the two architectural houses:
+
+- [Status, evidence and architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
+- [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html)
+- [Collaboration options](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners)
+
+Next gate: independently review new representative and contrary questions across medicines documentation, pharmaceutical legislation and clinical evidence, including mixed questions; measure completeness, errors, timing and cost with a predeclared protocol. Privacy/governance and isolated restore gates remain open. The 20-question pilot is a proposal, not a completed evaluation or a partnership commitment.
+
+## Historical status preserved
+
 # Development status and transparency
 Reviewed:13 October 2026 · restricted beta 0.7.71.
 
