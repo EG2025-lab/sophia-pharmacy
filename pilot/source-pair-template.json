@@ -1,0 +1,38 @@
+{
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "case_id": null,
+  "medicine_identity": {
+    "name": null,
+    "strength_as_labelled": null,
+    "pharmaceutical_form": null,
+    "package_description": null,
+    "aic": null,
+    "official_product_url": null
+  },
+  "documents": [
+    {
+      "type": "RCP",
+      "official_url": null,
+      "retrieved_on": null,
+      "revision_as_printed": null,
+      "revision_unknown_reason": null,
+      "sha256_if_lawfully_downloaded": null,
+      "identity_binding_notes": null,
+      "access_or_reuse_limitations": null
+    },
+    {
+      "type": "FI",
+      "official_url": null,
+      "retrieved_on": null,
+      "revision_as_printed": null,
+      "revision_unknown_reason": null,
+      "sha256_if_lawfully_downloaded": null,
+      "identity_binding_notes": null,
+      "access_or_reuse_limitations": null
+    }
+  ],
+  "related_ambiguity_or_contrary_case": null,
+  "uncertainties": [],
+  "professional_review": "NOT_REVIEWED",
+  "notes": "Metadata proposal only. No clinical answer, copied passages, patient data or document redistribution. Null means unknown or not yet provided."
+}
