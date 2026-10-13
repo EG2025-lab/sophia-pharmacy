@@ -8,6 +8,12 @@ Technical scope: 1,117 existing offline application checks, 10 network-denied lo
 
 The [public transparency page](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) remains canonical for scores and both houses. All 16 scores and room states are unchanged. This navigation fix does not validate clinical accuracy, utility, reasoning latency or overall regulatory compliance.
 
+## Offline API regression battery — 13 October 2026
+
+100 synthetic API scenarios cover four equally sized families: AIFA, Italian pharmaceutical legislation, clinical evidence, and mixed/safety/failure handling. The second run meets all 100 expected technical outcomes: 76 saved answers, 18 expected refusals and six input/access blocks. Nineteen saved answers retain partial or unresolved points. The initial 99/100 result remains recorded; the scripted writer was improved to respond to an oversized-claim rejection without changing the app or the oracles.
+
+The real application path is exercised in process, with the model, source transport, authentication, storage backend and remote queue simulated. No paid model calls or unexpected network attempts occurred. These are not 100 real model answers, an accuracy benchmark, a cloud/PDF-reader test or clinical validation. Scores and house states remain unchanged. See the [public transparency review](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
 ## Historical status: 0.7.73
 
 Reviewed on 13 October 2026. Restricted beta at that review: **0.7.73**.
