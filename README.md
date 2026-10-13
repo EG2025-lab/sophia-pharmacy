@@ -63,6 +63,8 @@ Tell us about your expertise, the question you would like to explore and a reali
 
 ## Project status
 
+Current restricted beta 0.7.72 adds question-wide planning and bounded source recovery, verified offline. Live answer quality remains to be evaluated. [Current status and limits](docs/STATUS.md) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html).
+
 **[Current status and evidence](docs/STATUS.md) · [Transparency and interactive architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)**
 
 This repository is a **public project overview and collaboration space**. It contains documentation, not the application source code.
