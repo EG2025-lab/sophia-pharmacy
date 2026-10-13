@@ -29,7 +29,7 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 
 ## Stato e confini
 
-SOPHIA è in sviluppo, con una beta ad accesso riservato. Le prove tecniche, l'utilità delle risposte e la validazione clinica sono aspetti distinti: i progressi e i limiti sono riportati nello [stato aggiornato](docs/STATUS.md) e nella [pagina di trasparenza](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+La beta corrente è **0.7.76**. Il confronto con le Actions FarmAI verifica 17 collegamenti tra schema e bridge e 13 casi di adattamento con fonti registrate o dati sintetici. La versione conserva il testo normativo ricevuto entro il limite della Action e distingue lettura completa, parziale e di completezza sconosciuta. I bridge e i lettori AIFA restano invariati. Passano 30 verifiche di contratto/adattatore, 1.130 test app offline e 100 scenari API con confini sintetici. Non sono state generate nuove risposte reali: utilità e equivalenza generale al GPT restano da valutare. Lo [stato aggiornato](docs/STATUS.md) e la [pagina di trasparenza](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) riportano evidenze e limiti.
 
 Questo repository contiene documentazione pubblica e opportunità di collaborazione; il codice dell'applicazione non è pubblicato qui. Non fornisce consigli riferiti a singoli pazienti e non dichiara certificazioni o prestazioni cliniche validate.
 

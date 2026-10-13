@@ -1,6 +1,20 @@
 # SOPHIA status and evaluation
 
-Reviewed 13 October 2026. Current restricted beta: **0.7.75**.
+Reviewed 13 October 2026. Current restricted beta: **0.7.76**.
+
+The FarmAI Actions study compares the actual schemas, bridge contracts and SOPHIA's application adapters. Seventeen operation/path/contract mappings and 13 adapter checks passed on 76. The latter include a recorded AIFA RCP/FI pair in both reading orders, recorded legislative passages, native tool-result continuation checks and synthetic contrary/length/completeness cases. The study does not execute the FarmAI GPT or reproduce ChatGPT's private orchestration.
+
+Two adapter differences were reproduced on 75 and corrected on 76. SOPHIA had cropped legislative text to 24,000 characters although the Action permits 42,000; it also rejected text labelled incomplete instead of retaining the readable portion with a limitation. The new adapter forwards text unchanged within the Action cap, retains source length/hash provenance and distinguishes complete, partial and unknown completeness. Oversized/malformed text and wrong article/version/fallback envelopes still fail explicitly. Partial or unknown text cannot establish integral reading or receive the complete-source quotation privilege. Application model-context budgets remain unchanged; real timing and token cost for longer articles have not been measured.
+
+The 1,130 offline app tests, 100 complete synthetic-boundary API scenarios and exact-source GitHub checks pass. All existing bridges, AIFA extraction and identity readers, knowledge, privacy gate, model settings and web UI remain byte-identical to 75 in their protected scope. The normative application adapter and its authenticated source-text size cap are the behavioral changes.
+
+No new paid model question or real answer was generated after these repairs. The three real 74 results below remain historical observations: one scoped legislative documentary pass and two coverage failures. Technical parity in this narrow contract scope does not establish equivalent spontaneous tool selection, general accuracy, legal or clinical validation, answer usefulness or readiness for broad rollout.
+
+All 16 qualitative scores and house states remain unchanged. The [transparency review](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) and [roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap) now describe the 76 contract repair. Independent representative cases, professional review, timing/cost measurement and governance remain the next gates. The 20-question public pilot is still a proposal.
+
+## Historical status: 0.7.75
+
+Reviewed 13 October 2026. Restricted beta at that review: **0.7.75**.
 
 Three real 0.7.74 submissions used one medicines, one legislative and one clinical question, adapted from three families of the synthetic 100-case suite to real official sources. The protocol was fixed before execution. All three answers remain in the owner's history; the first was recovered from the existing saved request without another inference.
 
