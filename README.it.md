@@ -1,6 +1,6 @@
 # SOPHIA
 
-Tre nuove prove reali sulla beta **0.7.80**: AIFA consegna una risposta utile ma incompleta nel confronto RCP/FI; normativa consegna una risposta coerente con l’articolo89, con un limite interpretativo dichiarato; clinica consegna un gap senza abstract o testi clinici letti, pur avendo individuato metadata pertinenti. Tutte e tre le chat sono salvate. Tempi110,2/43,9/62,3secondi; nessun confronto controllato di latenza o accuratezza. Nessun quesito ripetuto, nessuna validazione clinica umana. La candidata **0.7.81 è diagnostica, NO-GO e non pubblicata**: non corregge questi difetti. Voti e gate invariati. [Status and limits](docs/STATUS.md).
+Tre nuove prove reali sulla beta **0.7.80**: AIFA consegna una risposta utile ma incompleta nel confronto RCP/FI; normativa consegna una risposta coerente con l’articolo 89, con un limite interpretativo dichiarato; clinica consegna un gap senza abstract o testi clinici letti, pur avendo individuato metadata pertinenti. Tutte e tre le chat sono salvate. Tempi: 110,2 / 43,9 / 62,3 secondi; nessun confronto controllato di latenza o accuratezza. Nessun quesito ripetuto, nessuna validazione clinica umana. La candidata **0.7.81 è diagnostica, NO-GO e non pubblicata**: non corregge questi difetti. Voti e gate invariati. [Status and limits](docs/STATUS.md).
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
