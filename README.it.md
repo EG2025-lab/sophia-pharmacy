@@ -6,6 +6,8 @@ Tre nuove prove reali sulla beta **0.7.80**: AIFA consegna una risposta utile ma
 
 SOPHIA è un progetto indipendente di **Enrico Giuliano, farmacista e Founder & Product Lead**. Partiamo da FarmAI, il nostro GPT custom, per sviluppare un'applicazione proprietaria che colleghi documentazione ufficiale dei medicinali, legislazione farmaceutica italiana, ricerca clinica e linee guida.
 
+[Raccontaci i tuoi bisogni professionali](docs/PROFESSIONAL_NEEDS_RESEARCH.md): farmacisti, farmacie e network possono compilare un sondaggio facoltativo dal sito; sviluppatori ed esperti AI mantengono un percorso dedicato alle collaborazioni. Sondaggio e iscrizione alla lista d’attesa sono scelte separate.
+
 Vogliamo ridurre il carico informativo del farmacista, aiutare a ridurre gli errori e migliorare il servizio in farmacia. Sono obiettivi di sviluppo: il loro impatto deve ancora essere misurato.
 
 **[Sito SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Stato e architettura](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap) · [English](README.md)**
