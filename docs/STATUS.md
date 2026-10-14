@@ -1,5 +1,13 @@
 # SOPHIA status and evaluation
 
+Reviewed 14 October 2026 (UTC). Current restricted beta: **0.7.78**. It corrects professional information false blocks, preserves native current-turn context and uses concise instructions for interpretation, comparison and qualified inference from cited premises. The final source passes 1,152 app tests, 497 bridge tests, 28 synthetic browser checks and 100 API scenarios with simulated boundaries. No new real questions were submitted after repairs; usefulness, latency and cost remain unmeasured, with no human clinical validation. The three real version 76 results remain one complete within the reviewed scope and two incomplete. Scores and roadmap gates are unchanged.
+
+Identifiers and individual decisions remain separate from general professional information. Encrypted reasoning is retained only in the current request and does not enter chat history or public receipts. The model and effort are unchanged. Technical transport tests do not prove improved model reasoning or clinical usefulness. Clinical registry eligibility, limited web recovery and governance remain open; the 20-question pilot is still a proposal.
+
+[Transparency](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap).
+
+## Historical status of version 77
+
 Reviewed13October2026(UTC). Current beta: **0.7.77**. Three new real76 questions:one scoped complete answer,two coverage FAILs.77 repairs common source-admission and search mechanisms;1138 app checks,489 bridge checks,28 synthetic browser checks and100 scripted-boundary API scenarios pass. Originals and opposing cases are checked separately. No real77 answer after repair,human clinical validation or general GPT parity. Tavily clinical remains HOLD;adult eligibility is not inferred from patients. Scores,house states and roadmap gates do not automatically advance.
 
 Original product documents arrived but some headings,units and shared dosage declarations were rejected. Scientific SDK discovery was not invoked;institutional web recovery read eight pages without admitted evidence.77 preserves literal dose,form,route,operator,value and unit. A complete original abstract is only a qualified candidate;patients does not establish adult eligibility. Minimized general SDK discovery,personal-data checks and different web channels remain distinct.
