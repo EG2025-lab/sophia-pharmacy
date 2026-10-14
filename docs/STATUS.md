@@ -1,5 +1,13 @@
 # SOPHIA status and evaluation
 
+Reviewed14October2026. Three new live questions on beta **0.7.80**: AIFA delivers useful content but an incomplete SmPC/PIL comparison; legislation delivers an article89-consistent answer with a declared interpretation limit; clinical research delivers a gap without clinical abstract/full-text reading despite relevant metadata discovery. All three chats are saved. Times110.2/43.9/62.3seconds; no controlled latency or accuracy comparison. No question repeated or human clinical validation. **Candidate0.7.81 is diagnostic, NO-GO and not deployed**; it does not repair these defects. Scores and gates unchanged.
+
+Both exact AIFA originals were acquired; an authored section-number/title inconsistency excluded relevant leaflet instructions, reproduced offline. A relevant scientific publication was found through the SDK but did not reach clinical reading. These are internal selection/handoff observations, not evidence that official APIs or ToolUniverse cannot access the documents. The exact clinical filter remains to be isolated. No claim of general reliability or regulatory/clinical validation.
+
+[Transparency](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap).
+
+## Historical pre-live80 status
+
 Reviewed 14 October2026. Restricted beta **0.7.80**.
 
 Generic customer/population phrases and explicit exclusions of individual advice no longer trigger the demonstrated language false blocks. Planning is optional; a precise limitation can appear in the answer itself. A malformed optional suggestion can be omitted without losing the main answer. Personal content still cannot enter through an omitted suggestion.

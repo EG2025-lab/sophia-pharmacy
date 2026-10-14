@@ -1,6 +1,8 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
+Three new live questions on beta **0.7.80**: AIFA delivers useful content but an incomplete SmPC/PIL comparison; legislation delivers an article89-consistent answer with a declared interpretation limit; clinical research delivers a gap without clinical abstract/full-text reading despite relevant metadata discovery. All three chats are saved. Times110.2/43.9/62.3seconds; no controlled latency or accuracy comparison. No question repeated or human clinical validation. **Candidate0.7.81 is diagnostic, NO-GO and not deployed**; it does not repair these defects. Scores and gates unchanged. [Status and limits](docs/STATUS.md).
+
 **Less information fragmentation. More room for the pharmacist's work.**
 
 SOPHIA is an independent project founded by **Enrico Giuliano, pharmacist and Founder & Product Lead**, in Italy. We are developing an AI application that brings official medicines documentation, Italian pharmaceutical legislation, clinical research and guidelines into a single professional conversation.
