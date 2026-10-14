@@ -1,5 +1,19 @@
 # SOPHIA status and evaluation
 
+Reviewed 14 October2026. Restricted beta **0.7.80**.
+
+Generic customer/population phrases and explicit exclusions of individual advice no longer trigger the demonstrated language false blocks. Planning is optional; a precise limitation can appear in the answer itself. A malformed optional suggestion can be omitted without losing the main answer. Personal content still cannot enter through an omitted suggestion.
+
+After repeated repairs, the workflow prioritises delivery of supported points with honest gaps. It can retain only an entire answer already checked in an unchanged evidence context; rejected fragments, mandatory pending acquisition, cancellation or deadline cannot bypass the checks. Source identity, separate SmPC/PIL, literal citations and semantic support remain required. Clinical Tavily remains on hold.
+
+Technical evidence: **1,169 app tests,510 bridge tests,17 monitor checks and100 complete synthetic-boundary API replays**, plus source/bridge, public SDK and CI checks. Network is denied during offline regressions; no new paid model questions were run. The first unsuccessful replay and contrary regressions were retained, their causes corrected without changing the100 question stimuli or expected outcomes. These are not100 real validated answers, an accuracy benchmark, a live speed measurement or clinical validation.
+
+The normative78 failure is located in internal binding/structure checks before semantic review, rather than a demonstrated absence of legal sources. The exact lost field is unknown.80 adds specific error diagnostics and proportionate contracts; successful live80 resolution remains to be tested. The clinical78 deadline and the scoped AIFA78 success retain their own results. Complete failed-turn history, professional evaluation and governance remain open.
+
+All16 scores and roadmap gates remain unchanged. The website remains canonical for [transparency and houses](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) and [roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap). Candidate79 was never deployed and is incorporated into80. No university partnership, clinical validation or overall compliance is claimed.
+
+## Historical status:0.7.78
+
 Reviewed 14 October 2026 (UTC). Three new live workflows on **0.7.78**: AIFA delivers a useful answer complete within the reviewed scope; the normative workflow ends in a verification refusal without an answer; clinical retrieval reaches its deadline without an answer. An additional clinical input was rejected before inference by a language false block. No completed test repeated; no independent clinical validation or causal proof of improvement. **Candidate 0.7.79 is NO-GO and is not deployed**. Scores and roadmap gates are unchanged.
 
 The complete AIFA response is a saved chat. Failed workflows retain their state in the private request registry without a complete chat transcript; long-term failed-turn retention is still open. A single useful answer does not establish reliable performance across three areas. Times in these selected conditions: AIFA 79.7 seconds, normative failure 56.3 seconds, clinical deadline 240.1 seconds. No matched-version latency benchmark.
