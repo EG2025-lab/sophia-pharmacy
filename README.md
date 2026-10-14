@@ -1,7 +1,10 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-Three new live questions on beta **0.7.80**: AIFA delivers useful content but an incomplete SmPC/PIL comparison; legislation delivers an article 89-consistent answer with a declared interpretation limit; clinical research delivers a gap without clinical abstract/full-text reading despite relevant metadata discovery. All three chats are saved. Times: 110.2 / 43.9 / 62.3 seconds; no controlled latency or accuracy comparison. No question repeated or human clinical validation. **Candidate 0.7.81 is diagnostic, NO-GO and not deployed**; it does not repair these defects. Scores and gates unchanged. [Status and limits](docs/STATUS.md).
+
+Restricted beta **0.7.81 is deployed as a diagnostic update** at the owner’s request. It keeps the engine behaviour of0.7.80; AIFA leaflet-selection and clinical reading-handoff defects remain open. The official Ministry XLS copy was reacquired with identical bytes and a new dated access receipt, without a claim of overall legal currentness. Exact-source CI, fresh builds, deployment readbacks and100 API replays with scripted model/source boundaries passed. **No new model question was run on81.** Latest live outcomes remain on80; general professional rollout remains NO-GO. Scores, house states and rollout gates are unchanged.
+
+Three new live questions on beta **0.7.80**: AIFA delivers useful content but an incomplete SmPC/PIL comparison; legislation delivers an article 89-consistent answer with a declared interpretation limit; clinical research delivers a gap without clinical abstract/full-text reading despite relevant metadata discovery. All three chats are saved. Times: 110.2 / 43.9 / 62.3 seconds; no controlled latency or accuracy comparison. No question repeated or human clinical validation. These live80 results remain historical; diagnostic beta81 does not repair the defects. Scores and gates unchanged. [Status and limits](docs/STATUS.md).
 
 **Less information fragmentation. More room for the pharmacist's work.**
 
@@ -69,7 +72,7 @@ Use **[Let's talk on the SOPHIA website](https://sophia-pharmacy.enricogiuliano.
 
 Tell us about your expertise, the question you would like to explore and a realistic first contribution. You can also comment on an opportunity above or help refine the [pilot protocol](pilot/README.md).
 
-## Project status
+## Historical project status of80
 
 Restricted beta **0.7.80** replaces proven excessive language and format gates, makes planning optional and preserves reviewed content when follow-up cannot finish safely. Technical checks use synthetic boundaries, with no new paid model questions. Source identity, privacy, evidence support and human review remain required. The three live78 outcomes remain historical; real usefulness and latency of80 are not yet measured. Scores and rollout gates are unchanged. [Status and scope](docs/STATUS.md).
 
