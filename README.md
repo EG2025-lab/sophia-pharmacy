@@ -67,7 +67,7 @@ Tell us about your expertise, the question you would like to explore and a reali
 
 ## Project status
 
-Current restricted beta: **0.7.78**. It corrects professional information false blocks, preserves native current-turn context and uses concise instructions for interpretation, comparison and qualified inference from cited premises. The final source passes 1,152 app tests, 497 bridge tests, 28 synthetic browser checks and 100 API scenarios with simulated boundaries. No new real questions were submitted after repairs; usefulness, latency and cost remain unmeasured, with no human clinical validation. The three real version 76 results remain one complete within the reviewed scope and two incomplete. Scores and roadmap gates are unchanged. [Scope and history](docs/STATUS.md).
+Three new live workflows on **0.7.78**: AIFA delivers a useful answer complete within the reviewed scope; the normative workflow ends in a verification refusal without an answer; clinical retrieval reaches its deadline without an answer. An additional clinical input was rejected before inference by a language false block. No completed test repeated; no independent clinical validation or causal proof of improvement. **Candidate 0.7.79 is NO-GO and is not deployed**. Scores and roadmap gates are unchanged. [Status and scope](docs/STATUS.md).
 
 **[Current status and evidence](docs/STATUS.md) · [Transparency and interactive architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)**
 

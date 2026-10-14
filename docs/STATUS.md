@@ -1,5 +1,13 @@
 # SOPHIA status and evaluation
 
+Reviewed 14 October 2026 (UTC). Three new live workflows on **0.7.78**: AIFA delivers a useful answer complete within the reviewed scope; the normative workflow ends in a verification refusal without an answer; clinical retrieval reaches its deadline without an answer. An additional clinical input was rejected before inference by a language false block. No completed test repeated; no independent clinical validation or causal proof of improvement. **Candidate 0.7.79 is NO-GO and is not deployed**. Scores and roadmap gates are unchanged.
+
+The complete AIFA response is a saved chat. Failed workflows retain their state in the private request registry without a complete chat transcript; long-term failed-turn retention is still open. A single useful answer does not establish reliable performance across three areas. Times in these selected conditions: AIFA 79.7 seconds, normative failure 56.3 seconds, clinical deadline 240.1 seconds. No matched-version latency benchmark.
+
+[Transparency](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap).
+
+## Previous reviewed snapshots
+
 Reviewed 14 October 2026 (UTC). Current restricted beta: **0.7.78**. It corrects professional information false blocks, preserves native current-turn context and uses concise instructions for interpretation, comparison and qualified inference from cited premises. The final source passes 1,152 app tests, 497 bridge tests, 28 synthetic browser checks and 100 API scenarios with simulated boundaries. No new real questions were submitted after repairs; usefulness, latency and cost remain unmeasured, with no human clinical validation. The three real version 76 results remain one complete within the reviewed scope and two incomplete. Scores and roadmap gates are unchanged.
 
 Identifiers and individual decisions remain separate from general professional information. Encrypted reasoning is retained only in the current request and does not enter chat history or public receipts. The model and effort are unchanged. Technical transport tests do not prove improved model reasoning or clinical usefulness. Clinical registry eligibility, limited web recovery and governance remain open; the 20-question pilot is still a proposal.
