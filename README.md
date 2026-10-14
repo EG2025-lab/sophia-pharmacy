@@ -76,3 +76,5 @@ This repository is a **public project overview and collaboration space**. It con
 SOPHIA is in development. Regulatory assessment and clinical validation are ongoing work, not completed certifications. This repository provides no patient-specific advice and no guarantee of product availability or clinical performance.
 
 Please keep patient data, credentials and confidential material out of public issues, discussions and contributions. The [website privacy notice](https://sophia-pharmacy.enricogiuliano.chatgpt.site/privacy.html) explains contact and waitlist handling.
+
+Operational supervision is maintained separately from the app. The [latest status review](docs/STATUS.md#operational-supervision-review--14-october2026) records version binding, alert deduplication and outstanding dated-source review without changing maturity scores.

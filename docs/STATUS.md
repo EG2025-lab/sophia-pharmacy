@@ -12,6 +12,16 @@ The normative78 failure is located in internal binding/structure checks before s
 
 All16 scores and roadmap gates remain unchanged. The website remains canonical for [transparency and houses](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) and [roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap). Candidate79 was never deployed and is incorporated into80. No university partnership, clinical validation or overall compliance is claimed.
 
+## Operational supervision review — 14 October2026
+
+The restricted app remains0.7.80. Its code, source readers and model settings were not changed by this maintenance. Operational monitor1.2.1 is deployed separately. Reports now identify the published source, manifest, component versions and active images; missing references cannot silently fall back to historical versions.
+
+One incident is retained across release changes. Traffic-serving revision failures are distinguished from historical counts. A failed health read produces a bounded retry and one root incident instead of invented downstream engine failures. Qualified-release integrity checks are separate from dated-source currentness; changed candidates retain their full release preflight. Browser CI runs once in its dedicated job.
+
+Evidence includes89 control regressions,77 monitor regressions,100 in-process API replays with the original scripted oracle and stimuli, and exact-source browser/image checks. No new paid model questions were executed. These results do not establish answer accuracy, clinical usefulness or clinical/legal validation. Scores and roadmap gates remain unchanged.
+
+A dated official-document copy has reached its internal review deadline and its reader reports blocked use; it requires renewed acquisition and review. This remains an actionable source warning. Technical recovery does not close user feedback or renew a document. Historical failed runs are preserved.
+
 ## Historical status:0.7.78
 
 Reviewed 14 October 2026 (UTC). Three new live workflows on **0.7.78**: AIFA delivers a useful answer complete within the reviewed scope; the normative workflow ends in a verification refusal without an answer; clinical retrieval reaches its deadline without an answer. An additional clinical input was rejected before inference by a language false block. No completed test repeated; no independent clinical validation or causal proof of improvement. **Candidate 0.7.79 is NO-GO and is not deployed**. Scores and roadmap gates are unchanged.
