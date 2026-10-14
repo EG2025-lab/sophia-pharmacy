@@ -1,6 +1,9 @@
 # SOPHIA
 
-Tre nuove prove reali sulla beta **0.7.80**: AIFA consegna una risposta utile ma incompleta nel confronto RCP/FI; normativa consegna una risposta coerente con l’articolo 89, con un limite interpretativo dichiarato; clinica consegna un gap senza abstract o testi clinici letti, pur avendo individuato metadata pertinenti. Tutte e tre le chat sono salvate. Tempi: 110,2 / 43,9 / 62,3 secondi; nessun confronto controllato di latenza o accuratezza. Nessun quesito ripetuto, nessuna validazione clinica umana. La candidata **0.7.81 è diagnostica, NO-GO e non pubblicata**: non corregge questi difetti. Voti e gate invariati. [Status and limits](docs/STATUS.md).
+La beta riservata **0.7.81 è pubblicata come aggiornamento diagnostico** su richiesta del titolare. Mantiene il comportamento del motore0.7.80; restano aperti i difetti di selezione del FI AIFA e di passaggio delle fonti cliniche alla lettura. La copia XLS ufficiale del Ministero è riacquisita con bytes identici e nuova ricevuta datata, senza attestazione di vigenza complessiva. CI del sorgente esatto, build fresche, readback e100 replay API con frontiere modello/fonti simulate superati. **Nessuna nuova domanda al modello sulla81.** Gli ultimi esiti reali restano della80; diffusione generale NO-GO. Voti, stati delle case e gate invariati.
+
+
+Tre nuove prove reali sulla beta **0.7.80**: AIFA consegna una risposta utile ma incompleta nel confronto RCP/FI; normativa consegna una risposta coerente con l’articolo 89, con un limite interpretativo dichiarato; clinica consegna un gap senza abstract o testi clinici letti, pur avendo individuato metadata pertinenti. Tutte e tre le chat sono salvate. Tempi: 110,2 / 43,9 / 62,3 secondi; nessun confronto controllato di latenza o accuratezza. Nessun quesito ripetuto, nessuna validazione clinica umana. Questi risultati reali80 restano storici; la beta diagnostica81 non corregge i difetti. Voti e gate invariati. [Status and limits](docs/STATUS.md).
 
 ### Un collega AI per la conoscenza professionale in farmacia
 

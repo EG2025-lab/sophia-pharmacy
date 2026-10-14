@@ -1,5 +1,9 @@
 # SOPHIA status and evaluation
 
+Reviewed14 October2026. Restricted beta **0.7.81 is deployed as a diagnostic update** at the owner’s request. It keeps the engine behaviour of0.7.80; AIFA leaflet-selection and clinical reading-handoff defects remain open. The official Ministry XLS copy was reacquired with identical bytes and a new dated access receipt, without a claim of overall legal currentness. Exact-source CI, fresh builds, deployment readbacks and100 API replays with scripted model/source boundaries passed. **No new model question was run on81.** Latest live outcomes remain on80; general professional rollout remains NO-GO. Scores, house states and rollout gates are unchanged.
+
+## Historical live80 assessment
+
 Reviewed 14 October 2026. Three new live questions on beta **0.7.80**: AIFA delivers useful content but an incomplete SmPC/PIL comparison; legislation delivers an article 89-consistent answer with a declared interpretation limit; clinical research delivers a gap without clinical abstract/full-text reading despite relevant metadata discovery. All three chats are saved. Times: 110.2 / 43.9 / 62.3 seconds; no controlled latency or accuracy comparison. No question repeated or human clinical validation. **Candidate 0.7.81 is diagnostic, NO-GO and not deployed**; it does not repair these defects. Scores and gates unchanged.
 
 Both exact AIFA originals were acquired; an authored section-number/title inconsistency excluded relevant leaflet instructions, reproduced offline. A relevant scientific publication was found through the SDK but did not reach clinical reading. These are internal selection/handoff observations, not evidence that official APIs or ToolUniverse cannot access the documents. The exact clinical filter remains to be isolated. No claim of general reliability or regulatory/clinical validation.
