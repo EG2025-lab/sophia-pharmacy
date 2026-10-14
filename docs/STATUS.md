@@ -22,6 +22,8 @@ Evidence includes89 control regressions,77 monitor regressions,100 in-process AP
 
 A dated official-document copy has reached its internal review deadline and its reader reports blocked use; it requires renewed acquisition and review. This remains an actionable source warning. Technical recovery does not close user feedback or renew a document. Historical failed runs are preserved.
 
+Operational follow-up:93 controller tests now cover the complete production step set and notification recovery. The complete ten-group runtime suite passed; notification resumed from that recent same-source proof and completed successfully. Six obsolete technical incidents were closed and one duplicate consolidated. One dated-source review warning remains; user feedback, maturity scores and roadmap gates are unchanged.
+
 ## Historical status:0.7.78
 
 Reviewed 14 October 2026 (UTC). Three new live workflows on **0.7.78**: AIFA delivers a useful answer complete within the reviewed scope; the normative workflow ends in a verification refusal without an answer; clinical retrieval reaches its deadline without an answer. An additional clinical input was rejected before inference by a language false block. No completed test repeated; no independent clinical validation or causal proof of improvement. **Candidate 0.7.79 is NO-GO and is not deployed**. Scores and roadmap gates are unchanged.
