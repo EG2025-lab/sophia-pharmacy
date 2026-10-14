@@ -29,7 +29,7 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 
 ## Stato e confini
 
-La beta corrente è **0.7.78**, con bridge 0.7.47 e Clinical Evidence 2.0.0-rc.70. Corregge falsi blocchi delle attività informative, conserva il contesto nativo del turno e usa istruzioni concise per interpretazione, confronto e inferenze qualificate dalle premesse citate. Passano 1.152 test app, 497 bridge, 28 browser sintetici e 100 replay API con confini simulati. Nessuna nuova domanda reale dopo le correzioni: utilità, latenza e costo restano da misurare; nessuna validazione clinica umana. I tre esiti reali 76 restano uno completo nel perimetro verificato e due incompleti. Punteggi e gate invariati. [Stato ed evidenze](docs/STATUS.md).
+Tre nuove prove reali sulla **0.7.78**: AIFA fornisce una risposta utile e completa nel perimetro verificato; normativa termina con un rifiuto di verifica senza risposta; clinica termina per timeout. Un input clinico aggiuntivo è stato respinto prima del modello per un falso blocco di linguaggio. Nessun test completato ripetuto; nessuna validazione clinica umana o prova di miglioramento causale. La candidata **0.7.79 è NO-GO e non è pubblicata**: corregge il falso blocco noto; gli altri difetti restano aperti. Voti e gate invariati. [Status and scope](docs/STATUS.md).
 
 Questo repository contiene documentazione pubblica e opportunità di collaborazione; il codice dell'applicazione non è pubblicato qui. Non fornisce consigli riferiti a singoli pazienti e non dichiara certificazioni o prestazioni cliniche validate.
 
