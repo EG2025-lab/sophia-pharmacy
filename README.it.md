@@ -36,3 +36,5 @@ Questo repository contiene documentazione pubblica e opportunità di collaborazi
 Nel lavoro di sviluppo utilizziamo [ToolUniverse](https://github.com/mims-harvard/ToolUniverse). Questo utilizzo non implica affiliazione, patrocinio o collaborazione confermata con Harvard o con gli autori.
 
 Non inserire dati di pazienti, credenziali o materiale riservato in issue, discussioni o contributi pubblici. [Informativa privacy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/privacy.html).
+
+La supervisione operativa è aggiornata separatamente dall’app. Il [riesame dello stato](docs/STATUS.md#operational-supervision-review--14-october2026) documenta riferimenti di versione, consolidamento degli avvisi e copia da riesaminare, senza aumentare i voti di maturità.
