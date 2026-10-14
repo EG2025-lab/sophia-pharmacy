@@ -11,6 +11,8 @@ Our aim is to reduce pharmacists' information burden, help reduce errors and imp
 
 **[Explore SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Collaboration brief](COLLABORATION.md) · [20-question pilot proposal](pilot/README.md) · [Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions)**
 
+[Share your professional needs](docs/PROFESSIONAL_NEEDS_RESEARCH.md): pharmacists, pharmacies and networks can complete an optional survey through the website; developers and AI experts retain a dedicated collaboration path. Research participation and waitlist subscription are separate choices.
+
 **[Leggi in italiano](README.it.md) · [Make a first contribution](CONTRIBUTING.md) · [Propose a collaboration](https://github.com/EG2025-lab/sophia-pharmacy/issues/new?template=collaboration.yml)**
 
 Developers and AI researchers can begin with public-source metadata, retrieval failure cases and evaluation design. Pharmacists can help define realistic tasks and review criteria. Start small: [prepare one official RCP/FI source pair](pilot/source-pair-template.json), without writing a clinical answer or calling a paid model.
