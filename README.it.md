@@ -1,9 +1,9 @@
 # SOPHIA
 
-La beta riservata **0.7.81 è pubblicata come aggiornamento diagnostico** su richiesta del titolare. Mantiene il comportamento del motore0.7.80; restano aperti i difetti di selezione del FI AIFA e di passaggio delle fonti cliniche alla lettura. La copia XLS ufficiale del Ministero è riacquisita con bytes identici e nuova ricevuta datata, senza attestazione di vigenza complessiva. CI del sorgente esatto, build fresche, readback e100 replay API con frontiere modello/fonti simulate superati. **Nessuna nuova domanda al modello sulla81.** Gli ultimi esiti reali restano della80; diffusione generale NO-GO. Voti, stati delle case e gate invariati.
+La beta riservata **0.7.82 è pubblicata con correzioni della lettura delle fonti**. Il FI riconosce il titolo regolatorio anche con numerazione incoerente, conservando testo e heading originali. I candidati del SDK scientifico passano alla lettura originale con identità esatta; gli abstract completi arrivano nei dati del modello con ambito esplicitamente non verificato. Budget di lettura invariato. Varianti, casi contrari, 100 replay API con frontiere sintetiche, CI del sorgente esatto, build fresche e readback superati. **Nessuna nuova domanda a pagamento al modello sulla82.** Utilità, latenza e qualità delle nuove risposte82 non sono misurate. Discordanze RCP/FI da rivedere professionalmente; diffusione generale NO-GO. Voti, stati delle case e gate invariati.
 
 
-Tre nuove prove reali sulla beta **0.7.80**: AIFA consegna una risposta utile ma incompleta nel confronto RCP/FI; normativa consegna una risposta coerente con l’articolo 89, con un limite interpretativo dichiarato; clinica consegna un gap senza abstract o testi clinici letti, pur avendo individuato metadata pertinenti. Tutte e tre le chat sono salvate. Tempi: 110,2 / 43,9 / 62,3 secondi; nessun confronto controllato di latenza o accuratezza. Nessun quesito ripetuto, nessuna validazione clinica umana. Questi risultati reali80 restano storici; la beta diagnostica81 non corregge i difetti. Voti e gate invariati. [Status and limits](docs/STATUS.md).
+Tre nuove prove reali sulla beta **0.7.80**: AIFA consegna una risposta utile ma incompleta nel confronto RCP/FI; normativa consegna una risposta coerente con l’articolo 89, con un limite interpretativo dichiarato; clinica consegna un gap senza abstract o testi clinici letti, pur avendo individuato metadata pertinenti. Tutte e tre le chat sono salvate. Tempi: 110,2 / 43,9 / 62,3 secondi; nessun confronto controllato di latenza o accuratezza. Nessun quesito ripetuto, nessuna validazione clinica umana. Questi risultati reali80 restano storici; la82 corregge le cause tecniche offline senza nuove risposte reali. Voti e gate invariati. [Status and limits](docs/STATUS.md).
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
@@ -35,6 +35,8 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 3. Per un contatto riservato, usa [Parliamone sul sito](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners) oppure [scrivi a Enrico](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20collaborazione).
 
 ## Stato e confini
+
+Beta corrente:0.7.82, come descritto sopra. Il paragrafo seguente conserva lo stato precedente alle prove reali80.
 
 La beta riservata **0.7.80** sostituisce falsi blocchi linguistici e vincoli di formato, rende facoltativo il piano e conserva informazioni già controllate quando l’approfondimento non può completarsi in sicurezza. Verifiche tecniche con confini sintetici, senza nuove domande al modello. Identità delle fonti, privacy, supporto delle affermazioni e giudizio umano restano necessari. Gli esiti reali78 restano storici; utilità e latenza della80 da misurare. Voti e gate invariati. [Stato e limiti](docs/STATUS.md).
 
