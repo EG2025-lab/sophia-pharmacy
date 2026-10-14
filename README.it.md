@@ -29,7 +29,7 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 
 ## Stato e confini
 
-Tre nuove prove reali sulla **0.7.78**: AIFA fornisce una risposta utile e completa nel perimetro verificato; normativa termina con un rifiuto di verifica senza risposta; clinica termina per timeout. Un input clinico aggiuntivo è stato respinto prima del modello per un falso blocco di linguaggio. Nessun test completato ripetuto; nessuna validazione clinica umana o prova di miglioramento causale. La candidata **0.7.79 è NO-GO e non è pubblicata**: corregge il falso blocco noto; gli altri difetti restano aperti. Voti e gate invariati. [Status and scope](docs/STATUS.md).
+La beta riservata **0.7.80** sostituisce falsi blocchi linguistici e vincoli di formato, rende facoltativo il piano e conserva informazioni già controllate quando l’approfondimento non può completarsi in sicurezza. Verifiche tecniche con confini sintetici, senza nuove domande al modello. Identità delle fonti, privacy, supporto delle affermazioni e giudizio umano restano necessari. Gli esiti reali78 restano storici; utilità e latenza della80 da misurare. Voti e gate invariati. [Stato e limiti](docs/STATUS.md).
 
 Questo repository contiene documentazione pubblica e opportunità di collaborazione; il codice dell'applicazione non è pubblicato qui. Non fornisce consigli riferiti a singoli pazienti e non dichiara certificazioni o prestazioni cliniche validate.
 

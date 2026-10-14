@@ -67,7 +67,7 @@ Tell us about your expertise, the question you would like to explore and a reali
 
 ## Project status
 
-Three new live workflows on **0.7.78**: AIFA delivers a useful answer complete within the reviewed scope; the normative workflow ends in a verification refusal without an answer; clinical retrieval reaches its deadline without an answer. An additional clinical input was rejected before inference by a language false block. No completed test repeated; no independent clinical validation or causal proof of improvement. **Candidate 0.7.79 is NO-GO and is not deployed**. Scores and roadmap gates are unchanged. [Status and scope](docs/STATUS.md).
+Restricted beta **0.7.80** replaces proven excessive language and format gates, makes planning optional and preserves reviewed content when follow-up cannot finish safely. Technical checks use synthetic boundaries, with no new paid model questions. Source identity, privacy, evidence support and human review remain required. The three live78 outcomes remain historical; real usefulness and latency of80 are not yet measured. Scores and rollout gates are unchanged. [Status and scope](docs/STATUS.md).
 
 **[Current status and evidence](docs/STATUS.md) · [Transparency and interactive architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Public roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)**
 
