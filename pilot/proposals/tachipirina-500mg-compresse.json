@@ -1,0 +1,38 @@
+{
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "case_id": null,
+  "medicine_identity": {
+    "name": "Tachipirina",
+    "strength_as_labelled": "500 mg",
+    "pharmaceutical_form": "compresse",
+    "package_description": "10 compresse",
+    "aic": "012745028",
+    "official_product_url": "https://bancadati.aifa.gov.it/bancadatifarmaci/farmaco?aic=012745028"
+  },
+  "documents": [
+    {
+      "type": "RCP",
+      "official_url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/organizzazione/219/farmaci/12745/stampati?ts=RCP",
+      "retrieved_on": "2026-10-14",
+      "revision_as_printed": null,
+      "revision_unknown_reason": "The document does not print a clear static revision date on the cover; it is managed dynamically via the AIFA API.",
+      "sha256_if_lawfully_downloaded": null,
+      "identity_binding_notes": "The RCP covers multiple Tachipirina formulations under the base AIC 012745, explicitly including the 500 mg compresse.",
+      "access_or_reuse_limitations": "Publicly available via AIFA Banca Dati Farmaci; no explicit access limitations beyond standard copyright."
+    },
+    {
+      "type": "FI",
+      "official_url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/organizzazione/219/farmaci/12745/stampati?ts=FI",
+      "retrieved_on": "2026-10-14",
+      "revision_as_printed": null,
+      "revision_unknown_reason": "No explicitly printed revision date is visible on the leaflet text; versioning is managed digitally by AIFA.",
+      "sha256_if_lawfully_downloaded": null,
+      "identity_binding_notes": "The patient leaflet (Foglio Illustrativo) explicitly provides dosage instructions for the 500 mg compresse formulation.",
+      "access_or_reuse_limitations": "Publicly available via AIFA Banca Dati Farmaci; no explicit access limitations beyond standard copyright."
+    }
+  ],
+  "related_ambiguity_or_contrary_case": "Tachipirina is also widely sold as 500 mg orosoluble granules (AIC 034329) or 1000 mg adult suppositories. These have completely different AIC codes and distinct leaflet instructions, highlighting the importance of verifying the exact pharmaceutical form (compresse vs. granulato).",
+  "uncertainties": [],
+  "professional_review": "NOT_REVIEWED",
+  "notes": "Metadata proposal only. No clinical answer, copied passages, patient data or document redistribution. Null means unknown or not yet provided."
+}
