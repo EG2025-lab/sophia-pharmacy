@@ -4,7 +4,7 @@ Reviewed 16 October 2026. SOPHIA is in development, with restricted beta 0.7.83.
 
 ## Current website flow
 
-On the [public website](https://sophia-pharmacy.enricogiuliano.chatgpt.site/), choose **Join the waitlist** and a role. The current single-screen form combines professional-needs answers and early-access waitlist registration, with one **Submit and join the list** action. Role, at least one priority and email are required. Further information about work difficulties, frequency, current tools, requirements, hypothetical budget, name, organisation, region and a follow-up interview is optional. Participation itself is voluntary.
+On the [public website](https://sophia-pharmacy.enricogiuliano.chatgpt.site/), choose **Survey and waitlist** and a role. The current single-screen form combines professional-needs answers and early-access waitlist registration, with one **Submit and join the waitlist** action. Role, at least one priority and email are required. Further information about work difficulties, frequency, current tools, requirements, hypothetical budget, name, organisation, region and a follow-up interview is optional. Participation itself is voluntary.
 
 The server validates the same requirements and records a request only after successful submission. A positive server receipt closes the form, returns to the home page and confirms submission; errors retain the entered answers. This flow does not send an email automatically. Researchers, developers, AI experts and potential partners retain the collaboration/email path. The email alternative prepares a draft for the participant to send; it does not automatically create a dashboard record.
 
