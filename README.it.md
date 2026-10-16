@@ -1,15 +1,14 @@
 # SOPHIA
 
-La beta riservata **0.7.82 è pubblicata con correzioni della lettura delle fonti**. Il FI riconosce il titolo regolatorio anche con numerazione incoerente, conservando testo e heading originali. I candidati del SDK scientifico passano alla lettura originale con identità esatta; gli abstract completi arrivano nei dati del modello con ambito esplicitamente non verificato. Budget di lettura invariato. Varianti, casi contrari, 100 replay API con frontiere sintetiche, CI del sorgente esatto, build fresche e readback superati. **Nessuna nuova domanda a pagamento al modello sulla82.** Utilità, latenza e qualità delle nuove risposte82 non sono misurate. Discordanze RCP/FI da rivedere professionalmente; diffusione generale NO-GO. Voti, stati delle case e gate invariati.
+La beta riservata **0.7.83 è pubblicata**, con riesame del 16 ottobre 2026. Corregge una famiglia riprodotta di falsi blocchi privacy nel linguaggio documentale. Identificativi e richieste terapeutiche individuali restano bloccati nei casi contrari. Qualificazione: 1.181 test app offline,100 replay API con modello/fonti simulati, CI del sorgente esatto, build e readback. **Nessuna nuova domanda reale al modello sulla 83. La frase precisa della bozza 82 fallita non era conservata; accettazione reale manuale ancora pendente.** Correzione tecnica, utilità delle risposte e validazione clinica restano distinte. Diffusione generale NO-GO; voti, stati delle case e gate invariati.
 
-
-Tre nuove prove reali sulla beta **0.7.80**: AIFA consegna una risposta utile ma incompleta nel confronto RCP/FI; normativa consegna una risposta coerente con l’articolo 89, con un limite interpretativo dichiarato; clinica consegna un gap senza abstract o testi clinici letti, pur avendo individuato metadata pertinenti. Tutte e tre le chat sono salvate. Tempi: 110,2 / 43,9 / 62,3 secondi; nessun confronto controllato di latenza o accuratezza. Nessun quesito ripetuto, nessuna validazione clinica umana. Questi risultati reali80 restano storici; la82 corregge le cause tecniche offline senza nuove risposte reali. Voti e gate invariati. [Status and limits](docs/STATUS.md).
+Ultima batteria reale: **0.7.82**, 16 ottobre 2026, tre temi distinti e quattro invii espressamente autorizzati. AIFA PASS nel singolo confronto documentale, con discordanza RCP/FI esplicita, 89, 23s. Clinica GAP senza l’analisi richiesta, 40, 51s. Normativa prima interrotta per credito esaurito; l’unico retry autorizzato dopo ricarica fallisce per falso blocco privacy in uscita. Nessuna risposta normativa completa. Restano aperti recupero clinico, lettura della vigenza integrale e revisione professionale delle discordanti istruzioni dei medicinali. Non sono un benchmark generale o una validazione clinica/giuridica. [Stato e limiti](docs/STATUS.md).
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
 SOPHIA è un progetto indipendente di **Enrico Giuliano, farmacista e Founder & Product Lead**. Partiamo da FarmAI, il nostro GPT custom, per sviluppare un'applicazione proprietaria che colleghi documentazione ufficiale dei medicinali, legislazione farmaceutica italiana, ricerca clinica e linee guida.
 
-[Raccontaci i tuoi bisogni professionali](docs/PROFESSIONAL_NEEDS_RESEARCH.md): farmacisti, farmacie e network possono compilare un sondaggio facoltativo dal sito; sviluppatori ed esperti AI mantengono un percorso dedicato alle collaborazioni. Sondaggio e iscrizione alla lista d’attesa sono scelte separate.
+[Raccontaci i tuoi bisogni professionali](docs/PROFESSIONAL_NEEDS_RESEARCH.md): farmacisti, farmacie e network possono inviare una richiesta unica di accesso anticipato con domande sui bisogni professionali. Ruolo,almeno una priorità ed email sono obbligatori; approfondimenti e colloquio restano facoltativi. Il modulo attuale unisce risposte e iscrizione alla lista; i consensi storici conservano il loro ambito. Sviluppatori ed esperti AI mantengono un percorso dedicato alle collaborazioni.
 
 Vogliamo ridurre il carico informativo del farmacista, aiutare a ridurre gli errori e migliorare il servizio in farmacia. Sono obiettivi di sviluppo: il loro impatto deve ancora essere misurato.
 
@@ -36,7 +35,7 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 
 ## Stato e confini
 
-Beta corrente:0.7.82, come descritto sopra. Il paragrafo seguente conserva lo stato precedente alle prove reali80.
+Beta corrente:0.7.83, come descritto sopra. Il paragrafo seguente conserva lo stato precedente alle prove reali80.
 
 La beta riservata **0.7.80** sostituisce falsi blocchi linguistici e vincoli di formato, rende facoltativo il piano e conserva informazioni già controllate quando l’approfondimento non può completarsi in sicurezza. Verifiche tecniche con confini sintetici, senza nuove domande al modello. Identità delle fonti, privacy, supporto delle affermazioni e giudizio umano restano necessari. Gli esiti reali78 restano storici; utilità e latenza della80 da misurare. Voti e gate invariati. [Stato e limiti](docs/STATUS.md).
 
@@ -46,4 +45,4 @@ Nel lavoro di sviluppo utilizziamo [ToolUniverse](https://github.com/mims-harvar
 
 Non inserire dati di pazienti, credenziali o materiale riservato in issue, discussioni o contributi pubblici. [Informativa privacy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/privacy.html).
 
-La supervisione operativa è aggiornata separatamente dall’app. Il [riesame dello stato](docs/STATUS.md#operational-supervision-review--14-october2026) documenta riferimenti di versione, consolidamento degli avvisi e copia da riesaminare, senza aumentare i voti di maturità.
+La supervisione operativa è aggiornata separatamente dall’app. Il [riesame dello stato](docs/STATUS.md#current-operational-reference) documenta riferimenti di versione, consolidamento degli avvisi e copia da riesaminare, senza aumentare i voti di maturità.

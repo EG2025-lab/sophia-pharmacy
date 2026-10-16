@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-16",
+  "appVersion": "0.7.83-beta",
+  "deployment": "restricted_beta",
+  "publicAppAccess": false,
+  "technicalRepair": "documentary_language_privacy_false_blocks",
+  "qualification": {
+    "offlineAppTests": 1181,
+    "scriptedApiReplays": 100,
+    "exactSourceCI": "PASS",
+    "freshBuildAndReadback": "PASS"
+  },
+  "newRealModelRunsOn83": 0,
+  "manualLiveAcceptance": "pending",
+  "lastRealBattery": {
+    "version": "0.7.82-beta",
+    "distinctTopics": 3,
+    "authorisedSubmissions": 4,
+    "aifa": "PASS_SINGLE_SCOPE_WITH_EXPLICIT_SOURCE_CONFLICT",
+    "clinical": "GAP_REQUESTED_ANALYSIS_NOT_DELIVERED",
+    "legislation": "NO_COMPLETED_ANSWER_QUOTA_THEN_PRIVACY_BLOCK"
+  },
+  "website": {
+    "publication": 33,
+    "snapshot": "2026-10-16-r16"
+  },
+  "humanClinicalValidation": false,
+  "generalProfessionalRollout": "NO_GO",
+  "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency"
+}

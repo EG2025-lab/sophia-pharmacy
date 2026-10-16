@@ -2,9 +2,9 @@
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
 
-Restricted beta **0.7.82 is deployed with source-reading repairs**. Leaflet selection recognises authored regulatory titles despite inconsistent numbering, preserving original text and headings. Scientific SDK candidates reach exact-identity original reading; whole abstracts reach the model with explicitly unverified scope. Reading budget is unchanged. Variants, counterexamples, 100 synthetic-boundary API replays, exact-source CI, fresh builds and deployment readbacks passed. **No new paid model question was run on82.** Usefulness, latency and quality of new82 answers remain unmeasured. Conflicting SmPC/PIL instructions still require professional review; general professional rollout remains NO-GO. Scores, house states and rollout gates are unchanged.
+Restricted beta **0.7.83 is deployed**, reviewed on 16 October 2026. It repairs a reproduced family of privacy false blocks in documentary language. Identifiers and individual therapeutic requests remain blocked in contrary cases. Qualification: 1,181 offline app tests,100 API replays with scripted model/source boundaries, exact-source CI, fresh builds and deployment readback. **No new live model question was run on 83. The exact failed 82 draft was not retained; live manual acceptance remains pending.** Technical repair is distinct from answer usefulness and clinical validation. General professional rollout remains NO-GO; maturity scores, house states and roadmap gates are unchanged.
 
-Three new live questions on beta **0.7.80**: AIFA delivers useful content but an incomplete SmPC/PIL comparison; legislation delivers an article 89-consistent answer with a declared interpretation limit; clinical research delivers a gap without clinical abstract/full-text reading despite relevant metadata discovery. All three chats are saved. Times: 110.2 / 43.9 / 62.3 seconds; no controlled latency or accuracy comparison. No question repeated or human clinical validation. These live80 results remain historical;82 repairs the technical causes offline without new live answers. Scores and gates unchanged. [Status and limits](docs/STATUS.md).
+Latest real battery: **0.7.82**, 16 October 2026, three distinct topics and four explicitly authorised submissions. AIFA passes the single document-comparison case with an explicit SmPC/PIL conflict, 89.23s. Clinical evidence returns GAP without the requested analysis, 40.51s. Legislation first stops for exhausted credit; the sole retry authorised after refill fails an output privacy check. No completed legislative answer. The clinical retrieval gap, full current-law reading and professional review of conflicting medicine instructions remain open. These observations are not a general benchmark or clinical/legal validation. [Status and limits](docs/STATUS.md).
 
 **Less information fragmentation. More room for the pharmacist's work.**
 
@@ -14,7 +14,7 @@ Our aim is to reduce pharmacists' information burden, help reduce errors and imp
 
 **[Explore SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Collaboration brief](COLLABORATION.md) · [20-question pilot proposal](pilot/README.md) · [Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions)**
 
-[Share your professional needs](docs/PROFESSIONAL_NEEDS_RESEARCH.md): pharmacists, pharmacies and networks can complete an optional survey through the website; developers and AI experts retain a dedicated collaboration path. Research participation and waitlist subscription are separate choices.
+[Share your professional needs](docs/PROFESSIONAL_NEEDS_RESEARCH.md): pharmacists, pharmacies and networks can submit a single early-access request with professional-needs questions. Role, at least one priority and email are required; further details and interviews are optional. The current form combines answers and waitlist registration; earlier consent records retain their original scope. Developers and AI experts retain a dedicated collaboration path.
 
 **[Leggi in italiano](README.it.md) · [Make a first contribution](CONTRIBUTING.md) · [Propose a collaboration](https://github.com/EG2025-lab/sophia-pharmacy/issues/new?template=collaboration.yml)**
 
@@ -84,4 +84,4 @@ SOPHIA is in development. Regulatory assessment and clinical validation are ongo
 
 Please keep patient data, credentials and confidential material out of public issues, discussions and contributions. The [website privacy notice](https://sophia-pharmacy.enricogiuliano.chatgpt.site/privacy.html) explains contact and waitlist handling.
 
-Operational supervision is maintained separately from the app. The [latest status review](docs/STATUS.md#operational-supervision-review--14-october2026) records version binding, alert deduplication and outstanding dated-source review without changing maturity scores.
+Operational supervision is maintained separately from the app. The [latest status review](docs/STATUS.md#current-operational-reference) records version binding, alert deduplication and outstanding dated-source review without changing maturity scores.
