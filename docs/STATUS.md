@@ -1,5 +1,23 @@
 # SOPHIA status and evaluation
 
+## Current restricted beta — 16 October 2026
+
+Restricted beta **0.7.83 is deployed**, reviewed on 16 October 2026. It repairs a reproduced family of privacy false blocks in documentary language. Identifiers and individual therapeutic requests remain blocked in contrary cases. Qualification: 1,181 offline app tests,100 API replays with scripted model/source boundaries, exact-source CI, fresh builds and deployment readback. **No new live model question was run on 83. The exact failed 82 draft was not retained; live manual acceptance remains pending.** Technical repair is distinct from answer usefulness and clinical validation. General professional rollout remains NO-GO; maturity scores, house states and roadmap gates are unchanged.
+
+Latest real battery: **0.7.82**, 16 October 2026, three distinct topics and four explicitly authorised submissions. AIFA passes the single document-comparison case with an explicit SmPC/PIL conflict, 89.23s. Clinical evidence returns GAP without the requested analysis, 40.51s. Legislation first stops for exhausted credit; the sole retry authorised after refill fails an output privacy check. No completed legislative answer. The clinical retrieval gap, full current-law reading and professional review of conflicting medicine instructions remain open. These observations are not a general benchmark or clinical/legal validation.
+
+## Current operational reference
+
+App 0.7.83-beta is active in the restricted environment; source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72 retain their component versions. The deployed version and privacy policy version 12 were read back; monitoring refers to the same frozen source and images. Technical feedback is corrected internally and awaits a new live manual check. No human clinical attestation or expanded public access is implied.
+
+The website is publication 33 with assessment snapshot2026-10-16-r16. Its 16 maturity scores, 19 house states and 6 rollout gates are unchanged. Website version numbers are separate from app and component versions. [Machine-readable current overview](CURRENT.json).
+
+The current survey/waitlist is a single form with server storage and confirmation; [professional-needs research](PROFESSIONAL_NEEDS_RESEARCH.md) describes the16 October protocol. Navigation statistics remain optional and separate. No market findings are claimed by this release.
+
+[Transparency and architecture](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap).
+
+## Historical source-reading release82 —14 October2026
+
 Reviewed14 October2026. Restricted beta **0.7.82 is deployed with source-reading repairs**. Leaflet selection recognises authored regulatory titles despite inconsistent numbering, preserving original text and headings. Scientific SDK candidates reach exact-identity original reading; whole abstracts reach the model with explicitly unverified scope. Reading budget is unchanged. Variants, counterexamples, 100 synthetic-boundary API replays, exact-source CI, fresh builds and deployment readbacks passed. **No new paid model question was run on82.** Usefulness, latency and quality of new82 answers remain unmeasured. Conflicting SmPC/PIL instructions still require professional review; general professional rollout remains NO-GO. Scores, house states and rollout gates are unchanged.
 ## Historical live80 assessment
 
