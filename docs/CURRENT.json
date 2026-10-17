@@ -28,14 +28,23 @@
     "utilityFailures": 1
   },
   "website": {
-    "publication": 52,
+    "publication": 53,
     "snapshot": "2026-10-17-r19",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
     "physicalAccuracyValidated": false,
     "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
-    "internalTrafficExclusion": "owner_profile_and_recognized_automated_browsers"
+    "internalTrafficExclusion": "owner_profile_and_recognized_automated_browsers",
+    "interface": "unified_regional_map_and_prioritized_owner_dashboard",
+    "surveyNotice": "sophia-public-2026-10-17-04",
+    "paymentPreferences": [
+      "monthly",
+      "annual",
+      "usage",
+      "unsure"
+    ],
+    "geographyTestsExcluded": true
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
