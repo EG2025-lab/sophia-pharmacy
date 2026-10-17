@@ -1,32 +1,35 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-17",
-  "appVersion": "0.7.86-beta",
+  "appVersion": "0.7.87-beta",
   "deployment": "restricted_beta",
   "publicAppAccess": false,
-  "technicalRepair": "professional_language_privacy13_preserved_and_composition_document_identity",
+  "technicalRepair": "aifa_identity_section_coverage_provenance_repeatability",
   "qualification": {
-    "offlineAppTests": 1200,
+    "offlineAppTests": 1220,
     "scriptedApiReplays": 100,
+    "separateAIReviewScopedChecks": 79,
+    "originalReadings": 20,
+    "presentations": 10,
+    "boundReadings": 18,
+    "explicitGapReadings": 2,
+    "repetitionsPerReading": 5,
     "exactSourceCI": "PASS",
     "freshBuildAndReadback": "PASS"
   },
-  "newRealModelRunsOn86": 0,
-  "manualLiveAcceptance": "pending_on86",
+  "newRealModelRunsOn87": 0,
+  "manualLiveAcceptance": "pending_on87",
   "lastRealBattery": {
     "version": "0.7.85-beta",
     "distinctQuestions": 3,
     "submissions": 3,
     "privacyBlocks": 0,
     "scopedPasses": 2,
-    "utilityFailures": 1,
-    "aifa": "ONE_SCOPED_PASS_ONE_DOCUMENTARY_UTILITY_FAIL",
-    "legislation": "SCOPED_PASS",
-    "clinical": "NOT_TESTED_THIS_BATTERY_PREVIOUS_RETRIEVAL_GAP_REMAINS"
+    "utilityFailures": 1
   },
   "website": {
-    "publication": 48,
-    "snapshot": "2026-10-17-r18"
+    "publication": 49,
+    "snapshot": "2026-10-17-r19"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
