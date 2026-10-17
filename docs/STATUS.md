@@ -10,7 +10,11 @@ Twenty original document readings across ten presentations were repeated five ti
 
 App 0.7.87-beta, source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72. The AIFA base bridge is byte-identical to the FarmAI reader compared in this audit. Source acquisition, product binding, section coverage and claim support are tracked separately. Some compound presentations, ingredient-label reconciliation, OCR recovery and complete physical-package details remain open. No blanket claim of perfect catalog coverage or clinical/legal validation. Models, budgets, keys, IAM, authentication, staging and public access are unchanged.
 
-Website publication 54, snapshot 2026-10-17-r19; its 16 maturity scores, 19 house states and 6 gates remain unchanged. Website analytics and app usage remain separate. [Machine-readable current reference](CURRENT.json).
+Website publication 55, snapshot 2026-10-17-r19; its 16 maturity scores, 19 house states and 6 gates remain unchanged. Website analytics and app usage remain separate. [Machine-readable current reference](CURRENT.json).
+
+## Survey flow — 17 October 2026
+
+Publication55 places optional budget and payment preferences last, immediately before contact details. The continuous form has clearer choices, selection counters, a persistent close control and responsive grouping. Questions remain visible; the same fields, choices, validation, v04 purposes and storage contract are retained. The technical/browser checks use isolated local submissions, with no production test response or new model run. App87, scores and gates are unchanged.
 
 ## Map readability — 17 October 2026
 
