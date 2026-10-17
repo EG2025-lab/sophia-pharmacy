@@ -28,8 +28,12 @@
     "utilityFailures": 1
   },
   "website": {
-    "publication": 49,
-    "snapshot": "2026-10-17-r19"
+    "publication": 50,
+    "snapshot": "2026-10-17-r19",
+    "surveyGeography": "respondent_declared_region",
+    "visitGeography": "network_or_permissioned_device_estimate",
+    "separateDatasets": true,
+    "physicalAccuracyValidated": false
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
