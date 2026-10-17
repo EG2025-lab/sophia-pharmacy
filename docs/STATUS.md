@@ -10,7 +10,11 @@ Twenty original document readings across ten presentations were repeated five ti
 
 App 0.7.87-beta, source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72. The AIFA base bridge is byte-identical to the FarmAI reader compared in this audit. Source acquisition, product binding, section coverage and claim support are tracked separately. Some compound presentations, ingredient-label reconciliation, OCR recovery and complete physical-package details remain open. No blanket claim of perfect catalog coverage or clinical/legal validation. Models, budgets, keys, IAM, authentication, staging and public access are unchanged.
 
-Website publication 50, snapshot 2026-10-17-r19; its 16 maturity scores, 19 house states and 6 gates remain unchanged. Website analytics and app usage remain separate. [Machine-readable current reference](CURRENT.json).
+Website publication 51, snapshot 2026-10-17-r19; its 16 maturity scores, 19 house states and 6 gates remain unchanged. Website analytics and app usage remain separate. [Machine-readable current reference](CURRENT.json).
+
+## Private-area annotation compatibility — 17 October 2026
+
+Publication 51 repairs a style-policy incompatibility affecting the browser’s annotation selection in the private dashboard. The owner confirmed that the editor opens after publication. Owner-only access, private APIs, analytics, app version, assessment scores and rollout gates are unchanged.
 
 ## Website geography repair — 17 October 2026
 
