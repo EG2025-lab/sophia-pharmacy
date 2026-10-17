@@ -10,7 +10,13 @@ Twenty original document readings across ten presentations were repeated five ti
 
 App 0.7.87-beta, source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72. The AIFA base bridge is byte-identical to the FarmAI reader compared in this audit. Source acquisition, product binding, section coverage and claim support are tracked separately. Some compound presentations, ingredient-label reconciliation, OCR recovery and complete physical-package details remain open. No blanket claim of perfect catalog coverage or clinical/legal validation. Models, budgets, keys, IAM, authentication, staging and public access are unchanged.
 
-Website publication 52, snapshot 2026-10-17-r19; its 16 maturity scores, 19 house states and 6 gates remain unchanged. Website analytics and app usage remain separate. [Machine-readable current reference](CURRENT.json).
+Website publication 53, snapshot 2026-10-17-r19; its 16 maturity scores, 19 house states and 6 gates remain unchanged. Website analytics and app usage remain separate. [Machine-readable current reference](CURRENT.json).
+
+## Owner dashboard and needs form — 17 October 2026
+
+Publication 53 brings received responses, priorities and hypothetical budget to the top of the private dashboard. A single regional map displays separate survey, waitlist and estimated-visit counts, with hover/focus and regional response access. Counts remain distinct; a combined survey/waitlist form is one response with two purposes. Test/internal geography is always omitted. Technical session and campaign sections are collapsible.
+
+The v04 needs form shows optional details and pricing questions directly, adds monthly/annual/usage payment preferences, and asks for a description when materials/procedures or another need is selected. These fields feed the private response and budget aggregates. Earlier form protocols retain their original requirements and purposes. Navigation is not joined to named responses. Verification used the compiled Worker, isolated local data and browser checks, with no production form submission. App87, scores, gates and annotation compatibility are unchanged.
 
 ## Internal and automated traffic exclusion — 17 October 2026
 
