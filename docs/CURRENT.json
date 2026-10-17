@@ -28,13 +28,14 @@
     "utilityFailures": 1
   },
   "website": {
-    "publication": 51,
+    "publication": 52,
     "snapshot": "2026-10-17-r19",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
     "physicalAccuracyValidated": false,
-    "privateAreaAnnotations": "editor_opening_confirmed_by_owner"
+    "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
+    "internalTrafficExclusion": "owner_profile_and_recognized_automated_browsers"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
