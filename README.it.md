@@ -1,8 +1,8 @@
 # SOPHIA
 
-La beta riservata **0.7.83 è pubblicata**, con riesame del 16 ottobre 2026. Corregge una famiglia riprodotta di falsi blocchi privacy nel linguaggio documentale. Identificativi e richieste terapeutiche individuali restano bloccati nei casi contrari. Qualificazione: 1.181 test app offline,100 replay API con modello/fonti simulati, CI del sorgente esatto, build e readback. **Nessuna nuova domanda reale al modello sulla 83. La frase precisa della bozza 82 fallita non era conservata; accettazione reale manuale ancora pendente.** Correzione tecnica, utilità delle risposte e validazione clinica restano distinte. Diffusione generale NO-GO; voti, stati delle case e gate invariati.
+La beta riservata **0.7.86 è pubblicata**, riesame del 17 ottobre 2026. Conserva la correzione dei falsi blocchi sul linguaggio professionale e corregge una famiglia riprodotta di errori AIFA quando il dosaggio è nella composizione anziché nel titolo. Qualificazione:1.200 test app offline,100 replay API simulati, CI del sorgente esatto, build e readback. **Nessuna nuova risposta reale del modello sulla 86.** La verifica tecnica del lettore resta distinta dall’utilità della risposta finale e dalla validazione clinica. Diffusione generaleNO-GO.
 
-Ultima batteria reale: **0.7.82**, 16 ottobre 2026, tre temi distinti e quattro invii espressamente autorizzati. AIFA PASS nel singolo confronto documentale, con discordanza RCP/FI esplicita, 89, 23s. Clinica GAP senza l’analisi richiesta, 40, 51s. Normativa prima interrotta per credito esaurito; l’unico retry autorizzato dopo ricarica fallisce per falso blocco privacy in uscita. Nessuna risposta normativa completa. Restano aperti recupero clinico, lettura della vigenza integrale e revisione professionale delle discordanti istruzioni dei medicinali. Non sono un benchmark generale o una validazione clinica/giuridica. [Stato e limiti](docs/STATUS.md).
+Ultima batteria reale: **0.7.85**,17 ottobre 2026, tre domande nuove e tre invii. Un confronto documentale AIFA è PASS nello scope,65,74 s; un secondo caso AIFA conferma l’identità ma non completa la lettura richiesta,44,07 s. Normativa PASS nello scope del confronto tra due articoli,62,31 s. Tutti gli input ammessi e tutte le risposte consegnate senza blocchi privacy. La correzione del lettore 86 è verificata su rami originali e casi contrari, non presentata come nuova risposta del modello riuscita. Recupero clinico e accettazione professionale umana restano aperti. Non è un benchmark generale. [Stato e limiti](docs/STATUS.md).
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
@@ -35,7 +35,7 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 
 ## Stato e confini
 
-Beta corrente:0.7.83, come descritto sopra. Il paragrafo seguente conserva lo stato precedente alle prove reali80.
+Beta corrente:0.7.86, come descritto sopra. Il paragrafo seguente conserva lo stato precedente alle prove reali80.
 
 La beta riservata **0.7.80** sostituisce falsi blocchi linguistici e vincoli di formato, rende facoltativo il piano e conserva informazioni già controllate quando l’approfondimento non può completarsi in sicurezza. Verifiche tecniche con confini sintetici, senza nuove domande al modello. Identità delle fonti, privacy, supporto delle affermazioni e giudizio umano restano necessari. Gli esiti reali78 restano storici; utilità e latenza della80 da misurare. Voti e gate invariati. [Stato e limiti](docs/STATUS.md).
 
