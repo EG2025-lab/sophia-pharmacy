@@ -1,12 +1,28 @@
 # SOPHIA status and evaluation
 
-## Current restricted beta — 16 October 2026
+## Current restricted beta — 17 October 2026
+
+Restricted beta **0.7.86 is deployed**, reviewed on 17 October 2026. It preserves the professional-language privacy repair and fixes a reproduced family of AIFA document identity failures when strength is in the composition rather than the title. Qualification:1,200 offline app tests,100 scripted API replays, exact-source CI, fresh build and deployment readback. **No new live model answer was generated on 86.** Technical reading checks remain distinct from final answer usefulness and clinical validation. General professional rollout remains NO-GO.
+
+Latest real battery: **0.7.85**,17 October 2026, three new questions and three submissions. One AIFA document comparison passes its scope,65.74 s; another AIFA answer confirms identity but fails the requested document task,44.07 s. Legislation passes its two-article comparison scope,62.31 s. All inputs are admitted and all answers delivered without privacy blocks. The 86 reader repair is verified on original document branches and contrary cases; it is not presented as a new successful model replay. Clinical retrieval and human professional acceptance remain open. These are scoped technical/source reviews, not a general benchmark.
+
+## Current operational reference
+
+App 0.7.86-beta is active in the restricted environment,source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72. The 86 technical repair does not claim broader AIFA coverage or another live answer. Joint strength-bearing titles retain their exact flavour qualifier and original conditional sections. Existing model, budget, keys, IAM, authentication and staging are unchanged. No human clinical or legal validation.
+
+Website publication48,snapshot2026-10-17-r18. Its 16 maturity scores, 19 house states and 6 gates are unchanged. Website and app releases are distinct. [Machine-readable overview](CURRENT.json).
+
+The combined needs/waitlist form is unchanged. Site navigation statistics are separate and currently enabled by default, with footer opt-out and owner/test exclusions. Historical consent scopes are retained; navigation does not automatically identify form respondents. These are observed interface settings,not a certification of legal compliance.
+
+[Transparency](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap).
+
+## Historical restricted beta 83 — 16 October 2026
 
 Restricted beta **0.7.83 is deployed**, reviewed on 16 October 2026. It repairs a reproduced family of privacy false blocks in documentary language. Identifiers and individual therapeutic requests remain blocked in contrary cases. Qualification: 1,181 offline app tests,100 API replays with scripted model/source boundaries, exact-source CI, fresh builds and deployment readback. **No new live model question was run on 83. The exact failed 82 draft was not retained; live manual acceptance remains pending.** Technical repair is distinct from answer usefulness and clinical validation. General professional rollout remains NO-GO; maturity scores, house states and roadmap gates are unchanged.
 
 Latest real battery: **0.7.82**, 16 October 2026, three distinct topics and four explicitly authorised submissions. AIFA passes the single document-comparison case with an explicit SmPC/PIL conflict, 89.23s. Clinical evidence returns GAP without the requested analysis, 40.51s. Legislation first stops for exhausted credit; the sole retry authorised after refill fails an output privacy check. No completed legislative answer. The clinical retrieval gap, full current-law reading and professional review of conflicting medicine instructions remain open. These observations are not a general benchmark or clinical/legal validation.
 
-## Current operational reference
+## Historical operational reference of 16 October 2026
 
 App 0.7.83-beta is active in the restricted environment; source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72 retain their component versions. The deployed version and privacy policy version 12 were read back; monitoring refers to the same frozen source and images. Technical feedback is corrected internally and awaits a new live manual check. No human clinical attestation or expanded public access is implied.
 
