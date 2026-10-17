@@ -2,11 +2,23 @@
 
 ## Current restricted beta — 17 October 2026
 
+Restricted beta **0.7.87 is deployed**, reviewed on 17 October 2026. A specialist agent compared the AIFA reader with FarmAI and identified app-layer identity, section-selection and repeatability defects. The repair retains exact denomination, material formulation wording, strength denominators, separate SmPC/PIL coverage and reference-document provenance. Qualification: 1,220 offline app tests, 100 scripted API replays, 79 scoped checks in a separate AI-assisted review, exact-source CI, fresh build and deployment readback. **No new live model answer on 87.** General professional rollout remains NO-GO.
+
+Twenty original document readings across ten presentations were repeated five times with identical deterministic outcomes: eighteen bound readings and two explicit gaps. Readable passages are not automatically complete document pairs: some ingredient names remain unreconciled. The sample informed development and is not an independent blinded benchmark. Latest real model battery remains **0.7.85**: three questions, two scoped passes, one documentary utility failure and zero privacy blocks. Final-answer usefulness, professional acceptance and human clinical validation remain distinct from technical reader checks.
+
+## Current operational reference
+
+App 0.7.87-beta, source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72. The AIFA base bridge is byte-identical to the FarmAI reader compared in this audit. Source acquisition, product binding, section coverage and claim support are tracked separately. Some compound presentations, ingredient-label reconciliation, OCR recovery and complete physical-package details remain open. No blanket claim of perfect catalog coverage or clinical/legal validation. Models, budgets, keys, IAM, authentication, staging and public access are unchanged.
+
+Website publication 49, snapshot 2026-10-17-r19; its 16 maturity scores, 19 house states and 6 gates remain unchanged. Website analytics and app usage remain separate. [Machine-readable current reference](CURRENT.json).
+
+## Historical restricted beta 86 — 17 October 2026
+
 Restricted beta **0.7.86 is deployed**, reviewed on 17 October 2026. It preserves the professional-language privacy repair and fixes a reproduced family of AIFA document identity failures when strength is in the composition rather than the title. Qualification:1,200 offline app tests,100 scripted API replays, exact-source CI, fresh build and deployment readback. **No new live model answer was generated on 86.** Technical reading checks remain distinct from final answer usefulness and clinical validation. General professional rollout remains NO-GO.
 
 Latest real battery: **0.7.85**,17 October 2026, three new questions and three submissions. One AIFA document comparison passes its scope,65.74 s; another AIFA answer confirms identity but fails the requested document task,44.07 s. Legislation passes its two-article comparison scope,62.31 s. All inputs are admitted and all answers delivered without privacy blocks. The 86 reader repair is verified on original document branches and contrary cases; it is not presented as a new successful model replay. Clinical retrieval and human professional acceptance remain open. These are scoped technical/source reviews, not a general benchmark.
 
-## Current operational reference
+## Historical operational reference 86
 
 App 0.7.86-beta is active in the restricted environment,source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72. The 86 technical repair does not claim broader AIFA coverage or another live answer. Joint strength-bearing titles retain their exact flavour qualifier and original conditional sections. Existing model, budget, keys, IAM, authentication and staging are unchanged. No human clinical or legal validation.
 

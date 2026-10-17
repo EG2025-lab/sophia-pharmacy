@@ -1,8 +1,8 @@
 # SOPHIA
 
-La beta riservata **0.7.86 è pubblicata**, riesame del 17 ottobre 2026. Conserva la correzione dei falsi blocchi sul linguaggio professionale e corregge una famiglia riprodotta di errori AIFA quando il dosaggio è nella composizione anziché nel titolo. Qualificazione:1.200 test app offline,100 replay API simulati, CI del sorgente esatto, build e readback. **Nessuna nuova risposta reale del modello sulla 86.** La verifica tecnica del lettore resta distinta dall’utilità della risposta finale e dalla validazione clinica. Diffusione generaleNO-GO.
+La beta riservata **0.7.87 è pubblicata**, riesame del 17 ottobre 2026. Un agente specializzato ha confrontato il lettore AIFA con FarmAI e riprodotto difetti di identità, selezione delle sezioni e ripetibilità aggiunti nell’app. La correzione preserva denominazione esatta, parole materiali della formulazione, denominatori, copertura RCP/FI separata e provenienza del documento di riferimento. Qualificazione: 1.220 test app offline, 100 replay API simulati, 79 controlli circoscritti nella revisione separata assistita da AI, CI del sorgente esatto, build e readback. **Nessuna nuova risposta reale del modello sulla 87.** Diffusione generale NO-GO.
 
-Ultima batteria reale: **0.7.85**,17 ottobre 2026, tre domande nuove e tre invii. Un confronto documentale AIFA è PASS nello scope,65,74 s; un secondo caso AIFA conferma l’identità ma non completa la lettura richiesta,44,07 s. Normativa PASS nello scope del confronto tra due articoli,62,31 s. Tutti gli input ammessi e tutte le risposte consegnate senza blocchi privacy. La correzione del lettore 86 è verificata su rami originali e casi contrari, non presentata come nuova risposta del modello riuscita. Recupero clinico e accettazione professionale umana restano aperti. Non è un benchmark generale. [Stato e limiti](docs/STATUS.md).
+Venti letture originali su dieci presentazioni ripetute cinque volte: diciotto letture legate e due GAP espliciti, con esiti deterministici identici. I passaggi leggibili non sono automaticamente coppie complete: alcuni nomi dei principi attivi restano da riconciliare. Il campione ha informato lo sviluppo e non è un benchmark cieco indipendente. Ultima batteria reale **0.7.85**: tre domande, due PASS circoscritti, un FAIL di utilità documentale e zero blocchi privacy. Utilità finale, accettazione professionale e validazione clinica umana restano distinte dalla verifica tecnica del lettore. [Stato e limiti](docs/STATUS.md).
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
@@ -35,7 +35,7 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 
 ## Stato e confini
 
-Beta corrente:0.7.86, come descritto sopra. Il paragrafo seguente conserva lo stato precedente alle prove reali80.
+Beta corrente:0.7.87, come descritto sopra. Il paragrafo seguente conserva lo stato precedente alle prove reali80.
 
 La beta riservata **0.7.80** sostituisce falsi blocchi linguistici e vincoli di formato, rende facoltativo il piano e conserva informazioni già controllate quando l’approfondimento non può completarsi in sicurezza. Verifiche tecniche con confini sintetici, senza nuove domande al modello. Identità delle fonti, privacy, supporto delle affermazioni e giudizio umano restano necessari. Gli esiti reali78 restano storici; utilità e latenza della80 da misurare. Voti e gate invariati. [Stato e limiti](docs/STATUS.md).
 

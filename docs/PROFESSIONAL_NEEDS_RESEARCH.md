@@ -1,6 +1,6 @@
 # Professional-needs research
 
-Reviewed 17 October 2026. SOPHIA is in development, with restricted beta 0.7.86. We are exploring which information tasks matter to Italian pharmacists, pharmacies, pharmacy networks and other professionals. The research is not a clinical or market validation.
+Reviewed 17 October 2026. SOPHIA is in development, with restricted beta 0.7.87. We are exploring which information tasks matter to Italian pharmacists, pharmacies, pharmacy networks and other professionals. The research is not a clinical or market validation.
 
 ## Current website flow
 
@@ -18,4 +18,4 @@ This is exploratory, self-selected research, not a representative survey of Ital
 
 Do not submit patient data, credentials or confidential third-party information. Any public findings require an appropriately aggregated account without identifiers.
 
-App and website releases are separate: app 0.7.86 is deployed; website publication48 aligns its current status and preserves the combined form. No new market findings or model answers are asserted by this documentation update. See [status and limits](STATUS.md).
+App and website releases are separate: app 0.7.87 is deployed; website publication 49 aligns its status and preserves the combined form. No new market findings or model answers are asserted by this documentation update. See [status and limits](STATUS.md).
