@@ -28,12 +28,13 @@
     "utilityFailures": 1
   },
   "website": {
-    "publication": 50,
+    "publication": 51,
     "snapshot": "2026-10-17-r19",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
-    "physicalAccuracyValidated": false
+    "physicalAccuracyValidated": false,
+    "privateAreaAnnotations": "editor_opening_confirmed_by_owner"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
