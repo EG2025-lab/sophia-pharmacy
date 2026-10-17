@@ -28,7 +28,7 @@
     "utilityFailures": 1
   },
   "website": {
-    "publication": 53,
+    "publication": 54,
     "snapshot": "2026-10-17-r19",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
@@ -44,7 +44,8 @@
       "usage",
       "unsure"
     ],
-    "geographyTestsExcluded": true
+    "geographyTestsExcluded": true,
+    "mapReadout": "inline_below_map_no_overlay"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
