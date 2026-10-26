@@ -1,4 +1,6 @@
 # Contributing to SOPHIA
+> Current product reference, reviewed 26 October 2026: restricted beta **0.7.88**, with a separate six-answer engineering battery. The public 20-question pilot is still a proposal, not frozen, executed or professionally validated. See [current status](docs/STATUS.md). No new partner commitment or access is implied.
+
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**
 

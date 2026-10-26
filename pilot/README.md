@@ -1,10 +1,12 @@
 # A 20-question pilot for professional pharmacy knowledge
+> Current product reference, reviewed 26 October 2026: restricted beta **0.7.88**, with a separate six-answer engineering battery. The public 20-question pilot is still a proposal, not frozen, executed or professionally validated. See [current status](../docs/STATUS.md). No new partner commitment or access is implied.
+
 
 **SOPHIA · Proposal v0.1 · 12 October 2026 · NOT RUN**
 
 We are looking for pharmacists, software developers and AI researchers to help design a small, reproducible evaluation of SOPHIA. The purpose is to find where answers succeed, where they fail, and which mechanisms need improvement across similar cases.
 
-SOPHIA is an independent application under development, founded by **Enrico Giuliano, pharmacist and Founder & Product Lead**. FarmAI, our custom GPT, is its starting point. This repository hosts the public proposal; application code and restricted beta conversations are not published here.
+SOPHIA is an independent application under development, founded by **Enrico Giuliano, pharmacist and Founder & Product Lead**. FarmAI, available as original GPTs and private Business plugins derived from copies, is its starting point. This repository hosts the public proposal; application code and restricted beta conversations are not published here.
 
 ## The proposed first deliverable
 

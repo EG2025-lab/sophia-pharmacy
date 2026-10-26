@@ -2,9 +2,9 @@
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
 
-Restricted beta **0.7.87 is deployed**, reviewed on 17 October 2026. A specialist agent compared the AIFA reader with FarmAI and identified app-layer identity, section-selection and repeatability defects. The repair retains exact denomination, material formulation wording, strength denominators, separate SmPC/PIL coverage and reference-document provenance. Qualification: 1,220 offline app tests, 100 scripted API replays, 79 scoped checks in a separate AI-assisted review, exact-source CI, fresh build and deployment readback. **No new live model answer on 87.** General professional rollout remains NO-GO.
+Restricted beta **0.7.88 is deployed**, reviewed on 26 October 2026. It uses **GPT-6.1 Sol**, default reasoning **low**, with controlled **medium** effort for complex composition. Ordered medicines and legislation workflows avoid an additional model classification call. After an attempted Action returns an admitted recoverable failure or source gap, independent web discovery and actual HTML/PDF reading can provide a declared fallback with [W#] citations. Privacy, access and budget blocks remain binding.
 
-Twenty original document readings across ten presentations were repeated five times with identical deterministic outcomes: eighteen bound readings and two explicit gaps. Readable passages are not automatically complete document pairs: some ingredient names remain unreconciled. The sample informed development and is not an independent blinded benchmark. Latest real model battery remains **0.7.85**: three questions, two scoped passes, one documentary utility failure and zero privacy blocks. Final-answer usefulness, professional acceptance and human clinical validation remain distinct from technical reader checks. [Status and limits](docs/STATUS.md).
+The complete second battery retains **six answers to three general documentary questions, each repeated twice**: medicines storage, the complete text of an Italian statutory article, and general institutional dry-eye information. Technical and AI-assisted documentary checks passed within those questions; the essential content agrees within each pair, with detail and wording variations. Observed end-to-end times: medicines **11–18 s**, legislation **10–12 s**, clinical web recovery **32–35 s**. These are selected observations, not an SLA, a controlled speed comparison, general repeatability or human clinical validation. The clinical answers declare partial coverage and unverified currency/retraction status. General professional rollout remains **NO-GO**. [Status and limits](docs/STATUS.md).
 
 **Less information fragmentation. More room for the pharmacist's work.**
 
@@ -14,7 +14,7 @@ Our aim is to reduce pharmacists' information burden, help reduce errors and imp
 
 **[Explore SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Collaboration brief](COLLABORATION.md) · [20-question pilot proposal](pilot/README.md) · [Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions)**
 
-[Share your professional needs](docs/PROFESSIONAL_NEEDS_RESEARCH.md): pharmacists, pharmacies and networks can submit a single early-access request with professional-needs questions. Role, at least one priority and email are required; further details and interviews are optional. The current form combines answers and waitlist registration; earlier consent records retain their original scope. Developers and AI experts retain a dedicated collaboration path.
+[Share your professional needs](docs/PROFESSIONAL_NEEDS_RESEARCH.md): the survey and waitlist choice are independent. The waitlist checkbox is optional and initially selected; it can be cleared to submit only the survey. Email is required only for the waitlist or a separately chosen interview. Pharmacist roles distinguish employees, owners and freelance professionals. Earlier records retain their original purposes. Developers and AI experts retain a collaboration path.
 
 **[Leggi in italiano](README.it.md) · [Make a first contribution](CONTRIBUTING.md) · [Propose a collaboration](https://github.com/EG2025-lab/sophia-pharmacy/issues/new?template=collaboration.yml)**
 
@@ -34,7 +34,7 @@ The [pilot proposal](pilot/README.md) includes 20 candidate question templates a
 
 ## From FarmAI to SOPHIA
 
-FarmAI is our custom GPT and the starting point for SOPHIA. SOPHIA is the standalone application now under development, with a restricted beta.
+FarmAI is available as the original custom GPTs and as private Business plugins derived from their copies. The original GPTs are preserved. SOPHIA is a separate application with its own restricted beta, model routing and qualification. [How GPTs, plugins and SOPHIA differ](docs/FARMAI_AND_SOPHIA.md).
 
 The work focuses on connecting three kinds of information while preserving their different meanings:
 

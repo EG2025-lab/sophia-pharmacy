@@ -1,43 +1,57 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-17",
-  "appVersion": "0.7.87-beta",
+  "reviewedAt": "2026-10-26",
+  "appVersion": "0.7.88-beta",
   "deployment": "restricted_beta",
   "publicAppAccess": false,
-  "technicalRepair": "aifa_identity_section_coverage_provenance_repeatability",
+  "technicalRepair": "ordered_model_routing_and_actual_declared_web_recovery",
   "qualification": {
-    "offlineAppTests": 1220,
-    "scriptedApiReplays": 100,
-    "separateAIReviewScopedChecks": 79,
-    "originalReadings": 20,
-    "presentations": 10,
-    "boundReadings": 18,
-    "explicitGapReadings": 2,
-    "repetitionsPerReading": 5,
-    "exactSourceCI": "PASS",
-    "freshBuildAndReadback": "PASS"
+    "offlineAppTests": 1309,
+    "scopeChecks": 12,
+    "javascriptChecks": 12,
+    "exactSourceAppCI": "PASS",
+    "immutableBuildAndDeploymentReadback": "PASS",
+    "scope": "APP_ONLY_REUSE_UNCHANGED_BRIDGES",
+    "fullGate": "OPEN_BRIDGE_FINDINGS_AND_EXPIRED_OFFICIAL_COPY"
   },
-  "newRealModelRunsOn87": 0,
-  "manualLiveAcceptance": "pending_on87",
+  "manualLiveAcceptance": "pending_professional_acceptance",
   "lastRealBattery": {
-    "version": "0.7.85-beta",
+    "version": "0.7.88-beta",
     "distinctQuestions": 3,
-    "submissions": 3,
-    "privacyBlocks": 0,
-    "scopedPasses": 2,
-    "utilityFailures": 1
+    "submissions": 6,
+    "repetitionsPerQuestion": 2,
+    "completeCaseRecords": 6,
+    "scopedTechnicalAndDocumentaryPasses": 6,
+    "reviewType": "AI_ASSISTED_NOT_HUMAN_CLINICAL",
+    "pairResult": "AGREEING_CORE_WITH_DETAIL_VARIATIONS",
+    "generalRepeatabilityEstablished": false,
+    "timingSeconds": {
+      "aifa": [
+        17.84,
+        11.047
+      ],
+      "legislation": [
+        11.469,
+        9.64
+      ],
+      "generalClinicalWeb": [
+        35.422,
+        32.372
+      ]
+    },
+    "scope": "GENERAL_DOCUMENTARY_QUESTIONS_ON_EXACT_IMAGE_JOB_NOT_AUTHENTICATED_BROWSER_CHAT"
   },
   "website": {
-    "publication": 55,
-    "snapshot": "2026-10-17-r19",
+    "publication": 71,
+    "snapshot": "2026-10-26-r33",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
     "physicalAccuracyValidated": false,
     "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
-    "internalTrafficExclusion": "owner_profile_and_recognized_automated_browsers",
+    "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
     "interface": "unified_regional_map_and_prioritized_owner_dashboard",
-    "surveyNotice": "sophia-public-2026-10-17-04",
+    "surveyNotice": "sophia-public-2026-10-18-05",
     "paymentPreferences": [
       "monthly",
       "annual",
@@ -46,9 +60,61 @@
     ],
     "geographyTestsExcluded": true,
     "mapReadout": "inline_below_map_no_overlay",
-    "surveyInterface": "continuous_premium_layout_budget_last_before_contact"
+    "surveyInterface": "survey_with_optional_waitlist_initially_selected",
+    "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
+    "surveyAndWaitlistIndependent": true
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
-  "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency"
+  "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
+  "historical87Reference": {
+    "appVersion": "0.7.87-beta",
+    "qualification": {
+      "offlineAppTests": 1220,
+      "scriptedApiReplays": 100,
+      "separateAIReviewScopedChecks": 79,
+      "originalReadings": 20,
+      "presentations": 10,
+      "boundReadings": 18,
+      "explicitGapReadings": 2,
+      "repetitionsPerReading": 5,
+      "exactSourceCI": "PASS",
+      "freshBuildAndReadback": "PASS"
+    },
+    "newRealModelRunsOn87": 0,
+    "lastRealBattery": {
+      "version": "0.7.85-beta",
+      "distinctQuestions": 3,
+      "submissions": 3,
+      "privacyBlocks": 0,
+      "scopedPasses": 2,
+      "utilityFailures": 1
+    }
+  },
+  "model": {
+    "family": "gpt-6.1-sol",
+    "defaultReasoning": "low",
+    "controlledComplexReasoning": "medium",
+    "observedReasoningInSixCases": "low",
+    "complexEscalationQualifiedBySixCases": false
+  },
+  "fallback": {
+    "actionFirst": true,
+    "enabled": true,
+    "actualWebSearchAndBodyRead": true,
+    "declaredCitations": "W",
+    "bypassesPrivacyAccessOrBudget": false,
+    "fabricatedActionFinalisation": false
+  },
+  "previousCapture": {
+    "completeCaseRecords": 4,
+    "clinicalRecordsTruncated": 2,
+    "clinicalOutcomes": "NOT_EVALUATED",
+    "retainedSeparately": true
+  },
+  "farmAIChannels": {
+    "originalGPTsPreserved": true,
+    "privateBusinessPluginsFromCopies": true,
+    "modelControlledByChatHost": true
+  }
 }

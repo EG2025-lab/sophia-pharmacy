@@ -1,12 +1,40 @@
 # SOPHIA status and evaluation
 
-## Current restricted beta — 17 October 2026
+## Current restricted beta — 26 October 2026
+
+Restricted beta **0.7.88 is deployed**, reviewed on 26 October 2026. It uses **GPT-6.1 Sol**, default reasoning **low**, with controlled **medium** effort for complex composition. Ordered medicines and legislation workflows avoid an additional model classification call. After an attempted Action returns an admitted recoverable failure or source gap, independent web discovery and actual HTML/PDF reading can provide a declared fallback with [W#] citations. Privacy, access and budget blocks remain binding.
+
+The complete second battery retains **six answers to three general documentary questions, each repeated twice**: medicines storage, the complete text of an Italian statutory article, and general institutional dry-eye information. Technical and AI-assisted documentary checks passed within those questions; the essential content agrees within each pair, with detail and wording variations. Observed end-to-end times: medicines **11–18 s**, legislation **10–12 s**, clinical web recovery **32–35 s**. These are selected observations, not an SLA, a controlled speed comparison, general repeatability or human clinical validation. The clinical answers declare partial coverage and unverified currency/retraction status. General professional rollout remains **NO-GO**. [Status and limits](../README.md).
+
+Technical qualification on the deployed image: **1,309 offline app tests, 12 scope checks and 12 JavaScript checks**, exact-source app-only CI, immutable build and deployment readback. Those checks are distinct from live answers. All model decisions observed in the six-case battery use low; that sample does not qualify complex escalation. The first battery retained four complete records and two truncated clinical records; those two were not evaluated. A separate second battery captures all six records and preserves its own sealed report. Neither report is retrospectively rewritten.
+
+The clinical workflow actually attempted its Action before separate web recovery read three institutional documents. The web output does not fabricate Clinical Action finalisation or a signed Action receipt. Coverage remains partial and currency/retraction checks unknown where declared. Broad literature retrieval, compound medicine presentations, ingredient reconciliation, OCR and full physical-package detail remain open.
+
+The app dependency scope has no known unresolved findings across the 54 reviewed packages. The wider bridge scope still has findings and an expired official copy, so the **full qualification gate remains open**. No overall security, clinical, legal or regulatory certification is claimed. Human professional acceptance and representative independent evaluation are still required before expanding access.
+
+## Current operational reference
+
+App **0.7.88-beta**, medicines/source bridge **0.7.49**, Clinical Evidence **2.0.0-rc.72**. Existing bridges, access, keys and resource allocation are preserved. The model routing and controlled web-recovery path are updated; public access is not opened. Monitoring configuration and app deployment are separate references: the prior monitoring reference is not presented as current-image qualification. The sealed next-version governance candidate is not the running app and remains NO-GO pending its own checks.
+
+Website snapshot **2026-10-26-r33**. All **16 maturity scores, 19 house states and six roadmap gates** have been reviewed and retained; there is no automatic score increase. The website and app have separate version numbers. [Machine-readable current reference](CURRENT.json), [canonical transparency](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) and [roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap).
+
+## Current survey and FarmAI channels
+
+The optional-waitlist flow uses notice **sophia-public-2026-10-18-05**. Survey-only submission is available; email is required only for a chosen waitlist or interview purpose. Historical purposes are preserved. [Research flow](PROFESSIONAL_NEEDS_RESEARCH.md).
+
+FarmAI retains its original GPTs; copies have been migrated into private Business plugins with instructions/documents in Skills and former Actions exposed through an MCP App. The chat host controls the plugin model and browser. This migration does not validate SOPHIA or confer access on all workspace members. [Channels and continuity](FARMAI_AND_SOPHIA.md).
+
+## Historical reviews below
+
+Dates, versions and “current” wording within the dated sections below describe those earlier observations. They do not replace the current reference above.
+
+## Historical restricted beta — 17 October 2026
 
 Restricted beta **0.7.87 is deployed**, reviewed on 17 October 2026. A specialist agent compared the AIFA reader with FarmAI and identified app-layer identity, section-selection and repeatability defects. The repair retains exact denomination, material formulation wording, strength denominators, separate SmPC/PIL coverage and reference-document provenance. Qualification: 1,220 offline app tests, 100 scripted API replays, 79 scoped checks in a separate AI-assisted review, exact-source CI, fresh build and deployment readback. **No new live model answer on 87.** General professional rollout remains NO-GO.
 
 Twenty original document readings across ten presentations were repeated five times with identical deterministic outcomes: eighteen bound readings and two explicit gaps. Readable passages are not automatically complete document pairs: some ingredient names remain unreconciled. The sample informed development and is not an independent blinded benchmark. Latest real model battery remains **0.7.85**: three questions, two scoped passes, one documentary utility failure and zero privacy blocks. Final-answer usefulness, professional acceptance and human clinical validation remain distinct from technical reader checks.
 
-## Current operational reference
+## Historical operational reference — 17 October 2026
 
 App 0.7.87-beta, source bridge 0.7.49 and Clinical Evidence 2.0.0-rc.72. The AIFA base bridge is byte-identical to the FarmAI reader compared in this audit. Source acquisition, product binding, section coverage and claim support are tracked separately. Some compound presentations, ingredient-label reconciliation, OCR recovery and complete physical-package details remain open. No blanket claim of perfect catalog coverage or clinical/legal validation. Models, budgets, keys, IAM, authentication, staging and public access are unchanged.
 
