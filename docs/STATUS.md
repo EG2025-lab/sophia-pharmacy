@@ -2,6 +2,40 @@
 
 ## Current operational reference
 
+The deployed professional beta is **0.7.98-beta**, restricted to people authorized by the owner. Verified Google sign-in identifies the person; a new application stays pending until the owner approves it. Automatic admission is disabled and former public preview routes remain closed. Professional qualification is self-declared, not automatically verified. **Real payments and answer charging remain inactive.** The public Stealth website offers the survey and optional waitlist, without access to the app. [Current status](CURRENT.json).
+
+Release 98 improves exact legislative-reference parsing, removes only a redundant copy of already complete source context, and adds minimized failure diagnostics. Access policy, safety controls, model configuration and web-recovery policy are preserved from 97. Qualification includes **1,508 offline Python checks**, with 61 targeted checks included, and a no-network comparison of 153 runtime files. These are technical checks, separate from answer evaluation.
+
+Exactly **two known regression questions were submitted in separate real UI chats** on 98: medicine excipients and prescription formalities. Both produced complete responses; their documentary support passed an AI-assisted review within the checked scope, with concrete gaps still open. Backend durations were **31.04 s and 62.42 s**, with **eight completed model calls** in total. The partial token-cost estimate is **USD 0.3049303**, excluding unobserved cache-write charges, infrastructure, services, tax and human review. These two observations are not a blinded holdout, a controlled speed comparison, an SLA or evidence of general repeatability.
+
+The excipient sections support the narrow answer, but PIL/FI ingredient-label reconciliation remains flagged for review; complete reconciliation of the document pair is not established. The prescription-formality result applies to ordinary private prescriptions and the two verified non-repeatable-prescription presentations: the opening must qualify package and dispensing channel because hospital-only presentations also exist. Professional acceptance and human clinical validation remain pending. Neither case exercised independent web fallback; reading an official gazette directly through an Action is not fallback.
+
+The deployed path retains **GPT-6.1 Sol low with controlled medium**, Action-first retrieval and declared, actually read web recovery where permitted. Adaptive routing and real payments remain disabled. The two 98 cases used the AIFA and legislative/document Actions successfully; the earlier upstream TLS failure remains a historical observation, not proof of a current universal outage or of universal recovery. Latency, broader source coverage and continuity remain open. Candidate 96 was not promoted after its failed replay. Privacy, access and budget limits remain binding.
+
+Existing data, credits and history are preserved. Public login/application pages do not grant permission to use the beta. Release 97 retains the same owner-review policy as a technical recovery baseline; older automatic-admission images are not safe direct rollbacks. The previous isolated Stripe scenario used simulated money and synthetic accounts. The approved future EUR 10/100 eligible-answer pack remains inactive. New-pharmacist independent acceptance, professional review and broader source coverage remain open. All 16 maturity scores, 19 descriptive house states and six roadmap gates are retained. The existing presentation remains a dated 97 artifact; it has not been regenerated or relabelled as 98.
+
+## In italiano
+
+La beta professionale distribuita è **0.7.98-beta**, riservata alle persone autorizzate dal titolare. Google verificato identifica la persona; una nuova richiesta resta in attesa dell’approvazione. L’attivazione automatica è disabilitata e le vecchie anteprime pubbliche restano chiuse. La qualifica professionale è autodichiarata, non verificata automaticamente. **Pagamenti reali e addebiti delle risposte restano inattivi.** Il sito pubblico Stealth offre sondaggio e lista facoltativa, senza accesso all’app. [Stato corrente](CURRENT.json).
+
+La 98 migliora il riconoscimento dei riferimenti normativi esatti, rimuove soltanto una copia ridondante del contesto delle fonti già completo e aggiunge una diagnostica minimizzata degli errori. Accessi, controlli di sicurezza, configurazione del modello e regole del recupero web sono preservati dalla 97. La qualificazione tecnica comprende **1.508 controlli Python offline**, con 61 mirati inclusi, e il confronto senza rete di 153 file runtime. Sono verifiche tecniche, distinte dalla valutazione delle risposte.
+
+Sulla 98 sono state inviate esattamente **due domande di regressione note in chat reali separate della UI**: eccipienti di un medicinale e formalismi della ricetta. Entrambe hanno prodotto una risposta completa; la revisione documentale assistita da AI è positiva entro il perimetro controllato, con riserve concrete. Tempi backend: **31,04 s e 62,42 s**, con **otto chiamate modello concluse** complessive. La stima parziale dei soli token è **0,3049303 USD**, escluse cache-write non osservate, infrastruttura, servizi, imposte e revisione umana. Due osservazioni non sono un holdout cieco, un confronto controllato di velocità, uno SLA o una prova di ripetibilità generale.
+
+Le sezioni eccipienti sostengono la risposta circoscritta, ma la riconciliazione dell’etichetta del principio attivo nel FI resta da revisionare; il gate generale della coppia documentale non è chiuso. L’esito sui formalismi vale per normale ricetta privata e due confezioni RNR verificate: l’apertura deve qualificare subito confezione e canale perché esistono anche presentazioni OSP. Accettazione professionale e validazione clinica umana restano in attesa. Nessuno dei due casi ha esercitato fallback web indipendente; la lettura diretta della Gazzetta Ufficiale tramite Action non è fallback.
+
+Il percorso distribuito conserva **GPT-6.1 Sol low con aumento controllato a medium**, Actions prima e recupero web effettivamente letto e dichiarato dove ammesso. Router adattivo e pagamenti restano disattivati. Nei due casi 98 le Actions AIFA e normative/documentali hanno risposto; il precedente errore TLS resta un’osservazione storica, senza provare un guasto totale attuale o una disponibilità universale. Latenza, copertura più ampia e continuità restano aperte. La candidata 96 non è stata promossa dopo il replay fallito. Privacy, accessi e budget restano vincolanti.
+
+## FarmAI continuity
+
+FarmAI originals and private Business plugins retain content0.7.7.155, with separate package versions. The originals remain the owner’s working continuity channel. No further GPT/plugin tests were run after the owner deferred them. [Channels and limits](FARMAI_AND_SOPHIA.md).
+
+## Historical access release — 27 October 2026, version 0.7.97
+
+The following preserved review describes 97 before the two 98 UI questions. Its “current” wording is historical.
+
+### Preserved 97 operational reference
+
 The deployed professional beta is **0.7.97-beta**, restricted to people authorized by the owner. Verified Google sign-in identifies the person; a new application stays pending until the owner approves it. Automatic admission is disabled and former public preview routes are closed. Professional qualification remains self-declared, not automatically verified. **Real payments and answer charging remain inactive.** The public website offers the survey and optional waitlist, without access to the app. [Current status](CURRENT.json).
 
 Release97 changes access policy and canonical same-origin HTTPS redirects. It preserves the95 model engine, source contents, prompts and account JavaScript byte for byte. The exact build passed **1,487 Python and two offline UI checks** and a no-network151-file runtime inspection. Production startup, owner-review settings and four relative redirects were read back. **No new97 model question was run.** These checks do not establish answer quality, speed, general repeatability or human clinical validation.
@@ -12,7 +46,7 @@ The earlier provider-credit refusal is historical: a later stored95 answer compl
 
 The previous isolated Stripe scenario used simulated money and synthetic accounts; it is not a live-payment offer. The approved future €10/100 eligible-answer tariff remains inactive. New-pharmacist browser acceptance, independent professional review, broader source coverage and human clinical validation remain open. No maturity score or rollout gate is advanced by this access release.
 
-## In italiano
+### Riferimento 97 conservato in italiano
 
 La beta professionale distribuita è **0.7.97-beta**, riservata alle persone autorizzate dal titolare. Google verificato identifica la persona; una nuova richiesta resta in attesa dell’approvazione. L’attivazione automatica è disabilitata e le vecchie anteprime pubbliche sono chiuse. La qualifica professionale resta autodichiarata, non verificata automaticamente. **Pagamenti reali e addebiti delle risposte restano inattivi.** Il sito pubblico offre sondaggio e lista facoltativa, senza accesso all’app. [Stato corrente](CURRENT.json).
 
@@ -22,9 +56,6 @@ Il percorso distribuito conserva **GPT-6.1 Sol low con aumento controllato a med
 
 Il blocco quota precedente è storico: una successiva risposta95 è registrata, senza provare la continuità generale. Nessuna ricarica da parte dell’agente. Le vecchie immagini con accesso automatico restano per audit e non sono un rollback diretto sicuro. Dati, crediti e storico sono conservati. Prima dell’ampliamento restano necessari accettazione professionale e gate propri. Il sondaggio non abilita l’app.
 
-## FarmAI continuity
-
-FarmAI originals and private Business plugins retain content0.7.7.155, with separate package versions. The originals remain the owner’s working continuity channel. No further GPT/plugin tests were run after the owner deferred them. [Channels and limits](FARMAI_AND_SOPHIA.md).
 
 ## Historical operational review — 26 October 2026, version 0.7.88
 
