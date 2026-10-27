@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-27",
-  "appVersion": "0.7.95-beta",
-  "deployment": "professional_beta_self_service_owner_answer_tests_deferred",
-  "publicAppAccess": true,
-  "technicalRepair": "privacy14_medicine_code_dose_feedback_pagination_model_display_diagnostics_code_loaded",
+  "appVersion": "0.7.97-beta",
+  "deployment": "restricted_beta_owner_approval_required",
+  "publicAppAccess": false,
+  "technicalRepair": "owner_review_admission_and_relative_https_redirects_engine95_unchanged",
   "qualification": {
-    "offlineAppTests": 1469,
-    "offlineAccountTests": 147,
-    "offlineTotal": 1616,
-    "offlineChecksPreviouslyCompleted": true,
-    "immutableBuildAndDeploymentReadback": "EXACT_SOURCE_IMAGE_PRODUCTION_CONFIG_AND_STARTUP95_READBACK",
-    "liveModelAnswersOn95": 0,
-    "publicationModelCalls": 0,
-    "functionalAnswerTests": "DEFERRED_BY_OWNER",
-    "fullGate": "OPEN_BRIDGE_FINDINGS_PROFESSIONAL_ACCEPTANCE_AND_OWN95_ANSWER_QUALIFICATION"
+    "offlinePythonAppTests": 1487,
+    "offlineNodeUITests": 2,
+    "noNetworkRuntimeFiles": 151,
+    "sourceAndImageVerified": true,
+    "productionStartupAndOwnerReviewReadBack": true,
+    "new97ModelAnswers": 0,
+    "engineAndSources95ByteIdentical": true,
+    "professionalAcceptance": "PENDING",
+    "humanClinicalValidation": false
   },
-  "manualLiveAcceptance": "deferred_by_owner_not_run95",
+  "manualLiveAcceptance": "NO_NEW97_MODEL_QUESTIONS_ACCESS_READBACK_ONLY",
   "lastRealBattery": {
     "version": "0.7.88-beta",
     "distinctQuestions": 3,
@@ -45,8 +45,8 @@
     "meaning": "Historical complete formal six-answer engine battery, distinct from subsequent incomplete exploratory93 runs"
   },
   "website": {
-    "publication": 76,
-    "snapshot": "2026-10-27-r37",
+    "publication": 78,
+    "snapshot": "2026-10-27-r39",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -65,7 +65,8 @@
     "mapReadout": "inline_below_map_no_overlay",
     "surveyInterface": "survey_with_optional_waitlist_initially_selected",
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
-    "surveyAndWaitlistIndependent": true
+    "surveyAndWaitlistIndependent": true,
+    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
@@ -143,17 +144,22 @@
     "fullGate": "OPEN_BRIDGE_FINDINGS_AND_EXPIRED_OFFICIAL_COPY"
   },
   "availability": {
-    "modelBackedAnswers": "TEMPORARILY_UNAVAILABLE_PROVIDER_API_CREDIT",
-    "accountAccess": "AVAILABLE",
-    "fundingRestorationVerified": false,
-    "ownerDecision": "MANUAL_API_RECHARGE_LATER_NO_AGENT_PURCHASE"
+    "accountApplication": "OWNER_REVIEW_PENDING_APPROVAL",
+    "modelBackedAnswers": "LATER95_RESPONSE_OBSERVED_NOT_GENERAL_CONTINUITY",
+    "aifaUpstream": "TLS_VERIFICATION_FAILURE_OBSERVED",
+    "latencyAndReliability": "OPEN",
+    "new97InferenceChecks": 0,
+    "agentFundingPurchases": 0
   },
   "accountPolicy": {
-    "registration": "AUTO_SELF_SERVICE",
+    "registration": "OWNER_REVIEW",
     "verifiedGoogleRequired": true,
     "professionalDeclarationRequired": true,
     "professionalRegistrationVerified": false,
-    "newPharmacistIndependentAcceptance": "PENDING"
+    "newPharmacistIndependentAcceptance": "PENDING",
+    "automaticAdmission": false,
+    "ownerApprovalRequired": true,
+    "existingDataAndCreditsPreserved": true
   },
   "payments": {
     "realPaymentsActive": false,
@@ -274,5 +280,77 @@
     "thoseFixesDeployedIn95": true,
     "adaptiveRouterEnabled": false,
     "asyncPaymentEnabled": false
-  }
+  },
+  "historical95Reference": {
+    "appVersion": "0.7.95-beta",
+    "deployment": "professional_beta_self_service_owner_answer_tests_deferred",
+    "qualification": {
+      "offlineAppTests": 1469,
+      "offlineAccountTests": 147,
+      "offlineTotal": 1616,
+      "offlineChecksPreviouslyCompleted": true,
+      "immutableBuildAndDeploymentReadback": "EXACT_SOURCE_IMAGE_PRODUCTION_CONFIG_AND_STARTUP95_READBACK",
+      "liveModelAnswersOn95": 0,
+      "publicationModelCalls": 0,
+      "functionalAnswerTests": "DEFERRED_BY_OWNER",
+      "fullGate": "OPEN_BRIDGE_FINDINGS_PROFESSIONAL_ACCEPTANCE_AND_OWN95_ANSWER_QUALIFICATION"
+    },
+    "availability": {
+      "modelBackedAnswers": "TEMPORARILY_UNAVAILABLE_PROVIDER_API_CREDIT",
+      "accountAccess": "AVAILABLE",
+      "fundingRestorationVerified": false,
+      "ownerDecision": "MANUAL_API_RECHARGE_LATER_NO_AGENT_PURCHASE"
+    },
+    "accountPolicy": {
+      "registration": "AUTO_SELF_SERVICE",
+      "verifiedGoogleRequired": true,
+      "professionalDeclarationRequired": true,
+      "professionalRegistrationVerified": false,
+      "newPharmacistIndependentAcceptance": "PENDING"
+    },
+    "release95": {
+      "version": "0.7.95-beta",
+      "promoted": true,
+      "offlineTests": 1616,
+      "financialTest": "PASS_ONE_ISOLATED_STRIPE_TEST_SCENARIO",
+      "realMoney": false,
+      "syntheticAccountA": [
+        0,
+        100,
+        0
+      ],
+      "syntheticAccountBUnchanged": true,
+      "topupRows": 1,
+      "reversalRows": 1,
+      "authenticDuplicates": "NO_ADDITIONAL_ECONOMIC_MOVEMENTS",
+      "firstPaymentACKSeconds": 7.3,
+      "refundACKWindowMaxSeconds": 0.403,
+      "ACKTimesAreAnswerLatencyOrSLA": false,
+      "newModelAnswers": 0,
+      "newRealGoogleSignupAcceptance": false,
+      "humanClinicalValidation": false,
+      "testAccessClosed": true,
+      "otherCandidateImplementations": [
+        "general medicine-code/dose privacy false-block repair",
+        "feedback submission/pagination fixes",
+        "observed-model footer",
+        "source/provider diagnostics"
+      ],
+      "thoseFixesDeployedIn90": false,
+      "deploymentReadback": "TRAFFIC100_HEALTH95_CONFIG90_PRESERVED",
+      "functionalTestsDeferred": true,
+      "thoseFixesDeployedIn95": true,
+      "adaptiveRouterEnabled": false,
+      "asyncPaymentEnabled": false
+    }
+  },
+  "candidate96": {
+    "promoted": false,
+    "singleReplayResult": "FAILED_GENERATION_TIMEOUT_NO_PUBLISHABLE_ANSWER",
+    "elapsedSeconds": 108.327,
+    "modelCallsStarted": 8,
+    "retries": 0,
+    "fasterUsefulAnswerEstablished": false
+  },
+  "publicApplicationURLRetainedForAuthorizedUsersOnly": true
 }

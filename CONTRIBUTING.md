@@ -1,5 +1,5 @@
 # Contributing to SOPHIA
-> Current product reference, reviewed 27 October 2026: deployed beta **0.7.95-beta**. Startup/version/configuration read back; answer tests deferred by the owner, API credit restoration pending, new adaptive routing and real payments disabled. Prior offline and isolated test-payment evidence is scoped; publication is not clinical validation. The20-question public pilot remains a proposal, not executed or professionally validated. See [current status](docs/STATUS.md). No new partnership or access is implied.
+> Current product reference, reviewed27October2026: **0.7.97-beta**, owner-approved access only. Automatic admission, real payments and adaptive routing are disabled.97 preserves the95 engine; candidate96 was not promoted after its sole failed replay. Technical access checks are not professional or clinical validation. The20-question pilot remains a proposal; no tester invitation, partnership or access is implied. [Current status](docs/STATUS.md).
 
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**

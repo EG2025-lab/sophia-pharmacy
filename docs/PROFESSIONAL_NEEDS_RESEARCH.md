@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Product reference reviewed 27 October 2026: app **0.7.95-beta** is deployed, with answer tests deferred, API restoration pending and real top-ups inactive. Publication and prior test-payment results do not change survey purposes or create an active paid offer. [Current status](STATUS.md).
+> Product reference reviewed27October2026: **0.7.97-beta** requires owner approval. The public Home has returned to the Stealth survey and optional waitlist, without app-access buttons. A survey or waitlist entry does not grant beta access. Real payments are inactive. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
