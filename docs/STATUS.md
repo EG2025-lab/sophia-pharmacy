@@ -1,6 +1,34 @@
 # SOPHIA status and evaluation
 
-## Current restricted beta — 26 October 2026
+## Current operational reference
+
+The deployed professional beta is **0.7.90-beta**, reviewed on **27 October 2026**. Verified Google sign-in, a self-declared professional profile and required acknowledgements activate a personal account without a Business workspace invitation or a ChatGPT subscription. Professional registration is not automatically verified. Account access remains available; model-backed answers are temporarily unavailable because API credit must be restored. **Real top-ups and answer charges are inactive**, with zero initial service credit. [Open SOPHIA](https://sophia-web-beta-894941272542.europe-west8.run.app/) · [Your account](https://sophia-web-beta-894941272542.europe-west8.run.app/account).
+
+Candidate **0.7.95-beta is not the deployed app**. It passed **1,616 offline technical checks** and one isolated Stripe test scenario: a simulated €10 top-up credited 100 units to one synthetic account, a full refund returned it to zero, a second account stayed unchanged, and authentic duplicate events added no movements. The first payment acknowledgement took 7.3 seconds; the three refund acknowledgements were each below 0.403 seconds in that test window. These are payment acknowledgements, not answer latency or an SLA. The test access was closed afterwards. No real money, new model answer on 95, independent new-pharmacist signup acceptance or human clinical validation is claimed. The €10/100-answer tariff is approved for future activation, **not an active offer**. API restoration, model/router and paid-answer checks, LIVE payment setup and professional acceptance remain separate steps.
+
+The deployed 90 release has 1,309 app regressions and 119 account checks (1,428 offline tests), container/build/readback checks and scoped public-route/access checks. It retains the 88 answer core; those technical checks are not new model responses on 90. The last six-answer engine battery remains historical 0.7.88 evidence. Candidate 95 technical and test-payment evidence does not qualify clinical usefulness, general repeatability or a new authenticated user journey. The full bridge/source gate and human professional acceptance remain open.
+
+Website snapshot **2026-10-27-r36** records the same deployed app and the separate candidate. All **16 current scores, 19 room states and six gates** were reviewed and retained. Service operations remain 5/10 following the earlier availability reduction. No score or rollout advancement follows automatically from the test payment. [Machine-readable reference](CURRENT.json) · [Transparency](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap).
+
+## In italiano
+
+La beta professionale distribuita è **0.7.90-beta**, riesame del **27 ottobre 2026**. Accesso Google verificato, profilo professionale autodichiarato e accettazioni richieste attivano lo spazio personale senza invito alla Workspace Business o abbonamento ChatGPT. L’iscrizione all’Ordine non è verificata automaticamente. L’account resta accessibile; le risposte che richiedono il modello sono temporaneamente indisponibili perché occorre ripristinare il credito API. **Ricariche reali e addebiti delle risposte sono disattivati**, con credito iniziale zero. [Apri SOPHIA](https://sophia-web-beta-894941272542.europe-west8.run.app/) · [Il tuo account](https://sophia-web-beta-894941272542.europe-west8.run.app/account).
+
+La candidata **0.7.95-beta non è l’app distribuita**. Ha superato **1.616 controlli tecnici offline** e uno scenario Stripe isolato di prova: una ricarica simulata di 10 € ha accreditato 100 unità a un account sintetico, il rimborso lo ha riportato a zero, un secondo account è rimasto invariato e gli eventi duplicati autentici non hanno aggiunto movimenti. La prima conferma del pagamento ha richiesto 7,3 secondi; le tre conferme del rimborso meno di 0,403 secondi ciascuna nella finestra osservata. Sono conferme dei pagamenti, non tempi delle risposte o SLA. Gli accessi di prova sono stati chiusi. Non sono dichiarati denaro reale, nuove risposte del modello sulla 95, accettazione dell’iscrizione di un nuovo farmacista reale o validazione clinica umana. La tariffa di 10 € per 100 risposte è approvata per la futura attivazione, **non è un’offerta attiva**. Ripristino API, prove del modello/router e dell’addebito di una risposta, configurazione dei pagamenti reali e accettazione professionale restano passaggi distinti.
+
+## Session development work — candidates remain separate
+
+The 95 candidate carries general fixes for medicine-code/dose privacy false blocks, feedback submission and pagination, actual-model display and source/provider diagnostics. These are candidate implementations, not fixes asserted as deployed in 90 or verified on every physical iPhone. Preparatory runs on 93 produced scoped documentary observations, but clinical/web qualification, capture completeness and further model families remain unfinished; funding interruption stopped further qualification. They do not replace or expand the historical six-answer 88 result into general clinical validation.
+
+The app uses an API web-search tool and actual server-side document reading for admitted recovery. This is distinct from an interactive Google/Chrome browser. Recovery remains declared and cannot bypass privacy, access or provider-budget blocks.
+
+## Current survey and FarmAI channels
+
+The optional-waitlist flow retains its original purposes and notice. Survey-only submission is available; email is required only for a chosen waitlist or interview. [Research flow](PROFESSIONAL_NEEDS_RESEARCH.md). FarmAI originals and private Business plugins retain content 0.7.7.155; plugin package versions are separate. No further 155 chat tests were run after publication at the owner’s request. Broad clinical/parity qualification and a real second-member install remain distinct. [Channels and continuity](FARMAI_AND_SOPHIA.md).
+
+## Historical operational review — 26 October 2026, version 0.7.88
+
+The following is the preserved prior review. Its dated version, deployment and “current” wording describe that earlier state, not today’s reference.
 
 Restricted beta **0.7.88 is deployed**, reviewed on 26 October 2026. It uses **GPT-6.1 Sol**, default reasoning **low**, with controlled **medium** effort for complex composition. Ordered medicines and legislation workflows avoid an additional model classification call. After an attempted Action returns an admitted recoverable failure or source gap, independent web discovery and actual HTML/PDF reading can provide a declared fallback with [W#] citations. Privacy, access and budget blocks remain binding.
 
@@ -12,13 +40,13 @@ The clinical workflow actually attempted its Action before separate web recovery
 
 The app dependency scope has no known unresolved findings across the 54 reviewed packages. The wider bridge scope still has findings and an expired official copy, so the **full qualification gate remains open**. No overall security, clinical, legal or regulatory certification is claimed. Human professional acceptance and representative independent evaluation are still required before expanding access.
 
-## Current operational reference
+## Historical operational reference of 26 October
 
 App **0.7.88-beta**, medicines/source bridge **0.7.49**, Clinical Evidence **2.0.0-rc.72**. Existing bridges, access, keys and resource allocation are preserved. The model routing and controlled web-recovery path are updated; public access is not opened. Monitoring configuration and app deployment are separate references: the prior monitoring reference is not presented as current-image qualification. The sealed next-version governance candidate is not the running app and remains NO-GO pending its own checks.
 
 Website snapshot **2026-10-26-r33**. All **16 maturity scores, 19 house states and six roadmap gates** have been reviewed and retained; there is no automatic score increase. The website and app have separate version numbers. [Machine-readable current reference](CURRENT.json), [canonical transparency](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) and [roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap).
 
-## Current survey and FarmAI channels
+## Historical survey and FarmAI channels of 26 October
 
 The optional-waitlist flow uses notice **sophia-public-2026-10-18-05**. Survey-only submission is available; email is required only for a chosen waitlist or interview purpose. Historical purposes are preserved. [Research flow](PROFESSIONAL_NEEDS_RESEARCH.md).
 

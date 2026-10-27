@@ -1,5 +1,7 @@
 # Professional-needs research
 
+> Product reference reviewed 27 October 2026: app 0.7.90-beta; model-backed answers temporarily unavailable and real top-ups inactive. Candidate 0.7.95 test-payment results do not change survey purposes or create a paid offer. [Current status](STATUS.md).
+
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
 ## Current website flow

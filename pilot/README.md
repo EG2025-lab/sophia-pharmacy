@@ -1,5 +1,5 @@
 # A 20-question pilot for professional pharmacy knowledge
-> Current product reference, reviewed 26 October 2026: restricted beta **0.7.88**, with a separate six-answer engineering battery. The public 20-question pilot is still a proposal, not frozen, executed or professionally validated. See [current status](../docs/STATUS.md). No new partner commitment or access is implied.
+> Current product reference, reviewed 27 October 2026: deployed beta **0.7.90-beta**; model-backed answers temporarily unavailable and real payments inactive. Candidate **0.7.95-beta** has isolated technical/test-payment evidence only and is not promoted. The public 20-question pilot remains a proposal, not frozen, executed or professionally validated. See [current status](../docs/STATUS.md). No new partnership or access is implied.
 
 
 **SOPHIA · Proposal v0.1 · 12 October 2026 · NOT RUN**

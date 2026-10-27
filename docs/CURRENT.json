@@ -1,18 +1,17 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-26",
-  "appVersion": "0.7.88-beta",
-  "deployment": "restricted_beta",
-  "publicAppAccess": false,
-  "technicalRepair": "ordered_model_routing_and_actual_declared_web_recovery",
+  "reviewedAt": "2026-10-27",
+  "appVersion": "0.7.90-beta",
+  "deployment": "professional_beta_self_service",
+  "publicAppAccess": true,
+  "technicalRepair": "self_service_personal_accounts_and_premium_interface_with_88_answer_core_preserved",
   "qualification": {
     "offlineAppTests": 1309,
-    "scopeChecks": 12,
-    "javascriptChecks": 12,
-    "exactSourceAppCI": "PASS",
-    "immutableBuildAndDeploymentReadback": "PASS",
-    "scope": "APP_ONLY_REUSE_UNCHANGED_BRIDGES",
-    "fullGate": "OPEN_BRIDGE_FINDINGS_AND_EXPIRED_OFFICIAL_COPY"
+    "offlineAccountTests": 119,
+    "offlineTotal": 1428,
+    "immutableBuildAndDeploymentReadback": "PASS_SCOPED",
+    "liveModelAnswersOn90": 0,
+    "fullGate": "OPEN_BRIDGE_FINDINGS_AND_PROFESSIONAL_ACCEPTANCE"
   },
   "manualLiveAcceptance": "pending_professional_acceptance",
   "lastRealBattery": {
@@ -39,11 +38,12 @@
         32.372
       ]
     },
-    "scope": "GENERAL_DOCUMENTARY_QUESTIONS_ON_EXACT_IMAGE_JOB_NOT_AUTHENTICATED_BROWSER_CHAT"
+    "scope": "GENERAL_DOCUMENTARY_QUESTIONS_ON_EXACT_IMAGE_JOB_NOT_AUTHENTICATED_BROWSER_CHAT",
+    "meaning": "Historical complete formal six-answer engine battery, distinct from subsequent incomplete exploratory93 runs"
   },
   "website": {
-    "publication": 71,
-    "snapshot": "2026-10-26-r33",
+    "publication": 74,
+    "snapshot": "2026-10-27-r36",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -104,7 +104,8 @@
     "actualWebSearchAndBodyRead": true,
     "declaredCitations": "W",
     "bypassesPrivacyAccessOrBudget": false,
-    "fabricatedActionFinalisation": false
+    "fabricatedActionFinalisation": false,
+    "mechanism": "API_WEB_SEARCH_AND_ACTUAL_SERVER_SIDE_HTML_PDF_READING_NOT_INTERACTIVE_BROWSER"
   },
   "previousCapture": {
     "completeCaseRecords": 4,
@@ -115,6 +116,86 @@
   "farmAIChannels": {
     "originalGPTsPreserved": true,
     "privateBusinessPluginsFromCopies": true,
-    "modelControlledByChatHost": true
+    "modelControlledByChatHost": true,
+    "contentVersion": "0.7.7.155",
+    "pluginPackageVersions": {
+      "EVO": "0.8.0",
+      "Support": "0.5.0"
+    },
+    "new155ChatTestsAfterPublication": 0,
+    "independentSecondMemberInstallVerified": false
+  },
+  "appURL": "https://sophia-web-beta-894941272542.europe-west8.run.app/",
+  "accountURL": "https://sophia-web-beta-894941272542.europe-west8.run.app/account",
+  "historical88Qualification": {
+    "offlineAppTests": 1309,
+    "scopeChecks": 12,
+    "javascriptChecks": 12,
+    "exactSourceAppCI": "PASS",
+    "immutableBuildAndDeploymentReadback": "PASS",
+    "scope": "APP_ONLY_REUSE_UNCHANGED_BRIDGES",
+    "fullGate": "OPEN_BRIDGE_FINDINGS_AND_EXPIRED_OFFICIAL_COPY"
+  },
+  "availability": {
+    "modelBackedAnswers": "TEMPORARILY_UNAVAILABLE_PROVIDER_API_CREDIT",
+    "accountAccess": "AVAILABLE",
+    "fundingRestorationVerified": false
+  },
+  "accountPolicy": {
+    "registration": "AUTO_SELF_SERVICE",
+    "verifiedGoogleRequired": true,
+    "professionalDeclarationRequired": true,
+    "professionalRegistrationVerified": false,
+    "newPharmacistIndependentAcceptance": "PENDING"
+  },
+  "payments": {
+    "realPaymentsActive": false,
+    "answerChargingActive": false,
+    "initialCredits": 0,
+    "approvedFuturePack": {
+      "EUR": 10,
+      "credits": 100,
+      "renewal": false
+    },
+    "offerActive": false,
+    "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
+  },
+  "candidate95": {
+    "version": "0.7.95-beta",
+    "promoted": false,
+    "offlineTests": 1616,
+    "financialTest": "PASS_ONE_ISOLATED_STRIPE_TEST_SCENARIO",
+    "realMoney": false,
+    "syntheticAccountA": [
+      0,
+      100,
+      0
+    ],
+    "syntheticAccountBUnchanged": true,
+    "topupRows": 1,
+    "reversalRows": 1,
+    "authenticDuplicates": "NO_ADDITIONAL_ECONOMIC_MOVEMENTS",
+    "firstPaymentACKSeconds": 7.3,
+    "refundACKWindowMaxSeconds": 0.403,
+    "ACKTimesAreAnswerLatencyOrSLA": false,
+    "newModelAnswers": 0,
+    "newRealGoogleSignupAcceptance": false,
+    "humanClinicalValidation": false,
+    "testAccessClosed": true,
+    "otherCandidateImplementations": [
+      "general medicine-code/dose privacy false-block repair",
+      "feedback submission/pagination fixes",
+      "observed-model footer",
+      "source/provider diagnostics"
+    ],
+    "thoseFixesDeployedIn90": false
+  },
+  "preparatory93Trials": {
+    "scope": "CONTROLLED_EXPLORATORY_NOT_COMPLETE_QUALIFICATION",
+    "documentaryObservations": "SCOPED",
+    "clinicalWebQualification": "INCOMPLETE_PARTIAL",
+    "captureLimitations": "RETAINED_NOT_RECONSTRUCTED_AS_FULL_PASS",
+    "newModelFamilies": "NOT_FULLY_EXERCISED",
+    "laterQualification": "STOPPED_BY_PROVIDER_CREDIT"
   }
 }
