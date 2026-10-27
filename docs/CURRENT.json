@@ -1,22 +1,28 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-27",
-  "appVersion": "0.7.97-beta",
+  "appVersion": "0.7.98-beta",
   "deployment": "restricted_beta_owner_approval_required",
   "publicAppAccess": false,
-  "technicalRepair": "owner_review_admission_and_relative_https_redirects_engine95_unchanged",
+  "technicalRepair": "exact_rd_rdl_dpr_reference_parsing_lossless_redundant_context_removal_minimized_failure_diagnostics",
   "qualification": {
-    "offlinePythonAppTests": 1487,
-    "offlineNodeUITests": 2,
-    "noNetworkRuntimeFiles": 151,
+    "offlinePythonAppTests": 1508,
+    "targetedChecksIncluded": 61,
+    "noNetworkRuntimeFiles": 153,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "new97ModelAnswers": 0,
-    "engineAndSources95ByteIdentical": true,
+    "realUIQuestions": 2,
+    "completedRealUIAnswers": 2,
+    "completedModelCalls": 8,
+    "reviewType": "AI_ASSISTED_DOCUMENTARY_WITH_OPEN_GAPS_NOT_HUMAN_CLINICAL",
     "professionalAcceptance": "PENDING",
-    "humanClinicalValidation": false
+    "humanClinicalValidation": false,
+    "generalRepeatabilityEstablished": false,
+    "independentWebFallbackExercised": false,
+    "controlledSpeedComparison": false,
+    "SLAEstablished": false
   },
-  "manualLiveAcceptance": "NO_NEW97_MODEL_QUESTIONS_ACCESS_READBACK_ONLY",
+  "manualLiveAcceptance": "TWO_KNOWN_UI_REGRESSIONS_COMPLETE_SCOPED_DOCUMENTARY_SUPPORT_WITH_OPEN_GAPS",
   "lastRealBattery": {
     "version": "0.7.88-beta",
     "distinctQuestions": 3,
@@ -45,8 +51,8 @@
     "meaning": "Historical complete formal six-answer engine battery, distinct from subsequent incomplete exploratory93 runs"
   },
   "website": {
-    "publication": 78,
-    "snapshot": "2026-10-27-r39",
+    "publication": 79,
+    "snapshot": "2026-10-27-r40",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -66,7 +72,8 @@
     "surveyInterface": "survey_with_optional_waitlist_initially_selected",
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
     "surveyAndWaitlistIndependent": true,
-    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA"
+    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
+    "sourceCommit": "c41c117436caa5529f7ae94a873a27a22224fed6"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
@@ -103,7 +110,12 @@
     "complexEscalationQualifiedBySixCases": false,
     "adaptiveRouterPresent": true,
     "adaptiveRouterEnabled": false,
-    "literalFastPathEnabled": false
+    "literalFastPathEnabled": false,
+    "observed98Reasoning": [
+      "low",
+      "medium"
+    ],
+    "observed98ModelFamilySwitches": 0
   },
   "fallback": {
     "actionFirst": true,
@@ -112,7 +124,8 @@
     "declaredCitations": "W",
     "bypassesPrivacyAccessOrBudget": false,
     "fabricatedActionFinalisation": false,
-    "mechanism": "API_WEB_SEARCH_AND_ACTUAL_SERVER_SIDE_HTML_PDF_READING_NOT_INTERACTIVE_BROWSER"
+    "mechanism": "API_WEB_SEARCH_AND_ACTUAL_SERVER_SIDE_HTML_PDF_READING_NOT_INTERACTIVE_BROWSER",
+    "independentWebFallbackExercisedOn98": false
   },
   "previousCapture": {
     "completeCaseRecords": 4,
@@ -145,10 +158,9 @@
   },
   "availability": {
     "accountApplication": "OWNER_REVIEW_PENDING_APPROVAL",
-    "modelBackedAnswers": "LATER95_RESPONSE_OBSERVED_NOT_GENERAL_CONTINUITY",
-    "aifaUpstream": "TLS_VERIFICATION_FAILURE_OBSERVED",
+    "modelBackedAnswers": "TWO_98_REAL_UI_ANSWERS_COMPLETE_NOT_GENERAL_CONTINUITY",
+    "aifaUpstream": "SUCCESSFUL_ACTION_READS_IN_TWO_98_CASES_PRIOR_TLS_FAILURE_HISTORICAL",
     "latencyAndReliability": "OPEN",
-    "new97InferenceChecks": 0,
     "agentFundingPurchases": 0
   },
   "accountPolicy": {
@@ -352,5 +364,92 @@
     "retries": 0,
     "fasterUsefulAnswerEstablished": false
   },
-  "publicApplicationURLRetainedForAuthorizedUsersOnly": true
+  "publicApplicationURLRetainedForAuthorizedUsersOnly": true,
+  "historical97Reference": {
+    "appVersion": "0.7.97-beta",
+    "deployment": "restricted_beta_owner_approval_required",
+    "technicalRepair": "owner_review_admission_and_relative_https_redirects_engine95_unchanged",
+    "qualification": {
+      "offlinePythonAppTests": 1487,
+      "offlineNodeUITests": 2,
+      "noNetworkRuntimeFiles": 151,
+      "sourceAndImageVerified": true,
+      "productionStartupAndOwnerReviewReadBack": true,
+      "new97ModelAnswers": 0,
+      "engineAndSources95ByteIdentical": true,
+      "professionalAcceptance": "PENDING",
+      "humanClinicalValidation": false
+    },
+    "manualLiveAcceptance": "NO_NEW97_MODEL_QUESTIONS_ACCESS_READBACK_ONLY",
+    "availability": {
+      "accountApplication": "OWNER_REVIEW_PENDING_APPROVAL",
+      "modelBackedAnswers": "LATER95_RESPONSE_OBSERVED_NOT_GENERAL_CONTINUITY",
+      "aifaUpstream": "TLS_VERIFICATION_FAILURE_OBSERVED",
+      "latencyAndReliability": "OPEN",
+      "new97InferenceChecks": 0,
+      "agentFundingPurchases": 0
+    }
+  },
+  "latestRealUIRegression": {
+    "version": "0.7.98-beta",
+    "date": "2026-10-27",
+    "distinctQuestions": 2,
+    "submissions": 2,
+    "completedAnswers": 2,
+    "completedModelCalls": 8,
+    "retries": 0,
+    "scope": "TWO_KNOWN_REGRESSIONS_IN_SEPARATE_AUTHENTICATED_UI_CHATS_NOT_BLIND_HOLDOUT",
+    "reviewType": "AI_ASSISTED_NOT_HUMAN_CLINICAL",
+    "result": "SCOPED_DOCUMENTARY_SUPPORT_WITH_OPEN_GAPS",
+    "cases": [
+      {
+        "domain": "AIFA_EXCIPIENTS",
+        "backendSeconds": 31.04,
+        "completedModelCalls": 2,
+        "model": "gpt-6.1-sol",
+        "reasoning": [
+          "low"
+        ],
+        "partialTokenCostUSD": 0.058862,
+        "openGap": "PIL_INGREDIENT_LABEL_RECONCILIATION_REQUIRES_REVIEW_DOCUMENT_PAIR_GATE_NOT_CLOSED"
+      },
+      {
+        "domain": "AIFA_LEGISLATION_PRESCRIPTION_FORMALITIES",
+        "backendSeconds": 62.42,
+        "completedModelCalls": 6,
+        "model": "gpt-6.1-sol",
+        "reasoning": [
+          "low",
+          "medium"
+        ],
+        "partialTokenCostUSD": 0.2460683,
+        "scope": "ORDINARY_PRIVATE_PRESCRIPTION_TWO_VERIFIED_RNR_PRESENTATIONS_ONLY",
+        "openGap": "OPENING_MUST_QUALIFY_PACKAGE_AND_CHANNEL_HOSPITAL_ONLY_PRESENTATIONS_EXIST"
+      }
+    ],
+    "partialTokenCostUSD": 0.3049303,
+    "costExcludes": [
+      "UNOBSERVED_CACHE_WRITE_CHARGES",
+      "INFRASTRUCTURE",
+      "SERVICES",
+      "TAX",
+      "HUMAN_REVIEW"
+    ],
+    "costIsInvoiceOrTotalProblemCost": false,
+    "independentWebFallbackExercised": false,
+    "directOfficialGazetteActionReadIsWebFallback": false,
+    "generalRepeatabilityEstablished": false,
+    "humanClinicalValidation": false,
+    "SLAEstablished": false,
+    "additionalQuestionsAuthorizedByThisRun": 0
+  },
+  "currentPresentationArtifact": {
+    "appReference": "0.7.97-beta",
+    "regeneratedFor98": false
+  },
+  "safeRecoveryReference": {
+    "appVersion": "0.7.97-beta",
+    "registration": "OWNER_REVIEW",
+    "olderAutomaticAdmissionImagesAreSafeDirectRollback": false
+  }
 }
