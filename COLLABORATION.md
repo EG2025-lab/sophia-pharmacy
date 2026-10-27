@@ -1,6 +1,6 @@
 # Collaboration brief
 **SOPHIA · Public starting points · 12 October 2026**
-> Current product reference, reviewed 27 October 2026: deployed beta **0.7.90-beta**; model-backed answers temporarily unavailable and real payments inactive. Candidate **0.7.95-beta** has isolated technical/test-payment evidence only and is not promoted. The public 20-question pilot remains a proposal, not frozen, executed or professionally validated. See [current status](docs/STATUS.md). No new partnership or access is implied.
+> Current product reference, reviewed 27 October 2026: deployed beta **0.7.95-beta**. Startup/version/configuration read back; answer tests deferred by the owner, API credit restoration pending, new adaptive routing and real payments disabled. Prior offline and isolated test-payment evidence is scoped; publication is not clinical validation. The20-question public pilot remains a proposal, not executed or professionally validated. See [current status](docs/STATUS.md). No new partnership or access is implied.
 
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.

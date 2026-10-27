@@ -1,19 +1,22 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-27",
-  "appVersion": "0.7.90-beta",
-  "deployment": "professional_beta_self_service",
+  "appVersion": "0.7.95-beta",
+  "deployment": "professional_beta_self_service_owner_answer_tests_deferred",
   "publicAppAccess": true,
-  "technicalRepair": "self_service_personal_accounts_and_premium_interface_with_88_answer_core_preserved",
+  "technicalRepair": "privacy14_medicine_code_dose_feedback_pagination_model_display_diagnostics_code_loaded",
   "qualification": {
-    "offlineAppTests": 1309,
-    "offlineAccountTests": 119,
-    "offlineTotal": 1428,
-    "immutableBuildAndDeploymentReadback": "PASS_SCOPED",
-    "liveModelAnswersOn90": 0,
-    "fullGate": "OPEN_BRIDGE_FINDINGS_AND_PROFESSIONAL_ACCEPTANCE"
+    "offlineAppTests": 1469,
+    "offlineAccountTests": 147,
+    "offlineTotal": 1616,
+    "offlineChecksPreviouslyCompleted": true,
+    "immutableBuildAndDeploymentReadback": "EXACT_SOURCE_IMAGE_PRODUCTION_CONFIG_AND_STARTUP95_READBACK",
+    "liveModelAnswersOn95": 0,
+    "publicationModelCalls": 0,
+    "functionalAnswerTests": "DEFERRED_BY_OWNER",
+    "fullGate": "OPEN_BRIDGE_FINDINGS_PROFESSIONAL_ACCEPTANCE_AND_OWN95_ANSWER_QUALIFICATION"
   },
-  "manualLiveAcceptance": "pending_professional_acceptance",
+  "manualLiveAcceptance": "deferred_by_owner_not_run95",
   "lastRealBattery": {
     "version": "0.7.88-beta",
     "distinctQuestions": 3,
@@ -42,8 +45,8 @@
     "meaning": "Historical complete formal six-answer engine battery, distinct from subsequent incomplete exploratory93 runs"
   },
   "website": {
-    "publication": 74,
-    "snapshot": "2026-10-27-r36",
+    "publication": 76,
+    "snapshot": "2026-10-27-r37",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -96,7 +99,10 @@
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
     "observedReasoningInSixCases": "low",
-    "complexEscalationQualifiedBySixCases": false
+    "complexEscalationQualifiedBySixCases": false,
+    "adaptiveRouterPresent": true,
+    "adaptiveRouterEnabled": false,
+    "literalFastPathEnabled": false
   },
   "fallback": {
     "actionFirst": true,
@@ -139,7 +145,8 @@
   "availability": {
     "modelBackedAnswers": "TEMPORARILY_UNAVAILABLE_PROVIDER_API_CREDIT",
     "accountAccess": "AVAILABLE",
-    "fundingRestorationVerified": false
+    "fundingRestorationVerified": false,
+    "ownerDecision": "MANUAL_API_RECHARGE_LATER_NO_AGENT_PURCHASE"
   },
   "accountPolicy": {
     "registration": "AUTO_SELF_SERVICE",
@@ -160,9 +167,82 @@
     "offerActive": false,
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
-  "candidate95": {
+  "preparatory93Trials": {
+    "scope": "CONTROLLED_EXPLORATORY_NOT_COMPLETE_QUALIFICATION",
+    "documentaryObservations": "SCOPED",
+    "clinicalWebQualification": "INCOMPLETE_PARTIAL",
+    "captureLimitations": "RETAINED_NOT_RECONSTRUCTED_AS_FULL_PASS",
+    "newModelFamilies": "NOT_FULLY_EXERCISED",
+    "laterQualification": "STOPPED_BY_PROVIDER_CREDIT"
+  },
+  "historical90Reference": {
+    "appVersion": "0.7.90-beta",
+    "technicalRepair": "self_service_personal_accounts_and_premium_interface_with_88_answer_core_preserved",
+    "qualification": {
+      "offlineAppTests": 1309,
+      "offlineAccountTests": 119,
+      "offlineTotal": 1428,
+      "immutableBuildAndDeploymentReadback": "PASS_SCOPED",
+      "liveModelAnswersOn90": 0,
+      "fullGate": "OPEN_BRIDGE_FINDINGS_AND_PROFESSIONAL_ACCEPTANCE"
+    },
+    "candidate95": {
+      "version": "0.7.95-beta",
+      "promoted": false,
+      "offlineTests": 1616,
+      "financialTest": "PASS_ONE_ISOLATED_STRIPE_TEST_SCENARIO",
+      "realMoney": false,
+      "syntheticAccountA": [
+        0,
+        100,
+        0
+      ],
+      "syntheticAccountBUnchanged": true,
+      "topupRows": 1,
+      "reversalRows": 1,
+      "authenticDuplicates": "NO_ADDITIONAL_ECONOMIC_MOVEMENTS",
+      "firstPaymentACKSeconds": 7.3,
+      "refundACKWindowMaxSeconds": 0.403,
+      "ACKTimesAreAnswerLatencyOrSLA": false,
+      "newModelAnswers": 0,
+      "newRealGoogleSignupAcceptance": false,
+      "humanClinicalValidation": false,
+      "testAccessClosed": true,
+      "otherCandidateImplementations": [
+        "general medicine-code/dose privacy false-block repair",
+        "feedback submission/pagination fixes",
+        "observed-model footer",
+        "source/provider diagnostics"
+      ],
+      "thoseFixesDeployedIn90": false
+    },
+    "website": {
+      "publication": 74,
+      "snapshot": "2026-10-27-r36",
+      "surveyGeography": "respondent_declared_region",
+      "visitGeography": "network_or_permissioned_device_estimate",
+      "separateDatasets": true,
+      "physicalAccuracyValidated": false,
+      "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
+      "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
+      "interface": "unified_regional_map_and_prioritized_owner_dashboard",
+      "surveyNotice": "sophia-public-2026-10-18-05",
+      "paymentPreferences": [
+        "monthly",
+        "annual",
+        "usage",
+        "unsure"
+      ],
+      "geographyTestsExcluded": true,
+      "mapReadout": "inline_below_map_no_overlay",
+      "surveyInterface": "survey_with_optional_waitlist_initially_selected",
+      "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
+      "surveyAndWaitlistIndependent": true
+    }
+  },
+  "release95": {
     "version": "0.7.95-beta",
-    "promoted": false,
+    "promoted": true,
     "offlineTests": 1616,
     "financialTest": "PASS_ONE_ISOLATED_STRIPE_TEST_SCENARIO",
     "realMoney": false,
@@ -188,14 +268,11 @@
       "observed-model footer",
       "source/provider diagnostics"
     ],
-    "thoseFixesDeployedIn90": false
-  },
-  "preparatory93Trials": {
-    "scope": "CONTROLLED_EXPLORATORY_NOT_COMPLETE_QUALIFICATION",
-    "documentaryObservations": "SCOPED",
-    "clinicalWebQualification": "INCOMPLETE_PARTIAL",
-    "captureLimitations": "RETAINED_NOT_RECONSTRUCTED_AS_FULL_PASS",
-    "newModelFamilies": "NOT_FULLY_EXERCISED",
-    "laterQualification": "STOPPED_BY_PROVIDER_CREDIT"
+    "thoseFixesDeployedIn90": false,
+    "deploymentReadback": "TRAFFIC100_HEALTH95_CONFIG90_PRESERVED",
+    "functionalTestsDeferred": true,
+    "thoseFixesDeployedIn95": true,
+    "adaptiveRouterEnabled": false,
+    "asyncPaymentEnabled": false
   }
 }
