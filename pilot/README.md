@@ -1,5 +1,5 @@
 # A 20-question pilot for professional pharmacy knowledge
-> Current product reference, reviewed27October2026: **0.7.97-beta**, owner-approved access only. Automatic admission, real payments and adaptive routing are disabled.97 preserves the95 engine; candidate96 was not promoted after its sole failed replay. Technical access checks are not professional or clinical validation. The20-question pilot remains a proposal; no tester invitation, partnership or access is implied. [Current status](../docs/STATUS.md).
+> Current product reference, reviewed 27 October 2026: **0.7.98-beta**, owner-approved access only. Automatic admission, real payments and adaptive routing remain disabled. Two real UI regression questions produced complete responses with scoped documentary support and open reconciliation/package-channel gaps; they do not establish general repeatability or human clinical validation. The 20-question pilot remains a separate, unexecuted proposal; no tester invitation, partnership or access is implied. [Current status](../docs/STATUS.md).
 
 
 **SOPHIA · Proposal v0.1 · 12 October 2026 · NOT RUN**
