@@ -1,15 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.108-beta**, restricted to people approved by the owner; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.109-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
 
-Corrections address mechanisms found in six live 106 cases: literal AIFA leaflet identity and focused sections, Actions and independent web contributing separately grounded claims, per-need recovery, provincial institutional discovery and bounded web reading waves. Each channel keeps its own checks and receipts.
+The fixed model-call ceiling has been removed. Repeated identical tool requests without new canonical information lead to checked composition rather than another transport attempt. Documentary AIFA and legal routes avoid mandatory brief/detail duplication. Time, cancellation, source budgets, privacy, bindings and semantic review remain active. **1,724 offline checks** passed; no live model questions were sent on109.
 
-Model dispatch is capped at **eight calls per request**, including independent web discovery, with a final delivery/review reserve. Long completed tool chains can restart from canonical observed state; repeatedly rejected claims may be removed only before another complete review. These controls do not guarantee a successful answer or a measured speed/cost improvement.
+Six live108 repeats produced **two useful scoped answers, one useful local partial and three failed requests**, one retaining a visible checked partial. Structured retrieval and independent web cooperated in the provincial vaccination answer. The cap interrupted two cases; a generated-output privacy check blocked another.39 internal calls and a conservative2.108USD estimate, not invoice; aggregate latency increased compared with106. This is not an overall efficiency improvement.
 
-Checked answers support a direct opening, short sections, lists and accessible comparison tables, with a brief reduced-motion-aware fade. All **1,717 offline checks** passed; **178 runtime files** were verified exactly in the container without network. Desktop/mobile layout was checked locally with synthetic content. **No new live model questions were sent on 108.**
-
-The six real 106 outcomes remain historical: one useful scoped answer, one partial and four unresolved main questions, including one blocked request. The precise rejected Valium proposition was not retained; the new legal answer cannot be certified from telemetry alone. New-answer correctness, utility, repeatability and actual cost/latency require later authorized evaluation and professional review. No general counter readiness, FarmAI parity or human clinical validation is claimed. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+109 correctness, continuity, actual cost/latency and repeatability remain unmeasured. The exact identifier behind the108 output block was not retained; no privacy filter was disabled. No general counter readiness, FarmAI parity or human clinical validation is claimed. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 ## Open collaboration opportunities
 
