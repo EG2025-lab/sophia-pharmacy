@@ -10,38 +10,41 @@
     "noNetworkRuntimeFiles": 175,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions106": 0,
+    "ownRealUIQuestions106": 6,
     "localSyntheticUIAnswers106": 1,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
-    "SLAEstablished": false
+    "SLAEstablished": false,
+    "ownRealInternalModelCalls106": 40
   },
-  "manualLiveAcceptance": "NO_REAL106_REPLAY_OWNER_CAP",
+  "manualLiveAcceptance": "SIX_REAL106_UI_CASES_MIXED_NOT_BANK_READY",
   "lastRealBattery": {
-    "version": "0.7.103-beta",
-    "distinctQuestions": 3,
-    "submissions": 3,
-    "repetitionsPerQuestion": 1,
-    "completeAnswers": 3,
-    "failedDeliveries": 0,
-    "usefulness": "TWO_SCOPED_USEFUL_ONE_PARTIAL_CLINICAL",
-    "completeAnswerBackendSeconds": [
-      26.88,
-      14.6,
-      76.36
+    "version": "0.7.106-beta",
+    "distinctQuestions": 6,
+    "submissions": 6,
+    "resubmissions": 0,
+    "usefulScopedAnswers": 1,
+    "partialDocumentaryAnswers": 1,
+    "mainQuestionsUnresolved": 4,
+    "conclusiveMessagesDelivered": 5,
+    "requestsBlocked": 1,
+    "backendSeconds": [
+      89.18,
+      104.61,
+      33.4,
+      35.64,
+      29.81,
+      44.7
     ],
-    "observedModelCalls": 11,
-    "conservativeEstimatedUSD": 0.488048,
-    "costIsInvoice": false,
-    "humanClinicalValidation": false,
-    "generalRepeatabilityEstablished": false,
-    "independentWebFallbackExercised": false,
-    "moreRealTestsAfterThisScope": false
+    "independentSafetyWebAttempted": true,
+    "successfulIndependentRecoveryEstablished": false,
+    "repeatabilityEstablished": false,
+    "humanClinicalValidation": false
   },
   "website": {
-    "publication": 83,
-    "snapshot": "2026-10-28-r45",
+    "publication": 85,
+    "snapshot": "2026-10-28-r47",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -62,7 +65,7 @@
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
     "surveyAndWaitlistIndependent": true,
     "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
-    "sourceCommit": "e3266b3be196b3eb503fd6d0c9089405a98d3efe"
+    "sourceCommit": "cab64e3f5829277084ade56503e4946841491519"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
@@ -105,7 +108,7 @@
   },
   "clinicalAlgorithm": {
     "id": "ALG-CLIN-2026-10-28-03",
-    "revision": "1.3",
+    "revision": "1.4",
     "appReference": "0.7.106-beta"
   },
   "privateExperience": {
@@ -124,23 +127,31 @@
     "candidates": "AWAITING_REVIEW"
   },
   "openGaps106": [
-    "No new clinical validation or real106 replay",
-    "Clinical latency and current Ministry-table gap retained",
-    "Experience is operational signals, not semantic training or historical chat RAG",
-    "Signal proposals need review/versioned release",
-    "Small-group aggregate totals do not guarantee anonymity"
+    "Four main questions unresolved in six difficult live cases",
+    "Multi-formulation RCP/PIL document coverage",
+    "Clinical source retrieval and sufficient evidence use",
+    "Current provincial institutional source routing",
+    "Repair iteration cost and latency",
+    "General repeatability and human clinical validation remain unproved"
   ],
   "deployment": "LIVE_RESTRICTED_BETA",
-  "currentVersionRealModelTests": 0,
+  "currentVersionRealModelTests": 6,
   "model": {
     "strategy": "UNCHANGED_ADAPTIVE_ROUTING",
     "aifaRcpFi": "GPT6_1_SOL_LOW_SYNTHESIS_AND_INDEPENDENT_REVIEW_AFTER_VERIFIED_DOCUMENTS",
     "newAIModelCallsFromExperienceJournal": 0,
-    "modelWeightTraining": false
+    "modelWeightTraining": false,
+    "observed106Profiles": [
+      "gpt-6.1-sol/low",
+      "gpt-6.1-sol/medium",
+      "gpt-6.1-terra/none"
+    ],
+    "ownReal106Replay": true
   },
   "fallback": {
     "strategy": "ACTIONS_API_FIRST_DECLARED_WEB_RECOVERY_WHEN_NEEDED",
-    "newRealFallbackTest106": false
+    "newRealFallbackTest106": true,
+    "result106": "ATTEMPTED_NO_SUCCESSFUL_INDEPENDENT_RECOVERY_ESTABLISHED"
   },
   "experienceMemory": {
     "curatedMethodLessons": 14,
@@ -149,5 +160,16 @@
     "automaticClinicalLessonApproval": false
   },
   "accountLegacyHandling": "EXISTING_AUTHORIZED_MEMBERS_CAN_OPEN_PROFILE_AND_EXPERIENCE_WITHOUT_CREATING_A_CREDIT_ACCOUNT",
-  "historyPolicy": "CURRENT_ONLY_PRIOR_SNAPSHOTS_PRESERVED_IN_GIT_COMMITS_NOT_RECURSIVELY_EMBEDDED"
+  "historyPolicy": "CURRENT_ONLY_PRIOR_SNAPSHOTS_PRESERVED_IN_GIT_COMMITS_NOT_RECURSIVELY_EMBEDDED",
+  "modelRouting": {
+    "ownReal106Replay": true
+  },
+  "availability": {
+    "modelBackedAnswers": "REAL106_UI_OBSERVED_MIXED_NOT_GENERAL_BANK_READY"
+  },
+  "postBattery107Candidate": {
+    "state": "NO_GO_NOT_DEPLOYED",
+    "behavioralFixesImplemented": false,
+    "ownRealQuestions": 0
+  }
 }
