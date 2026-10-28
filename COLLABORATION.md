@@ -1,6 +1,6 @@
 # Collaboration brief
 **SOPHIA · Public starting points · 12 October 2026**
-> Current product reference, reviewed 28 October 2026: **0.7.103-beta**, owner-approved access only; payments inactive. RCP/PIL questions require AI synthesis after verified reading. Three real questions on parent 102 had mixed usefulness; the corrective 103 release has offline/container checks and no own real replay. This does not validate market research, the proposed 20-question pilot or clinical use. No engagement, partnership or new access is implied. [Current status](docs/STATUS.md).
+> Current product reference, reviewed 28 October 2026: **0.7.104-beta**, owner approval, payments inactive. Three historical UI questions on 103 were delivered; clinical synthesis remains slow and verbose. Corrective 104 has 1,677 offline checks and no own real replay. This does not validate the proposed 20-question pilot, market research or clinical use. No new engagement or partnership. [Current status](docs/STATUS.md).
 
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.
