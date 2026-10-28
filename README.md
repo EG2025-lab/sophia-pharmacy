@@ -1,31 +1,15 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta remains **0.7.106-beta**, restricted to people approved by the owner; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.108-beta**, restricted to people approved by the owner; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
 
-The unified account, observed official RCP/PIL PDF links, accessible checked-answer fade and private Firebase experience journal remain available. Fourteen curated method lessons and private chat history are separate from automatic model training.
+Corrections address mechanisms found in six live 106 cases: literal AIFA leaflet identity and focused sections, Actions and independent web contributing separately grounded claims, per-need recovery, provincial institutional discovery and bounded web reading waves. Each channel keeps its own checks and receipts.
 
-**Six new difficult questions were submitted once each in real 106 chats.** One answer was useful within its specific scope, one was partial, and four main questions were unresolved. One request was blocked; a concluding message on other requests does not establish useful completeness.
+Model dispatch is capped at **eight calls per request**, including independent web discovery, with a final delivery/review reserve. Long completed tool chains can restart from canonical observed state; repeatedly rejected claims may be removed only before another complete review. These controls do not guarantee a successful answer or a measured speed/cost improvement.
 
-Observed request times were approximately **30–105 seconds**. Independent safety web recovery was attempted in two cases without establishing effective recovery of missing information. Independent documentary review found relevant information the beta did not use. Existing **1,696 offline checks** and **175 exact runtime-file checks** remain technical evidence, not clinical validation.
+Checked answers support a direct opening, short sections, lists and accessible comparison tables, with a brief reduced-motion-aware fade. All **1,717 offline checks** passed; **178 runtime files** were verified exactly in the container without network. Desktop/mobile layout was checked locally with synthetic content. **No new live model questions were sent on 108.**
 
-A complete **107 candidate remains NO-GO and is not deployed**: only version metadata and post-battery documentation changed; findings are still unresolved. Restricted 106 remains deployed. Evidence retrieval, local institutional routing, multi-formulation document isolation and bounded repair costs require further work. No general counter readiness, repeatability, FarmAI parity or human clinical validation is claimed. FarmAI original GPTs and Business plugins retain content **0.7.7.155**, without new tests.
-
-The historical 0.7.88 second battery retains **six answers to three general documentary questions, each repeated twice**: medicines storage, the complete text of an Italian statutory article, and general institutional dry-eye information. Technical and AI-assisted documentary checks passed within those questions; the essential content agrees within each pair, with detail and wording variations. Observed end-to-end times: medicines **11–18 s**, legislation **10–12 s**, clinical web recovery **32–35 s**. These are selected observations, not an SLA, a controlled speed comparison, general repeatability or human clinical validation. The clinical answers declare partial coverage and unverified currency/retraction status. General professional rollout remains **NO-GO**. [Status and limits](docs/STATUS.md).
-
-**Less information fragmentation. More room for the pharmacist's work.**
-
-SOPHIA is an independent project founded by **Enrico Giuliano, pharmacist and Founder & Product Lead**, in Italy. We are developing an AI application that brings official medicines documentation, Italian pharmaceutical legislation, clinical research and guidelines into a single professional conversation.
-
-Our aim is to reduce pharmacists' information burden, help reduce errors and improve pharmacy service. These are development goals; their impact still needs to be measured.
-
-**[Explore SOPHIA](https://sophia-pharmacy.enricogiuliano.chatgpt.site/) · [Collaboration brief](COLLABORATION.md) · [20-question pilot proposal](pilot/README.md) · [Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions)**
-
-[Share your professional needs](docs/PROFESSIONAL_NEEDS_RESEARCH.md): the survey and waitlist choice are independent. The waitlist checkbox is optional and initially selected; it can be cleared to submit only the survey. Email is required only for the waitlist or a separately chosen interview. Pharmacist roles distinguish employees, owners and freelance professionals. Earlier records retain their original purposes. Developers and AI experts retain a collaboration path.
-
-**[Leggi in italiano](README.it.md) · [Make a first contribution](CONTRIBUTING.md) · [Propose a collaboration](https://github.com/EG2025-lab/sophia-pharmacy/issues/new?template=collaboration.yml)**
-
-Developers and AI researchers can begin with public-source metadata, retrieval failure cases and evaluation design. Pharmacists can help define realistic tasks and review criteria. Start small: [prepare one official RCP/FI source pair](pilot/source-pair-template.json), without writing a clinical answer or calling a paid model.
+The six real 106 outcomes remain historical: one useful scoped answer, one partial and four unresolved main questions, including one blocked request. The precise rejected Valium proposition was not retained; the new legal answer cannot be certified from telemetry alone. New-answer correctness, utility, repeatability and actual cost/latency require later authorized evaluation and professional review. No general counter readiness, FarmAI parity or human clinical validation is claimed. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 ## Open collaboration opportunities
 
