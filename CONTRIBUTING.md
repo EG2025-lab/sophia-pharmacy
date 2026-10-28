@@ -1,5 +1,5 @@
 # Contributing to SOPHIA
-> Current product reference, reviewed 28 October 2026: **0.7.104-beta**, owner approval, payments inactive. Three historical UI questions on 103 were delivered; clinical synthesis remains slow and verbose. Corrective 104 has 1,677 offline checks and no own real replay. This does not validate the proposed 20-question pilot, market research or clinical use. No new engagement or partnership. [Current status](docs/STATUS.md).
+> Current product reference, reviewed 28 October 2026: **0.7.106-beta**, owner approval and inactive payments. Unified account, observed official RCP/PIL PDFs and private operational signals, not automatic model training. 1,696 offline checks; no new real 106 question. The proposed 20-question pilot, clinical use, partnerships and market research are not validated by this update. [Current status](docs/STATUS.md).
 
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**

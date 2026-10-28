@@ -1,26 +1,23 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-28",
-  "appVersion": "0.7.104-beta",
-  "deployment": "restricted_beta_owner_approval_required",
+  "appVersion": "0.7.106-beta",
   "publicAppAccess": false,
-  "technicalRepair": "clinical_exact_display_dedup_app_receipt_navigation_proportionate_synthesis_fixed_input_diagnostics",
+  "technicalRepair": "unified_account_observed_official_pdf_links_accessible_fade_private_idempotent_experience_journal",
   "qualification": {
-    "offlineChecksPassed": 1677,
+    "offlineChecksPassed": 1696,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 171,
+    "noNetworkRuntimeFiles": 175,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions104": 0,
-    "parent103RealUIQuestions": 3,
-    "parent103CompleteDeliveries": 3,
-    "parent103Usefulness": "TWO_SCOPED_USEFUL_ONE_PARTIAL_VERBOSE_SLOW_CLINICAL",
+    "ownRealUIQuestions106": 0,
+    "localSyntheticUIAnswers106": 1,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "CORRECTIVE104_NO_OWN_REPLAY_OWNER_THREE_QUESTION_CAP",
+  "manualLiveAcceptance": "NO_REAL106_REPLAY_OWNER_CAP",
   "lastRealBattery": {
     "version": "0.7.103-beta",
     "distinctQuestions": 3,
@@ -43,8 +40,8 @@
     "moreRealTestsAfterThisScope": false
   },
   "website": {
-    "publication": 82,
-    "snapshot": "2026-10-28-r43",
+    "publication": 83,
+    "snapshot": "2026-10-28-r45",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -65,81 +62,11 @@
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
     "surveyAndWaitlistIndependent": true,
     "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
-    "sourceCommit": "ca193c4de5ba0b41601ec290f846e29fcff504bc"
+    "sourceCommit": "e3266b3be196b3eb503fd6d0c9089405a98d3efe"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
-  "historical87Reference": {
-    "appVersion": "0.7.87-beta",
-    "qualification": {
-      "offlineAppTests": 1220,
-      "scriptedApiReplays": 100,
-      "separateAIReviewScopedChecks": 79,
-      "originalReadings": 20,
-      "presentations": 10,
-      "boundReadings": 18,
-      "explicitGapReadings": 2,
-      "repetitionsPerReading": 5,
-      "exactSourceCI": "PASS",
-      "freshBuildAndReadback": "PASS"
-    },
-    "newRealModelRunsOn87": 0,
-    "lastRealBattery": {
-      "version": "0.7.85-beta",
-      "distinctQuestions": 3,
-      "submissions": 3,
-      "privacyBlocks": 0,
-      "scopedPasses": 2,
-      "utilityFailures": 1
-    }
-  },
-  "model": {
-    "family": "gpt-6.1-sol",
-    "defaultReasoning": "low",
-    "controlledComplexReasoning": "medium",
-    "observedReasoningInSixCases": "low",
-    "complexEscalationQualifiedBySixCases": false,
-    "adaptiveRouterPresent": true,
-    "adaptiveRouterEnabled": true,
-    "literalFastPathEnabled": true,
-    "observed98Reasoning": [
-      "low",
-      "medium"
-    ],
-    "observed98ModelFamilySwitches": 0,
-    "stableModelContextEnabled": true,
-    "observed100ModelProfiles": [
-      "gpt-6-luna/none",
-      "gpt-6.1-terra/none",
-      "gpt-6.1-sol/low",
-      "gpt-6.1-sol/medium"
-    ],
-    "rcpFiRequiresAISynthesis": true,
-    "rcpFiSummaryModel": "gpt-6.1-sol",
-    "rcpFiSummaryEffort": "low",
-    "independentSemanticReviewRequired": true,
-    "ownReal103SummaryReplay": true,
-    "ownReal104Replay": false
-  },
-  "fallback": {
-    "actionFirst": true,
-    "enabled": true,
-    "actualWebSearchAndBodyRead": true,
-    "declaredCitations": "W",
-    "bypassesPrivacyAccessOrBudget": false,
-    "fabricatedActionFinalisation": false,
-    "mechanism": "API_WEB_SEARCH_AND_ACTUAL_SERVER_SIDE_HTML_PDF_READING_NOT_INTERACTIVE_BROWSER",
-    "independentWebFallbackExercisedOn98": false,
-    "independentWebFallback100": "ACTUAL_SEARCH_AND_BODY_ATTEMPT_ACCESS_CHALLENGES_NO_NEW_BODIES",
-    "independentWebFallback102": "ACTION_API_FIRST_THEN_DECLARED_WEB_WITH_ISS_NICE_BODIES_READ"
-  },
-  "previousCapture": {
-    "completeCaseRecords": 4,
-    "clinicalRecordsTruncated": 2,
-    "clinicalOutcomes": "NOT_EVALUATED",
-    "retainedSeparately": true
-  },
   "farmAIChannels": {
     "originalGPTsPreserved": true,
     "privateBusinessPluginsFromCopies": true,
@@ -154,22 +81,6 @@
   },
   "appURL": "https://sophia-web-beta-894941272542.europe-west8.run.app/",
   "accountURL": "https://sophia-web-beta-894941272542.europe-west8.run.app/account",
-  "historical88Qualification": {
-    "offlineAppTests": 1309,
-    "scopeChecks": 12,
-    "javascriptChecks": 12,
-    "exactSourceAppCI": "PASS",
-    "immutableBuildAndDeploymentReadback": "PASS",
-    "scope": "APP_ONLY_REUSE_UNCHANGED_BRIDGES",
-    "fullGate": "OPEN_BRIDGE_FINDINGS_AND_EXPIRED_OFFICIAL_COPY"
-  },
-  "availability": {
-    "accountApplication": "OWNER_REVIEW_PENDING_APPROVAL",
-    "modelBackedAnswers": "PARENT103_ELEVEN_OBSERVED_CALLS_CURRENT104_NO_OWN_REPLAY",
-    "aifaUpstream": "RCP_PIL_SUMMARY_AND_REVIEW_SUCCEEDED103",
-    "latencyAndReliability": "OPEN",
-    "agentFundingPurchases": 0
-  },
   "accountPolicy": {
     "registration": "OWNER_REVIEW",
     "verifiedGoogleRequired": true,
@@ -192,508 +103,51 @@
     "offerActive": false,
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
-  "preparatory93Trials": {
-    "scope": "CONTROLLED_EXPLORATORY_NOT_COMPLETE_QUALIFICATION",
-    "documentaryObservations": "SCOPED",
-    "clinicalWebQualification": "INCOMPLETE_PARTIAL",
-    "captureLimitations": "RETAINED_NOT_RECONSTRUCTED_AS_FULL_PASS",
-    "newModelFamilies": "NOT_FULLY_EXERCISED",
-    "laterQualification": "STOPPED_BY_PROVIDER_CREDIT"
-  },
-  "historical90Reference": {
-    "appVersion": "0.7.90-beta",
-    "technicalRepair": "self_service_personal_accounts_and_premium_interface_with_88_answer_core_preserved",
-    "qualification": {
-      "offlineAppTests": 1309,
-      "offlineAccountTests": 119,
-      "offlineTotal": 1428,
-      "immutableBuildAndDeploymentReadback": "PASS_SCOPED",
-      "liveModelAnswersOn90": 0,
-      "fullGate": "OPEN_BRIDGE_FINDINGS_AND_PROFESSIONAL_ACCEPTANCE"
-    },
-    "candidate95": {
-      "version": "0.7.95-beta",
-      "promoted": false,
-      "offlineTests": 1616,
-      "financialTest": "PASS_ONE_ISOLATED_STRIPE_TEST_SCENARIO",
-      "realMoney": false,
-      "syntheticAccountA": [
-        0,
-        100,
-        0
-      ],
-      "syntheticAccountBUnchanged": true,
-      "topupRows": 1,
-      "reversalRows": 1,
-      "authenticDuplicates": "NO_ADDITIONAL_ECONOMIC_MOVEMENTS",
-      "firstPaymentACKSeconds": 7.3,
-      "refundACKWindowMaxSeconds": 0.403,
-      "ACKTimesAreAnswerLatencyOrSLA": false,
-      "newModelAnswers": 0,
-      "newRealGoogleSignupAcceptance": false,
-      "humanClinicalValidation": false,
-      "testAccessClosed": true,
-      "otherCandidateImplementations": [
-        "general medicine-code/dose privacy false-block repair",
-        "feedback submission/pagination fixes",
-        "observed-model footer",
-        "source/provider diagnostics"
-      ],
-      "thoseFixesDeployedIn90": false
-    },
-    "website": {
-      "publication": 74,
-      "snapshot": "2026-10-27-r36",
-      "surveyGeography": "respondent_declared_region",
-      "visitGeography": "network_or_permissioned_device_estimate",
-      "separateDatasets": true,
-      "physicalAccuracyValidated": false,
-      "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
-      "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
-      "interface": "unified_regional_map_and_prioritized_owner_dashboard",
-      "surveyNotice": "sophia-public-2026-10-18-05",
-      "paymentPreferences": [
-        "monthly",
-        "annual",
-        "usage",
-        "unsure"
-      ],
-      "geographyTestsExcluded": true,
-      "mapReadout": "inline_below_map_no_overlay",
-      "surveyInterface": "survey_with_optional_waitlist_initially_selected",
-      "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
-      "surveyAndWaitlistIndependent": true
-    }
-  },
-  "release95": {
-    "version": "0.7.95-beta",
-    "promoted": true,
-    "offlineTests": 1616,
-    "financialTest": "PASS_ONE_ISOLATED_STRIPE_TEST_SCENARIO",
-    "realMoney": false,
-    "syntheticAccountA": [
-      0,
-      100,
-      0
-    ],
-    "syntheticAccountBUnchanged": true,
-    "topupRows": 1,
-    "reversalRows": 1,
-    "authenticDuplicates": "NO_ADDITIONAL_ECONOMIC_MOVEMENTS",
-    "firstPaymentACKSeconds": 7.3,
-    "refundACKWindowMaxSeconds": 0.403,
-    "ACKTimesAreAnswerLatencyOrSLA": false,
-    "newModelAnswers": 0,
-    "newRealGoogleSignupAcceptance": false,
-    "humanClinicalValidation": false,
-    "testAccessClosed": true,
-    "otherCandidateImplementations": [
-      "general medicine-code/dose privacy false-block repair",
-      "feedback submission/pagination fixes",
-      "observed-model footer",
-      "source/provider diagnostics"
-    ],
-    "thoseFixesDeployedIn90": false,
-    "deploymentReadback": "TRAFFIC100_HEALTH95_CONFIG90_PRESERVED",
-    "functionalTestsDeferred": true,
-    "thoseFixesDeployedIn95": true,
-    "adaptiveRouterEnabled": false,
-    "asyncPaymentEnabled": false
-  },
-  "historical95Reference": {
-    "appVersion": "0.7.95-beta",
-    "deployment": "professional_beta_self_service_owner_answer_tests_deferred",
-    "qualification": {
-      "offlineAppTests": 1469,
-      "offlineAccountTests": 147,
-      "offlineTotal": 1616,
-      "offlineChecksPreviouslyCompleted": true,
-      "immutableBuildAndDeploymentReadback": "EXACT_SOURCE_IMAGE_PRODUCTION_CONFIG_AND_STARTUP95_READBACK",
-      "liveModelAnswersOn95": 0,
-      "publicationModelCalls": 0,
-      "functionalAnswerTests": "DEFERRED_BY_OWNER",
-      "fullGate": "OPEN_BRIDGE_FINDINGS_PROFESSIONAL_ACCEPTANCE_AND_OWN95_ANSWER_QUALIFICATION"
-    },
-    "availability": {
-      "modelBackedAnswers": "TEMPORARILY_UNAVAILABLE_PROVIDER_API_CREDIT",
-      "accountAccess": "AVAILABLE",
-      "fundingRestorationVerified": false,
-      "ownerDecision": "MANUAL_API_RECHARGE_LATER_NO_AGENT_PURCHASE"
-    },
-    "accountPolicy": {
-      "registration": "AUTO_SELF_SERVICE",
-      "verifiedGoogleRequired": true,
-      "professionalDeclarationRequired": true,
-      "professionalRegistrationVerified": false,
-      "newPharmacistIndependentAcceptance": "PENDING"
-    },
-    "release95": {
-      "version": "0.7.95-beta",
-      "promoted": true,
-      "offlineTests": 1616,
-      "financialTest": "PASS_ONE_ISOLATED_STRIPE_TEST_SCENARIO",
-      "realMoney": false,
-      "syntheticAccountA": [
-        0,
-        100,
-        0
-      ],
-      "syntheticAccountBUnchanged": true,
-      "topupRows": 1,
-      "reversalRows": 1,
-      "authenticDuplicates": "NO_ADDITIONAL_ECONOMIC_MOVEMENTS",
-      "firstPaymentACKSeconds": 7.3,
-      "refundACKWindowMaxSeconds": 0.403,
-      "ACKTimesAreAnswerLatencyOrSLA": false,
-      "newModelAnswers": 0,
-      "newRealGoogleSignupAcceptance": false,
-      "humanClinicalValidation": false,
-      "testAccessClosed": true,
-      "otherCandidateImplementations": [
-        "general medicine-code/dose privacy false-block repair",
-        "feedback submission/pagination fixes",
-        "observed-model footer",
-        "source/provider diagnostics"
-      ],
-      "thoseFixesDeployedIn90": false,
-      "deploymentReadback": "TRAFFIC100_HEALTH95_CONFIG90_PRESERVED",
-      "functionalTestsDeferred": true,
-      "thoseFixesDeployedIn95": true,
-      "adaptiveRouterEnabled": false,
-      "asyncPaymentEnabled": false
-    }
-  },
-  "candidate96": {
-    "promoted": false,
-    "singleReplayResult": "FAILED_GENERATION_TIMEOUT_NO_PUBLISHABLE_ANSWER",
-    "elapsedSeconds": 108.327,
-    "modelCallsStarted": 8,
-    "retries": 0,
-    "fasterUsefulAnswerEstablished": false
-  },
-  "publicApplicationURLRetainedForAuthorizedUsersOnly": true,
-  "historical97Reference": {
-    "appVersion": "0.7.97-beta",
-    "deployment": "restricted_beta_owner_approval_required",
-    "technicalRepair": "owner_review_admission_and_relative_https_redirects_engine95_unchanged",
-    "qualification": {
-      "offlinePythonAppTests": 1487,
-      "offlineNodeUITests": 2,
-      "noNetworkRuntimeFiles": 151,
-      "sourceAndImageVerified": true,
-      "productionStartupAndOwnerReviewReadBack": true,
-      "new97ModelAnswers": 0,
-      "engineAndSources95ByteIdentical": true,
-      "professionalAcceptance": "PENDING",
-      "humanClinicalValidation": false
-    },
-    "manualLiveAcceptance": "NO_NEW97_MODEL_QUESTIONS_ACCESS_READBACK_ONLY",
-    "availability": {
-      "accountApplication": "OWNER_REVIEW_PENDING_APPROVAL",
-      "modelBackedAnswers": "LATER95_RESPONSE_OBSERVED_NOT_GENERAL_CONTINUITY",
-      "aifaUpstream": "TLS_VERIFICATION_FAILURE_OBSERVED",
-      "latencyAndReliability": "OPEN",
-      "new97InferenceChecks": 0,
-      "agentFundingPurchases": 0
-    }
-  },
-  "latestRealUIRegression": {
-    "version": "0.7.100-beta",
-    "distinctQuestions": 4,
-    "submissions": 4,
-    "repetitionsPerQuestion": 1,
-    "completeAnswers": 3,
-    "failedDeliveries": 1,
-    "completeAnswerBackendSeconds": [
-      22.06,
-      8.04,
-      59.74
-    ],
-    "scope": "OWNER_REAL_UI_CHATS_NEW_NATURAL_QUESTIONS",
-    "humanClinicalValidation": false,
-    "generalRepeatabilityEstablished": false,
-    "moreRealTestsAfterThisScope": false
-  },
-  "currentPresentationArtifact": {
-    "appReference": "0.7.97-beta",
-    "regeneratedFor98": false,
-    "regeneratedFor101": false
-  },
-  "safeRecoveryReference": {
-    "appVersion": "0.7.100-beta",
-    "registration": "OWNER_REVIEW",
-    "manualOnly": true,
-    "knownLimit": "Parent100 has observed shared-document persistence failure; recovery is not universal functional acceptance.",
-    "olderAutomaticAdmissionImagesAreSafeDirectRollback": false
-  },
-  "historicalFormalBattery88": {
-    "version": "0.7.88-beta",
-    "distinctQuestions": 3,
-    "submissions": 6,
-    "repetitionsPerQuestion": 2,
-    "completeCaseRecords": 6,
-    "scopedTechnicalAndDocumentaryPasses": 6,
-    "reviewType": "AI_ASSISTED_NOT_HUMAN_CLINICAL",
-    "pairResult": "AGREEING_CORE_WITH_DETAIL_VARIATIONS",
-    "generalRepeatabilityEstablished": false,
-    "timingSeconds": {
-      "aifa": [
-        17.84,
-        11.047
-      ],
-      "legislation": [
-        11.469,
-        9.64
-      ],
-      "generalClinicalWeb": [
-        35.422,
-        32.372
-      ]
-    },
-    "scope": "GENERAL_DOCUMENTARY_QUESTIONS_ON_EXACT_IMAGE_JOB_NOT_AUTHENTICATED_BROWSER_CHAT",
-    "meaning": "Historical complete formal six-answer engine battery, distinct from subsequent incomplete exploratory93 runs"
-  },
-  "modelRouting": {
-    "state": "ADAPTIVE_ACTIVE",
-    "defaultModel": "gpt-6.1-sol",
-    "defaultEffort": "low",
-    "boundedExtraction": "gpt-6-luna/none",
-    "boundedComposition": "gpt-6.1-terra/none",
-    "complexityAndClinical": "gpt-6.1-sol/controlled_medium",
-    "independentReview": "gpt-6.1-sol",
-    "observedOnParent100": true,
-    "ownReal101Replay": false,
-    "literalIdentity": "NO_MODEL_EXACT_VERIFIED_AIC_ONLY",
-    "safety": "SOURCE_BINDING_AND_SCOPE_GATES_UNCHANGED",
-    "ownReal103Replay": true,
-    "rcpFiComposition": "SOL_LOW_AI_SUMMARY_REQUIRED_AFTER_VERIFIED_PREACQUISITION",
-    "clinicalAcquisition": "ELIGIBLE_SUBSTANTIVE_GAP_RECOVERY_BEFORE_FINAL_CRITIC",
-    "actual103SpeedBenefitMeasured": false,
-    "ownReal104Replay": false,
-    "actual104SpeedBenefitMeasured": false
-  },
-  "historicalRealUIRegression98": {
-    "version": "0.7.98-beta",
-    "date": "2026-10-27",
-    "distinctQuestions": 2,
-    "submissions": 2,
-    "completedAnswers": 2,
-    "completedModelCalls": 8,
-    "retries": 0,
-    "scope": "TWO_KNOWN_REGRESSIONS_IN_SEPARATE_AUTHENTICATED_UI_CHATS_NOT_BLIND_HOLDOUT",
-    "reviewType": "AI_ASSISTED_NOT_HUMAN_CLINICAL",
-    "result": "SCOPED_DOCUMENTARY_SUPPORT_WITH_OPEN_GAPS",
-    "cases": [
-      {
-        "domain": "AIFA_EXCIPIENTS",
-        "backendSeconds": 31.04,
-        "completedModelCalls": 2,
-        "model": "gpt-6.1-sol",
-        "reasoning": [
-          "low"
-        ],
-        "partialTokenCostUSD": 0.058862,
-        "openGap": "PIL_INGREDIENT_LABEL_RECONCILIATION_REQUIRES_REVIEW_DOCUMENT_PAIR_GATE_NOT_CLOSED"
-      },
-      {
-        "domain": "AIFA_LEGISLATION_PRESCRIPTION_FORMALITIES",
-        "backendSeconds": 62.42,
-        "completedModelCalls": 6,
-        "model": "gpt-6.1-sol",
-        "reasoning": [
-          "low",
-          "medium"
-        ],
-        "partialTokenCostUSD": 0.2460683,
-        "scope": "ORDINARY_PRIVATE_PRESCRIPTION_TWO_VERIFIED_RNR_PRESENTATIONS_ONLY",
-        "openGap": "OPENING_MUST_QUALIFY_PACKAGE_AND_CHANNEL_HOSPITAL_ONLY_PRESENTATIONS_EXIST"
-      }
-    ],
-    "partialTokenCostUSD": 0.3049303,
-    "costExcludes": [
-      "UNOBSERVED_CACHE_WRITE_CHARGES",
-      "INFRASTRUCTURE",
-      "SERVICES",
-      "TAX",
-      "HUMAN_REVIEW"
-    ],
-    "costIsInvoiceOrTotalProblemCost": false,
-    "independentWebFallbackExercised": false,
-    "directOfficialGazetteActionReadIsWebFallback": false,
-    "generalRepeatabilityEstablished": false,
-    "humanClinicalValidation": false,
-    "SLAEstablished": false,
-    "additionalQuestionsAuthorizedByThisRun": 0
-  },
-  "historical101CurrentReference": {
-    "appVersion": "0.7.101-beta",
-    "technicalRepair": "lossless_nested_array_storage_codec_private_failed_model_usage_natural_exact_aic_identity_no_model",
-    "qualification": {
-      "offlinePythonAppTests": 1539,
-      "targetedChecksIncluded": 13,
-      "noNetworkRuntimeFiles": 159,
-      "sourceAndImageVerified": true,
-      "productionStartupAndOwnerReviewReadBack": true,
-      "ownRealUIQuestions101": 0,
-      "parent100RealUIQuestions": 4,
-      "parent100CompletedRealUIAnswers": 3,
-      "parent100PersistenceFailures": 1,
-      "parent100ObservedModelCalls": 12,
-      "reviewType": "AI_ASSISTED_DOCUMENTARY_NOT_HUMAN_CLINICAL",
-      "professionalAcceptance": "PENDING",
-      "humanClinicalValidation": false,
-      "generalRepeatabilityEstablished": false,
-      "independentWebFallbackExercised": "SEARCH_AND_PRIMARY_READ_ATTEMPT_NO_USABLE_WEB_BODIES",
-      "controlledSpeedComparison": false,
-      "SLAEstablished": false
-    },
-    "manualLiveAcceptance": "CORRECTIVE101_NOT_REPLAYED_OWNER_CAP_PARENT100_THREE_COMPLETE_ONE_PERSISTENCE_FAILURE",
-    "lastRealBattery": {
-      "version": "0.7.100-beta",
-      "distinctQuestions": 4,
-      "submissions": 4,
-      "repetitionsPerQuestion": 1,
-      "completeAnswers": 3,
-      "failedDeliveries": 1,
-      "completeAnswerBackendSeconds": [
-        22.06,
-        8.04,
-        59.74
-      ],
-      "scope": "OWNER_REAL_UI_CHATS_NEW_NATURAL_QUESTIONS",
-      "humanClinicalValidation": false,
-      "generalRepeatabilityEstablished": false,
-      "moreRealTestsAfterThisScope": false
-    },
-    "availability": {
-      "accountApplication": "OWNER_REVIEW_PENDING_APPROVAL",
-      "modelBackedAnswers": "THREE_PARENT100_REAL_UI_ANSWERS_ONE_SAVE_FAILURE_CORRECTIVE101_NO_OWN_REPLAY",
-      "aifaUpstream": "IDENTITY_AND_FI_READS_SUCCEEDED100_STORAGE_AFTER_ENGINE_FAILED_THEN_CORRECTED_OFFLINE101",
-      "latencyAndReliability": "OPEN",
-      "agentFundingPurchases": 0
-    },
-    "website": {
-      "publication": 80,
-      "snapshot": "2026-10-28-r41",
-      "surveyGeography": "respondent_declared_region",
-      "visitGeography": "network_or_permissioned_device_estimate",
-      "separateDatasets": true,
-      "physicalAccuracyValidated": false,
-      "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
-      "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
-      "interface": "unified_regional_map_and_prioritized_owner_dashboard",
-      "surveyNotice": "sophia-public-2026-10-18-05",
-      "paymentPreferences": [
-        "monthly",
-        "annual",
-        "usage",
-        "unsure"
-      ],
-      "geographyTestsExcluded": true,
-      "mapReadout": "inline_below_map_no_overlay",
-      "surveyInterface": "survey_with_optional_waitlist_initially_selected",
-      "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
-      "surveyAndWaitlistIndependent": true,
-      "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
-      "sourceCommit": "d7b6761685545a9eb1b62f67ac64cb0f23a31feb"
-    }
-  },
-  "history103": {
-    "fullyPaginated": true,
-    "titleSearch": true,
-    "foregroundRefresh": true,
-    "ownerActiveChatsComparedWithFirebaseBeforeThreeQuestions": 101,
-    "globalHistoryAutomaticallySentToModel": false
-  },
   "clinicalAlgorithm": {
     "id": "ALG-CLIN-2026-10-28-03",
-    "revision": "1.2",
-    "appReference": "0.7.104-beta"
+    "revision": "1.3",
+    "appReference": "0.7.106-beta"
+  },
+  "privateExperience": {
+    "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
+    "durableOutboxAtomicWithAnswer": true,
+    "countersStartAt": "0.7.105-beta",
+    "historicalCountsBackfilled": false,
+    "sharingDefault": false,
+    "ownerAggregationMaxAccounts": 100,
+    "rawChatsSharedBySummary": false,
+    "smallGroupAnonymityGuaranteed": false,
+    "modelCallsAdded": 0,
+    "modelWeightsTrained": false,
+    "curatedLessons": 14,
+    "automaticRuntimePromotion": false,
+    "candidates": "AWAITING_REVIEW"
+  },
+  "openGaps106": [
+    "No new clinical validation or real106 replay",
+    "Clinical latency and current Ministry-table gap retained",
+    "Experience is operational signals, not semantic training or historical chat RAG",
+    "Signal proposals need review/versioned release",
+    "Small-group aggregate totals do not guarantee anonymity"
+  ],
+  "deployment": "LIVE_RESTRICTED_BETA",
+  "currentVersionRealModelTests": 0,
+  "model": {
+    "strategy": "UNCHANGED_ADAPTIVE_ROUTING",
+    "aifaRcpFi": "GPT6_1_SOL_LOW_SYNTHESIS_AND_INDEPENDENT_REVIEW_AFTER_VERIFIED_DOCUMENTS",
+    "newAIModelCallsFromExperienceJournal": 0,
+    "modelWeightTraining": false
+  },
+  "fallback": {
+    "strategy": "ACTIONS_API_FIRST_DECLARED_WEB_RECOVERY_WHEN_NEEDED",
+    "newRealFallbackTest106": false
   },
   "experienceMemory": {
     "curatedMethodLessons": 14,
-    "sourceBaseline": "FarmAI EVO 0.7.7.155",
-    "selection": "LOCAL_HASHED_MAX_THREE_RELEVANT_LESSONS",
-    "rawArchiveQueried": false,
-    "modelTrainingPerformed": false,
-    "oldClinicalAnswersUsedAsCurrentFacts": false
+    "recentConversationContextMaxMessages": 8,
+    "rawHistoricChatRAG": false,
+    "automaticClinicalLessonApproval": false
   },
-  "openGaps103": [
-    "Actual AI-summary usefulness and latency not measured on103",
-    "Current Ministry table body blocked; expired copy not used as current",
-    "Independent professional acceptance and human clinical validation incomplete",
-    "No general repeatability or FarmAI parity established"
-  ],
-  "historical103CurrentReference": {
-    "appVersion": "0.7.103-beta",
-    "qualification": {
-      "offlineChecksPassed": 1664,
-      "offlineSkipped": 0,
-      "noNetworkRuntimeFiles": 170,
-      "sourceAndImageVerified": true,
-      "productionStartupAndOwnerReviewReadBack": true,
-      "ownRealUIQuestions103": 0,
-      "parent102RealUIQuestions": 3,
-      "parent102CompleteDeliveries": 3,
-      "parent102Usefulness": "MIXED_OWNER_REJECTED_LITERAL_PARTIAL_NORMATIVE_USEFUL_SLOW_CLINICAL",
-      "humanClinicalValidation": false,
-      "generalRepeatabilityEstablished": false,
-      "controlledSpeedComparison": false,
-      "SLAEstablished": false
-    },
-    "lastRealBattery": {
-      "version": "0.7.102-beta",
-      "distinctQuestions": 3,
-      "submissions": 3,
-      "repetitionsPerQuestion": 1,
-      "completeAnswers": 3,
-      "failedDeliveries": 0,
-      "usefulness": "MIXED",
-      "completeAnswerBackendSeconds": [
-        5.082778,
-        70.55,
-        122.0
-      ],
-      "firstCase": "SOURCE_ONLY_ZERO_MODEL_OWNER_REJECTED_FORMAT_NOT_AI_SUMMARY_LATENCY",
-      "observedModelCalls": 16,
-      "conservativeEstimatedUSD": 1.1470545,
-      "costIsInvoice": false,
-      "humanClinicalValidation": false,
-      "generalRepeatabilityEstablished": false,
-      "moreRealTestsAfterThisScope": false
-    },
-    "manualLiveAcceptance": "CORRECTIVE103_NO_OWN_REPLAY_OWNER_THREE_QUESTION_CAP",
-    "website": {
-      "publication": 81,
-      "snapshot": "2026-10-28-r42",
-      "surveyGeography": "respondent_declared_region",
-      "visitGeography": "network_or_permissioned_device_estimate",
-      "separateDatasets": true,
-      "physicalAccuracyValidated": false,
-      "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
-      "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
-      "interface": "unified_regional_map_and_prioritized_owner_dashboard",
-      "surveyNotice": "sophia-public-2026-10-18-05",
-      "paymentPreferences": [
-        "monthly",
-        "annual",
-        "usage",
-        "unsure"
-      ],
-      "geographyTestsExcluded": true,
-      "mapReadout": "inline_below_map_no_overlay",
-      "surveyInterface": "survey_with_optional_waitlist_initially_selected",
-      "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
-      "surveyAndWaitlistIndependent": true,
-      "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
-      "sourceCommit": "fb5167b4b854431da0e47942363afa5176577a17"
-    }
-  },
-  "openGaps104": [
-    "Clinical latency76.36s on103, no measured104 speed gain",
-    "Display dedup covers exact sentences, not paraphrase equivalence",
-    "Exact rejected103 input cause unavailable; fixed future diagnostic codes added",
-    "Current Ministry table remains unavailable",
-    "Updated systematic review and human clinical validation incomplete"
-  ]
+  "accountLegacyHandling": "EXISTING_AUTHORIZED_MEMBERS_CAN_OPEN_PROFILE_AND_EXPERIENCE_WITHOUT_CREATING_A_CREDIT_ACCOUNT",
+  "historyPolicy": "CURRENT_ONLY_PRIOR_SNAPSHOTS_PRESERVED_IN_GIT_COMMITS_NOT_RECURSIVELY_EMBEDDED"
 }
