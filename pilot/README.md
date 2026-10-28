@@ -1,5 +1,5 @@
 # A 20-question pilot for professional pharmacy knowledge
-> Current product reference, 28 October 2026: **0.7.106-beta**, owner approval and payments inactive. Six difficult live questions: one useful scoped answer, one partial, four main questions unresolved. No general bank readiness, repeatability or clinical validation; candidate 107 remains NO-GO and not deployed. The proposed pilot and collaboration work are not validated. [Current status](../docs/STATUS.md).
+> Current product reference, 28 October 2026: **0.7.108-beta**, owner-approved access and payments inactive. Source, routing, bounded-cost and answer-layout corrections passed 1,717 offline checks; no new live 108 replay. The six real 106 outcomes remain mixed. Actual answer utility, repeatability and cost/latency improvement remain unmeasured; no clinical validation or general counter readiness. [Current status](../docs/STATUS.md).
 
 
 **SOPHIA · Proposal v0.1 · 12 October 2026 · NOT RUN**
