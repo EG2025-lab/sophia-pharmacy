@@ -1,5 +1,5 @@
 # Contributing to SOPHIA
-> Current product reference, reviewed 28 October 2026: **0.7.101-beta**, owner-approved access only. Adaptive routing is active; payments and automatic admission remain inactive. Four new real UI questions on 100 produced three complete answers and one storage failure. The 101 correction has offline/container qualification and no new real replay. The proposed 20-question pilot remains separate and unexecuted; no new engagement, partnership or access is implied. [Current status](docs/STATUS.md).
+> Current product reference, reviewed 28 October 2026: **0.7.103-beta**, owner-approved access only; payments inactive. RCP/PIL questions require AI synthesis after verified reading. Three real questions on parent 102 had mixed usefulness; the corrective 103 release has offline/container checks and no own real replay. This does not validate market research, the proposed 20-question pilot or clinical use. No engagement, partnership or new access is implied. [Current status](docs/STATUS.md).
 
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**

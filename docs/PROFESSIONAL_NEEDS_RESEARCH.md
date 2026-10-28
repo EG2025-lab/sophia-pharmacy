@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Product reference reviewed 28 October 2026: **0.7.101-beta**, owner approval required. Stealth Home, survey and optional waitlist are preserved without app-access buttons. Four real UI questions on parent 100 and the later offline storage correction do not validate market research or clinical use. Payments and automatic admission remain inactive. [Current status](STATUS.md).
+> Current product reference, reviewed 28 October 2026: **0.7.103-beta**, owner-approved access only; payments inactive. RCP/PIL questions require AI synthesis after verified reading. Three real questions on parent 102 had mixed usefulness; the corrective 103 release has offline/container checks and no own real replay. This does not validate market research, the proposed 20-question pilot or clinical use. No engagement, partnership or new access is implied. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
