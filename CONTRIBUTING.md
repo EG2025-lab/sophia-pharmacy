@@ -1,5 +1,5 @@
 # Contributing to SOPHIA
-> Current product reference, reviewed 28 October 2026: **0.7.106-beta**, owner approval and inactive payments. Unified account, observed official RCP/PIL PDFs and private operational signals, not automatic model training. 1,696 offline checks; no new real 106 question. The proposed 20-question pilot, clinical use, partnerships and market research are not validated by this update. [Current status](docs/STATUS.md).
+> Current product reference, 28 October 2026: **0.7.106-beta**, owner approval and payments inactive. Six difficult live questions: one useful scoped answer, one partial, four main questions unresolved. No general bank readiness, repeatability or clinical validation; candidate 107 remains NO-GO and not deployed. The proposed pilot and collaboration work are not validated. [Current status](docs/STATUS.md).
 
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**
