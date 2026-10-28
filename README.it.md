@@ -1,16 +1,14 @@
 # SOPHIA
 
-La beta distribuita resta **0.7.106-beta**, riservata alle persone approvate dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](docs/STATUS.md).
+La beta distribuita è **0.7.108-beta**, riservata alle persone approvate dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](docs/STATUS.md).
 
-Account unificato, PDF ufficiali RCP/FI già osservati, dissolvenza accessibile delle risposte controllate e registro privato Firebase restano disponibili. Le 14 lezioni curate e lo storico privato sono distinti dall’addestramento automatico del modello.
+Correzioni ai meccanismi emersi nei sei casi reali 106: identità letterale dei foglietti AIFA e sezioni mirate, contributi Actions e web con prove distinte, recupero per bisogno, fonti istituzionali provinciali e ondate di lettura web delimitate. Ogni canale conserva controlli e ricevute propri.
 
-**Sei domande nuove e difficili, un solo invio ciascuna in chat reali della 106.** Una risposta utile nello specifico ambito, una parziale e quattro quesiti principali non risolti. Una richiesta bloccata; la consegna di un messaggio negli altri casi non prova completezza utile.
+Massimo **otto chiamate al modello per domanda**, compresa la ricerca web indipendente, con riserva finale per consegna e revisione. Le catene strumenti completate possono ripartire dalle osservazioni canoniche; la rimozione di claim ripetutamente respinti richiede comunque un nuovo controllo completo. Non garantisce una risposta riuscita o un risparmio reale già misurato.
 
-Tempi osservati circa **30–105 secondi**. Recupero web indipendente di sicurezza tentato in due casi, senza dimostrare un recupero efficace delle informazioni mancanti. Il controllo documentale indipendente ha trovato informazioni pertinenti non utilizzate dalla beta. I **1.696 controlli offline** e **175 file runtime** già verificati restano prove tecniche, non validazione clinica.
+Risposte con apertura diretta, sezioni brevi, elenchi e tabelle accessibili, con dissolvenza e rispetto del movimento ridotto. **1.717 controlli offline** superati; **178 file runtime** verificati esattamente nel contenitore senza rete. UI desktop/mobile controllata localmente con dati sintetici. **Nessuna nuova domanda reale al modello sulla 108.**
 
-Candidato **107 completo ma NO-GO e non distribuito**: cambiano solo metadati di versione e documentazione post-batteria; i problemi restano aperti. Resta online la 106 riservata. Da migliorare recupero delle evidenze, fonti istituzionali locali, isolamento dei documenti multi-formulazione e costo dei cicli di riparazione. Non sono dimostrati uso generale al banco, ripetibilità, parità con FarmAI o validazione clinica umana. GPT originali e plugin Business FarmAI mantengono contenuto **0.7.7.155**, senza nuove prove.
-
-La batteria storica completa della 0.7.88 conserva **sei risposte a tre quesiti documentali generali, ciascuno ripetuto due volte**: conservazione di un medicinale, testo integrale di un articolo di legge e informazione istituzionale generale sull’occhio secco. Verifiche tecniche e documentali assistite da AI positive nello scope; nucleo concorde nelle coppie, con variazioni di dettaglio e formulazione. Tempi complessivi osservati: AIFA **11–18 s**, Normativa **10–12 s**, Clinica con recupero web **32–35 s**. Non sono SLA, confronto controllato di velocità, ripetibilità generale o validazione clinica umana. Le risposte cliniche dichiarano copertura parziale e attualità/retraction non accertate. Diffusione professionale generale **NO-GO**. [Stato e limiti](docs/STATUS.md).
+I sei esiti 106 restano storici: una risposta utile nello scope, una parziale e quattro quesiti principali irrisolti, con una richiesta bloccata. La specifica proposizione Valium respinta non era conservata: la nuova risposta giuridica non è attestabile dalla sola telemetria. Correttezza, utilità, ripetibilità e riduzione reale di costi/tempi richiedono una futura verifica autorizzata e professionale. Nessun uso generale al banco, parità con FarmAI o validazione clinica umana dichiarati. FarmAI GPT e plugin Business conservano contenuto **0.7.7.155**.
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
