@@ -1,49 +1,41 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-28",
-  "appVersion": "0.7.108-beta",
+  "appVersion": "0.7.109-beta",
   "publicAppAccess": false,
-  "technicalRepair": "synergic_action_web_sources_aifa_literal_identity_focused_sections_scoped_gap_recovery_provincial_sources_bounded_model_dispatch_checked_answer_layout",
+  "technicalRepair": "information_gain_no_global_fixed_model_call_ceiling_documentary_single_composition",
   "qualification": {
-    "offlineChecksPassed": 1717,
+    "offlineChecksPassed": 1724,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 178,
+    "noNetworkRuntimeFiles": 179,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions108": 0,
-    "ownRealInternalModelCalls108": 0,
+    "ownRealUIQuestions109": 0,
+    "ownRealInternalModelCalls109": 0,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "PENDING108_NO_NEW_LIVE_REPLAY",
+  "manualLiveAcceptance": "PENDING109_NO_NEW_LIVE_REPLAY",
   "lastRealBattery": {
-    "version": "0.7.106-beta",
-    "distinctQuestions": 6,
-    "submissions": 6,
+    "version": "0.7.108-beta",
+    "questions": 6,
     "resubmissions": 0,
-    "usefulScopedAnswers": 1,
-    "partialDocumentaryAnswers": 1,
-    "mainQuestionsUnresolved": 4,
-    "conclusiveMessagesDelivered": 5,
-    "requestsBlocked": 1,
-    "backendSeconds": [
-      89.18,
-      104.61,
-      33.4,
-      35.64,
-      29.81,
-      44.7
-    ],
-    "independentSafetyWebAttempted": true,
-    "successfulIndependentRecoveryEstablished": false,
-    "repeatabilityEstablished": false,
+    "usefulScopedAnswers": 2,
+    "partialLocalAnswers": 1,
+    "failedRequests": 3,
+    "failedWithCheckedPartial": 1,
+    "internalModelCalls": 39,
+    "conservativeEstimatedUSD": "2.1080422",
+    "notInvoice": true,
+    "overallEfficiencyEstablished": false,
+    "allCasesPass": false,
     "humanClinicalValidation": false
   },
   "website": {
-    "publication": 86,
-    "snapshot": "2026-10-28-r48",
+    "publication": 87,
+    "snapshot": "2026-10-28-r49",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -64,7 +56,7 @@
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
     "surveyAndWaitlistIndependent": true,
     "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
-    "sourceCommit": "504564e5961a7fae0276af0c8bc6f78a9c5c8fc9"
+    "sourceCommit": "8cfc11309aadf08da2c3ad79dc2f28482eb58c87"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
@@ -106,9 +98,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-10-28-05",
-    "revision": "1.6",
-    "appReference": "0.7.108-beta"
+    "id": "ALG-CLIN-2026-10-28-06",
+    "revision": "1.7",
+    "appReference": "0.7.109-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -134,7 +126,7 @@
     "General repeatability and human clinical validation remain unproved"
   ],
   "deployment": {
-    "version": "0.7.108-beta",
+    "version": "0.7.109-beta",
     "state": "RESTRICTED_CORRECTIVE_BETA",
     "sourceAndImageVerified": true,
     "ownRealReplay": false,
@@ -161,10 +153,12 @@
     "maxReadBodies": 3,
     "maxParallelReads": 3,
     "sharedWebSeconds": 40,
-    "newRealFallbackReplay108": false,
+    "newRealFallbackReplay108": true,
     "maxObservedLeadsPerAcquisitionPhase": 5,
     "maximumKnownPlusDiscoveredReadAttempts": 10,
-    "readAttemptCeilingMeaning": "UP_TO_FIVE_CURRENT_KNOWN_LEADS_THEN_UP_TO_FIVE_OBSERVED_SEARCH_LEADS_WITHIN_SHARED40S_MAX_THREE_ACCEPTED_BODIES"
+    "readAttemptCeilingMeaning": "UP_TO_FIVE_CURRENT_KNOWN_LEADS_THEN_UP_TO_FIVE_OBSERVED_SEARCH_LEADS_WITHIN_SHARED40S_MAX_THREE_ACCEPTED_BODIES",
+    "observed108Outcome": "ACTION_AND_WEB_ON_LOCAL_CASE_CHECKED_CLINICAL_WEB_PARTIAL_ON_FAILED_COMPLETION",
+    "newRealFallbackReplay109": false
   },
   "experienceMemory": {
     "curatedMethodLessons": 14,
@@ -176,17 +170,21 @@
   "historyPolicy": "CURRENT_ONLY_PRIOR_SNAPSHOTS_PRESERVED_IN_GIT_COMMITS_NOT_RECURSIVELY_EMBEDDED",
   "modelRouting": {
     "adaptiveRoutingEnabled": true,
-    "maximumModelCallsPerRequest": 8,
-    "finalDeliveryReviewReserveCalls": 2,
-    "webDiscoverySharesRequestCounter": true,
-    "checkpoint": "NEW_STATELESS_REQUEST_AFTER_PAIRED_TOOLS_FROM_CANONICAL_OBSERVATIONS",
-    "newRealLatencyOrCostReductionMeasured": false
+    "globalFixedModelCallCeiling": null,
+    "globalFixedCompositionTurnCeiling": null,
+    "repeatedIdenticalObservedBatchWithoutContextChange": "COMPOSE_WITH_FULL_REVIEW_NO_NEW_TRANSPORT",
+    "documentaryAifaLegalComposition": "SINGLE_FULL_CHECKED_COMPOSITION",
+    "clinicalBriefDetail": "AVAILABLE_FOR_ACTUAL_CLINICAL_NEEDS",
+    "wallClockAndSourceRepairBudgetsPreserved": true,
+    "actual109SavingsMeasured": false
   },
   "availability": {
     "access": "OWNER_REVIEW",
     "payments": "INACTIVE",
     "modelBackedAnswers108": "NOT_REPLAYED",
-    "historical106Answers": "MIXED_ONE_SCOPED_ONE_PARTIAL_FOUR_UNRESOLVED_MAIN_QUESTIONS"
+    "historical106Answers": "MIXED_ONE_SCOPED_ONE_PARTIAL_FOUR_UNRESOLVED_MAIN_QUESTIONS",
+    "modelBackedAnswers109": "NOT_REPLAYED",
+    "historical108Answers": "TWO_SCOPED_ONE_LOCAL_PARTIAL_THREE_FAILED"
   },
   "postBattery107Candidate": {
     "state": "NO_GO_NOT_DEPLOYED",
@@ -211,5 +209,24 @@
     "No new live 108 replay or measured latency/cost/utility improvement",
     "Exact rejected Valium claim not retained; specific legal answer unverified",
     "General source completeness, repeatability, FarmAI parity and professional/clinical validation remain unproved"
+  ],
+  "historical108Qualification": {
+    "offlineChecksPassed": 1717,
+    "offlineSkipped": 0,
+    "noNetworkRuntimeFiles": 178,
+    "sourceAndImageVerified": true,
+    "productionStartupAndOwnerReviewReadBack": true,
+    "ownRealUIQuestions108": 0,
+    "ownRealInternalModelCalls108": 0,
+    "humanClinicalValidation": false,
+    "generalRepeatabilityEstablished": false,
+    "controlledSpeedComparison": false,
+    "SLAEstablished": false
+  },
+  "openGaps109": [
+    "No live109 replay; answer correctness, utility and repeatability not established",
+    "108 normative and clinical completion failures; exact generated identifier behind TBE output block not retained",
+    "No overall latency improvement in108 repeats;109 savings unmeasured",
+    "No human clinical validation or general counter readiness"
   ]
 }
