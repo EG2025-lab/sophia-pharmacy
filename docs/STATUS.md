@@ -2,27 +2,27 @@
 
 Reviewed 28 October 2026.
 
-The deployed professional beta remains **0.7.106-beta**, restricted to people approved by the owner; payments and answer charging remain inactive. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.108-beta**, restricted to people approved by the owner; payments and answer charging remain inactive. [Current status](CURRENT.json).
 
-The unified account, observed official RCP/PIL PDF links, accessible checked-answer fade and private Firebase experience journal remain available. Fourteen curated method lessons and private chat history are separate from automatic model training.
+Corrections address mechanisms found in six live 106 cases: literal AIFA leaflet identity and focused sections, Actions and independent web contributing separately grounded claims, per-need recovery, provincial institutional discovery and bounded web reading waves. Each channel keeps its own checks and receipts.
 
-**Six new difficult questions were submitted once each in real 106 chats.** One answer was useful within its specific scope, one was partial, and four main questions were unresolved. One request was blocked; a concluding message on other requests does not establish useful completeness.
+Model dispatch is capped at **eight calls per request**, including independent web discovery, with a final delivery/review reserve. Long completed tool chains can restart from canonical observed state; repeatedly rejected claims may be removed only before another complete review. These controls do not guarantee a successful answer or a measured speed/cost improvement.
 
-Observed request times were approximately **30–105 seconds**. Independent safety web recovery was attempted in two cases without establishing effective recovery of missing information. Independent documentary review found relevant information the beta did not use. Existing **1,696 offline checks** and **175 exact runtime-file checks** remain technical evidence, not clinical validation.
+Checked answers support a direct opening, short sections, lists and accessible comparison tables, with a brief reduced-motion-aware fade. All **1,717 offline checks** passed; **178 runtime files** were verified exactly in the container without network. Desktop/mobile layout was checked locally with synthetic content. **No new live model questions were sent on 108.**
 
-A complete **107 candidate remains NO-GO and is not deployed**: only version metadata and post-battery documentation changed; findings are still unresolved. Restricted 106 remains deployed. Evidence retrieval, local institutional routing, multi-formulation document isolation and bounded repair costs require further work. No general counter readiness, repeatability, FarmAI parity or human clinical validation is claimed. FarmAI original GPTs and Business plugins retain content **0.7.7.155**, without new tests.
+The six real 106 outcomes remain historical: one useful scoped answer, one partial and four unresolved main questions, including one blocked request. The precise rejected Valium proposition was not retained; the new legal answer cannot be certified from telemetry alone. New-answer correctness, utility, repeatability and actual cost/latency require later authorized evaluation and professional review. No general counter readiness, FarmAI parity or human clinical validation is claimed. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 ## In italiano
 
-La beta distribuita resta **0.7.106-beta**, riservata alle persone approvate dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](CURRENT.json).
+La beta distribuita è **0.7.108-beta**, riservata alle persone approvate dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](CURRENT.json).
 
-Account unificato, PDF ufficiali RCP/FI già osservati, dissolvenza accessibile delle risposte controllate e registro privato Firebase restano disponibili. Le 14 lezioni curate e lo storico privato sono distinti dall’addestramento automatico del modello.
+Correzioni ai meccanismi emersi nei sei casi reali 106: identità letterale dei foglietti AIFA e sezioni mirate, contributi Actions e web con prove distinte, recupero per bisogno, fonti istituzionali provinciali e ondate di lettura web delimitate. Ogni canale conserva controlli e ricevute propri.
 
-**Sei domande nuove e difficili, un solo invio ciascuna in chat reali della 106.** Una risposta utile nello specifico ambito, una parziale e quattro quesiti principali non risolti. Una richiesta bloccata; la consegna di un messaggio negli altri casi non prova completezza utile.
+Massimo **otto chiamate al modello per domanda**, compresa la ricerca web indipendente, con riserva finale per consegna e revisione. Le catene strumenti completate possono ripartire dalle osservazioni canoniche; la rimozione di claim ripetutamente respinti richiede comunque un nuovo controllo completo. Non garantisce una risposta riuscita o un risparmio reale già misurato.
 
-Tempi osservati circa **30–105 secondi**. Recupero web indipendente di sicurezza tentato in due casi, senza dimostrare un recupero efficace delle informazioni mancanti. Il controllo documentale indipendente ha trovato informazioni pertinenti non utilizzate dalla beta. I **1.696 controlli offline** e **175 file runtime** già verificati restano prove tecniche, non validazione clinica.
+Risposte con apertura diretta, sezioni brevi, elenchi e tabelle accessibili, con dissolvenza e rispetto del movimento ridotto. **1.717 controlli offline** superati; **178 file runtime** verificati esattamente nel contenitore senza rete. UI desktop/mobile controllata localmente con dati sintetici. **Nessuna nuova domanda reale al modello sulla 108.**
 
-Candidato **107 completo ma NO-GO e non distribuito**: cambiano solo metadati di versione e documentazione post-batteria; i problemi restano aperti. Resta online la 106 riservata. Da migliorare recupero delle evidenze, fonti istituzionali locali, isolamento dei documenti multi-formulazione e costo dei cicli di riparazione. Non sono dimostrati uso generale al banco, ripetibilità, parità con FarmAI o validazione clinica umana. GPT originali e plugin Business FarmAI mantengono contenuto **0.7.7.155**, senza nuove prove.
+I sei esiti 106 restano storici: una risposta utile nello scope, una parziale e quattro quesiti principali irrisolti, con una richiesta bloccata. La specifica proposizione Valium respinta non era conservata: la nuova risposta giuridica non è attestabile dalla sola telemetria. Correttezza, utilità, ripetibilità e riduzione reale di costi/tempi richiedono una futura verifica autorizzata e professionale. Nessun uso generale al banco, parità con FarmAI o validazione clinica umana dichiarati. FarmAI GPT e plugin Business conservano contenuto **0.7.7.155**.
 
 ## FarmAI continuity
 
