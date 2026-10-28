@@ -1,58 +1,50 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-27",
-  "appVersion": "0.7.98-beta",
+  "reviewedAt": "2026-10-28",
+  "appVersion": "0.7.101-beta",
   "deployment": "restricted_beta_owner_approval_required",
   "publicAppAccess": false,
-  "technicalRepair": "exact_rd_rdl_dpr_reference_parsing_lossless_redundant_context_removal_minimized_failure_diagnostics",
+  "technicalRepair": "lossless_nested_array_storage_codec_private_failed_model_usage_natural_exact_aic_identity_no_model",
   "qualification": {
-    "offlinePythonAppTests": 1508,
-    "targetedChecksIncluded": 61,
-    "noNetworkRuntimeFiles": 153,
+    "offlinePythonAppTests": 1539,
+    "targetedChecksIncluded": 13,
+    "noNetworkRuntimeFiles": 159,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "realUIQuestions": 2,
-    "completedRealUIAnswers": 2,
-    "completedModelCalls": 8,
-    "reviewType": "AI_ASSISTED_DOCUMENTARY_WITH_OPEN_GAPS_NOT_HUMAN_CLINICAL",
+    "ownRealUIQuestions101": 0,
+    "parent100RealUIQuestions": 4,
+    "parent100CompletedRealUIAnswers": 3,
+    "parent100PersistenceFailures": 1,
+    "parent100ObservedModelCalls": 12,
+    "reviewType": "AI_ASSISTED_DOCUMENTARY_NOT_HUMAN_CLINICAL",
     "professionalAcceptance": "PENDING",
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
-    "independentWebFallbackExercised": false,
+    "independentWebFallbackExercised": "SEARCH_AND_PRIMARY_READ_ATTEMPT_NO_USABLE_WEB_BODIES",
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "TWO_KNOWN_UI_REGRESSIONS_COMPLETE_SCOPED_DOCUMENTARY_SUPPORT_WITH_OPEN_GAPS",
+  "manualLiveAcceptance": "CORRECTIVE101_NOT_REPLAYED_OWNER_CAP_PARENT100_THREE_COMPLETE_ONE_PERSISTENCE_FAILURE",
   "lastRealBattery": {
-    "version": "0.7.88-beta",
-    "distinctQuestions": 3,
-    "submissions": 6,
-    "repetitionsPerQuestion": 2,
-    "completeCaseRecords": 6,
-    "scopedTechnicalAndDocumentaryPasses": 6,
-    "reviewType": "AI_ASSISTED_NOT_HUMAN_CLINICAL",
-    "pairResult": "AGREEING_CORE_WITH_DETAIL_VARIATIONS",
+    "version": "0.7.100-beta",
+    "distinctQuestions": 4,
+    "submissions": 4,
+    "repetitionsPerQuestion": 1,
+    "completeAnswers": 3,
+    "failedDeliveries": 1,
+    "completeAnswerBackendSeconds": [
+      22.06,
+      8.04,
+      59.74
+    ],
+    "scope": "OWNER_REAL_UI_CHATS_NEW_NATURAL_QUESTIONS",
+    "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
-    "timingSeconds": {
-      "aifa": [
-        17.84,
-        11.047
-      ],
-      "legislation": [
-        11.469,
-        9.64
-      ],
-      "generalClinicalWeb": [
-        35.422,
-        32.372
-      ]
-    },
-    "scope": "GENERAL_DOCUMENTARY_QUESTIONS_ON_EXACT_IMAGE_JOB_NOT_AUTHENTICATED_BROWSER_CHAT",
-    "meaning": "Historical complete formal six-answer engine battery, distinct from subsequent incomplete exploratory93 runs"
+    "moreRealTestsAfterThisScope": false
   },
   "website": {
-    "publication": 79,
-    "snapshot": "2026-10-27-r40",
+    "publication": 80,
+    "snapshot": "2026-10-28-r41",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -73,7 +65,7 @@
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
     "surveyAndWaitlistIndependent": true,
     "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
-    "sourceCommit": "c41c117436caa5529f7ae94a873a27a22224fed6"
+    "sourceCommit": "d7b6761685545a9eb1b62f67ac64cb0f23a31feb"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
@@ -109,13 +101,20 @@
     "observedReasoningInSixCases": "low",
     "complexEscalationQualifiedBySixCases": false,
     "adaptiveRouterPresent": true,
-    "adaptiveRouterEnabled": false,
-    "literalFastPathEnabled": false,
+    "adaptiveRouterEnabled": true,
+    "literalFastPathEnabled": true,
     "observed98Reasoning": [
       "low",
       "medium"
     ],
-    "observed98ModelFamilySwitches": 0
+    "observed98ModelFamilySwitches": 0,
+    "stableModelContextEnabled": true,
+    "observed100ModelProfiles": [
+      "gpt-6-luna/none",
+      "gpt-6.1-terra/none",
+      "gpt-6.1-sol/low",
+      "gpt-6.1-sol/medium"
+    ]
   },
   "fallback": {
     "actionFirst": true,
@@ -125,7 +124,8 @@
     "bypassesPrivacyAccessOrBudget": false,
     "fabricatedActionFinalisation": false,
     "mechanism": "API_WEB_SEARCH_AND_ACTUAL_SERVER_SIDE_HTML_PDF_READING_NOT_INTERACTIVE_BROWSER",
-    "independentWebFallbackExercisedOn98": false
+    "independentWebFallbackExercisedOn98": false,
+    "independentWebFallback100": "ACTUAL_SEARCH_AND_BODY_ATTEMPT_ACCESS_CHALLENGES_NO_NEW_BODIES"
   },
   "previousCapture": {
     "completeCaseRecords": 4,
@@ -158,8 +158,8 @@
   },
   "availability": {
     "accountApplication": "OWNER_REVIEW_PENDING_APPROVAL",
-    "modelBackedAnswers": "TWO_98_REAL_UI_ANSWERS_COMPLETE_NOT_GENERAL_CONTINUITY",
-    "aifaUpstream": "SUCCESSFUL_ACTION_READS_IN_TWO_98_CASES_PRIOR_TLS_FAILURE_HISTORICAL",
+    "modelBackedAnswers": "THREE_PARENT100_REAL_UI_ANSWERS_ONE_SAVE_FAILURE_CORRECTIVE101_NO_OWN_REPLAY",
+    "aifaUpstream": "IDENTITY_AND_FI_READS_SUCCEEDED100_STORAGE_AFTER_ENGINE_FAILED_THEN_CORRECTED_OFFLINE101",
     "latencyAndReliability": "OPEN",
     "agentFundingPurchases": 0
   },
@@ -391,6 +391,75 @@
     }
   },
   "latestRealUIRegression": {
+    "version": "0.7.100-beta",
+    "distinctQuestions": 4,
+    "submissions": 4,
+    "repetitionsPerQuestion": 1,
+    "completeAnswers": 3,
+    "failedDeliveries": 1,
+    "completeAnswerBackendSeconds": [
+      22.06,
+      8.04,
+      59.74
+    ],
+    "scope": "OWNER_REAL_UI_CHATS_NEW_NATURAL_QUESTIONS",
+    "humanClinicalValidation": false,
+    "generalRepeatabilityEstablished": false,
+    "moreRealTestsAfterThisScope": false
+  },
+  "currentPresentationArtifact": {
+    "appReference": "0.7.97-beta",
+    "regeneratedFor98": false,
+    "regeneratedFor101": false
+  },
+  "safeRecoveryReference": {
+    "appVersion": "0.7.100-beta",
+    "registration": "OWNER_REVIEW",
+    "manualOnly": true,
+    "knownLimit": "Parent100 has observed shared-document persistence failure; recovery is not universal functional acceptance.",
+    "olderAutomaticAdmissionImagesAreSafeDirectRollback": false
+  },
+  "historicalFormalBattery88": {
+    "version": "0.7.88-beta",
+    "distinctQuestions": 3,
+    "submissions": 6,
+    "repetitionsPerQuestion": 2,
+    "completeCaseRecords": 6,
+    "scopedTechnicalAndDocumentaryPasses": 6,
+    "reviewType": "AI_ASSISTED_NOT_HUMAN_CLINICAL",
+    "pairResult": "AGREEING_CORE_WITH_DETAIL_VARIATIONS",
+    "generalRepeatabilityEstablished": false,
+    "timingSeconds": {
+      "aifa": [
+        17.84,
+        11.047
+      ],
+      "legislation": [
+        11.469,
+        9.64
+      ],
+      "generalClinicalWeb": [
+        35.422,
+        32.372
+      ]
+    },
+    "scope": "GENERAL_DOCUMENTARY_QUESTIONS_ON_EXACT_IMAGE_JOB_NOT_AUTHENTICATED_BROWSER_CHAT",
+    "meaning": "Historical complete formal six-answer engine battery, distinct from subsequent incomplete exploratory93 runs"
+  },
+  "modelRouting": {
+    "state": "ADAPTIVE_ACTIVE",
+    "defaultModel": "gpt-6.1-sol",
+    "defaultEffort": "low",
+    "boundedExtraction": "gpt-6-luna/none",
+    "boundedComposition": "gpt-6.1-terra/none",
+    "complexityAndClinical": "gpt-6.1-sol/controlled_medium",
+    "independentReview": "gpt-6.1-sol",
+    "observedOnParent100": true,
+    "ownReal101Replay": false,
+    "literalIdentity": "NO_MODEL_EXACT_VERIFIED_AIC_ONLY",
+    "safety": "SOURCE_BINDING_AND_SCOPE_GATES_UNCHANGED"
+  },
+  "historicalRealUIRegression98": {
     "version": "0.7.98-beta",
     "date": "2026-10-27",
     "distinctQuestions": 2,
@@ -442,14 +511,5 @@
     "humanClinicalValidation": false,
     "SLAEstablished": false,
     "additionalQuestionsAuthorizedByThisRun": 0
-  },
-  "currentPresentationArtifact": {
-    "appReference": "0.7.97-beta",
-    "regeneratedFor98": false
-  },
-  "safeRecoveryReference": {
-    "appVersion": "0.7.97-beta",
-    "registration": "OWNER_REVIEW",
-    "olderAutomaticAdmissionImagesAreSafeDirectRollback": false
   }
 }

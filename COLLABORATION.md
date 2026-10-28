@@ -1,6 +1,6 @@
 # Collaboration brief
 **SOPHIA · Public starting points · 12 October 2026**
-> Current product reference, reviewed 27 October 2026: **0.7.98-beta**, owner-approved access only. Automatic admission, real payments and adaptive routing remain disabled. Two real UI regression questions produced complete responses with scoped documentary support and open reconciliation/package-channel gaps; they do not establish general repeatability or human clinical validation. The 20-question pilot remains a separate, unexecuted proposal; no tester invitation, partnership or access is implied. [Current status](docs/STATUS.md).
+> Current product reference, reviewed 28 October 2026: **0.7.101-beta**, owner-approved access only. Adaptive routing is active; payments and automatic admission remain inactive. Four new real UI questions on 100 produced three complete answers and one storage failure. The 101 correction has offline/container qualification and no new real replay. The proposed 20-question pilot remains separate and unexecuted; no new engagement, partnership or access is implied. [Current status](docs/STATUS.md).
 
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.

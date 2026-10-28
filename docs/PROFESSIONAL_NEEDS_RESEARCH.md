@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Product reference reviewed 27 October 2026: **0.7.98-beta** requires owner approval. The public Home retains the Stealth survey and optional waitlist, without app-access buttons. A survey or waitlist entry does not grant beta access. Real payments and automatic admission remain inactive. The separate two-case UI regression review does not validate the market research or clinical use. [Current status](STATUS.md).
+> Product reference reviewed 28 October 2026: **0.7.101-beta**, owner approval required. Stealth Home, survey and optional waitlist are preserved without app-access buttons. Four real UI questions on parent 100 and the later offline storage correction do not validate market research or clinical use. Payments and automatic admission remain inactive. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
