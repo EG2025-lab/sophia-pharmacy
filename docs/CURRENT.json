@@ -158,11 +158,13 @@
     "signedActionClinicalClaimsSeparatedFromWebClaims": true,
     "webCanInheritActionReceipt": false,
     "regionalInstitutionalDiscovery": "BOUNDED_REVIEWED_AUTHORITIES_NO_INFERRED_LOCAL_COVERAGE",
-    "maxObservedLeads": 5,
     "maxReadBodies": 3,
     "maxParallelReads": 3,
     "sharedWebSeconds": 40,
-    "newRealFallbackReplay108": false
+    "newRealFallbackReplay108": false,
+    "maxObservedLeadsPerAcquisitionPhase": 5,
+    "maximumKnownPlusDiscoveredReadAttempts": 10,
+    "readAttemptCeilingMeaning": "UP_TO_FIVE_CURRENT_KNOWN_LEADS_THEN_UP_TO_FIVE_OBSERVED_SEARCH_LEADS_WITHIN_SHARED40S_MAX_THREE_ACCEPTED_BODIES"
   },
   "experienceMemory": {
     "curatedMethodLessons": 14,
