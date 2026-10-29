@@ -1,13 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.113-beta**, restricted to owner-approved users; payments and answer charging remain inactive. Last provider availability observation is the111quota failure; no new provider inference or topup was performed. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.114-beta**, restricted to owner-approved users; payments and answer charging remain inactive. The last ten real tests used113: three useful scoped answers, three partial answers and four without a usable final answer. No further real questions followed the corrective release. [Current status](docs/STATUS.md).
 
-113 repairs literal joint-form/trademark leaflet binding, separately declared recovery for observed AIFA documentary gaps, focused institutional-source leads and successive web searches under shared elapsed budgets. Duplicate queries and attempted URLs are skipped. Primary Commission,EFSA,EUParliament andFOFI discovery scope is widened. Already-read clinical passages lead directly to complete composition through the same critic. There is no fixed global model-call or trace-count ceiling.
+114 repairs research-task pointers after rejected-block removal, reuses complete AIFA document pairs within the same request and focus, recognizes natural coadministration questions and qualified shared SmPC sections, and reserves time for composition plus review. Exact repeated source values can be shared reversibly in the composer. Generated public product identifiers are distinguished more precisely from personal contacts. Structured channels and declared web sources can cooperate; there is no fixed global model-call ceiling.
 
-**1,772 offline checks and57 interface checks** passed;183 exact runtime files were verified without network. The original leaflet from a111failure now binds offline while retaining form-specific conditions. No real113question was sent. Last six real111cases remain historical:two useful scoped,two partial,one without substantive requested content and one quota refusal. Known-usage conservative estimate1.351USD,not invoice;one failed attempt has unavailable usage.
+**1,792 offline checks and 57 interface checks** passed; 185 exact runtime files were verified without network, including saved original-document regressions. Table citations and supplementary evidence limits render more clearly without hiding qualifications. These checks do not measure real114 answer quality, latency, costs or repeatability. No114 model question was submitted.
 
-The deployed113repairs have no own live answer,latency,savings or repeatability verification. Inaccessible primary texts,challenge pages and document limits can still leave gaps. No general counter readiness,FarmAI parity or human clinical validation is claimed. FarmAI original GPTs and Business plugins retain content **0.7.7.155**; the metadata-only112candidate remains preserved separately.
+Open issues include nominal catalogue/document strength differences, inaccessible primary texts, incomplete supplement-interaction evidence and undocumented local service coverage. The exact generated token behind one113 privacy block was not retained, so its particular live correction remains unconfirmed. No general counter readiness, FarmAI parity, cost saving or human clinical validation is claimed. FarmAI original GPTs and Business plugins retain content **0.7.7.155**.
 
 ## Open collaboration opportunities
 
