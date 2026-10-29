@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Current product reference,30 October2026: **0.7.114-beta**,owner-approved access,payments inactive. Six real inputs:one useful main-scope answer,two partial,three without substantive outcomes;36model calls with usage available. Document-section selection,false scope blocking,clinical review and EU body access remain open.115RCis metadata-only,NO-GO and not deployed. No general counter readiness or human clinical validation. [Current status](STATUS.md).
+> Current product reference,30 October2026: **0.7.116-beta**,owner-approved access,payments inactive. Common-cause repairs from six114inputs;1808offline checks,58interface checks andfour saved-PDF readings. No new116real question,measured savings,general counter readiness orhuman clinical validation. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
