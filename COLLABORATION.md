@@ -1,6 +1,6 @@
 # Collaboration brief
 **SOPHIA · Public starting points · 12 October 2026**
-> Current product reference, 28 October 2026: **0.7.109-beta**, owner-approved access, payments inactive. No fixed model-call ceiling; information-gain decisions and documentary single composition passed 1,724 offline checks, no live109 replay. Six108 cases: two scoped useful, one local partial, three failed requests. No clinical validation, overall speed improvement or general counter readiness. [Current status](docs/STATUS.md).
+> Current product reference,29October2026: **0.7.110-beta**, owner-approved access,payments inactive.1,749offline and56interface checks;no live110question. Six109cases:two useful scoped,three partial,one failure.44internal calls,2.283USD conservative estimate,not invoice. Focused recovery and no-progress efficiency changes remain unmeasured in live110. No general counter readiness or human clinical validation. [Current status](docs/STATUS.md).
 
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.
