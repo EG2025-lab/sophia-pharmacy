@@ -1,24 +1,24 @@
 # SOPHIA status and evaluation
 
-Reviewed 28 October 2026.
+Reviewed29October2026.
 
-The deployed professional beta is **0.7.109-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.110-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
 
-The fixed model-call ceiling has been removed. Repeated identical tool requests without new canonical information lead to checked composition rather than another transport attempt. Documentary AIFA and legal routes avoid mandatory brief/detail duplication. Time, cancellation, source budgets, privacy, bindings and semantic review remain active. **1,724 offline checks** passed; no live model questions were sent on109.
+110 fixes common output-privacy composition, clinical web-recovery focus, no-progress search variants, manual error readback and source-title issues. There is no fixed global model-call ceiling. Source admission, privacy, bindings and full semantic review remain required. **1,749 offline checks and56 interface checks** passed; no live110 model question was sent.
 
-Six live108 repeats produced **two useful scoped answers, one useful local partial and three failed requests**, one retaining a visible checked partial. Structured retrieval and independent web cooperated in the provincial vaccination answer. The cap interrupted two cases; a generated-output privacy check blocked another.39 internal calls and a conservative2.108USD estimate, not invoice; aggregate latency increased compared with106. This is not an overall efficiency improvement.
+Six real109 repeats produced **two useful scoped answers, three partial answers and one failed request**.44 internal model calls, a conservative2.283USD estimate, not invoice. Latency ranged about34–128seconds. Structured retrieval and independent web were both attempted where relevant; clinical and legal completeness still had gaps. This does not establish an overall efficiency improvement.
 
-109 correctness, continuity, actual cost/latency and repeatability remain unmeasured. The exact identifier behind the108 output block was not retained; no privacy filter was disabled. No general counter readiness, FarmAI parity or human clinical validation is claimed. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+110 answer correctness, actual savings, latency and repeatability remain unmeasured. Legal classification/original retention, one clinical vaccination subquestion and the current private provincial vaccination pathway remain open for field verification. No general counter readiness, FarmAI parity or human clinical validation is claimed. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 ## In italiano
 
-La beta distribuita è **0.7.109-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](CURRENT.json).
+La beta distribuita è **0.7.110-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](CURRENT.json).
 
-Rimosso il tetto fisso alle chiamate AI. Richieste di strumenti identiche senza nuove informazioni canoniche portano alla composizione verificata, evitando ulteriori trasporti. I percorsi documentali AIFA e Normativa evitano la duplicazione obbligatoria tra sintesi iniziale e dettaglio. Restano tempo, annullamento, budget delle fonti, privacy, binding e revisione semantica. **1.724 controlli offline** superati; nessuna domanda reale al modello sulla109.
+La110corregge meccanismi di privacy compositiva dell’output,focus clinico nel recupero web,ricerche senza nuove informazioni,recupero manuale degli errori e titoli delle fonti. Nessun tetto globale fisso alle chiamate. Ammissione delle fonti,privacy,binding e revisione completa restano obbligatori. **1.749controlli offline e56controlli interfaccia** superati;nessuna domanda reale110.
 
-Sei ripetizioni reali108: **due risposte utili nello scope, una locale parziale e tre richieste fallite**, una con sintesi verificata visibile. Actions e web hanno collaborato nella risposta vaccinale provinciale. Due casi interrotti dal tetto alle chiamate; uno bloccato da un identificatore nel testo generato.39 chiamate interne, stima prudenziale2,108USD, non fattura; somma dei tempi maggiore rispetto alla106. Nessun miglioramento generale di efficienza dimostrato.
+Sei ripetizioni reali109:**due risposte utili nello scope,tre parziali e una richiesta fallita**.44chiamate interne,stima prudenziale2,283USD,non fattura;tempi circa34–128secondi. Actions e web sono stati tentati nei casi pertinenti;completezza clinica e normativa ancora parziali. Nessun miglioramento generale di efficienza dimostrato.
 
-Correttezza109, continuità, costo/tempo reali e ripetibilità ancora da misurare. La specifica stringa del blocco di output108 non è conservata; nessun filtro privacy disattivato. Nessun uso generale al banco, parità con FarmAI o validazione clinica umana dichiarati. FarmAI GPT originali e plugin Business conservano contenuto **0.7.7.155**.
+Correttezza reale110,risparmio,tempi e ripetibilità non misurati. Classificazione normativa/conservazione originale,un punto clinico vaccinale e percorso privato provinciale corrente restano da verificare sul campo. Nessun uso generale al banco,paritàFarmAI o validazione clinica umana dichiarati. FarmAI GPT originali e pluginBusiness conservano contenuto **0.7.7.155**.
 
 ## FarmAI continuity
 
