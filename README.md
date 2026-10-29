@@ -1,13 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.111-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta remains **0.7.111-beta**, restricted to owner-approved users; payments and answer charging are inactive. The last real request was stopped by API quota exhaustion; owner action is required to restore provider availability. [Current status](docs/STATUS.md).
 
-111 adds direct web for campaigns, local services and products outside clean Action capabilities; AIFA, legislation and clinical Actions remain available for their domains and mixed questions. Web disclosures are neutral. Professional documentary questions are distinguished from personal therapy and generated-output failures from user-input privacy. The answer layout follows an existing FarmAI example. There is no fixed global model-call ceiling. Source admission, privacy, bindings and full semantic review remain required. **1,761 offline checks and57 interface checks** passed; no live111 model question was sent.
+111 uses AIFA, legislation and clinical Actions in their appropriate domains, direct web for outside-capability questions, and both channels for supported mixed needs. **1,761 offline checks and57 interface checks** preceded the new live battery. There is no fixed global model-call ceiling; source admission,privacy,bindings and full review remain required.
 
-Six real109 repeats produced **two useful scoped answers, three partial answers and one failed request**.44 internal model calls, a conservative2.283USD estimate, not invoice. Latency ranged about34–128seconds. Structured retrieval and independent web were both attempted where relevant; clinical and legal completeness still had gaps. This does not establish an overall efficiency improvement.
+Six new real111 chats produced **two useful scoped answers,two partial answers,one without substantive requested content and one quota failure**.31 calls returned usage and one refused attempt did not. The conservative known-usage estimate is1.351USD,not an invoice; the failed attempt is not assumed free. Delivered answers took about33–111seconds. ClinicalActions andweb contributed together; local public-service retrieval used directweb without a ritualAction.
 
-111 answer correctness, actual savings, latency and repeatability remain unmeasured. Legal classification/original retention, one clinical vaccination subquestion and the current private provincial vaccination pathway remain open for field verification. No general counter readiness, FarmAI parity or human clinical validation is claimed. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+Joint-leaflet binding,legal source follow-up and successive direct-web acquisition remain open. A complete112 metadata-only continuity candidate is **NO-GO and not deployed**; it contains no behavioral repair. One observation per new question does not establish repeatability,overall speed savings,general counter readiness,FarmAI parity or human clinical validation. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 ## Open collaboration opportunities
 
