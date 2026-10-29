@@ -1,5 +1,5 @@
 # A 20-question pilot for professional pharmacy knowledge
-> Current product reference, 29 October 2026: **0.7.114-beta**, owner-approved access, payments inactive. Last ten113 tests: three useful scoped answers, three partial, four without usable outcomes. Corrective114 passes 1,792 offline and 57 interface checks, with no own real question. Structured channels and declared web can cooperate. Actual114 correctness, latency, savings and repeatability remain unmeasured; no general counter readiness or human clinical validation. [Current status](../docs/STATUS.md).
+> Current product reference,30 October2026: **0.7.114-beta**,owner-approved access,payments inactive. Six real inputs:one useful main-scope answer,two partial,three without substantive outcomes;36model calls with usage available. Document-section selection,false scope blocking,clinical review and EU body access remain open.115RCis metadata-only,NO-GO and not deployed. No general counter readiness or human clinical validation. [Current status](../docs/STATUS.md).
 
 
 **SOPHIA · Proposal v0.1 · 12 October 2026 · NOT RUN**
