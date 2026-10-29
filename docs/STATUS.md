@@ -2,23 +2,23 @@
 
 Reviewed29October2026.
 
-The deployed professional beta is **0.7.111-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
+The deployed professional beta remains **0.7.111-beta**, restricted to owner-approved users; payments and answer charging are inactive. The last real request was stopped by API quota exhaustion; owner action is required to restore provider availability. [Current status](CURRENT.json).
 
-111 adds direct web for campaigns, local services and products outside clean Action capabilities; AIFA, legislation and clinical Actions remain available for their domains and mixed questions. Web disclosures are neutral. Professional documentary questions are distinguished from personal therapy and generated-output failures from user-input privacy. The answer layout follows an existing FarmAI example. There is no fixed global model-call ceiling. Source admission, privacy, bindings and full semantic review remain required. **1,761 offline checks and57 interface checks** passed; no live111 model question was sent.
+111 uses AIFA, legislation and clinical Actions in their appropriate domains, direct web for outside-capability questions, and both channels for supported mixed needs. **1,761 offline checks and57 interface checks** preceded the new live battery. There is no fixed global model-call ceiling; source admission,privacy,bindings and full review remain required.
 
-Six real109 repeats produced **two useful scoped answers, three partial answers and one failed request**.44 internal model calls, a conservative2.283USD estimate, not invoice. Latency ranged about34–128seconds. Structured retrieval and independent web were both attempted where relevant; clinical and legal completeness still had gaps. This does not establish an overall efficiency improvement.
+Six new real111 chats produced **two useful scoped answers,two partial answers,one without substantive requested content and one quota failure**.31 calls returned usage and one refused attempt did not. The conservative known-usage estimate is1.351USD,not an invoice; the failed attempt is not assumed free. Delivered answers took about33–111seconds. ClinicalActions andweb contributed together; local public-service retrieval used directweb without a ritualAction.
 
-111 answer correctness, actual savings, latency and repeatability remain unmeasured. Legal classification/original retention, one clinical vaccination subquestion and the current private provincial vaccination pathway remain open for field verification. No general counter readiness, FarmAI parity or human clinical validation is claimed. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+Joint-leaflet binding,legal source follow-up and successive direct-web acquisition remain open. A complete112 metadata-only continuity candidate is **NO-GO and not deployed**; it contains no behavioral repair. One observation per new question does not establish repeatability,overall speed savings,general counter readiness,FarmAI parity or human clinical validation. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 ## In italiano
 
-La beta distribuita è **0.7.111-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](CURRENT.json).
+La beta distribuita resta **0.7.111-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Ultima richiesta fermata dalla quotaAPI: serve un intervento del titolare per ripristinare il servizio. [Stato corrente](CURRENT.json).
 
-La111 introduce web diretto per campagne, servizi e prodotti fuori dai percorsi Action pertinenti. AIFA, Normativa e Clinica restano disponibili per i loro ambiti e per domande miste. Diciture web neutre, domande documentali professionali distinte da decisioni personali e nuova gerarchia del testo ispirata a FarmAI. Nessun tetto globale fisso alle chiamate. Ammissione delle fonti,privacy,binding e revisione completa restano obbligatori. **1.761controlli offline e57controlli interfaccia** superati;nessuna domanda reale111.
+La111 usa ActionsAIFA,Normativa eClinica nei rispettivi ambiti,web diretto per domande fuori dai percorsi disponibili e collaborazione fra canali per bisogni misti supportati. **1.761controlli offline e57interfaccia** precedono la nuova batteria reale. Nessun tetto globale fisso alle chiamate;ammissione delle fonti,privacy,binding e revisione completa restano obbligatori.
 
-Sei ripetizioni reali109:**due risposte utili nello scope,tre parziali e una richiesta fallita**.44chiamate interne,stima prudenziale2,283USD,non fattura;tempi circa34–128secondi. Actions e web sono stati tentati nei casi pertinenti;completezza clinica e normativa ancora parziali. Nessun miglioramento generale di efficienza dimostrato.
+Sei nuove chat reali111:**due risposte utili nello scope,due parziali,una senza risposta sostanziale e una fallita per quota**.31chiamate con usage e1tentativo rifiutato senza usage. Stima prudenziale delle chiamate note1,351USD,non fattura;il tentativo fallito non è assunto gratuito. Risposte consegnate in circa33–111secondi. Actionscliniche eweb hanno contribuito insieme;il servizio territoriale è passato direttamente alweb senzaActionrituali.
 
-Correttezza reale111,risparmio,tempi e ripetibilità non misurati. Classificazione normativa/conservazione originale,un punto clinico vaccinale e percorso privato provinciale corrente restano da verificare sul campo. Nessun uso generale al banco,paritàFarmAI o validazione clinica umana dichiarati. FarmAI GPT originali e pluginBusiness conservano contenuto **0.7.7.155**.
+Binding dei foglietti condivisi,approfondimenti normativi e tentativi web successivi restano aperti. RC112completa di sola continuità:**NO-GO,non pubblicata,nessuna correzione comportamentale**. Una osservazione per domanda nuova non dimostra ripetibilità,risparmio generale,idoneità al banco,paritàFarmAI o validazione clinica umana. FarmAI GPT e pluginBusiness conservano contenuto **0.7.7.155**.
 
 ## FarmAI continuity
 
