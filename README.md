@@ -1,13 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.109-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.110-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
 
-The fixed model-call ceiling has been removed. Repeated identical tool requests without new canonical information lead to checked composition rather than another transport attempt. Documentary AIFA and legal routes avoid mandatory brief/detail duplication. Time, cancellation, source budgets, privacy, bindings and semantic review remain active. **1,724 offline checks** passed; no live model questions were sent on109.
+110 fixes common output-privacy composition, clinical web-recovery focus, no-progress search variants, manual error readback and source-title issues. There is no fixed global model-call ceiling. Source admission, privacy, bindings and full semantic review remain required. **1,749 offline checks and56 interface checks** passed; no live110 model question was sent.
 
-Six live108 repeats produced **two useful scoped answers, one useful local partial and three failed requests**, one retaining a visible checked partial. Structured retrieval and independent web cooperated in the provincial vaccination answer. The cap interrupted two cases; a generated-output privacy check blocked another.39 internal calls and a conservative2.108USD estimate, not invoice; aggregate latency increased compared with106. This is not an overall efficiency improvement.
+Six real109 repeats produced **two useful scoped answers, three partial answers and one failed request**.44 internal model calls, a conservative2.283USD estimate, not invoice. Latency ranged about34–128seconds. Structured retrieval and independent web were both attempted where relevant; clinical and legal completeness still had gaps. This does not establish an overall efficiency improvement.
 
-109 correctness, continuity, actual cost/latency and repeatability remain unmeasured. The exact identifier behind the108 output block was not retained; no privacy filter was disabled. No general counter readiness, FarmAI parity or human clinical validation is claimed. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+110 answer correctness, actual savings, latency and repeatability remain unmeasured. Legal classification/original retention, one clinical vaccination subquestion and the current private provincial vaccination pathway remain open for field verification. No general counter readiness, FarmAI parity or human clinical validation is claimed. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 ## Open collaboration opportunities
 
