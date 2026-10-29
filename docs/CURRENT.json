@@ -1,41 +1,41 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-28",
-  "appVersion": "0.7.109-beta",
+  "reviewedAt": "2026-10-29",
+  "appVersion": "0.7.110-beta",
   "publicAppAccess": false,
-  "technicalRepair": "information_gain_no_global_fixed_model_call_ceiling_documentary_single_composition",
+  "technicalRepair": "focused_clinical_recovery_composition_privacy_no_progress_search_error_readback_source_titles",
   "qualification": {
-    "offlineChecksPassed": 1724,
+    "offlineChecksPassed": 1749,
+    "interfaceChecksPassed": 56,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 179,
+    "noNetworkRuntimeFiles": 180,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions109": 0,
-    "ownRealInternalModelCalls109": 0,
+    "ownRealUIQuestions110": 0,
+    "ownRealInternalModelCalls110": 0,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "PENDING109_NO_NEW_LIVE_REPLAY",
+  "manualLiveAcceptance": "PENDING110_NO_LIVE_REPLAY",
   "lastRealBattery": {
-    "version": "0.7.108-beta",
+    "version": "0.7.109-beta",
     "questions": 6,
     "resubmissions": 0,
     "usefulScopedAnswers": 2,
-    "partialLocalAnswers": 1,
-    "failedRequests": 3,
-    "failedWithCheckedPartial": 1,
-    "internalModelCalls": 39,
-    "conservativeEstimatedUSD": "2.1080422",
+    "partialAnswers": 3,
+    "failedRequests": 1,
+    "internalModelCalls": 44,
+    "conservativeEstimatedUSD": "2.2834196",
     "notInvoice": true,
     "overallEfficiencyEstablished": false,
     "allCasesPass": false,
     "humanClinicalValidation": false
   },
   "website": {
-    "publication": 87,
-    "snapshot": "2026-10-28-r49",
+    "publication": 88,
+    "snapshot": "2026-10-29-r50",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -55,8 +55,7 @@
     "surveyInterface": "survey_with_optional_waitlist_initially_selected",
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
     "surveyAndWaitlistIndependent": true,
-    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
-    "sourceCommit": "8cfc11309aadf08da2c3ad79dc2f28482eb58c87"
+    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA"
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
@@ -98,9 +97,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-10-28-06",
-    "revision": "1.7",
-    "appReference": "0.7.109-beta"
+    "id": "ALG-CLIN-2026-10-29-01",
+    "revision": "1.8",
+    "appReference": "0.7.110-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -228,5 +227,13 @@
     "108 normative and clinical completion failures; exact generated identifier behind TBE output block not retained",
     "No overall latency improvement in108 repeats;109 savings unmeasured",
     "No human clinical validation or general counter readiness"
+  ],
+  "openGaps110": [
+    "No live110question after six109cases",
+    "Current legal classification/original-retention response not replayed",
+    "Vaccination clinical subquestion incomplete in109",
+    "Current local private vaccination pathway not documented",
+    "Clinical abstract/currentness limits and duplicate brief/detail latency",
+    "Actual110cost,latency,repeatability and human professional acceptance not measured"
   ]
 }
