@@ -6,7 +6,7 @@ Reviewed29October2026. These are separate product channels, with different deplo
 | --- | --- | --- |
 | Original FarmAI EVO and Support GPTs | Builder instructions, knowledge and Actions. | The original GPTs are preserved and remain the continuity option if a plugin has a problem. |
 | Private FarmAI Business plugins | Skills hold migrated instructions/documents; a private MCP App exposes the former Action operations. | The chat host controls model and browser. Migration does not automatically grant use to every workspace member. |
-| SOPHIA | Restricted application/API111,owner-approved access,payments inactive. | Focused recovery,no fixed global call cap;1,761offline and57interface checks,no live111replay. Six109cases:two useful scoped,three partial,one failure;no general counter readiness. |
+| SOPHIA | Restricted application/API111,owner-approved access,payments inactive;provider quota exhausted. | Six new cases:two useful scoped,two partial,one without requested answer,one quota failure.112metadata-onlyNO-GO,not deployed. No general counter readiness. |
 
 Current FarmAI content is **0.7.7.155** in the originals and Business plugins; plugin packages are **0.8.0 EVO** and **0.5.0 Support**. Workspace availability is configured for its members; an independent second-member installation and automatic invocation in every chat are not established by the publication readback. No further 155 chat tests followed the owner’s instruction.
 
@@ -23,10 +23,10 @@ Technical migration does not establish clinical validation, general repeatabilit
 
 ## In italiano
 
-La beta distribuita è **0.7.111-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](CURRENT.json).
+La beta distribuita resta **0.7.111-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Ultima richiesta fermata dalla quotaAPI: serve un intervento del titolare per ripristinare il servizio. [Stato corrente](STATUS.md).
 
-La111 introduce web diretto per campagne, servizi e prodotti fuori dai percorsi Action pertinenti. AIFA, Normativa e Clinica restano disponibili per i loro ambiti e per domande miste. Diciture web neutre, domande documentali professionali distinte da decisioni personali e nuova gerarchia del testo ispirata a FarmAI. Nessun tetto globale fisso alle chiamate. Ammissione delle fonti,privacy,binding e revisione completa restano obbligatori. **1.761controlli offline e57controlli interfaccia** superati;nessuna domanda reale111.
+La111 usa ActionsAIFA,Normativa eClinica nei rispettivi ambiti,web diretto per domande fuori dai percorsi disponibili e collaborazione fra canali per bisogni misti supportati. **1.761controlli offline e57interfaccia** precedono la nuova batteria reale. Nessun tetto globale fisso alle chiamate;ammissione delle fonti,privacy,binding e revisione completa restano obbligatori.
 
-Sei ripetizioni reali109:**due risposte utili nello scope,tre parziali e una richiesta fallita**.44chiamate interne,stima prudenziale2,283USD,non fattura;tempi circa34–128secondi. Actions e web sono stati tentati nei casi pertinenti;completezza clinica e normativa ancora parziali. Nessun miglioramento generale di efficienza dimostrato.
+Sei nuove chat reali111:**due risposte utili nello scope,due parziali,una senza risposta sostanziale e una fallita per quota**.31chiamate con usage e1tentativo rifiutato senza usage. Stima prudenziale delle chiamate note1,351USD,non fattura;il tentativo fallito non è assunto gratuito. Risposte consegnate in circa33–111secondi. Actionscliniche eweb hanno contribuito insieme;il servizio territoriale è passato direttamente alweb senzaActionrituali.
 
-Correttezza reale111,risparmio,tempi e ripetibilità non misurati. Classificazione normativa/conservazione originale,un punto clinico vaccinale e percorso privato provinciale corrente restano da verificare sul campo. Nessun uso generale al banco,paritàFarmAI o validazione clinica umana dichiarati. FarmAI GPT originali e pluginBusiness conservano contenuto **0.7.7.155**.
+Binding dei foglietti condivisi,approfondimenti normativi e tentativi web successivi restano aperti. RC112completa di sola continuità:**NO-GO,non pubblicata,nessuna correzione comportamentale**. Una osservazione per domanda nuova non dimostra ripetibilità,risparmio generale,idoneità al banco,paritàFarmAI o validazione clinica umana. FarmAI GPT e pluginBusiness conservano contenuto **0.7.7.155**.
