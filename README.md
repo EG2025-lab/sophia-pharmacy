@@ -1,13 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta remains **0.7.114-beta**, restricted to owner-approved users; payments and answer charging remain inactive. Six new real chat inputs on114 produced one useful answer within the main scope, two partial answers and three without substantive outcomes. The useful local-service answer also has an ancillary comparison limitation. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.116-beta**,restricted to owner-approved users;payments and answer charging remain inactive. It addresses common causes from six real114inputs:one useful answer within the main scope,two partial andthree without substantive outcomes. No new real116question was submitted. [Current status](docs/STATUS.md).
 
-Structured AIFA channels and declared web sources cooperated. Direct web was selected for a supplement outside the structured product path and for local vaccination services. ClinicalActions were observed before a final review failure. The unchanged114runtime was tested; no further question was submitted after these six inputs.
+116repairs combined SmPC/PIL topic selection,irregular authored headings anduniquely bound shared-strength documents. A bounded grammatical rule resolves prescription references without admitting personal treatment requests. Clinical reviewer output scales with its observed contract;malformed review declarations revisit the critic on the same draft instead of regenerating unchanged claims.
 
-The114build previously passed **1,792 offline checks and 57 interface checks**, with185exact runtime files verified without network. The six real inputs used36model calls,all with usage available;one question was blocked before any model call. Delivered answers took about41–83seconds;the failed clinical request took about222seconds. These are individual observations,not a controlled speed comparison or general repeatability evidence.
+**1,808 offline checks and58interface checks** passed;188exact runtime files were verified without network. Four saved original-PDF readings expose the previously missing passages. The bounded HTML reader andobserved primary-document links improve acquisition;read operational documents can qualify news claims. Structured channels anddeclared web remain complementary. No new fixed global model-call ceiling.
 
-Open issues include incomplete selection of requested SmPC/PIL sections,a false individual-scope block on a general prescription question,incomplete clinical review and failed EU primary-body acquisition. Local operational conditions require fuller comparison. Complete RC115is metadata and continuity only,NO-GO and not deployed;it contains no behavioral fixes. No general counter readiness,FarmAI parity,cost saving or human clinical validation is claimed. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+These technical checks do not establish actual116answer quality,savings,speed,repeatability,FarmAI parity orhuman clinical validation. Third-party access blocks andunavailable bodies remain possible;the exact reason for114incomplete review was not retained. Nominal ingredient differences remain explicit unless source evidence reconciles them. Governance-only RC115is preserved andnot deployed. FarmAI GPTs andBusiness plugins retain content **0.7.7.155**.
 
 ## Open collaboration opportunities
 
