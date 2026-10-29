@@ -1,12 +1,12 @@
 # FarmAI GPTs, Business plugins and SOPHIA
 
-Reviewed29October2026. These are separate product channels, with different deployment and qualification records.
+Reviewed30October2026.
 
 | Channel | What it contains | Model and continuity |
 | --- | --- | --- |
 | Original FarmAI EVO and Support GPTs | Builder instructions, knowledge and Actions. | The original GPTs are preserved and remain the continuity option if a plugin has a problem. |
 | Private FarmAI Business plugins | Skills hold migrated instructions/documents; a private MCP App exposes the former Action operations. | The chat host controls model and browser. Migration does not automatically grant use to every workspace member. |
-| SOPHIA | Restricted application/API114, owner-approved access, payments inactive. | Common-cause repairs; 1,792 offline + 57 interface checks, no own114 inference. Ten113 tests: three scoped, three partial, four unusable. No general counter readiness. |
+| SOPHIA | Restricted application/API114,owner-approved access,payments inactive. | Six real inputs:one useful main-scope answer,two partial,three without substantive outcomes.115RCmetadata-only,not deployed. No general counter readiness. |
 
 Current FarmAI content is **0.7.7.155** in the originals and Business plugins; plugin packages are **0.8.0 EVO** and **0.5.0 Support**. Workspace availability is configured for its members; an independent second-member installation and automatic invocation in every chat are not established by the publication readback. No further 155 chat tests followed the owner’s instruction.
 
@@ -23,10 +23,10 @@ Technical migration does not establish clinical validation, general repeatabilit
 
 ## In italiano
 
-La beta distribuita è **0.7.114-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Le ultime dieci prove reali riguardano la113: tre risposte utili nello scope verificato, tre parziali e quattro senza esito utilizzabile. Nessuna ulteriore domanda reale dopo il rilascio correttivo. [Stato corrente](STATUS.md).
+La beta distribuita resta **0.7.114-beta**,riservata agli utenti approvati dal titolare;pagamenti e addebiti inattivi. Sei nuovi invii nelle chat reali114:una risposta utile nel perimetro principale,due parziali e tre senza esito sostanziale. La risposta territoriale utile conserva un limite nel confronto accessorio. [Stato corrente](STATUS.md).
 
-La114 corregge gli indici del piano dopo la rimozione dei blocchi respinti, riusa le sole coppie documentali AIFA complete nella stessa richiesta e tema, riconosce la coassunzione espressa in linguaggio naturale e sezioni RCP condivise qualificate, e riserva tempo alla sintesi e al controllo. I valori ripetuti esatti possono essere condivisi reversibilmente nel contesto. Gli identificativi pubblici di prodotto sono distinti con maggiore precisione dai contatti personali. Canali strutturati e web dichiarato possono collaborare; nessun tetto fisso globale alle chiamate.
+Canali AIFA eweb dichiarato hanno collaborato. Web diretto scelto per un integratore fuori dal percorso strutturato e per i servizi vaccinali locali. Actions cliniche osservate prima del fallimento della revisione finale. Il runtime114 è rimasto invariato;nessun altro invio dopo queste sei domande.
 
-Superati **1.792 controlli offline e 57 interfaccia**; 185 file runtime esatti verificati senza rete, anche sui documenti originali conservati. Citazioni di tabella e limiti supplementari più ordinati, senza nascondere qualificazioni. Questi controlli non misurano qualità, latenza, costo o ripetibilità delle risposte reali114. Nessuna domanda al modello114.
+La build114 aveva superato **1.792 controlli offline e 57 interfaccia**,con185file runtime verificati senza rete. I sei invii reali hanno richiesto36chiamate con consumi disponibili;una domanda è stata bloccata prima del modello. Risposte consegnate in circa41–83secondi;fallimento clinico a222secondi. Sono osservazioni singole,non confronto controllato di velocità o prova di ripetibilità generale.
 
-Restano differenze nominali fra catalogo e documenti, testi primari inaccessibili, evidenze incomplete sulle interazioni degli integratori e offerte territoriali non documentate. Il token esatto di un blocco privacy113 non è conservato: la correzione specifica non è confermata dal vivo. Nessuna idoneità generale al banco, parità FarmAI, risparmio o validazione clinica umana attestata. FarmAI GPT originali e plugin Business conservano contenuto **0.7.7.155**.
+Restano selezione incompleta delle sezioni RCP/FI richieste,falso blocco del perimetro individuale su una domanda generale di ricetta,revisione clinica non completata e testi primari UE non acquisiti. Condizioni operative territoriali da confrontare più compiutamente. RC115completa solo metadati e continuità,NO-GO,non pubblicata e senza correzioni comportamentali. Nessuna idoneità generale al banco,parità FarmAI,risparmio o validazione clinica umana attestata. FarmAI GPT eplugin Business conservano contenuto **0.7.7.155**.
