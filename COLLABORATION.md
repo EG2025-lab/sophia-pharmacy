@@ -1,6 +1,6 @@
 # Collaboration brief
 **SOPHIA · Public starting points · 12 October 2026**
-> Current product reference,29October2026: **0.7.111-beta**,owner-approved access,payments inactive. Six new111chats:two useful scoped,two partial,one without substantive answer,one APIquota failure.31calls with usage plus one unavailable attempt;1.351USD known-usage conservative estimate,not invoice. Provider availability requires owner action.112is metadata-onlyNO-GO,not deployed. No general counter readiness or human clinical validation. [Current status](docs/STATUS.md).
+> Current product reference,29October2026: **0.7.113-beta**,owner-approved access,payments inactive. Joint-leaflet,trademark,document-recovery,web-follow-up and clinical-composition repairs:1,772offline and57interfacechecks,183exact runtimefiles verified. No real113question or topup. Last111sample:two useful scoped,two partial,one no-answer and one quota failure. No general counter readiness or human clinical validation. [Current status](docs/STATUS.md).
 
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.
