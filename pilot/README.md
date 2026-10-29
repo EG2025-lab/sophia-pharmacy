@@ -1,5 +1,5 @@
 # A 20-question pilot for professional pharmacy knowledge
-> Current product reference,29October2026: **0.7.111-beta**, owner-approved access,payments inactive.1,761offline and57interface checks;no live111question. Six109cases:two useful scoped,three partial,one failure.44internal calls,2.283USD conservative estimate,not invoice. Focused recovery and no-progress efficiency changes remain unmeasured in live111. No general counter readiness or human clinical validation. [Current status](../docs/STATUS.md).
+> Current product reference,29October2026: **0.7.111-beta**,owner-approved access,payments inactive. Six new111chats:two useful scoped,two partial,one without substantive answer,one APIquota failure.31calls with usage plus one unavailable attempt;1.351USD known-usage conservative estimate,not invoice. Provider availability requires owner action.112is metadata-onlyNO-GO,not deployed. No general counter readiness or human clinical validation. [Current status](../docs/STATUS.md).
 
 
 **SOPHIA · Proposal v0.1 · 12 October 2026 · NOT RUN**
