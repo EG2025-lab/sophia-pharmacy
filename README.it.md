@@ -1,12 +1,12 @@
 # SOPHIA
 
-La beta distribuita è **0.7.110-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](docs/STATUS.md).
+La beta distribuita è **0.7.111-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](docs/STATUS.md).
 
-La110corregge meccanismi di privacy compositiva dell’output,focus clinico nel recupero web,ricerche senza nuove informazioni,recupero manuale degli errori e titoli delle fonti. Nessun tetto globale fisso alle chiamate. Ammissione delle fonti,privacy,binding e revisione completa restano obbligatori. **1.749controlli offline e56controlli interfaccia** superati;nessuna domanda reale110.
+La111 introduce web diretto per campagne, servizi e prodotti fuori dai percorsi Action pertinenti. AIFA, Normativa e Clinica restano disponibili per i loro ambiti e per domande miste. Diciture web neutre, domande documentali professionali distinte da decisioni personali e nuova gerarchia del testo ispirata a FarmAI. Nessun tetto globale fisso alle chiamate. Ammissione delle fonti,privacy,binding e revisione completa restano obbligatori. **1.761controlli offline e57controlli interfaccia** superati;nessuna domanda reale111.
 
 Sei ripetizioni reali109:**due risposte utili nello scope,tre parziali e una richiesta fallita**.44chiamate interne,stima prudenziale2,283USD,non fattura;tempi circa34–128secondi. Actions e web sono stati tentati nei casi pertinenti;completezza clinica e normativa ancora parziali. Nessun miglioramento generale di efficienza dimostrato.
 
-Correttezza reale110,risparmio,tempi e ripetibilità non misurati. Classificazione normativa/conservazione originale,un punto clinico vaccinale e percorso privato provinciale corrente restano da verificare sul campo. Nessun uso generale al banco,paritàFarmAI o validazione clinica umana dichiarati. FarmAI GPT originali e pluginBusiness conservano contenuto **0.7.7.155**.
+Correttezza reale111,risparmio,tempi e ripetibilità non misurati. Classificazione normativa/conservazione originale,un punto clinico vaccinale e percorso privato provinciale corrente restano da verificare sul campo. Nessun uso generale al banco,paritàFarmAI o validazione clinica umana dichiarati. FarmAI GPT originali e pluginBusiness conservano contenuto **0.7.7.155**.
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
