@@ -1,25 +1,24 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-29",
-  "appVersion": "0.7.111-beta",
+  "appVersion": "0.7.113-beta",
   "publicAppAccess": false,
-  "technicalRepair": "macro_actions_direct_web_professional_scope_farmai_text_layout",
+  "technicalRepair": "JOINT_LEAFLET_TRADEMARK_AIFA_GAP_DECLARED_RECOVERY_WEB_SHARED_BUDGET_SOURCE_RELEVANCE_CLINICAL_SINGLE_COMPOSITION",
   "qualification": {
-    "offlineChecksPassed": 1761,
+    "offlineChecksPassed": 1772,
     "interfaceChecksPassed": 57,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 181,
+    "noNetworkRuntimeFiles": 183,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions111": 6,
-    "ownRealInternalModelCalls111": 31,
+    "ownRealUIQuestions113": 0,
+    "ownRealInternalModelCalls113": 0,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
-    "SLAEstablished": false,
-    "failedProviderAttemptsWithoutUsage": 1
+    "SLAEstablished": false
   },
-  "manualLiveAcceptance": "SIX_NEW111_CASES_MIXED_OUTCOMES_NOT_GENERAL_ACCEPTANCE",
+  "manualLiveAcceptance": "PENDING113_NO_OWN_LIVE_REPLAY",
   "lastRealBattery": {
     "version": "0.7.111-beta",
     "questions": 6,
@@ -38,8 +37,8 @@
     "humanClinicalValidation": false
   },
   "website": {
-    "publication": 90,
-    "snapshot": "2026-10-29-r53",
+    "publication": 91,
+    "snapshot": "2026-10-29-r57",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -101,9 +100,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-10-29-02",
-    "revision": "1.9",
-    "appReference": "0.7.111-beta"
+    "id": "ALG-CLIN-2026-10-29-04",
+    "revision": "1.11",
+    "appReference": "0.7.113-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -240,22 +239,22 @@
     "Clinical abstract/currentness limits and duplicate brief/detail latency",
     "Actual110cost,latency,repeatability and human professional acceptance not measured"
   ],
-  "openGaps111": [
-    "Joint-formPILbinding and material-gap recovery",
-    "OrdinaryRNRfractionation/annotations and source relevance",
-    "Successive directweb acquisition,primaryEUsource scope and no-progress detection",
-    "Clinical abstract/currentness limits and111second latency",
-    "MixedAIFA/EUquestion unassessed due to provider quota",
-    "No repeatability,human acceptance or generalbank validation"
-  ],
   "providerAvailability": {
-    "state": "QUOTA_EXHAUSTED",
-    "ownerActionRequired": true,
+    "lastObservedState": "QUOTA_EXHAUSTED",
+    "observedOnVersion": "0.7.111-beta",
+    "noNew113Probe": true,
     "topUpPerformed": false
   },
   "latestCandidate": {
-    "version": "0.7.112-beta",
-    "state": "METADATA_ONLY_NO_GO_NOT_DEPLOYED",
-    "behavioralFixesImplemented": false
-  }
+    "version": "0.7.113-beta",
+    "state": "DEPLOYED_RESTRICTED_CORRECTIVE_NO_OWN_REAL_REPLAY",
+    "behavioralFixesImplemented": true
+  },
+  "metadataCandidate112Preserved": true,
+  "openGaps113": [
+    "No own113real-answer correctness,latency,savings or repeatability check",
+    "Unavailable primarytexts,access challenges and body/page limits may still leave gaps",
+    "Last111mixedcase unassessed due to providerquota",
+    "No human acceptance,generalcounter qualification or clinical validation"
+  ]
 }
