@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-29",
+  "reviewedAt": "2026-10-30",
   "appVersion": "0.7.114-beta",
   "publicAppAccess": false,
   "technicalRepair": "TASK_INDEX_REMAP_COMPLETE_REQUEST_LOCAL_AIFA_PAIR_REUSE_INTERACTION_SECTIONS_QUALIFIED_SHARED_RCP_DYNAMIC_DELIVERY_RESERVE_EXACT_VALUE_POOL_IDENTIFIER_PARAGRAPH_AND_LAYOUT",
@@ -11,28 +11,33 @@
     "noNetworkRuntimeFiles": 185,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions114": 0,
-    "ownRealInternalModelCalls114": 0,
+    "ownRealUIQuestions114": 6,
+    "ownRealInternalModelCalls114": 36,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
-    "SLAEstablished": false
+    "SLAEstablished": false,
+    "preModelScopeBlocks114": 1
   },
-  "manualLiveAcceptance": "PENDING114_NO_OWN_LIVE_REPLAY",
+  "manualLiveAcceptance": "SIX114_MIXED_OUTCOMES_NO_GENERAL_COUNTER_GO",
   "lastRealBattery": {
-    "version": "0.7.113-beta",
-    "questions": 10,
+    "version": "0.7.114-beta",
+    "questions": 6,
     "resubmissions": 0,
-    "usefulScopedAnswers": 3,
-    "partialAnswers": 3,
-    "failedWithoutUsableFinalAnswer": 4,
+    "usefulScopedAnswers": 1,
+    "partialAnswers": 2,
+    "failedWithoutUsableFinalAnswer": 3,
+    "preModelScopeBlocks": 1,
+    "modelCalls": 36,
+    "callsWithUsage": 36,
     "overallEfficiencyEstablished": false,
     "allCasesPass": false,
-    "humanClinicalValidation": false
+    "humanClinicalValidation": false,
+    "usefulScopeLimitation": "Main pneumococcal question useful;ancillary flu comparison not complete."
   },
   "website": {
-    "publication": 92,
-    "snapshot": "2026-10-29-r58",
+    "publication": 93,
+    "snapshot": "2026-10-30-r59",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -115,17 +120,17 @@
   },
   "deployment": {
     "version": "0.7.114-beta",
-    "state": "RESTRICTED_CORRECTIVE_BETA",
+    "state": "RESTRICTED_BETA_SIX_REAL_MIXED_OUTCOMES",
     "sourceAndImageVerified": true,
-    "ownRealReplay": false,
+    "ownRealReplay": true,
     "rollbackRetained": true
   },
-  "currentVersionRealModelTests": 0,
+  "currentVersionRealModelTests": 6,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
-    "observedCurrentVersionInference": false,
+    "observedCurrentVersionInference": true,
     "historical106Profiles": [
       "gpt-6.1-sol/low",
       "gpt-6.1-sol/medium",
@@ -177,7 +182,7 @@
     "historical106Answers": "MIXED_ONE_SCOPED_ONE_PARTIAL_FOUR_UNRESOLVED_MAIN_QUESTIONS",
     "modelBackedAnswers109": "NOT_REPLAYED",
     "historical108Answers": "TWO_SCOPED_ONE_LOCAL_PARTIAL_THREE_FAILED",
-    "modelBackedAnswers114": "NOT_REPLAYED",
+    "modelBackedAnswers114": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
     "historical113Answers": "THREE_SCOPED_THREE_PARTIAL_FOUR_UNUSABLE"
   },
   "postBattery107Candidate": {
@@ -213,24 +218,31 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "lastObservedState": "PROVIDER_PROCESSED_TEN113_TESTS",
-    "observedOnVersion": "0.7.113-beta",
-    "noNew114Probe": true,
+    "lastObservedState": "PROVIDER_PROCESSED_FIVE114_REQUESTS_ONE_INPUT_BLOCKED_PRE_MODEL",
+    "observedOnVersion": "0.7.114-beta",
     "topUpPerformed": false,
     "nextAnswerAvailabilityGuaranteed": false
   },
   "latestCandidate": {
-    "version": "0.7.114-beta",
-    "state": "DEPLOYED_RESTRICTED_CORRECTIVE_NO_OWN_REAL_REPLAY",
-    "behavioralFixesImplemented": true
+    "version": "0.7.115-beta",
+    "state": "NO_GO_NOT_DEPLOYED_METADATA_ONLY",
+    "behavioralFixesImplemented": false,
+    "ownRealQuestions": 0
   },
   "metadataCandidate112Preserved": true,
   "openGaps114": [
-    "No own114 real-answer correctness,latency,savings or repeatability check",
-    "Nominal catalogue/document strength differences remain unbound without evidence",
-    "Primary-body access and supplement interactions may remain incomplete",
-    "Exact113 rejected generated privacy token not retained; particular live correction unconfirmed",
-    "Local service offers absent from read sources are unknown,not denied",
-    "No human acceptance,general counter qualification or clinical validation"
-  ]
+    "Incomplete requested SmPC/PIL section selection despite passages in original PDFs",
+    "False individual-scope input block on general prescription question",
+    "Clinical review did not finish after observed clinicalActions",
+    "EU primary-body acquisition failed;current final legal effectiveness not established",
+    "Ancillary local vaccination comparison misses latest operational condition",
+    "Nominal catalogue/document strength discrepancies remain unless explicitly resolved",
+    "No controlled savings,speed comparison,general repeatability,professional acceptance or human clinical validation"
+  ],
+  "sourcePackagingMetadata": {
+    "deployed114SBOMApplicationVersion": "0.7.113-beta",
+    "dependencyInventoryUnchanged": true,
+    "frozen114Preserved": true,
+    "metadataCorrectedOnlyInCandidate115": true
+  }
 }
