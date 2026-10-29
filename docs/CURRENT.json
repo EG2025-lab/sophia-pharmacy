@@ -11,31 +11,35 @@
     "noNetworkRuntimeFiles": 181,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions111": 0,
-    "ownRealInternalModelCalls111": 0,
+    "ownRealUIQuestions111": 6,
+    "ownRealInternalModelCalls111": 31,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
-    "SLAEstablished": false
+    "SLAEstablished": false,
+    "failedProviderAttemptsWithoutUsage": 1
   },
-  "manualLiveAcceptance": "PENDING111_NO_LIVE_REPLAY",
+  "manualLiveAcceptance": "SIX_NEW111_CASES_MIXED_OUTCOMES_NOT_GENERAL_ACCEPTANCE",
   "lastRealBattery": {
-    "version": "0.7.109-beta",
+    "version": "0.7.111-beta",
     "questions": 6,
     "resubmissions": 0,
     "usefulScopedAnswers": 2,
-    "partialAnswers": 3,
-    "failedRequests": 1,
-    "internalModelCalls": 44,
-    "conservativeEstimatedUSD": "2.2834196",
+    "partialAnswers": 2,
+    "withoutSubstantiveAnswer": 1,
+    "providerQuotaFailures": 1,
+    "modelCallAttempts": 32,
+    "callsWithUsage": 31,
+    "knownUsageConservativeEstimatedUSD": "1.3511080",
+    "unquantifiedFailedAttempts": 1,
     "notInvoice": true,
     "overallEfficiencyEstablished": false,
     "allCasesPass": false,
     "humanClinicalValidation": false
   },
   "website": {
-    "publication": 89,
-    "snapshot": "2026-10-29-r51",
+    "publication": 90,
+    "snapshot": "2026-10-29-r53",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -237,11 +241,21 @@
     "Actual110cost,latency,repeatability and human professional acceptance not measured"
   ],
   "openGaps111": [
-    "No live111question after six109cases",
-    "Current legal classification/original-retention response not replayed",
-    "Vaccination clinical subquestion incomplete in109",
-    "Current local private vaccination pathway not documented",
-    "Clinical abstract/currentness limits and duplicate brief/detail latency",
-    "Actual111cost,latency,repeatability and human professional acceptance not measured"
-  ]
+    "Joint-formPILbinding and material-gap recovery",
+    "OrdinaryRNRfractionation/annotations and source relevance",
+    "Successive directweb acquisition,primaryEUsource scope and no-progress detection",
+    "Clinical abstract/currentness limits and111second latency",
+    "MixedAIFA/EUquestion unassessed due to provider quota",
+    "No repeatability,human acceptance or generalbank validation"
+  ],
+  "providerAvailability": {
+    "state": "QUOTA_EXHAUSTED",
+    "ownerActionRequired": true,
+    "topUpPerformed": false
+  },
+  "latestCandidate": {
+    "version": "0.7.112-beta",
+    "state": "METADATA_ONLY_NO_GO_NOT_DEPLOYED",
+    "behavioralFixesImplemented": false
+  }
 }
