@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-29",
-  "appVersion": "0.7.110-beta",
+  "appVersion": "0.7.111-beta",
   "publicAppAccess": false,
-  "technicalRepair": "focused_clinical_recovery_composition_privacy_no_progress_search_error_readback_source_titles",
+  "technicalRepair": "macro_actions_direct_web_professional_scope_farmai_text_layout",
   "qualification": {
-    "offlineChecksPassed": 1749,
-    "interfaceChecksPassed": 56,
+    "offlineChecksPassed": 1761,
+    "interfaceChecksPassed": 57,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 180,
+    "noNetworkRuntimeFiles": 181,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions110": 0,
-    "ownRealInternalModelCalls110": 0,
+    "ownRealUIQuestions111": 0,
+    "ownRealInternalModelCalls111": 0,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "PENDING110_NO_LIVE_REPLAY",
+  "manualLiveAcceptance": "PENDING111_NO_LIVE_REPLAY",
   "lastRealBattery": {
     "version": "0.7.109-beta",
     "questions": 6,
@@ -34,8 +34,8 @@
     "humanClinicalValidation": false
   },
   "website": {
-    "publication": 88,
-    "snapshot": "2026-10-29-r50",
+    "publication": 89,
+    "snapshot": "2026-10-29-r51",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -97,9 +97,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-10-29-01",
-    "revision": "1.8",
-    "appReference": "0.7.110-beta"
+    "id": "ALG-CLIN-2026-10-29-02",
+    "revision": "1.9",
+    "appReference": "0.7.111-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -235,5 +235,13 @@
     "Current local private vaccination pathway not documented",
     "Clinical abstract/currentness limits and duplicate brief/detail latency",
     "Actual110cost,latency,repeatability and human professional acceptance not measured"
+  ],
+  "openGaps111": [
+    "No live111question after six109cases",
+    "Current legal classification/original-retention response not replayed",
+    "Vaccination clinical subquestion incomplete in109",
+    "Current local private vaccination pathway not documented",
+    "Clinical abstract/currentness limits and duplicate brief/detail latency",
+    "Actual111cost,latency,repeatability and human professional acceptance not measured"
   ]
 }
