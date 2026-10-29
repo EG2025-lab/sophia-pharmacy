@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Current product reference,29October2026: **0.7.110-beta**, owner-approved access,payments inactive.1,749offline and56interface checks;no live110question. Six109cases:two useful scoped,three partial,one failure.44internal calls,2.283USD conservative estimate,not invoice. Focused recovery and no-progress efficiency changes remain unmeasured in live110. No general counter readiness or human clinical validation. [Current status](docs/STATUS.md).
+> Current product reference,29October2026: **0.7.111-beta**, owner-approved access,payments inactive.1,761offline and57interface checks;no live111question. Six109cases:two useful scoped,three partial,one failure.44internal calls,2.283USD conservative estimate,not invoice. Focused recovery and no-progress efficiency changes remain unmeasured in live111. No general counter readiness or human clinical validation. [Current status](docs/STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
