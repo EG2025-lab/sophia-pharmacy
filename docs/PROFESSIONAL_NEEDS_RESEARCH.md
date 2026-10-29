@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Current product reference,29October2026: **0.7.113-beta**,owner-approved access,payments inactive. Joint-leaflet,trademark,document-recovery,web-follow-up and clinical-composition repairs:1,772offline and57interfacechecks,183exact runtimefiles verified. No real113question or topup. Last111sample:two useful scoped,two partial,one no-answer and one quota failure. No general counter readiness or human clinical validation. [Current status](STATUS.md).
+> Current product reference, 29 October 2026: **0.7.114-beta**, owner-approved access, payments inactive. Last ten113 tests: three useful scoped answers, three partial, four without usable outcomes. Corrective114 passes 1,792 offline and 57 interface checks, with no own real question. Structured channels and declared web can cooperate. Actual114 correctness, latency, savings and repeatability remain unmeasured; no general counter readiness or human clinical validation. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
