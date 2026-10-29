@@ -1,12 +1,12 @@
 # SOPHIA
 
-La beta distribuita resta **0.7.114-beta**,riservata agli utenti approvati dal titolare;pagamenti e addebiti inattivi. Sei nuovi invii nelle chat reali114:una risposta utile nel perimetro principale,due parziali e tre senza esito sostanziale. La risposta territoriale utile conserva un limite nel confronto accessorio. [Stato corrente](docs/STATUS.md).
+La beta distribuita è **0.7.116-beta**,riservata agli utenti approvati dal titolare;pagamenti eaddebiti inattivi. Corregge cause comuni dei sei invii reali114:una risposta utile nel perimetro principale,due parziali etre senza esito sostanziale. Nessuna nuova domanda reale116. [Stato corrente](docs/STATUS.md).
 
-Canali AIFA eweb dichiarato hanno collaborato. Web diretto scelto per un integratore fuori dal percorso strutturato e per i servizi vaccinali locali. Actions cliniche osservate prima del fallimento della revisione finale. Il runtime114 è rimasto invariato;nessun altro invio dopo queste sei domande.
+116corregge selezione dei temi RCP/FI,titoli originali irregolari edocumenti condivisi fra dosaggi legati in modo univoco. Una regola grammaticale circoscritta riconosce i riferimenti alla ricetta senza ammettere richieste terapeutiche personali. Il margine di uscita del controllo clinico segue il contratto osservato;una dichiarazione malformata viene corretta dal revisore sulla stessa bozza,senza rigenerare fatti invariati.
 
-La build114 aveva superato **1.792 controlli offline e 57 interfaccia**,con185file runtime verificati senza rete. I sei invii reali hanno richiesto36chiamate con consumi disponibili;una domanda è stata bloccata prima del modello. Risposte consegnate in circa41–83secondi;fallimento clinico a222secondi. Sono osservazioni singole,non confronto controllato di velocità o prova di ripetibilità generale.
+Superati **1.808 controlli offline e58interfaccia**;188file runtime esatti verificati senza rete. Quattro letture dei PDF originali conservati recuperano i passaggi mancanti. Lettore HTML limitato ecollegamenti documentali osservati migliorano l’acquisizione;i documenti operativi letti possono qualificare le notizie. Canali strutturati eweb dichiarato restano complementari. Nessun nuovo tetto globale fisso alle chiamate.
 
-Restano selezione incompleta delle sezioni RCP/FI richieste,falso blocco del perimetro individuale su una domanda generale di ricetta,revisione clinica non completata e testi primari UE non acquisiti. Condizioni operative territoriali da confrontare più compiutamente. RC115completa solo metadati e continuità,NO-GO,non pubblicata e senza correzioni comportamentali. Nessuna idoneità generale al banco,parità FarmAI,risparmio o validazione clinica umana attestata. FarmAI GPT eplugin Business conservano contenuto **0.7.7.155**.
+Le verifiche tecniche non dimostrano qualità reale116,risparmio,velocità,ripetibilità,parità FarmAI ovalidazione clinica umana. Restano possibili blocchi esterni etesti indisponibili;il motivo esatto della revisione114incompleta non è conservato. Differenze nominali degli ingredienti restano esplicite senza riconciliazione documentale. RC115di sola governance preservata enon pubblicata. FarmAI GPT eplugin Business conservano contenuto **0.7.7.155**.
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
