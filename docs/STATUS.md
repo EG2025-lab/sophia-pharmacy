@@ -2,23 +2,23 @@
 
 Reviewed29October2026.
 
-The deployed professional beta remains **0.7.111-beta**, restricted to owner-approved users; payments and answer charging are inactive. The last real request was stopped by API quota exhaustion; owner action is required to restore provider availability. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.113-beta**, restricted to owner-approved users; payments and answer charging remain inactive. Last provider availability observation is the111quota failure; no new provider inference or topup was performed. [Current status](CURRENT.json).
 
-111 uses AIFA, legislation and clinical Actions in their appropriate domains, direct web for outside-capability questions, and both channels for supported mixed needs. **1,761 offline checks and57 interface checks** preceded the new live battery. There is no fixed global model-call ceiling; source admission,privacy,bindings and full review remain required.
+113 repairs literal joint-form/trademark leaflet binding, separately declared recovery for observed AIFA documentary gaps, focused institutional-source leads and successive web searches under shared elapsed budgets. Duplicate queries and attempted URLs are skipped. Primary Commission,EFSA,EUParliament andFOFI discovery scope is widened. Already-read clinical passages lead directly to complete composition through the same critic. There is no fixed global model-call or trace-count ceiling.
 
-Six new real111 chats produced **two useful scoped answers,two partial answers,one without substantive requested content and one quota failure**.31 calls returned usage and one refused attempt did not. The conservative known-usage estimate is1.351USD,not an invoice; the failed attempt is not assumed free. Delivered answers took about33–111seconds. ClinicalActions andweb contributed together; local public-service retrieval used directweb without a ritualAction.
+**1,772 offline checks and57 interface checks** passed;183 exact runtime files were verified without network. The original leaflet from a111failure now binds offline while retaining form-specific conditions. No real113question was sent. Last six real111cases remain historical:two useful scoped,two partial,one without substantive requested content and one quota refusal. Known-usage conservative estimate1.351USD,not invoice;one failed attempt has unavailable usage.
 
-Joint-leaflet binding,legal source follow-up and successive direct-web acquisition remain open. A complete112 metadata-only continuity candidate is **NO-GO and not deployed**; it contains no behavioral repair. One observation per new question does not establish repeatability,overall speed savings,general counter readiness,FarmAI parity or human clinical validation. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+The deployed113repairs have no own live answer,latency,savings or repeatability verification. Inaccessible primary texts,challenge pages and document limits can still leave gaps. No general counter readiness,FarmAI parity or human clinical validation is claimed. FarmAI original GPTs and Business plugins retain content **0.7.7.155**; the metadata-only112candidate remains preserved separately.
 
 ## In italiano
 
-La beta distribuita resta **0.7.111-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Ultima richiesta fermata dalla quotaAPI: serve un intervento del titolare per ripristinare il servizio. [Stato corrente](CURRENT.json).
+La beta distribuita è **0.7.113-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Ultima osservazione del provider:quota esaurita nella111. Nessuna nuova inferenza o ricarica effettuata. [Stato corrente](CURRENT.json).
 
-La111 usa ActionsAIFA,Normativa eClinica nei rispettivi ambiti,web diretto per domande fuori dai percorsi disponibili e collaborazione fra canali per bisogni misti supportati. **1.761controlli offline e57interfaccia** precedono la nuova batteria reale. Nessun tetto globale fisso alle chiamate;ammissione delle fonti,privacy,binding e revisione completa restano obbligatori.
+La113corregge il binding dei foglietti condivisi e dei marchi,il recupero dichiarato per gap documentali AIFA,la pertinenza dei candidati istituzionali e le ricerche web successive con tempo condiviso. Query duplicate eURLgià tentati sono saltati. Fonti primarie Commissione,EFSA,ParlamentoUE eFOFIampliate. Passaggi clinici già letti portano direttamente alla composizione completa con lo stesso critico. Nessun tetto globale alle chiamate o al numero di righe della traccia.
 
-Sei nuove chat reali111:**due risposte utili nello scope,due parziali,una senza risposta sostanziale e una fallita per quota**.31chiamate con usage e1tentativo rifiutato senza usage. Stima prudenziale delle chiamate note1,351USD,non fattura;il tentativo fallito non è assunto gratuito. Risposte consegnate in circa33–111secondi. Actionscliniche eweb hanno contribuito insieme;il servizio territoriale è passato direttamente alweb senzaActionrituali.
+Superati **1.772controlli offline e57interfaccia**;183file runtime esatti verificati senza rete. Il foglietto originale di un errore111ora viene legato offline conservando le condizioni per forma. Nessuna domanda reale113. Ultimi sei casi111storici:due utili,due parziali,una senza risposta sostanziale e una quota. Stima prudenziale delle chiamate note1,351USD,non fattura;un tentativo fallito ha consumo non disponibile.
 
-Binding dei foglietti condivisi,approfondimenti normativi e tentativi web successivi restano aperti. RC112completa di sola continuità:**NO-GO,non pubblicata,nessuna correzione comportamentale**. Una osservazione per domanda nuova non dimostra ripetibilità,risparmio generale,idoneità al banco,paritàFarmAI o validazione clinica umana. FarmAI GPT e pluginBusiness conservano contenuto **0.7.7.155**.
+Correzioni113distribuite senza propria verifica reale di risposte,tempi,risparmio o ripetibilità. Testi inaccessibili,controlli dei siti e limiti documentali possono lasciare gap. Nessuna idoneità generale al banco,paritàFarmAI o validazione clinica umana. FarmAI GPT originali e pluginBusiness conservano contenuto **0.7.7.155**;RC112metadata-onlypreservata separatamente.
 
 ## FarmAI continuity
 
