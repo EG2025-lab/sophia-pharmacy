@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-30",
-  "appVersion": "0.7.114-beta",
+  "appVersion": "0.7.116-beta",
   "publicAppAccess": false,
-  "technicalRepair": "TASK_INDEX_REMAP_COMPLETE_REQUEST_LOCAL_AIFA_PAIR_REUSE_INTERACTION_SECTIONS_QUALIFIED_SHARED_RCP_DYNAMIC_DELIVERY_RESERVE_EXACT_VALUE_POOL_IDENTIFIER_PARAGRAPH_AND_LAYOUT",
+  "technicalRepair": "COMBINED_DOCUMENT_TOPICS_AUTHORED_TITLES_PRESCRIPTION_ANAPHORA_ADAPTIVE_CRITIC_OUTPUT_AND_REPAIR_PRIMARY_DOCUMENT_ACQUISITION_AND_QUALIFICATION",
   "qualification": {
-    "offlineChecksPassed": 1792,
-    "interfaceChecksPassed": 57,
+    "offlineChecksPassed": 1808,
+    "interfaceChecksPassed": 58,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 185,
+    "noNetworkRuntimeFiles": 188,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions114": 6,
-    "ownRealInternalModelCalls114": 36,
+    "ownRealUIQuestions116": 0,
+    "ownRealInternalModelCalls116": 0,
+    "savedOriginalPDFReadings": 4,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
-    "SLAEstablished": false,
-    "preModelScopeBlocks114": 1
+    "SLAEstablished": false
   },
-  "manualLiveAcceptance": "SIX114_MIXED_OUTCOMES_NO_GENERAL_COUNTER_GO",
+  "manualLiveAcceptance": "PENDING116_NO_NEW_REAL_TESTS",
   "lastRealBattery": {
     "version": "0.7.114-beta",
     "questions": 6,
@@ -36,8 +36,8 @@
     "usefulScopeLimitation": "Main pneumococcal question useful;ancillary flu comparison not complete."
   },
   "website": {
-    "publication": 93,
-    "snapshot": "2026-10-30-r59",
+    "publication": 94,
+    "snapshot": "2026-10-30-r60",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -99,9 +99,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-10-29-05",
-    "revision": "1.12",
-    "appReference": "0.7.114-beta"
+    "id": "ALG-CLIN-2026-10-30-02",
+    "revision": "1.14",
+    "appReference": "0.7.116-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -119,18 +119,18 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.114-beta",
-    "state": "RESTRICTED_BETA_SIX_REAL_MIXED_OUTCOMES",
+    "version": "0.7.116-beta",
+    "state": "RESTRICTED_CORRECTIVE_BETA",
     "sourceAndImageVerified": true,
-    "ownRealReplay": true,
+    "ownRealReplay": false,
     "rollbackRetained": true
   },
-  "currentVersionRealModelTests": 6,
+  "currentVersionRealModelTests": 0,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
-    "observedCurrentVersionInference": true,
+    "observedCurrentVersionInference": false,
     "historical106Profiles": [
       "gpt-6.1-sol/low",
       "gpt-6.1-sol/medium",
@@ -151,7 +151,11 @@
     "maximumKnownPlusDiscoveredReadAttempts": 10,
     "readAttemptCeilingMeaning": "UP_TO_FIVE_CURRENT_KNOWN_LEADS_THEN_UP_TO_FIVE_OBSERVED_SEARCH_LEADS_WITHIN_SHARED40S_MAX_THREE_ACCEPTED_BODIES",
     "observed108Outcome": "ACTION_AND_WEB_ON_LOCAL_CASE_CHECKED_CLINICAL_WEB_PARTIAL_ON_FAILED_COMPLETION",
-    "newRealFallbackReplay109": false
+    "newRealFallbackReplay109": false,
+    "HTMLBodyByteCap": 8000000,
+    "PDFBodyByteCap": 2000000,
+    "observedPrimaryLinks": "UP_TO_TWO_RELEVANT_OBSERVED_LINKS_WITHIN_EXISTING_SLOTS_AND_TIME",
+    "unreadSearchSnippetsAreEvidence": false
   },
   "experienceMemory": {
     "curatedMethodLessons": 14,
@@ -173,7 +177,10 @@
     "completeAIFAPairReuse": "REQUEST_LOCAL_EXACT_MEDICINE_PACKAGE_FOCUS_COMPLETE_ONLY",
     "deliveryTimeReservation": "OBSERVED_COMPOSITION_AND_REVIEW_LATENCY",
     "exactValueSharing": "LOSSLESS_REVERSIBLE_SOURCE_STRING_POOL",
-    "actual114SavingsMeasured": false
+    "actual114SavingsMeasured": false,
+    "actual116SavingsMeasured": false,
+    "reviewOutputAllowance": "SCALES_WITH_OBSERVED_CONTRACT_NO_AUTOMATIC_RETRY",
+    "malformedCriticRepair": "IMMUTABLE_DRAFT_CRITIC_ONLY"
   },
   "availability": {
     "access": "OWNER_REVIEW",
@@ -183,7 +190,9 @@
     "modelBackedAnswers109": "NOT_REPLAYED",
     "historical108Answers": "TWO_SCOPED_ONE_LOCAL_PARTIAL_THREE_FAILED",
     "modelBackedAnswers114": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
-    "historical113Answers": "THREE_SCOPED_THREE_PARTIAL_FOUR_UNUSABLE"
+    "historical113Answers": "THREE_SCOPED_THREE_PARTIAL_FOUR_UNUSABLE",
+    "modelBackedAnswers116": "NOT_REPLAYED",
+    "historical114Answers": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES"
   },
   "postBattery107Candidate": {
     "state": "NO_GO_NOT_DEPLOYED",
@@ -220,29 +229,29 @@
   "providerAvailability": {
     "lastObservedState": "PROVIDER_PROCESSED_FIVE114_REQUESTS_ONE_INPUT_BLOCKED_PRE_MODEL",
     "observedOnVersion": "0.7.114-beta",
+    "noNew116Probe": true,
     "topUpPerformed": false,
     "nextAnswerAvailabilityGuaranteed": false
   },
   "latestCandidate": {
-    "version": "0.7.115-beta",
-    "state": "NO_GO_NOT_DEPLOYED_METADATA_ONLY",
-    "behavioralFixesImplemented": false,
+    "version": "0.7.116-beta",
+    "state": "DEPLOYED_RESTRICTED_CORRECTIVE_NO_NEW_REAL_TESTS",
+    "behavioralFixesImplemented": true,
     "ownRealQuestions": 0
   },
   "metadataCandidate112Preserved": true,
-  "openGaps114": [
-    "Incomplete requested SmPC/PIL section selection despite passages in original PDFs",
-    "False individual-scope input block on general prescription question",
-    "Clinical review did not finish after observed clinicalActions",
-    "EU primary-body acquisition failed;current final legal effectiveness not established",
-    "Ancillary local vaccination comparison misses latest operational condition",
-    "Nominal catalogue/document strength discrepancies remain unless explicitly resolved",
-    "No controlled savings,speed comparison,general repeatability,professional acceptance or human clinical validation"
-  ],
   "sourcePackagingMetadata": {
-    "deployed114SBOMApplicationVersion": "0.7.113-beta",
+    "currentApplicationVersion": "0.7.116-beta",
+    "SBOMApplicationVersion": "0.7.116-beta",
     "dependencyInventoryUnchanged": true,
-    "frozen114Preserved": true,
-    "metadataCorrectedOnlyInCandidate115": true
-  }
+    "frozen114And115Preserved": true
+  },
+  "openGaps116": [
+    "No own116real answer quality,speed,savings orrepeatability measurement",
+    "Third-party access challenges,rights andunavailable bodies remain possible;no bypass",
+    "Exact114incomplete-review reason not retained;output allowance mitigates observed risk without proving a unique cause",
+    "Nominal catalogue/ingredient differences remain explicit without documentary reconciliation",
+    "No general counter acceptance,FarmAI parity orhuman clinical validation"
+  ],
+  "metadataCandidate115Preserved": true
 }
