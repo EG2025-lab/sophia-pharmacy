@@ -1,13 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta remains **0.7.111-beta**, restricted to owner-approved users; payments and answer charging are inactive. The last real request was stopped by API quota exhaustion; owner action is required to restore provider availability. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.113-beta**, restricted to owner-approved users; payments and answer charging remain inactive. Last provider availability observation is the111quota failure; no new provider inference or topup was performed. [Current status](docs/STATUS.md).
 
-111 uses AIFA, legislation and clinical Actions in their appropriate domains, direct web for outside-capability questions, and both channels for supported mixed needs. **1,761 offline checks and57 interface checks** preceded the new live battery. There is no fixed global model-call ceiling; source admission,privacy,bindings and full review remain required.
+113 repairs literal joint-form/trademark leaflet binding, separately declared recovery for observed AIFA documentary gaps, focused institutional-source leads and successive web searches under shared elapsed budgets. Duplicate queries and attempted URLs are skipped. Primary Commission,EFSA,EUParliament andFOFI discovery scope is widened. Already-read clinical passages lead directly to complete composition through the same critic. There is no fixed global model-call or trace-count ceiling.
 
-Six new real111 chats produced **two useful scoped answers,two partial answers,one without substantive requested content and one quota failure**.31 calls returned usage and one refused attempt did not. The conservative known-usage estimate is1.351USD,not an invoice; the failed attempt is not assumed free. Delivered answers took about33–111seconds. ClinicalActions andweb contributed together; local public-service retrieval used directweb without a ritualAction.
+**1,772 offline checks and57 interface checks** passed;183 exact runtime files were verified without network. The original leaflet from a111failure now binds offline while retaining form-specific conditions. No real113question was sent. Last six real111cases remain historical:two useful scoped,two partial,one without substantive requested content and one quota refusal. Known-usage conservative estimate1.351USD,not invoice;one failed attempt has unavailable usage.
 
-Joint-leaflet binding,legal source follow-up and successive direct-web acquisition remain open. A complete112 metadata-only continuity candidate is **NO-GO and not deployed**; it contains no behavioral repair. One observation per new question does not establish repeatability,overall speed savings,general counter readiness,FarmAI parity or human clinical validation. Original FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+The deployed113repairs have no own live answer,latency,savings or repeatability verification. Inaccessible primary texts,challenge pages and document limits can still leave gaps. No general counter readiness,FarmAI parity or human clinical validation is claimed. FarmAI original GPTs and Business plugins retain content **0.7.7.155**; the metadata-only112candidate remains preserved separately.
 
 ## Open collaboration opportunities
 
