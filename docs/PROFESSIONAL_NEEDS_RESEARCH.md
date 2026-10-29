@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Current product reference, 28 October 2026: **0.7.109-beta**, owner-approved access, payments inactive. No fixed model-call ceiling; information-gain decisions and documentary single composition passed 1,724 offline checks, no live109 replay. Six108 cases: two scoped useful, one local partial, three failed requests. No clinical validation, overall speed improvement or general counter readiness. [Current status](STATUS.md).
+> Current product reference,29October2026: **0.7.110-beta**, owner-approved access,payments inactive.1,749offline and56interface checks;no live110question. Six109cases:two useful scoped,three partial,one failure.44internal calls,2.283USD conservative estimate,not invoice. Focused recovery and no-progress efficiency changes remain unmeasured in live110. No general counter readiness or human clinical validation. [Current status](docs/STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
