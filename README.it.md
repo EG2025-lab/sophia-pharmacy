@@ -1,12 +1,12 @@
 # SOPHIA
 
-La beta distribuita è **0.7.113-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Ultima osservazione del provider:quota esaurita nella111. Nessuna nuova inferenza o ricarica effettuata. [Stato corrente](docs/STATUS.md).
+La beta distribuita è **0.7.114-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Le ultime dieci prove reali riguardano la113: tre risposte utili nello scope verificato, tre parziali e quattro senza esito utilizzabile. Nessuna ulteriore domanda reale dopo il rilascio correttivo. [Stato corrente](docs/STATUS.md).
 
-La113corregge il binding dei foglietti condivisi e dei marchi,il recupero dichiarato per gap documentali AIFA,la pertinenza dei candidati istituzionali e le ricerche web successive con tempo condiviso. Query duplicate eURLgià tentati sono saltati. Fonti primarie Commissione,EFSA,ParlamentoUE eFOFIampliate. Passaggi clinici già letti portano direttamente alla composizione completa con lo stesso critico. Nessun tetto globale alle chiamate o al numero di righe della traccia.
+La114 corregge gli indici del piano dopo la rimozione dei blocchi respinti, riusa le sole coppie documentali AIFA complete nella stessa richiesta e tema, riconosce la coassunzione espressa in linguaggio naturale e sezioni RCP condivise qualificate, e riserva tempo alla sintesi e al controllo. I valori ripetuti esatti possono essere condivisi reversibilmente nel contesto. Gli identificativi pubblici di prodotto sono distinti con maggiore precisione dai contatti personali. Canali strutturati e web dichiarato possono collaborare; nessun tetto fisso globale alle chiamate.
 
-Superati **1.772controlli offline e57interfaccia**;183file runtime esatti verificati senza rete. Il foglietto originale di un errore111ora viene legato offline conservando le condizioni per forma. Nessuna domanda reale113. Ultimi sei casi111storici:due utili,due parziali,una senza risposta sostanziale e una quota. Stima prudenziale delle chiamate note1,351USD,non fattura;un tentativo fallito ha consumo non disponibile.
+Superati **1.792 controlli offline e 57 interfaccia**; 185 file runtime esatti verificati senza rete, anche sui documenti originali conservati. Citazioni di tabella e limiti supplementari più ordinati, senza nascondere qualificazioni. Questi controlli non misurano qualità, latenza, costo o ripetibilità delle risposte reali114. Nessuna domanda al modello114.
 
-Correzioni113distribuite senza propria verifica reale di risposte,tempi,risparmio o ripetibilità. Testi inaccessibili,controlli dei siti e limiti documentali possono lasciare gap. Nessuna idoneità generale al banco,paritàFarmAI o validazione clinica umana. FarmAI GPT originali e pluginBusiness conservano contenuto **0.7.7.155**;RC112metadata-onlypreservata separatamente.
+Restano differenze nominali fra catalogo e documenti, testi primari inaccessibili, evidenze incomplete sulle interazioni degli integratori e offerte territoriali non documentate. Il token esatto di un blocco privacy113 non è conservato: la correzione specifica non è confermata dal vivo. Nessuna idoneità generale al banco, parità FarmAI, risparmio o validazione clinica umana attestata. FarmAI GPT originali e plugin Business conservano contenuto **0.7.7.155**.
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
