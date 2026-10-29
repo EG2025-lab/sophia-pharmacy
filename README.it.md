@@ -1,12 +1,12 @@
 # SOPHIA
 
-La beta distribuita è **0.7.109-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](docs/STATUS.md).
+La beta distribuita è **0.7.110-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti restano inattivi. [Stato corrente](docs/STATUS.md).
 
-Rimosso il tetto fisso alle chiamate AI. Richieste di strumenti identiche senza nuove informazioni canoniche portano alla composizione verificata, evitando ulteriori trasporti. I percorsi documentali AIFA e Normativa evitano la duplicazione obbligatoria tra sintesi iniziale e dettaglio. Restano tempo, annullamento, budget delle fonti, privacy, binding e revisione semantica. **1.724 controlli offline** superati; nessuna domanda reale al modello sulla109.
+La110corregge meccanismi di privacy compositiva dell’output,focus clinico nel recupero web,ricerche senza nuove informazioni,recupero manuale degli errori e titoli delle fonti. Nessun tetto globale fisso alle chiamate. Ammissione delle fonti,privacy,binding e revisione completa restano obbligatori. **1.749controlli offline e56controlli interfaccia** superati;nessuna domanda reale110.
 
-Sei ripetizioni reali108: **due risposte utili nello scope, una locale parziale e tre richieste fallite**, una con sintesi verificata visibile. Actions e web hanno collaborato nella risposta vaccinale provinciale. Due casi interrotti dal tetto alle chiamate; uno bloccato da un identificatore nel testo generato.39 chiamate interne, stima prudenziale2,108USD, non fattura; somma dei tempi maggiore rispetto alla106. Nessun miglioramento generale di efficienza dimostrato.
+Sei ripetizioni reali109:**due risposte utili nello scope,tre parziali e una richiesta fallita**.44chiamate interne,stima prudenziale2,283USD,non fattura;tempi circa34–128secondi. Actions e web sono stati tentati nei casi pertinenti;completezza clinica e normativa ancora parziali. Nessun miglioramento generale di efficienza dimostrato.
 
-Correttezza109, continuità, costo/tempo reali e ripetibilità ancora da misurare. La specifica stringa del blocco di output108 non è conservata; nessun filtro privacy disattivato. Nessun uso generale al banco, parità con FarmAI o validazione clinica umana dichiarati. FarmAI GPT originali e plugin Business conservano contenuto **0.7.7.155**.
+Correttezza reale110,risparmio,tempi e ripetibilità non misurati. Classificazione normativa/conservazione originale,un punto clinico vaccinale e percorso privato provinciale corrente restano da verificare sul campo. Nessun uso generale al banco,paritàFarmAI o validazione clinica umana dichiarati. FarmAI GPT originali e pluginBusiness conservano contenuto **0.7.7.155**.
 
 ### Un collega AI per la conoscenza professionale in farmacia
 
