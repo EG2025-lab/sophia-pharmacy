@@ -6,7 +6,7 @@ Reviewed30October2026.
 | --- | --- | --- |
 | Original FarmAI EVO and Support GPTs | Builder instructions, knowledge and Actions. | The original GPTs are preserved and remain the continuity option if a plugin has a problem. |
 | Private FarmAI Business plugins | Skills hold migrated instructions/documents; a private MCP App exposes the former Action operations. | The chat host controls model and browser. Migration does not automatically grant use to every workspace member. |
-| SOPHIA | Restricted application/API116,owner-approved access,payments inactive. | Partial replay stopped after one quota failure;five cases unexecuted,no final answer.117RC metadata only,NO-GO,not deployed. |
+| SOPHIA | Restricted application/API118,owner-approved access,payments inactive. | Documentary qualifications,local repair andlossless context corrections;1821offline and58interface checks. No own118real question orclinical validation. |
 
 Current FarmAI content is **0.7.7.155** in the originals and Business plugins; plugin packages are **0.8.0 EVO** and **0.5.0 Support**. Workspace availability is configured for its members; an independent second-member installation and automatic invocation in every chat are not established by the publication readback. No further 155 chat tests followed the owner’s instruction.
 
@@ -23,7 +23,7 @@ Technical migration does not establish clinical validation, general repeatabilit
 
 ## In italiano
 
-La beta distribuita resta **0.7.116-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti sono inattivi. Il titolare ha interrotto il replay dei sei casi dopo **un solo invio reale**, fallito per quota o credito API esauriti. Cinque casi non sono stati inviati; nessuna risposta finale116. [Stato corrente](STATUS.md).
+La beta distribuita è **0.7.118-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Conserva le correzioni comuni dei sei casi114 e aggiunge interventi derivati dal replay116 interrotto dal titolare. Nessuna nuova domanda reale118 o chiamata AI a pagamento. [Stato corrente](STATUS.md).
 
 Prima del blocco API, il revisore interno aveva respinto una delle sei parti della bozza per supporto insufficiente, richiedendo una correzione. Claim e passaggio associato non sono conservati nella diagnostica minima: non si distingue un errore della bozza da un falso positivo del controllo. Ricerca e lettura AIFA osservate; completezza documentale e collaborazione finale dei canali non qualificate.
 

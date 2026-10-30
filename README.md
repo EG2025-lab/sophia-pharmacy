@@ -1,7 +1,7 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta remains **0.7.116-beta**, restricted to owner-approved users; payments and answer charging are inactive. The owner stopped an identical six-case replay after **one real input** failed for API quota or credit exhaustion. Five cases were not submitted; no final116answer was delivered. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.118-beta**, restricted to owner-approved users; payments and answer charging remain inactive. It retains the common-cause repairs from six114cases and adds corrections derived from the owner-stopped116replay. No new real118question or paid model call. [Current status](docs/STATUS.md).
 
 Before the quota error, the internal reviewer rejected one of six draft blocks as insufficiently supported and requested a repair. The rejected claim and associated passage were not retained in fixed diagnostics: a draft error cannot be distinguished from a review false positive. AIFA search and read were observed; document coverage and final channel collaboration remain unqualified.
 

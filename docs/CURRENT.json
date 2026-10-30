@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-30",
-  "appVersion": "0.7.116-beta",
+  "appVersion": "0.7.118-beta",
   "publicAppAccess": false,
-  "technicalRepair": "COMBINED_DOCUMENT_TOPICS_AUTHORED_TITLES_PRESCRIPTION_ANAPHORA_ADAPTIVE_CRITIC_OUTPUT_AND_REPAIR_PRIMARY_DOCUMENT_ACQUISITION_AND_QUALIFICATION",
+  "technicalRepair": "DOCUMENTARY_CRITIC_OPERATIVE_QUALIFICATIONS_LITERAL_AIFA_PRESEARCH_LOCAL_REPAIR_TASK_AND_LOSSLESS_CRITIC_CONTEXT",
   "qualification": {
-    "offlineChecksPassed": 1808,
+    "offlineChecksPassed": 1821,
     "interfaceChecksPassed": 58,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 188,
+    "noNetworkRuntimeFiles": 190,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions116": 1,
-    "ownRealInternalModelCalls116": 5,
+    "ownRealUIQuestions118": 0,
+    "ownRealInternalModelCalls118": 0,
     "savedOriginalPDFReadings": 4,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "NO_FINAL116ANSWER_QUOTA_ERROR_OWNER_STOPPED",
+  "manualLiveAcceptance": "PENDING118_OFFLINE_ONLY_NO_REAL_RETEST",
   "lastRealBattery": {
     "version": "0.7.116-beta",
     "plannedInputs": 6,
@@ -39,8 +39,8 @@
     "humanClinicalValidation": false
   },
   "website": {
-    "publication": 95,
-    "snapshot": "2026-10-30-r61",
+    "publication": 96,
+    "snapshot": "2026-10-30-r62",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -102,9 +102,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-10-30-02",
-    "revision": "1.14",
-    "appReference": "0.7.116-beta"
+    "id": "ALG-CLIN-2026-10-30-04",
+    "revision": "1.16",
+    "appReference": "0.7.118-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -122,19 +122,19 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.116-beta",
+    "version": "0.7.118-beta",
     "state": "RESTRICTED_CORRECTIVE_BETA",
     "sourceAndImageVerified": true,
-    "ownRealReplay": true,
+    "ownRealReplay": false,
     "rollbackRetained": true,
     "ownRealFinalAnswers": 0
   },
-  "currentVersionRealModelTests": 1,
+  "currentVersionRealModelTests": 0,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
-    "observedCurrentVersionInference": true,
+    "observedCurrentVersionInference": false,
     "historical106Profiles": [
       "gpt-6.1-sol/low",
       "gpt-6.1-sol/medium",
@@ -185,7 +185,10 @@
     "actual114SavingsMeasured": false,
     "actual116SavingsMeasured": false,
     "reviewOutputAllowance": "SCALES_WITH_OBSERVED_CONTRACT_NO_AUTOMATIC_RETRY",
-    "malformedCriticRepair": "IMMUTABLE_DRAFT_CRITIC_ONLY"
+    "malformedCriticRepair": "IMMUTABLE_DRAFT_CRITIC_ONLY",
+    "actual118SavingsMeasured": false,
+    "localRepairTask": "CONCISE_REPLACEMENT_FULL_EVIDENCE_FRESH_WHOLE_REVIEW",
+    "losslessContextSharing": "COMPOSER_REPAIR_AND_CRITIC_EXACT_REVERSIBLE_VALUES"
   },
   "availability": {
     "access": "OWNER_REVIEW",
@@ -197,7 +200,8 @@
     "modelBackedAnswers114": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
     "historical113Answers": "THREE_SCOPED_THREE_PARTIAL_FOUR_UNUSABLE",
     "modelBackedAnswers116": "LATEST_INPUT_FAILED_PROVIDER_QUOTA_EXHAUSTED",
-    "historical114Answers": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES"
+    "historical114Answers": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
+    "modelBackedAnswers118": "NOT_REPLAYED_LAST116_FAILED_PROVIDER_QUOTA"
   },
   "postBattery107Candidate": {
     "state": "NO_GO_NOT_DEPLOYED",
@@ -238,28 +242,23 @@
     "failedAttemptWithoutUsage": 1,
     "topUpPerformed": false,
     "balanceRead": false,
-    "nextAnswerAvailabilityGuaranteed": false
+    "nextAnswerAvailabilityGuaranteed": false,
+    "noNew118Probe": true
   },
   "latestCandidate": {
-    "version": "0.7.117-beta",
-    "state": "NO_GO_METADATA_ONLY_NOT_DEPLOYED_AFTER_PARTIAL116_REPLAY",
-    "behavioralFixesImplemented": false,
+    "version": "0.7.118-beta",
+    "state": "DEPLOYED_RESTRICTED_CORRECTIVE_NO_REAL_RETEST",
+    "behavioralFixesImplemented": true,
     "ownRealQuestions": 0
   },
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.116-beta",
-    "SBOMApplicationVersion": "0.7.116-beta",
+    "currentApplicationVersion": "0.7.118-beta",
+    "SBOMApplicationVersion": "0.7.118-beta",
     "dependencyInventoryUnchanged": true,
-    "frozen114And115Preserved": true
+    "frozen114And115Preserved": true,
+    "frozen116And117Preserved": true
   },
-  "openGaps116": [
-    "No final116answer;five identical cases not executed after owner stop",
-    "Internal support rejection unresolved;claim and passage not retained,review false positive not excluded",
-    "AIFA reader diagnostic status NOT_CLASSIFIED;coverage not established by logs",
-    "Large composition/repair context;no complete cost or controlled useful-latency comparison",
-    "No general counter acceptance,FarmAI parity,repeatability orhuman clinical validation"
-  ],
   "metadataCandidate115Preserved": true,
   "historicalLastRealBattery114Before116Replay": {
     "version": "0.7.114-beta",
@@ -280,5 +279,27 @@
     "state": "NO_GO_NOT_DEPLOYED",
     "metadataOnly": true,
     "behavioralFixesImplemented": false
-  }
+  },
+  "historical116Qualification": {
+    "offlineChecksPassed": 1808,
+    "interfaceChecksPassed": 58,
+    "offlineSkipped": 0,
+    "noNetworkRuntimeFiles": 188,
+    "sourceAndImageVerified": true,
+    "productionStartupAndOwnerReviewReadBack": true,
+    "ownRealUIQuestions116": 1,
+    "ownRealInternalModelCalls116": 5,
+    "savedOriginalPDFReadings": 4,
+    "humanClinicalValidation": false,
+    "generalRepeatabilityEstablished": false,
+    "controlledSpeedComparison": false,
+    "SLAEstablished": false
+  },
+  "openGaps118": [
+    "No real118answer quality,speed,savings orrepeatability acceptance",
+    "Last116provider quota remains external;no top-up ornew probe",
+    "Original116rejected claim not retained;draft defect orreview false positive not reconstructible",
+    "Third-party access blocks,rights,TLS/network andunavailable bodies remain possible",
+    "No general counter acceptance,FarmAI parity orhuman clinical validation"
+  ]
 }

@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Current product reference,30 October2026: **0.7.116-beta**,owner-approved access,payments inactive. One real input failed for API quota after an internal support rejection;five planned cases unexecuted andowner stopped. No final116answer or measured improvement. Governance-only117RC isNO-GO,not deployed. [Current status](STATUS.md).
+> Current product reference,30 October2026: **0.7.118-beta**,owner-approved access,payments inactive. Corrective release:1821offline checks,58interface checks,four saved-PDF readings;no new real118question. Last116APIquota andexact rejected claim remain limitations. Report116 andmetadata-only117RC preserved. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 

@@ -2,7 +2,7 @@
 
 Reviewed30October2026.
 
-The deployed professional beta remains **0.7.116-beta**, restricted to owner-approved users; payments and answer charging are inactive. The owner stopped an identical six-case replay after **one real input** failed for API quota or credit exhaustion. Five cases were not submitted; no final116answer was delivered. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.118-beta**, restricted to owner-approved users; payments and answer charging remain inactive. It retains the common-cause repairs from six114cases and adds corrections derived from the owner-stopped116replay. No new real118question or paid model call. [Current status](CURRENT.json).
 
 Before the quota error, the internal reviewer rejected one of six draft blocks as insufficiently supported and requested a repair. The rejected claim and associated passage were not retained in fixed diagnostics: a draft error cannot be distinguished from a review false positive. AIFA search and read were observed; document coverage and final channel collaboration remain unqualified.
 
@@ -12,7 +12,7 @@ The116repairs are not validated by this partial replay; factual quality, repeata
 
 ## In italiano
 
-La beta distribuita resta **0.7.116-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti sono inattivi. Il titolare ha interrotto il replay dei sei casi dopo **un solo invio reale**, fallito per quota o credito API esauriti. Cinque casi non sono stati inviati; nessuna risposta finale116. [Stato corrente](CURRENT.json).
+La beta distribuita è **0.7.118-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Conserva le correzioni comuni dei sei casi114 e aggiunge interventi derivati dal replay116 interrotto dal titolare. Nessuna nuova domanda reale118 o chiamata AI a pagamento. [Stato corrente](CURRENT.json).
 
 Prima del blocco API, il revisore interno aveva respinto una delle sei parti della bozza per supporto insufficiente, richiedendo una correzione. Claim e passaggio associato non sono conservati nella diagnostica minima: non si distingue un errore della bozza da un falso positivo del controllo. Ricerca e lettura AIFA osservate; completezza documentale e collaborazione finale dei canali non qualificate.
 

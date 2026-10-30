@@ -1,6 +1,6 @@
 # SOPHIA
 
-La beta distribuita resta **0.7.116-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti sono inattivi. Il titolare ha interrotto il replay dei sei casi dopo **un solo invio reale**, fallito per quota o credito API esauriti. Cinque casi non sono stati inviati; nessuna risposta finale116. [Stato corrente](docs/STATUS.md).
+La beta distribuita è **0.7.118-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Conserva le correzioni comuni dei sei casi114 e aggiunge interventi derivati dal replay116 interrotto dal titolare. Nessuna nuova domanda reale118 o chiamata AI a pagamento. [Stato corrente](docs/STATUS.md).
 
 Prima del blocco API, il revisore interno aveva respinto una delle sei parti della bozza per supporto insufficiente, richiedendo una correzione. Claim e passaggio associato non sono conservati nella diagnostica minima: non si distingue un errore della bozza da un falso positivo del controllo. Ricerca e lettura AIFA osservate; completezza documentale e collaborazione finale dei canali non qualificate.
 
