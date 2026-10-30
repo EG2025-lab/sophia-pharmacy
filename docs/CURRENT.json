@@ -11,33 +11,36 @@
     "noNetworkRuntimeFiles": 188,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions116": 0,
-    "ownRealInternalModelCalls116": 0,
+    "ownRealUIQuestions116": 1,
+    "ownRealInternalModelCalls116": 5,
     "savedOriginalPDFReadings": 4,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "PENDING116_NO_NEW_REAL_TESTS",
+  "manualLiveAcceptance": "NO_FINAL116ANSWER_QUOTA_ERROR_OWNER_STOPPED",
   "lastRealBattery": {
-    "version": "0.7.114-beta",
-    "questions": 6,
+    "version": "0.7.116-beta",
+    "plannedInputs": 6,
+    "submissions": 1,
+    "notExecuted": 5,
     "resubmissions": 0,
-    "usefulScopedAnswers": 1,
-    "partialAnswers": 2,
-    "failedWithoutUsableFinalAnswer": 3,
-    "preModelScopeBlocks": 1,
-    "modelCalls": 36,
-    "callsWithUsage": 36,
-    "overallEfficiencyEstablished": false,
-    "allCasesPass": false,
-    "humanClinicalValidation": false,
-    "usefulScopeLimitation": "Main pneumococcal question useful;ancillary flu comparison not complete."
+    "finalAnswers": 0,
+    "ownerStopped": true,
+    "modelCallAttempts": 5,
+    "callsWithUsage": 4,
+    "usageUnavailableCalls": 1,
+    "knownConservativeEstimateUSD": "0.1985940",
+    "notInvoice": true,
+    "topUpPerformed": false,
+    "terminalCode": "PROVIDER_QUOTA_EXHAUSTED",
+    "furtherRealTestsAuthorized": false,
+    "humanClinicalValidation": false
   },
   "website": {
-    "publication": 94,
-    "snapshot": "2026-10-30-r60",
+    "publication": 95,
+    "snapshot": "2026-10-30-r61",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -122,21 +125,23 @@
     "version": "0.7.116-beta",
     "state": "RESTRICTED_CORRECTIVE_BETA",
     "sourceAndImageVerified": true,
-    "ownRealReplay": false,
-    "rollbackRetained": true
+    "ownRealReplay": true,
+    "rollbackRetained": true,
+    "ownRealFinalAnswers": 0
   },
-  "currentVersionRealModelTests": 0,
+  "currentVersionRealModelTests": 1,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
-    "observedCurrentVersionInference": false,
+    "observedCurrentVersionInference": true,
     "historical106Profiles": [
       "gpt-6.1-sol/low",
       "gpt-6.1-sol/medium",
       "gpt-6.1-terra/none"
     ],
-    "instantIsNotVerifiedAPIModelId": true
+    "instantIsNotVerifiedAPIModelId": true,
+    "observed116Summary": "FOUR_SOL_LOW_COMPLETED_ONE_REQUESTED_SOL_MEDIUM_FAILED_WITHOUT_OBSERVED_MODEL"
   },
   "fallback": {
     "structuredAndWeb": "COEXIST_PER_CLAIM",
@@ -191,7 +196,7 @@
     "historical108Answers": "TWO_SCOPED_ONE_LOCAL_PARTIAL_THREE_FAILED",
     "modelBackedAnswers114": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
     "historical113Answers": "THREE_SCOPED_THREE_PARTIAL_FOUR_UNUSABLE",
-    "modelBackedAnswers116": "NOT_REPLAYED",
+    "modelBackedAnswers116": "LATEST_INPUT_FAILED_PROVIDER_QUOTA_EXHAUSTED",
     "historical114Answers": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES"
   },
   "postBattery107Candidate": {
@@ -227,16 +232,18 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "lastObservedState": "PROVIDER_PROCESSED_FIVE114_REQUESTS_ONE_INPUT_BLOCKED_PRE_MODEL",
-    "observedOnVersion": "0.7.114-beta",
-    "noNew116Probe": true,
+    "lastObservedState": "PROVIDER_QUOTA_EXHAUSTED",
+    "observedOnVersion": "0.7.116-beta",
+    "completedModelCalls": 4,
+    "failedAttemptWithoutUsage": 1,
     "topUpPerformed": false,
+    "balanceRead": false,
     "nextAnswerAvailabilityGuaranteed": false
   },
   "latestCandidate": {
-    "version": "0.7.116-beta",
-    "state": "DEPLOYED_RESTRICTED_CORRECTIVE_NO_NEW_REAL_TESTS",
-    "behavioralFixesImplemented": true,
+    "version": "0.7.117-beta",
+    "state": "NO_GO_METADATA_ONLY_NOT_DEPLOYED_AFTER_PARTIAL116_REPLAY",
+    "behavioralFixesImplemented": false,
     "ownRealQuestions": 0
   },
   "metadataCandidate112Preserved": true,
@@ -247,11 +254,31 @@
     "frozen114And115Preserved": true
   },
   "openGaps116": [
-    "No own116real answer quality,speed,savings orrepeatability measurement",
-    "Third-party access challenges,rights andunavailable bodies remain possible;no bypass",
-    "Exact114incomplete-review reason not retained;output allowance mitigates observed risk without proving a unique cause",
-    "Nominal catalogue/ingredient differences remain explicit without documentary reconciliation",
-    "No general counter acceptance,FarmAI parity orhuman clinical validation"
+    "No final116answer;five identical cases not executed after owner stop",
+    "Internal support rejection unresolved;claim and passage not retained,review false positive not excluded",
+    "AIFA reader diagnostic status NOT_CLASSIFIED;coverage not established by logs",
+    "Large composition/repair context;no complete cost or controlled useful-latency comparison",
+    "No general counter acceptance,FarmAI parity,repeatability orhuman clinical validation"
   ],
-  "metadataCandidate115Preserved": true
+  "metadataCandidate115Preserved": true,
+  "historicalLastRealBattery114Before116Replay": {
+    "version": "0.7.114-beta",
+    "questions": 6,
+    "resubmissions": 0,
+    "usefulScopedAnswers": 1,
+    "partialAnswers": 2,
+    "failedWithoutUsableFinalAnswer": 3,
+    "preModelScopeBlocks": 1,
+    "modelCalls": 36,
+    "callsWithUsage": 36,
+    "overallEfficiencyEstablished": false,
+    "allCasesPass": false,
+    "humanClinicalValidation": false,
+    "usefulScopeLimitation": "Main pneumococcal question useful;ancillary flu comparison not complete."
+  },
+  "postBattery117Candidate": {
+    "state": "NO_GO_NOT_DEPLOYED",
+    "metadataOnly": true,
+    "behavioralFixesImplemented": false
+  }
 }

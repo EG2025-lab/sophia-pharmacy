@@ -1,12 +1,12 @@
 # SOPHIA
 
-La beta distribuita è **0.7.116-beta**,riservata agli utenti approvati dal titolare;pagamenti eaddebiti inattivi. Corregge cause comuni dei sei invii reali114:una risposta utile nel perimetro principale,due parziali etre senza esito sostanziale. Nessuna nuova domanda reale116. [Stato corrente](docs/STATUS.md).
+La beta distribuita resta **0.7.116-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti sono inattivi. Il titolare ha interrotto il replay dei sei casi dopo **un solo invio reale**, fallito per quota o credito API esauriti. Cinque casi non sono stati inviati; nessuna risposta finale116. [Stato corrente](docs/STATUS.md).
 
-116corregge selezione dei temi RCP/FI,titoli originali irregolari edocumenti condivisi fra dosaggi legati in modo univoco. Una regola grammaticale circoscritta riconosce i riferimenti alla ricetta senza ammettere richieste terapeutiche personali. Il margine di uscita del controllo clinico segue il contratto osservato;una dichiarazione malformata viene corretta dal revisore sulla stessa bozza,senza rigenerare fatti invariati.
+Prima del blocco API, il revisore interno aveva respinto una delle sei parti della bozza per supporto insufficiente, richiedendo una correzione. Claim e passaggio associato non sono conservati nella diagnostica minima: non si distingue un errore della bozza da un falso positivo del controllo. Ricerca e lettura AIFA osservate; completezza documentale e collaborazione finale dei canali non qualificate.
 
-Superati **1.808 controlli offline e58interfaccia**;188file runtime esatti verificati senza rete. Quattro letture dei PDF originali conservati recuperano i passaggi mancanti. Lettore HTML limitato ecollegamenti documentali osservati migliorano l’acquisizione;i documenti operativi letti possono qualificare le notizie. Canali strutturati eweb dichiarato restano complementari. Nessun nuovo tetto globale fisso alle chiamate.
+Cinque tentativi al modello: quattro chiamate Sol/low completate e una correzione richiesta Sol/medium non completata. Stima prudenziale nota: **0,1985940USD**, non fattura; una chiamata senza usage non è assunta gratuita. Richiesta interrotta dopo40,87secondi. Non sono prove di risparmio o maggiore velocità utile. Qualificazione tecnica116 precedente separata:1.808controlli offline,58interfaccia equattro letture di PDF conservati.
 
-Le verifiche tecniche non dimostrano qualità reale116,risparmio,velocità,ripetibilità,parità FarmAI ovalidazione clinica umana. Restano possibili blocchi esterni etesti indisponibili;il motivo esatto della revisione114incompleta non è conservato. Differenze nominali degli ingredienti restano esplicite senza riconciliazione documentale. RC115di sola governance preservata enon pubblicata. FarmAI GPT eplugin Business conservano contenuto **0.7.7.155**.
+Questo replay parziale non valida le correzioni116: qualità fattuale, ripetibilità, parità FarmAI e validazione clinica umana non dimostrate. Report116 sigillato; **RC117 completa di sola governance, NO-GO e non pubblicata**, senza correzioni comportamentali. Nessun altro test a pagamento o ricarica dopo lo stop. FarmAI GPT eplugin Business conservano contenuto **0.7.7.155**.
 
 ### Un collega AI per la conoscenza professionale in farmacia
 

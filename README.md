@@ -1,13 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.116-beta**,restricted to owner-approved users;payments and answer charging remain inactive. It addresses common causes from six real114inputs:one useful answer within the main scope,two partial andthree without substantive outcomes. No new real116question was submitted. [Current status](docs/STATUS.md).
+The deployed professional beta remains **0.7.116-beta**, restricted to owner-approved users; payments and answer charging are inactive. The owner stopped an identical six-case replay after **one real input** failed for API quota or credit exhaustion. Five cases were not submitted; no final116answer was delivered. [Current status](docs/STATUS.md).
 
-116repairs combined SmPC/PIL topic selection,irregular authored headings anduniquely bound shared-strength documents. A bounded grammatical rule resolves prescription references without admitting personal treatment requests. Clinical reviewer output scales with its observed contract;malformed review declarations revisit the critic on the same draft instead of regenerating unchanged claims.
+Before the quota error, the internal reviewer rejected one of six draft blocks as insufficiently supported and requested a repair. The rejected claim and associated passage were not retained in fixed diagnostics: a draft error cannot be distinguished from a review false positive. AIFA search and read were observed; document coverage and final channel collaboration remain unqualified.
 
-**1,808 offline checks and58interface checks** passed;188exact runtime files were verified without network. Four saved original-PDF readings expose the previously missing passages. The bounded HTML reader andobserved primary-document links improve acquisition;read operational documents can qualify news claims. Structured channels anddeclared web remain complementary. No new fixed global model-call ceiling.
+Five model attempts were recorded: four completed Sol/low calls and an unsuccessful requested Sol/medium repair. Known conservative usage estimate: **USD0.1985940**, not an invoice; one attempt has unavailable usage and is not assumed free. The failed request took40.87seconds. These figures do not establish lower cost or faster useful delivery. Previous116technical qualification remains separate:1,808offline checks,58interface checks andfour saved-PDF readings.
 
-These technical checks do not establish actual116answer quality,savings,speed,repeatability,FarmAI parity orhuman clinical validation. Third-party access blocks andunavailable bodies remain possible;the exact reason for114incomplete review was not retained. Nominal ingredient differences remain explicit unless source evidence reconciles them. Governance-only RC115is preserved andnot deployed. FarmAI GPTs andBusiness plugins retain content **0.7.7.155**.
+The116repairs are not validated by this partial replay; factual quality, repeatability, FarmAI parity and human clinical validation remain unestablished. Report116 is sealed; the complete governance-only **117RC is NO-GO and not deployed**, with no behavioral fixes. No further paid tests or top-up after the owner stopped. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 ## Open collaboration opportunities
 
