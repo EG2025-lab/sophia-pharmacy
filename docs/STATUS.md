@@ -1,24 +1,26 @@
 # SOPHIA status and evaluation
 
-Reviewed30October2026.
+Reviewed 31 October 2026.
 
-The deployed professional beta is **0.7.118-beta**, restricted to owner-approved users; payments and answer charging remain inactive. It retains the common-cause repairs from six114cases and adds corrections derived from the owner-stopped116replay. No new real118question or paid model call. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.119-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
 
-Before the quota error, the internal reviewer rejected one of six draft blocks as insufficiently supported and requested a repair. The rejected claim and associated passage were not retained in fixed diagnostics: a draft error cannot be distinguished from a review false positive. AIFA search and read were observed; document coverage and final channel collaboration remain unqualified.
+Six new real questions were submitted on **118**: five final answers, two useful within the internally assessed scope, three partial and one reviewer timeout without a final answer. Complete transcripts and versioned evidence are retained. This is a narrow AI-assisted internal assessment, not human clinical validation.
 
-Five model attempts were recorded: four completed Sol/low calls and an unsuccessful requested Sol/medium repair. Known conservative usage estimate: **USD0.1985940**, not an invoice; one attempt has unavailable usage and is not assumed free. The failed request took40.87seconds. These figures do not establish lower cost or faster useful delivery. Previous116technical qualification remains separate:1,808offline checks,58interface checks andfour saved-PDF readings.
+**119** repairs combined document-topic reading, literal observed-strength display priority, PDF capability wording and source-channel disclosure. Structured-critic transport time scales with its output contract within the existing request deadline, with no automatic retry or approval. **1,832 offline checks, 58 interface checks and eight original-PDF readings** passed; 191 exact runtime files were verified in the image without network access.
 
-The116repairs are not validated by this partial replay; factual quality, repeatability, FarmAI parity and human clinical validation remain unestablished. Report116 is sealed; the complete governance-only **117RC is NO-GO and not deployed**, with no behavioral fixes. No further paid tests or top-up after the owner stopped. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+No own **119** real answer, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Provider timeouts and source-currentness/access limits remain possible. The six 118 tests do not qualify 119 as a runtime answer PASS. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+
 
 ## In italiano
 
-La beta distribuita è **0.7.118-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Conserva le correzioni comuni dei sei casi114 e aggiunge interventi derivati dal replay116 interrotto dal titolare. Nessuna nuova domanda reale118 o chiamata AI a pagamento. [Stato corrente](CURRENT.json).
+La beta distribuita è **0.7.119-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](CURRENT.json).
 
-Prima del blocco API, il revisore interno aveva respinto una delle sei parti della bozza per supporto insufficiente, richiedendo una correzione. Claim e passaggio associato non sono conservati nella diagnostica minima: non si distingue un errore della bozza da un falso positivo del controllo. Ricerca e lettura AIFA osservate; completezza documentale e collaborazione finale dei canali non qualificate.
+Eseguite **sei nuove domande reali sulla 118**: cinque risposte finali, due utili nello scope valutato internamente, tre parziali e un timeout del revisore senza risposta finale. Trascrizioni complete ed evidenze versionate sono conservate. È una valutazione interna circoscritta assistita da AI, non una validazione clinica umana.
 
-Cinque tentativi al modello: quattro chiamate Sol/low completate e una correzione richiesta Sol/medium non completata. Stima prudenziale nota: **0,1985940USD**, non fattura; una chiamata senza usage non è assunta gratuita. Richiesta interrotta dopo40,87secondi. Non sono prove di risparmio o maggiore velocità utile. Qualificazione tecnica116 precedente separata:1.808controlli offline,58interfaccia equattro letture di PDF conservati.
+La **119** corregge lettura dei temi documentali combinati, priorità di visualizzazione dei dosaggi osservati, descrizione dei PDF e distinzione dei canali. Il tempo del revisore strutturato cresce con il contratto entro la scadenza esistente, senza retry o approvazione automatica. Superati **1.832 controlli offline, 58 interfaccia e otto letture di PDF originali**; 191 file runtime esatti verificati nell’immagine senza rete.
 
-Questo replay parziale non valida le correzioni116: qualità fattuale, ripetibilità, parità FarmAI e validazione clinica umana non dimostrate. Report116 sigillato; **RC117 completa di sola governance, NO-GO e non pubblicata**, senza correzioni comportamentali. Nessun altro test a pagamento o ricarica dopo lo stop. FarmAI GPT eplugin Business conservano contenuto **0.7.7.155**.
+Nessuna risposta reale propria della **119**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Timeout del provider e limiti di vigenza/accesso alle fonti restano possibili. I sei test 118 non equivalgono a un PASS delle risposte reali 119. Report e pacchetti precedenti preservati. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
+
 
 ## FarmAI continuity
 
