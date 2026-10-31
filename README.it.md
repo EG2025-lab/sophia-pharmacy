@@ -1,12 +1,12 @@
 # SOPHIA
 
-La beta distribuita è **0.7.120-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](docs/STATUS.md).
+La beta distribuita è **0.7.121-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](docs/STATUS.md).
 
-Eseguite **sei nuove domande naturali da banco sulla 119**: sei risposte finali, tre utili nello scope valutato internamente e tre parziali, nessun invio fallito. Trascrizioni complete ed evidenze versionate conservate. È una valutazione interna circoscritta assistita da AI, non una validazione clinica umana.
+Eseguite **dieci nuove domande naturali da banco sulla 120**, un solo invio per quesito. Dieci risposte finali consegnate: **sei utili nello scope interno, due parziali e due senza i fatti richiesti**. Nessun timeout del motore osservato. Una risposta sicura o consegnata non equivale a un PASS completo. Trascrizioni e confronti con fonti primarie conservati; nessuna validazione clinica umana.
 
-La **120** migliora sezioni combinate su divisibilità/cibo e aggiunge due editori operativi pubblici verificati con ambito territoriale esplicito. La diagnostica dei limiti PDF distingue cause fisse senza aumentare i tetti. Superati **1.843 controlli offline, 58 interfaccia, 12 letture di PDF originali e due fonti operative**; 192 file runtime esatti verificati nell’immagine senza rete.
+La **121** riconosce temi naturali su apertura/frigorifero/scadenza, ammette due editori amministrativi nazionali verificati con ruolo documentale distinto e usa titoli FI/RCP neutri per gli stampati AIFA. Superati **1.855 controlli offline, 58 interfaccia, 19 letture PDF e due originali amministrativi nazionali**; 193 file runtime esatti verificati nell’immagine senza rete.
 
-Dopo quei sei invii non è stata eseguita alcuna ulteriore domanda reale. Nessuna accettazione reale propria della **120**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Il ritiro frazionato ordinario resta irrisolto nello scope giuridico pertinente; istruzioni locali di raccolta non sono norme nazionali. Report e pacchetti precedenti preservati. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
+Nessuna ulteriore domanda reale dopo i dieci invii. Nessuna accettazione reale propria della **121**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Confronto clinico aggiornato sul magnesio e ritiro frazionato ordinario ancora aperti. Accesso tecnico alla fonte non prova vigenza, diritto individuale o applicabilità. Archivi preservati; FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
 
 
 ### Un collega AI per la conoscenza professionale in farmacia
