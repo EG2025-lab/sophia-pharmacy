@@ -2,24 +2,24 @@
 
 Reviewed 31 October 2026.
 
-The deployed professional beta is **0.7.120-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.121-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
 
-Six new natural counter questions were submitted on **119**: six final answers, three useful within the internally assessed scope and three partial, with no failed submission. Full transcripts and versioned evidence are retained. This narrow AI-assisted internal assessment is not human clinical validation.
+Ten new natural counter questions were submitted once each on **120**. Ten final responses were delivered: **six useful within the internally assessed scope, two partial and two without the requested facts**. No engine timeout was observed. A safe abstention or delivered response is not a complete answer PASS. Full transcripts and primary-source comparisons are retained; this is not human clinical validation.
 
-**120** improves combined splitting/food document sections and adds two reviewed public operational publishers with explicit territorial scope. Fixed typed PDF-limit diagnostics preserve every existing resource ceiling. **1,843 offline checks, 58 interface checks, 12 original-PDF readings and two operational-source readings** passed; 192 exact runtime files were verified in the image without network access.
+**121** adds natural opening/refrigerator/expiry document topics, two reviewed national administrative publishers with distinct document roles, and neutral FI/RCP titles for official AIFA PDFs. **1,855 offline checks, 58 interface checks, 19 original-PDF readings and two national administrative originals** passed; 193 exact runtime files were verified in the image without network access.
 
-No further real question was submitted after those six. No own **120** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Ordinary partial dispensing remains unresolved in the applicable legal scope; local collection instructions are not national law. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+No further real question was submitted after the ten. No own **121** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. A balanced updated magnesium evidence comparison and ordinary partial dispensing remain open. Technical source access does not prove legal currency, personal entitlement or applicability. Historical reports/packages remain intact; FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 
 ## In italiano
 
-La beta distribuita è **0.7.120-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](CURRENT.json).
+La beta distribuita è **0.7.121-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](CURRENT.json).
 
-Eseguite **sei nuove domande naturali da banco sulla 119**: sei risposte finali, tre utili nello scope valutato internamente e tre parziali, nessun invio fallito. Trascrizioni complete ed evidenze versionate conservate. È una valutazione interna circoscritta assistita da AI, non una validazione clinica umana.
+Eseguite **dieci nuove domande naturali da banco sulla 120**, un solo invio per quesito. Dieci risposte finali consegnate: **sei utili nello scope interno, due parziali e due senza i fatti richiesti**. Nessun timeout del motore osservato. Una risposta sicura o consegnata non equivale a un PASS completo. Trascrizioni e confronti con fonti primarie conservati; nessuna validazione clinica umana.
 
-La **120** migliora sezioni combinate su divisibilità/cibo e aggiunge due editori operativi pubblici verificati con ambito territoriale esplicito. La diagnostica dei limiti PDF distingue cause fisse senza aumentare i tetti. Superati **1.843 controlli offline, 58 interfaccia, 12 letture di PDF originali e due fonti operative**; 192 file runtime esatti verificati nell’immagine senza rete.
+La **121** riconosce temi naturali su apertura/frigorifero/scadenza, ammette due editori amministrativi nazionali verificati con ruolo documentale distinto e usa titoli FI/RCP neutri per gli stampati AIFA. Superati **1.855 controlli offline, 58 interfaccia, 19 letture PDF e due originali amministrativi nazionali**; 193 file runtime esatti verificati nell’immagine senza rete.
 
-Dopo quei sei invii non è stata eseguita alcuna ulteriore domanda reale. Nessuna accettazione reale propria della **120**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Il ritiro frazionato ordinario resta irrisolto nello scope giuridico pertinente; istruzioni locali di raccolta non sono norme nazionali. Report e pacchetti precedenti preservati. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
+Nessuna ulteriore domanda reale dopo i dieci invii. Nessuna accettazione reale propria della **121**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Confronto clinico aggiornato sul magnesio e ritiro frazionato ordinario ancora aperti. Accesso tecnico alla fonte non prova vigenza, diritto individuale o applicabilità. Archivi preservati; FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
 
 
 ## FarmAI continuity
