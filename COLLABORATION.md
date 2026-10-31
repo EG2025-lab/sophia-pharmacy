@@ -1,6 +1,6 @@
 # Collaboration brief
 **SOPHIA · Public starting points · 12 October 2026**
-> Current product reference,30 October2026: **0.7.118-beta**,owner-approved access,payments inactive. Corrective release:1821offline checks,58interface checks,four saved-PDF readings;no new real118question. Last116APIquota andexact rejected claim remain limitations. Report116 andmetadata-only117RC preserved. [Current status](docs/STATUS.md).
+> Current product reference, 31 October 2026: **0.7.119-beta**, owner-approved access and payments inactive. Six real118 questions: five final answers, two useful in the internally assessed scope, three partial, one reviewer timeout.119 repairs common mechanisms;1,832 offline checks,58interface checks and eight original-PDF readings. No own119real answer or clinical validation. [Current status](docs/STATUS.md).
 
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.
