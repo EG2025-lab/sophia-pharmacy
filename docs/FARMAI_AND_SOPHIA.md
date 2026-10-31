@@ -6,7 +6,7 @@ Reviewed30October2026.
 | --- | --- | --- |
 | Original FarmAI EVO and Support GPTs | Builder instructions, knowledge and Actions. | The original GPTs are preserved and remain the continuity option if a plugin has a problem. |
 | Private FarmAI Business plugins | Skills hold migrated instructions/documents; a private MCP App exposes the former Action operations. | The chat host controls model and browser. Migration does not automatically grant use to every workspace member. |
-| SOPHIA | Restricted application/API118,owner-approved access,payments inactive. | Documentary qualifications,local repair andlossless context corrections;1821offline and58interface checks. No own118real question orclinical validation. |
+| SOPHIA | Restricted application/API119, owner-approved access, payments inactive. | Common document/capability/channel and review-transport repairs;1,832offline and58interface checks. Six118tests retained separately; no own119real answer or clinical validation. |
 
 Current FarmAI content is **0.7.7.155** in the originals and Business plugins; plugin packages are **0.8.0 EVO** and **0.5.0 Support**. Workspace availability is configured for its members; an independent second-member installation and automatic invocation in every chat are not established by the publication readback. No further 155 chat tests followed the owner’s instruction.
 
@@ -23,10 +23,11 @@ Technical migration does not establish clinical validation, general repeatabilit
 
 ## In italiano
 
-La beta distribuita è **0.7.118-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti inattivi. Conserva le correzioni comuni dei sei casi114 e aggiunge interventi derivati dal replay116 interrotto dal titolare. Nessuna nuova domanda reale118 o chiamata AI a pagamento. [Stato corrente](STATUS.md).
+La beta distribuita è **0.7.119-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](STATUS.md).
 
-Prima del blocco API, il revisore interno aveva respinto una delle sei parti della bozza per supporto insufficiente, richiedendo una correzione. Claim e passaggio associato non sono conservati nella diagnostica minima: non si distingue un errore della bozza da un falso positivo del controllo. Ricerca e lettura AIFA osservate; completezza documentale e collaborazione finale dei canali non qualificate.
+Eseguite **sei nuove domande reali sulla 118**: cinque risposte finali, due utili nello scope valutato internamente, tre parziali e un timeout del revisore senza risposta finale. Trascrizioni complete ed evidenze versionate sono conservate. È una valutazione interna circoscritta assistita da AI, non una validazione clinica umana.
 
-Cinque tentativi al modello: quattro chiamate Sol/low completate e una correzione richiesta Sol/medium non completata. Stima prudenziale nota: **0,1985940USD**, non fattura; una chiamata senza usage non è assunta gratuita. Richiesta interrotta dopo40,87secondi. Non sono prove di risparmio o maggiore velocità utile. Qualificazione tecnica116 precedente separata:1.808controlli offline,58interfaccia equattro letture di PDF conservati.
+La **119** corregge lettura dei temi documentali combinati, priorità di visualizzazione dei dosaggi osservati, descrizione dei PDF e distinzione dei canali. Il tempo del revisore strutturato cresce con il contratto entro la scadenza esistente, senza retry o approvazione automatica. Superati **1.832 controlli offline, 58 interfaccia e otto letture di PDF originali**; 191 file runtime esatti verificati nell’immagine senza rete.
 
-Questo replay parziale non valida le correzioni116: qualità fattuale, ripetibilità, parità FarmAI e validazione clinica umana non dimostrate. Report116 sigillato; **RC117 completa di sola governance, NO-GO e non pubblicata**, senza correzioni comportamentali. Nessun altro test a pagamento o ricarica dopo lo stop. FarmAI GPT eplugin Business conservano contenuto **0.7.7.155**.
+Nessuna risposta reale propria della **119**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Timeout del provider e limiti di vigenza/accesso alle fonti restano possibili. I sei test 118 non equivalgono a un PASS delle risposte reali 119. Report e pacchetti precedenti preservati. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
+
