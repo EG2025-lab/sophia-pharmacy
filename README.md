@@ -1,13 +1,14 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.118-beta**, restricted to owner-approved users; payments and answer charging remain inactive. It retains the common-cause repairs from six114cases and adds corrections derived from the owner-stopped116replay. No new real118question or paid model call. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.119-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
 
-Before the quota error, the internal reviewer rejected one of six draft blocks as insufficiently supported and requested a repair. The rejected claim and associated passage were not retained in fixed diagnostics: a draft error cannot be distinguished from a review false positive. AIFA search and read were observed; document coverage and final channel collaboration remain unqualified.
+Six new real questions were submitted on **118**: five final answers, two useful within the internally assessed scope, three partial and one reviewer timeout without a final answer. Complete transcripts and versioned evidence are retained. This is a narrow AI-assisted internal assessment, not human clinical validation.
 
-Five model attempts were recorded: four completed Sol/low calls and an unsuccessful requested Sol/medium repair. Known conservative usage estimate: **USD0.1985940**, not an invoice; one attempt has unavailable usage and is not assumed free. The failed request took40.87seconds. These figures do not establish lower cost or faster useful delivery. Previous116technical qualification remains separate:1,808offline checks,58interface checks andfour saved-PDF readings.
+**119** repairs combined document-topic reading, literal observed-strength display priority, PDF capability wording and source-channel disclosure. Structured-critic transport time scales with its output contract within the existing request deadline, with no automatic retry or approval. **1,832 offline checks, 58 interface checks and eight original-PDF readings** passed; 191 exact runtime files were verified in the image without network access.
 
-The116repairs are not validated by this partial replay; factual quality, repeatability, FarmAI parity and human clinical validation remain unestablished. Report116 is sealed; the complete governance-only **117RC is NO-GO and not deployed**, with no behavioral fixes. No further paid tests or top-up after the owner stopped. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+No own **119** real answer, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Provider timeouts and source-currentness/access limits remain possible. The six 118 tests do not qualify 119 as a runtime answer PASS. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+
 
 ## Open collaboration opportunities
 
