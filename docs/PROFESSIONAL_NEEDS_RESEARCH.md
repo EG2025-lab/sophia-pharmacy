@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Current product reference, 31 October 2026: **0.7.120-beta**, owner-approved access and payments inactive. Six natural119questions: six answers, three useful in scope and three partial.120repairs document reading, territorial source scope and PDF diagnostics;1,843offline checks,58interface,12PDF and two operational-source readings. No own120real answer or clinical validation. [Current status](STATUS.md).
+> Current product reference, 31 October 2026: **0.7.121-beta**, owner-approved access and payments inactive. Ten natural120questions: ten delivered responses,six useful in scope,two partial,two without requested facts.121repairs opening/storage selection,national administrative discovery andAIFA PDF titles;1,855offline checks,58interface,19PDF and2national originals. No own121real answer or clinical validation. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 
