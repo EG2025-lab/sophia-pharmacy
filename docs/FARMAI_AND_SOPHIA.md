@@ -6,7 +6,7 @@ Reviewed30October2026.
 | --- | --- | --- |
 | Original FarmAI EVO and Support GPTs | Builder instructions, knowledge and Actions. | The original GPTs are preserved and remain the continuity option if a plugin has a problem. |
 | Private FarmAI Business plugins | Skills hold migrated instructions/documents; a private MCP App exposes the former Action operations. | The chat host controls model and browser. Migration does not automatically grant use to every workspace member. |
-| SOPHIA | Restricted application/API119, owner-approved access, payments inactive. | Common document/capability/channel and review-transport repairs;1,832offline and58interface checks. Six118tests retained separately; no own119real answer or clinical validation. |
+| SOPHIA | Restricted application/API120, owner-approved access, payments inactive. | Natural document-topic reading, territorial source scope and PDF diagnostics;1,843offline,58UI,12PDF and2operational-source readings. Six119tests retained separately; no own120real answer or clinical validation. |
 
 Current FarmAI content is **0.7.7.155** in the originals and Business plugins; plugin packages are **0.8.0 EVO** and **0.5.0 Support**. Workspace availability is configured for its members; an independent second-member installation and automatic invocation in every chat are not established by the publication readback. No further 155 chat tests followed the owner’s instruction.
 
@@ -23,11 +23,11 @@ Technical migration does not establish clinical validation, general repeatabilit
 
 ## In italiano
 
-La beta distribuita è **0.7.119-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](STATUS.md).
+La beta distribuita è **0.7.120-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](STATUS.md).
 
-Eseguite **sei nuove domande reali sulla 118**: cinque risposte finali, due utili nello scope valutato internamente, tre parziali e un timeout del revisore senza risposta finale. Trascrizioni complete ed evidenze versionate sono conservate. È una valutazione interna circoscritta assistita da AI, non una validazione clinica umana.
+Eseguite **sei nuove domande naturali da banco sulla 119**: sei risposte finali, tre utili nello scope valutato internamente e tre parziali, nessun invio fallito. Trascrizioni complete ed evidenze versionate conservate. È una valutazione interna circoscritta assistita da AI, non una validazione clinica umana.
 
-La **119** corregge lettura dei temi documentali combinati, priorità di visualizzazione dei dosaggi osservati, descrizione dei PDF e distinzione dei canali. Il tempo del revisore strutturato cresce con il contratto entro la scadenza esistente, senza retry o approvazione automatica. Superati **1.832 controlli offline, 58 interfaccia e otto letture di PDF originali**; 191 file runtime esatti verificati nell’immagine senza rete.
+La **120** migliora sezioni combinate su divisibilità/cibo e aggiunge due editori operativi pubblici verificati con ambito territoriale esplicito. La diagnostica dei limiti PDF distingue cause fisse senza aumentare i tetti. Superati **1.843 controlli offline, 58 interfaccia, 12 letture di PDF originali e due fonti operative**; 192 file runtime esatti verificati nell’immagine senza rete.
 
-Nessuna risposta reale propria della **119**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Timeout del provider e limiti di vigenza/accesso alle fonti restano possibili. I sei test 118 non equivalgono a un PASS delle risposte reali 119. Report e pacchetti precedenti preservati. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
+Dopo quei sei invii non è stata eseguita alcuna ulteriore domanda reale. Nessuna accettazione reale propria della **120**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Il ritiro frazionato ordinario resta irrisolto nello scope giuridico pertinente; istruzioni locali di raccolta non sono norme nazionali. Report e pacchetti precedenti preservati. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
 
