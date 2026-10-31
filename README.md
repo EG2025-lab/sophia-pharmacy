@@ -1,13 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.119-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.120-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
 
-Six new real questions were submitted on **118**: five final answers, two useful within the internally assessed scope, three partial and one reviewer timeout without a final answer. Complete transcripts and versioned evidence are retained. This is a narrow AI-assisted internal assessment, not human clinical validation.
+Six new natural counter questions were submitted on **119**: six final answers, three useful within the internally assessed scope and three partial, with no failed submission. Full transcripts and versioned evidence are retained. This narrow AI-assisted internal assessment is not human clinical validation.
 
-**119** repairs combined document-topic reading, literal observed-strength display priority, PDF capability wording and source-channel disclosure. Structured-critic transport time scales with its output contract within the existing request deadline, with no automatic retry or approval. **1,832 offline checks, 58 interface checks and eight original-PDF readings** passed; 191 exact runtime files were verified in the image without network access.
+**120** improves combined splitting/food document sections and adds two reviewed public operational publishers with explicit territorial scope. Fixed typed PDF-limit diagnostics preserve every existing resource ceiling. **1,843 offline checks, 58 interface checks, 12 original-PDF readings and two operational-source readings** passed; 192 exact runtime files were verified in the image without network access.
 
-No own **119** real answer, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Provider timeouts and source-currentness/access limits remain possible. The six 118 tests do not qualify 119 as a runtime answer PASS. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+No further real question was submitted after those six. No own **120** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Ordinary partial dispensing remains unresolved in the applicable legal scope; local collection instructions are not national law. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 
 ## Open collaboration opportunities
