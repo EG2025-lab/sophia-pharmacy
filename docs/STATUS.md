@@ -2,24 +2,24 @@
 
 Reviewed 31 October 2026.
 
-The deployed professional beta is **0.7.119-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.120-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
 
-Six new real questions were submitted on **118**: five final answers, two useful within the internally assessed scope, three partial and one reviewer timeout without a final answer. Complete transcripts and versioned evidence are retained. This is a narrow AI-assisted internal assessment, not human clinical validation.
+Six new natural counter questions were submitted on **119**: six final answers, three useful within the internally assessed scope and three partial, with no failed submission. Full transcripts and versioned evidence are retained. This narrow AI-assisted internal assessment is not human clinical validation.
 
-**119** repairs combined document-topic reading, literal observed-strength display priority, PDF capability wording and source-channel disclosure. Structured-critic transport time scales with its output contract within the existing request deadline, with no automatic retry or approval. **1,832 offline checks, 58 interface checks and eight original-PDF readings** passed; 191 exact runtime files were verified in the image without network access.
+**120** improves combined splitting/food document sections and adds two reviewed public operational publishers with explicit territorial scope. Fixed typed PDF-limit diagnostics preserve every existing resource ceiling. **1,843 offline checks, 58 interface checks, 12 original-PDF readings and two operational-source readings** passed; 192 exact runtime files were verified in the image without network access.
 
-No own **119** real answer, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Provider timeouts and source-currentness/access limits remain possible. The six 118 tests do not qualify 119 as a runtime answer PASS. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+No further real question was submitted after those six. No own **120** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Ordinary partial dispensing remains unresolved in the applicable legal scope; local collection instructions are not national law. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 
 ## In italiano
 
-La beta distribuita è **0.7.119-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](CURRENT.json).
+La beta distribuita è **0.7.120-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](CURRENT.json).
 
-Eseguite **sei nuove domande reali sulla 118**: cinque risposte finali, due utili nello scope valutato internamente, tre parziali e un timeout del revisore senza risposta finale. Trascrizioni complete ed evidenze versionate sono conservate. È una valutazione interna circoscritta assistita da AI, non una validazione clinica umana.
+Eseguite **sei nuove domande naturali da banco sulla 119**: sei risposte finali, tre utili nello scope valutato internamente e tre parziali, nessun invio fallito. Trascrizioni complete ed evidenze versionate conservate. È una valutazione interna circoscritta assistita da AI, non una validazione clinica umana.
 
-La **119** corregge lettura dei temi documentali combinati, priorità di visualizzazione dei dosaggi osservati, descrizione dei PDF e distinzione dei canali. Il tempo del revisore strutturato cresce con il contratto entro la scadenza esistente, senza retry o approvazione automatica. Superati **1.832 controlli offline, 58 interfaccia e otto letture di PDF originali**; 191 file runtime esatti verificati nell’immagine senza rete.
+La **120** migliora sezioni combinate su divisibilità/cibo e aggiunge due editori operativi pubblici verificati con ambito territoriale esplicito. La diagnostica dei limiti PDF distingue cause fisse senza aumentare i tetti. Superati **1.843 controlli offline, 58 interfaccia, 12 letture di PDF originali e due fonti operative**; 192 file runtime esatti verificati nell’immagine senza rete.
 
-Nessuna risposta reale propria della **119**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Timeout del provider e limiti di vigenza/accesso alle fonti restano possibili. I sei test 118 non equivalgono a un PASS delle risposte reali 119. Report e pacchetti precedenti preservati. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
+Dopo quei sei invii non è stata eseguita alcuna ulteriore domanda reale. Nessuna accettazione reale propria della **120**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Il ritiro frazionato ordinario resta irrisolto nello scope giuridico pertinente; istruzioni locali di raccolta non sono norme nazionali. Report e pacchetti precedenti preservati. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
 
 
 ## FarmAI continuity
