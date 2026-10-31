@@ -1,5 +1,5 @@
 # Contributing to SOPHIA
-> Current product reference, 31 October 2026: **0.7.119-beta**, owner-approved access and payments inactive. Six real118 questions: five final answers, two useful in the internally assessed scope, three partial, one reviewer timeout.119 repairs common mechanisms;1,832 offline checks,58interface checks and eight original-PDF readings. No own119real answer or clinical validation. [Current status](docs/STATUS.md).
+> Current product reference, 31 October 2026: **0.7.120-beta**, owner-approved access and payments inactive. Six natural119questions: six answers, three useful in scope and three partial.120repairs document reading, territorial source scope and PDF diagnostics;1,843offline checks,58interface,12PDF and two operational-source readings. No own120real answer or clinical validation. [Current status](docs/STATUS.md).
 
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**
