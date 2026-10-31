@@ -1,50 +1,52 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-31",
-  "appVersion": "0.7.120-beta",
+  "appVersion": "0.7.121-beta",
   "publicAppAccess": false,
-  "technicalRepair": "ADDITIVE_NATURAL_DOCUMENT_TOPICS_TERRITORIAL_SOURCE_SCOPE_AND_TYPED_PDF_LIMIT_DIAGNOSTICS",
+  "technicalRepair": "NATURAL_OPENING_STORAGE_TOPICS_NATIONAL_ADMINISTRATIVE_SOURCE_ROLES_AND_NEUTRAL_AIFA_DOCUMENT_TITLES",
   "qualification": {
-    "offlineChecksPassed": 1843,
+    "offlineChecksPassed": 1855,
     "interfaceChecksPassed": 58,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 192,
+    "noNetworkRuntimeFiles": 193,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions120": 0,
-    "ownRealInternalModelCalls120": 0,
-    "savedOriginalPDFReadings": 12,
-    "publicOperationalOriginalReadings": 2,
+    "ownRealUIQuestions121": 0,
+    "ownRealInternalModelCalls121": 0,
+    "savedOriginalPDFReadings": 19,
+    "nationalAdministrativeOriginalReadings": 2,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "PENDING120_OWN_REAL_ACCEPTANCE_REPORT119_SEPARATE",
+  "manualLiveAcceptance": "PENDING121_OWN_REAL_ACCEPTANCE_REPORT120_SEPARATE",
   "lastRealBattery": {
-    "version": "0.7.119-beta",
-    "plannedInputs": 6,
-    "submissions": 6,
+    "version": "0.7.120-beta",
+    "plannedInputs": 10,
+    "submissions": 10,
     "notExecuted": 0,
     "resubmissions": 0,
-    "finalAnswers": 6,
-    "usefulScopedAnswers": 3,
-    "partialAnswers": 3,
+    "finalResponsesDelivered": 10,
+    "finalAnswers": 10,
+    "usefulScopedAnswers": 6,
+    "partialAnswers": 2,
+    "failedRequestedFacts": 2,
     "failedWithoutFinalAnswer": 0,
     "allCasesPass": false,
-    "modelCallAttempts": 33,
-    "callsWithUsage": 33,
+    "modelCallAttempts": 53,
+    "callsWithUsage": 53,
     "usageUnavailableCalls": 0,
     "terminalFailureCode": null,
     "notInvoice": true,
     "balanceRead": false,
     "topUpPerformedByThisWork": false,
     "humanClinicalValidation": false,
-    "assessment": "NATURAL_COUNTER_QUESTIONS_SCOPED_INTERNAL_AI_ASSISTED_NOT_HUMAN_CLINICAL_REVIEW"
+    "assessment": "NATURAL_COUNTER_QUESTIONS_INTERNAL_AI_ASSISTED_NOT_HUMAN_CLINICAL_REVIEW;DELIVERY_NOT_COMPLETE_PASS"
   },
   "website": {
-    "publication": 98,
-    "snapshot": "2026-10-31-r64",
+    "publication": 99,
+    "snapshot": "2026-10-31-r65",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -106,9 +108,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-10-31-02",
-    "revision": "1.18",
-    "appReference": "0.7.120-beta"
+    "id": "ALG-CLIN-2026-10-31-03",
+    "revision": "1.19",
+    "appReference": "0.7.121-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -126,7 +128,7 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.120-beta",
+    "version": "0.7.121-beta",
     "state": "RESTRICTED_CORRECTIVE_BETA",
     "sourceAndImageVerified": true,
     "ownRealReplay": false,
@@ -195,11 +197,12 @@
     "losslessContextSharing": "COMPOSER_REPAIR_AND_CRITIC_EXACT_REVERSIBLE_VALUES",
     "actual119SavingsMeasured": false,
     "reviewTransport": "CONTRACT_SCALED_WITHIN_EXISTING_REQUEST_DEADLINE_NO_RETRY",
-    "actual120SavingsMeasured": false
+    "actual120SavingsMeasured": false,
+    "actual121SavingsMeasured": false
   },
   "availability": {
-    "modelBackedAnswers120": "NOT_RUN_OWN_REAL_ACCEPTANCE_PENDING",
-    "latestRealVersion119": "SIX_FINAL_THREE_USEFUL_SCOPED_THREE_PARTIAL",
+    "modelBackedAnswers121": "NOT_RUN_OWN_REAL_ACCEPTANCE_PENDING",
+    "latestRealVersion120": "TEN_DELIVERED_SIX_USEFUL_TWO_PARTIAL_TWO_NO_REQUESTED_FACTS",
     "futureAvailabilityGuaranteed": false,
     "paymentsActive": false
   },
@@ -236,30 +239,31 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "lastObservedState": "SIX_119_FINAL_ANSWERS_THREE_USEFUL_THREE_PARTIAL",
-    "observedOnVersion": "0.7.119-beta",
-    "callsWithUsage": 33,
+    "lastObservedState": "TEN_120_RESPONSES_SIX_USEFUL_TWO_PARTIAL_TWO_NO_REQUESTED_FACTS",
+    "observedOnVersion": "0.7.120-beta",
+    "callsWithUsage": 53,
     "failedAttemptWithoutUsage": 0,
     "topUpPerformedByThisWork": false,
     "balanceRead": false,
     "nextAnswerAvailabilityGuaranteed": false,
-    "own120ProviderProbe": false
+    "own121ProviderProbe": false
   },
   "latestCandidate": {
-    "version": "0.7.120-beta",
+    "version": "0.7.121-beta",
     "state": "DEPLOYED_RESTRICTED_CORRECTIVE_OWN_REAL_ACCEPTANCE_PENDING",
     "behavioralFixesImplemented": true,
     "ownRealQuestions": 0
   },
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.120-beta",
-    "SBOMApplicationVersion": "0.7.120-beta",
+    "currentApplicationVersion": "0.7.121-beta",
+    "SBOMApplicationVersion": "0.7.121-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
     "frozen118Preserved": true,
-    "frozen119Preserved": true
+    "frozen119Preserved": true,
+    "frozen120Preserved": true
   },
   "metadataCandidate115Preserved": true,
   "historicalLastRealBattery114Before116Replay": {
@@ -414,11 +418,72 @@
     "Source currentness,rights,access andunavailable bodies remain possible",
     "No general counter acceptance,FarmAI parity orhuman clinical validation"
   ],
-  "openGaps120": [
+  "historical120Qualification": {
+    "offlineChecksPassed": 1843,
+    "interfaceChecksPassed": 58,
+    "offlineSkipped": 0,
+    "noNetworkRuntimeFiles": 192,
+    "sourceAndImageVerified": true,
+    "productionStartupAndOwnerReviewReadBack": true,
+    "ownRealUIQuestions120": 0,
+    "ownRealInternalModelCalls120": 0,
+    "savedOriginalPDFReadings": 12,
+    "publicOperationalOriginalReadings": 2,
+    "humanClinicalValidation": false,
+    "generalRepeatabilityEstablished": false,
+    "controlledSpeedComparison": false,
+    "SLAEstablished": false
+  },
+  "historicalRealBattery119BeforeTen120": {
+    "version": "0.7.119-beta",
+    "plannedInputs": 6,
+    "submissions": 6,
+    "notExecuted": 0,
+    "resubmissions": 0,
+    "finalAnswers": 6,
+    "usefulScopedAnswers": 3,
+    "partialAnswers": 3,
+    "failedWithoutFinalAnswer": 0,
+    "allCasesPass": false,
+    "modelCallAttempts": 33,
+    "callsWithUsage": 33,
+    "usageUnavailableCalls": 0,
+    "terminalFailureCode": null,
+    "notInvoice": true,
+    "balanceRead": false,
+    "topUpPerformedByThisWork": false,
+    "humanClinicalValidation": false,
+    "assessment": "NATURAL_COUNTER_QUESTIONS_SCOPED_INTERNAL_AI_ASSISTED_NOT_HUMAN_CLINICAL_REVIEW"
+  },
+  "historical120ProviderAvailability": {
+    "lastObservedState": "SIX_119_FINAL_ANSWERS_THREE_USEFUL_THREE_PARTIAL",
+    "observedOnVersion": "0.7.119-beta",
+    "callsWithUsage": 33,
+    "failedAttemptWithoutUsage": 0,
+    "topUpPerformedByThisWork": false,
+    "balanceRead": false,
+    "nextAnswerAvailabilityGuaranteed": false,
+    "own120ProviderProbe": false
+  },
+  "historical120Availability": {
+    "modelBackedAnswers120": "NOT_RUN_OWN_REAL_ACCEPTANCE_PENDING",
+    "latestRealVersion119": "SIX_FINAL_THREE_USEFUL_SCOPED_THREE_PARTIAL",
+    "futureAvailabilityGuaranteed": false,
+    "paymentsActive": false
+  },
+  "historical120OpenGapsBeforeTenQuestions": [
     "No own120real-answer or professional acceptance",
     "Ordinary partial dispensing unresolved in applicable legal scope",
     "80pagePDFceiling retained;164pageFOFIbook remains outside runtime reader scope",
     "Local operational sources do not establish national coverage or user-territory applicability",
     "Currentness,source access,repeated paraphrased limits andclinical human validation remain open"
+  ],
+  "openGaps121": [
+    "No own121real-answer or professional acceptance",
+    "Updated balanced magnesium evidence comparison incomplete,including subsequent contrary results",
+    "Ordinary partial dispensing unresolved in applicable legal scope",
+    "80pagePDFceiling retained;164pageFOFIbook outside runtime reader scope",
+    "Source roles do not establish currentness,individual entitlement or local/national applicability",
+    "Repeated paraphrased limits,source access andhuman clinical validation remain open"
   ]
 }
