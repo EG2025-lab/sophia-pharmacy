@@ -1,49 +1,50 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-10-31",
-  "appVersion": "0.7.119-beta",
+  "appVersion": "0.7.120-beta",
   "publicAppAccess": false,
-  "technicalRepair": "COMBINED_DOCUMENT_TOPICS_OBSERVED_STRENGTH_DISPLAY_CAPABILITY_AND_CHANNEL_COHERENCE_ADAPTIVE_REVIEW_TRANSPORT",
+  "technicalRepair": "ADDITIVE_NATURAL_DOCUMENT_TOPICS_TERRITORIAL_SOURCE_SCOPE_AND_TYPED_PDF_LIMIT_DIAGNOSTICS",
   "qualification": {
-    "offlineChecksPassed": 1832,
+    "offlineChecksPassed": 1843,
     "interfaceChecksPassed": 58,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 191,
+    "noNetworkRuntimeFiles": 192,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions119": 0,
-    "ownRealInternalModelCalls119": 0,
-    "savedOriginalPDFReadings": 8,
+    "ownRealUIQuestions120": 0,
+    "ownRealInternalModelCalls120": 0,
+    "savedOriginalPDFReadings": 12,
+    "publicOperationalOriginalReadings": 2,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
     "controlledSpeedComparison": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "PENDING119_OWN_REAL_ACCEPTANCE_118_REPORT_VERSIONED_SEPARATELY",
+  "manualLiveAcceptance": "PENDING120_OWN_REAL_ACCEPTANCE_REPORT119_SEPARATE",
   "lastRealBattery": {
-    "version": "0.7.118-beta",
+    "version": "0.7.119-beta",
     "plannedInputs": 6,
     "submissions": 6,
     "notExecuted": 0,
     "resubmissions": 0,
-    "finalAnswers": 5,
-    "usefulScopedAnswers": 2,
+    "finalAnswers": 6,
+    "usefulScopedAnswers": 3,
     "partialAnswers": 3,
-    "failedWithoutFinalAnswer": 1,
+    "failedWithoutFinalAnswer": 0,
     "allCasesPass": false,
-    "modelCallAttempts": 40,
-    "callsWithUsage": 39,
-    "usageUnavailableCalls": 1,
-    "terminalFailureCode": "PROVIDER_TIMEOUT",
+    "modelCallAttempts": 33,
+    "callsWithUsage": 33,
+    "usageUnavailableCalls": 0,
+    "terminalFailureCode": null,
     "notInvoice": true,
     "balanceRead": false,
     "topUpPerformedByThisWork": false,
     "humanClinicalValidation": false,
-    "assessment": "SCOPED_INTERNAL_AI_ASSISTED_NOT_HUMAN_CLINICAL_REVIEW"
+    "assessment": "NATURAL_COUNTER_QUESTIONS_SCOPED_INTERNAL_AI_ASSISTED_NOT_HUMAN_CLINICAL_REVIEW"
   },
   "website": {
-    "publication": 97,
-    "snapshot": "2026-10-31-r63",
+    "publication": 98,
+    "snapshot": "2026-10-31-r64",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -105,9 +106,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-10-31-01",
-    "revision": "1.17",
-    "appReference": "0.7.119-beta"
+    "id": "ALG-CLIN-2026-10-31-02",
+    "revision": "1.18",
+    "appReference": "0.7.120-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -125,7 +126,7 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.119-beta",
+    "version": "0.7.120-beta",
     "state": "RESTRICTED_CORRECTIVE_BETA",
     "sourceAndImageVerified": true,
     "ownRealReplay": false,
@@ -193,21 +194,14 @@
     "localRepairTask": "CONCISE_REPLACEMENT_FULL_EVIDENCE_FRESH_WHOLE_REVIEW",
     "losslessContextSharing": "COMPOSER_REPAIR_AND_CRITIC_EXACT_REVERSIBLE_VALUES",
     "actual119SavingsMeasured": false,
-    "reviewTransport": "CONTRACT_SCALED_WITHIN_EXISTING_REQUEST_DEADLINE_NO_RETRY"
+    "reviewTransport": "CONTRACT_SCALED_WITHIN_EXISTING_REQUEST_DEADLINE_NO_RETRY",
+    "actual120SavingsMeasured": false
   },
   "availability": {
-    "access": "OWNER_REVIEW",
-    "payments": "INACTIVE",
-    "modelBackedAnswers108": "NOT_REPLAYED",
-    "historical106Answers": "MIXED_ONE_SCOPED_ONE_PARTIAL_FOUR_UNRESOLVED_MAIN_QUESTIONS",
-    "modelBackedAnswers109": "NOT_REPLAYED",
-    "historical108Answers": "TWO_SCOPED_ONE_LOCAL_PARTIAL_THREE_FAILED",
-    "modelBackedAnswers114": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
-    "historical113Answers": "THREE_SCOPED_THREE_PARTIAL_FOUR_UNUSABLE",
-    "modelBackedAnswers116": "LATEST_INPUT_FAILED_PROVIDER_QUOTA_EXHAUSTED",
-    "historical114Answers": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
-    "modelBackedAnswers118": "FIVE_FINAL_TWO_USEFUL_SCOPED_THREE_PARTIAL_ONE_REVIEW_TIMEOUT",
-    "modelBackedAnswers119": "NOT_RUN_OWN_REAL_ACCEPTANCE_PENDING"
+    "modelBackedAnswers120": "NOT_RUN_OWN_REAL_ACCEPTANCE_PENDING",
+    "latestRealVersion119": "SIX_FINAL_THREE_USEFUL_SCOPED_THREE_PARTIAL",
+    "futureAvailabilityGuaranteed": false,
+    "paymentsActive": false
   },
   "postBattery107Candidate": {
     "state": "NO_GO_NOT_DEPLOYED",
@@ -242,29 +236,30 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "lastObservedState": "FIVE_118_FINAL_ANSWERS_AND_ONE_REVIEW_TIMEOUT",
-    "observedOnVersion": "0.7.118-beta",
-    "callsWithUsage": 39,
-    "failedAttemptWithoutUsage": 1,
+    "lastObservedState": "SIX_119_FINAL_ANSWERS_THREE_USEFUL_THREE_PARTIAL",
+    "observedOnVersion": "0.7.119-beta",
+    "callsWithUsage": 33,
+    "failedAttemptWithoutUsage": 0,
     "topUpPerformedByThisWork": false,
     "balanceRead": false,
     "nextAnswerAvailabilityGuaranteed": false,
-    "own119ProviderProbe": false
+    "own120ProviderProbe": false
   },
   "latestCandidate": {
-    "version": "0.7.119-beta",
+    "version": "0.7.120-beta",
     "state": "DEPLOYED_RESTRICTED_CORRECTIVE_OWN_REAL_ACCEPTANCE_PENDING",
     "behavioralFixesImplemented": true,
     "ownRealQuestions": 0
   },
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.119-beta",
-    "SBOMApplicationVersion": "0.7.119-beta",
+    "currentApplicationVersion": "0.7.120-beta",
+    "SBOMApplicationVersion": "0.7.120-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
-    "frozen118Preserved": true
+    "frozen118Preserved": true,
+    "frozen119Preserved": true
   },
   "metadataCandidate115Preserved": true,
   "historicalLastRealBattery114Before116Replay": {
@@ -352,11 +347,78 @@
     "Third-party access blocks,rights,TLS/network andunavailable bodies remain possible",
     "No general counter acceptance,FarmAI parity orhuman clinical validation"
   ],
-  "openGaps119": [
+  "historical119Qualification": {
+    "offlineChecksPassed": 1832,
+    "interfaceChecksPassed": 58,
+    "offlineSkipped": 0,
+    "noNetworkRuntimeFiles": 191,
+    "sourceAndImageVerified": true,
+    "productionStartupAndOwnerReviewReadBack": true,
+    "ownRealUIQuestions119": 0,
+    "ownRealInternalModelCalls119": 0,
+    "savedOriginalPDFReadings": 8,
+    "humanClinicalValidation": false,
+    "generalRepeatabilityEstablished": false,
+    "controlledSpeedComparison": false,
+    "SLAEstablished": false
+  },
+  "historicalRealBattery118BeforeSixNatural119": {
+    "version": "0.7.118-beta",
+    "plannedInputs": 6,
+    "submissions": 6,
+    "notExecuted": 0,
+    "resubmissions": 0,
+    "finalAnswers": 5,
+    "usefulScopedAnswers": 2,
+    "partialAnswers": 3,
+    "failedWithoutFinalAnswer": 1,
+    "allCasesPass": false,
+    "modelCallAttempts": 40,
+    "callsWithUsage": 39,
+    "usageUnavailableCalls": 1,
+    "terminalFailureCode": "PROVIDER_TIMEOUT",
+    "notInvoice": true,
+    "balanceRead": false,
+    "topUpPerformedByThisWork": false,
+    "humanClinicalValidation": false,
+    "assessment": "SCOPED_INTERNAL_AI_ASSISTED_NOT_HUMAN_CLINICAL_REVIEW"
+  },
+  "historical119ProviderAvailability": {
+    "lastObservedState": "FIVE_118_FINAL_ANSWERS_AND_ONE_REVIEW_TIMEOUT",
+    "observedOnVersion": "0.7.118-beta",
+    "callsWithUsage": 39,
+    "failedAttemptWithoutUsage": 1,
+    "topUpPerformedByThisWork": false,
+    "balanceRead": false,
+    "nextAnswerAvailabilityGuaranteed": false,
+    "own119ProviderProbe": false
+  },
+  "historical119Availability": {
+    "access": "OWNER_REVIEW",
+    "payments": "INACTIVE",
+    "modelBackedAnswers108": "NOT_REPLAYED",
+    "historical106Answers": "MIXED_ONE_SCOPED_ONE_PARTIAL_FOUR_UNRESOLVED_MAIN_QUESTIONS",
+    "modelBackedAnswers109": "NOT_REPLAYED",
+    "historical108Answers": "TWO_SCOPED_ONE_LOCAL_PARTIAL_THREE_FAILED",
+    "modelBackedAnswers114": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
+    "historical113Answers": "THREE_SCOPED_THREE_PARTIAL_FOUR_UNUSABLE",
+    "modelBackedAnswers116": "LATEST_INPUT_FAILED_PROVIDER_QUOTA_EXHAUSTED",
+    "historical114Answers": "ONE_MAIN_SCOPE_USEFUL_TWO_PARTIAL_THREE_NO_SUBSTANTIVE_OUTCOMES",
+    "modelBackedAnswers118": "FIVE_FINAL_TWO_USEFUL_SCOPED_THREE_PARTIAL_ONE_REVIEW_TIMEOUT",
+    "modelBackedAnswers119": "NOT_RUN_OWN_REAL_ACCEPTANCE_PENDING"
+  },
+  "historical119OpenGapsBeforeNaturalQuestions": [
     "No own119 real-answer orprofessional acceptance",
     "Provider timeout remains possible despite adaptive contract-scaled transport time",
     "One failed118 call has unavailable usage; known estimate is not the invoice",
     "Source currentness,rights,access andunavailable bodies remain possible",
     "No general counter acceptance,FarmAI parity orhuman clinical validation"
+  ],
+  "openGaps120": [
+    "No own120real-answer or professional acceptance",
+    "Ordinary partial dispensing unresolved in applicable legal scope",
+    "80pagePDFceiling retained;164pageFOFIbook remains outside runtime reader scope",
+    "Local operational sources do not establish national coverage or user-territory applicability",
+    "Currentness,source access,repeated paraphrased limits andclinical human validation remain open"
   ]
 }
