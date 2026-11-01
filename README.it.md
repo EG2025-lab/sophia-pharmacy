@@ -47,3 +47,6 @@ Nel lavoro di sviluppo utilizziamo [ToolUniverse](https://github.com/mims-harvar
 Non inserire dati di pazienti, credenziali o materiale riservato in issue, discussioni o contributi pubblici. [Informativa privacy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/privacy.html).
 
 La supervisione operativa è aggiornata separatamente dall’app. Il [riesame dello stato](docs/STATUS.md#current-operational-reference) documenta riferimenti di versione, consolidamento degli avvisi e copia da riesaminare, senza aumentare i voti di maturità.
+
+
+**Gate linguaggio e processo — 1 novembre 2026: NO-GO.** Beta137: il nuovo gate di linguaggio e processo non è superato.30.000 combinazioni interne,10.000 per dominio:21.166 PASS e8.834 FAIL secondo gli oracle tecnici. Sono combinazioni di300 formulazioni con contesti, riferimenti e modalità diverse, non30.000 risposte AI o parafrasi indipendenti. Emergono lacune in parafrasi e riferimenti AIFA, negazioni, bisogni clinici e un falso blocco di una domanda normativa. Gli indizi sono incompleti: un FAIL non dimostra una risposta reale sbagliata.2.002 regressioni Python e57 test UI del nuovo comando superati;0nuove risposte del modello. Fase successiva ferma, nessun nuovo rilascio dell’app o cambiamento dei bridge.
