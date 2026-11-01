@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-01",
-  "appVersion": "0.7.137-beta",
+  "appVersion": "0.7.138-beta",
   "publicAppAccess": false,
-  "technicalRepair": "TEN_SHARED_DOCUMENT_QUESTION_FAMILIES_NOT_CANNED_ANSWERS",
+  "technicalRepair": "SCOPED_LANGUAGE_NEEDS_REFERENCES_DOCUMENTARY_OBJECT_AND_LEGAL_VERSION_CONTRACTS",
   "qualification": {
-    "offlineChecksPassed": 2002,
-    "interfaceChecksPassed": 58,
+    "offlineChecksPassed": 2023,
+    "interfaceChecksPassed": 57,
     "offlineSkipped": 0,
-    "naturalFormulations": 50,
-    "families": 10,
-    "familyChecksPassed": 200,
-    "baseline135SameOraclePassed": 83,
-    "noNetworkRuntimeFiles": 199,
+    "languageCases": 30000,
+    "languageCasesPassed": 30000,
+    "languageChecksPassed": 315600,
+    "corpusBaseFormulations": 300,
+    "independentParaphrases": false,
+    "noNetworkRuntimeFiles": 200,
     "sourceAndImageVerified": true,
     "ownRealUIQuestions": 0,
     "modelBackedRequests": 0,
@@ -50,8 +51,8 @@
     "notInvoice": true
   },
   "website": {
-    "publication": 111,
-    "snapshot": "2026-11-01-r77",
+    "publication": 112,
+    "snapshot": "2026-11-01-r78",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -113,9 +114,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-01-13",
-    "revision": "1.32",
-    "appReference": "0.7.137-beta"
+    "id": "ALG-CLIN-2026-11-01-14",
+    "revision": "1.33",
+    "appReference": "0.7.138-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -133,8 +134,8 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.133-beta",
-    "state": "RESTRICTED_BETA_TECHNICALLY_QUALIFIED_OWN_REAL_ACCEPTANCE_PENDING",
+    "version": "0.7.138-beta",
+    "state": "RESTRICTED_BETA_LANGUAGE_GATE_PASS_READY_FOR_REAL_TESTS",
     "sourceAndImageVerified": true,
     "ownRealReplay": false,
     "rollbackRetained": true,
@@ -211,7 +212,7 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.133-beta",
+    "observedOnVersion": "0.7.138-beta",
     "newRealQuestions": 0,
     "futureAvailabilityGuaranteed": false,
     "paymentsActive": false
@@ -259,8 +260,8 @@
   "latestCandidate": null,
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.133-beta",
-    "SBOMApplicationVersion": "0.7.133-beta",
+    "currentApplicationVersion": "0.7.138-beta",
+    "SBOMApplicationVersion": "0.7.138-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
@@ -1038,6 +1039,48 @@
     "engine134ByteContinuityVerified": true
   },
   "latestInternalLanguageGate": {
+    "version": "0.7.138-beta",
+    "cases": 30000,
+    "passed": 30000,
+    "failed": 0,
+    "byDomain": {
+      "aifa": {
+        "passed": 10000,
+        "failed": 0
+      },
+      "normativa": {
+        "passed": 10000,
+        "failed": 0
+      },
+      "clinical": {
+        "passed": 10000,
+        "failed": 0
+      }
+    },
+    "gate": "PASS_INTERNAL_ONLY",
+    "same137CorpusAndOracle": true,
+    "modelQuestions": 0,
+    "generatedAnswerAccuracyMeasured": false,
+    "readyForRealTests": true
+  },
+  "historical137Before138Qualification": {
+    "offlineChecksPassed": 2002,
+    "interfaceChecksPassed": 58,
+    "offlineSkipped": 0,
+    "naturalFormulations": 50,
+    "families": 10,
+    "familyChecksPassed": 200,
+    "baseline135SameOraclePassed": 83,
+    "noNetworkRuntimeFiles": 199,
+    "sourceAndImageVerified": true,
+    "ownRealUIQuestions": 0,
+    "modelBackedRequests": 0,
+    "modelCallAttempts": 0,
+    "humanClinicalValidation": false,
+    "humanLegalValidation": false,
+    "actualAnswerCoherenceMeasured": false
+  },
+  "historical137LanguageGate": {
     "version": "0.7.137-beta",
     "cases": 30000,
     "passed": 21166,
@@ -1061,5 +1104,14 @@
     "modelQuestions": 0,
     "generatedAnswerAccuracyMeasured": false,
     "nextPhaseStarted": false
-  }
+  },
+  "historicalPre138DeploymentMetadata": {
+    "version": "0.7.133-beta",
+    "state": "RESTRICTED_BETA_TECHNICALLY_QUALIFIED_OWN_REAL_ACCEPTANCE_PENDING",
+    "sourceAndImageVerified": true,
+    "ownRealReplay": false,
+    "rollbackRetained": true,
+    "ownRealFinalAnswers": 0
+  },
+  "privacyPolicyVersion": "privacy-professional-identifiers-28"
 }
