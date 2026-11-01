@@ -28,3 +28,6 @@ Navigation statistics are separate, enabled by default with footer opt-out and e
 Owner access uses ChatGPT sign-in, not a separate SOPHIA password. The private dashboard and exports require server-side owner authorisation. Survey records and contact details are not public files. See the [current privacy notice](https://sophia-pharmacy.enricogiuliano.chatgpt.site/privacy).
 
 Do not submit patient data, credentials or confidential third-party material. Public findings require appropriately aggregated, non-identifying reporting. The 20-question professional evaluation remains a separate proposal; technical engineering batteries do not complete it. [Status and limits](STATUS.md).
+
+
+**Language and process gate — 1 November 2026: NO-GO.** Beta137: the new language and process gate has not passed.30,000internal combinations,10,000per domain:21,166PASS and8,834FAIL against technical oracles. These combine300formulations with contexts, references and task modes, not30,000AI answers or independent paraphrases. Gaps concern AIFA paraphrases/references, negation, clinical needs and a false block of a legal-document question. Cues are incomplete: a FAIL does not prove a wrong real answer.2,002Python regressions and57UI tests under the new command passed;0new model answers. Next phase held, no new app release or bridge change.
