@@ -1,5 +1,13 @@
 # SOPHIA
 
+Beta 139 online. Nuovi 10.000 casi AIFA e 180.400 controlli interni superati; 2.031 Python e 57 UI. Dieci nuove prove reali AIFA: nove risposte consegnate, sei utili nel quesito, tre parziali, un errore API. Candidata 140 NON pubblicata: confronto obbligatorio RCP/FI e percorso web EAN, 2.050 Python/57 UI e 10.000 confini tecnici superati; nessuna propria prova reale. Errore di schema API ancora aperto. Nessuna validazione clinica.
+
+[Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence (historical)
+
 La beta distribuita è **0.7.138-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
 
 137 riconosce dieci famiglie documentali: indicazioni, composizione, dosi/durata, modalità d’uso, conservazione/scadenza, controindicazioni/precauzioni, interazioni, popolazioni particolari, effetti indesiderati e dose dimenticata/eccessiva. Contesto, selezione delle sezioni, sintesi e controlloAI condividono gli stessi indizi incompleti; non sono risposte precompilate, identità o prove cliniche. **2.002regressioni offline e58UI superate.50formulazioni naturali passano200controlli interni, contro83sulla135con lo stesso oracle finale.** È un confronto tecnico di riconoscimento e routing, non coerenza reale o accuratezza clinica.0nuove domande reali; accettazione professionale e vecchi feedback specifici restano aperti. Bridge, configurazione modelli, accessi, pagamenti e UI135preservati; metodo esplicativo1.32aggiornato. Nessun addestramento dei pesi.
