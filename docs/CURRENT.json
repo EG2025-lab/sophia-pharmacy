@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-01",
-  "appVersion": "0.7.143-beta",
+  "reviewedAt": "2026-11-02",
+  "appVersion": "0.7.145-beta",
   "publicAppAccess": false,
-  "technicalRepair": "GENERAL_BOUND_RCP_PIL_VISIBLE_LIMIT_AND_LITERAL_SHARED_LEAFLET_READING",
+  "technicalRepair": "AIFA_DOCUMENT_BOUND_COMPARISONS_AND_DURABLE_OBSERVED_PROGRESS",
   "qualification": {
-    "offlineChecksPassed": 2077,
-    "interfaceChecksPassed": 57,
+    "offlineChecksPassed": 2090,
+    "interfaceChecksPassed": 64,
     "internalCasesPassed": 54000,
     "internalChecksPassed": 540350,
     "independentParaphrases": false,
     "ownRealUIQuestions": 10,
-    "finalResponsesDelivered": 9,
+    "finalResponsesDelivered": 8,
     "usefulScoped": 8,
-    "partial": 1,
-    "failed": 1,
+    "partial": 0,
+    "failed": 2,
     "humanClinicalValidation": false,
     "allRealTestsPassed": false
   },
   "manualLiveAcceptance": "COMPLETED_SCOPED_AI_ASSISTED_PROFESSIONAL_ACCEPTANCE_PENDING",
   "lastRealBattery": {
-    "version": "0.7.143-beta",
+    "version": "0.7.145-beta",
     "submissions": 10,
-    "aifa": 7,
-    "normativa": 2,
-    "clinical": 1,
-    "delivered": 9,
+    "aifa": 10,
+    "normativa": 0,
+    "clinical": 0,
+    "delivered": 8,
     "usefulScoped": 8,
-    "partial": 1,
-    "failed": 1,
-    "review": "AI_ASSISTED_NOT_HUMAN_CLINICAL_VALIDATION"
+    "partial": 0,
+    "failed": 2,
+    "review": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT_PROFESSIONAL_VALIDATION"
   },
   "website": {
-    "publication": 114,
-    "snapshot": "2026-11-01-r80",
+    "publication": 115,
+    "snapshot": "2026-11-02-r81",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -95,9 +95,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-01-19",
-    "revision": "1.38",
-    "appReference": "0.7.143-beta"
+    "id": "ALG-CLIN-2026-11-02-01",
+    "revision": "1.39",
+    "appReference": "0.7.145-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -115,12 +115,12 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.143-beta",
-    "state": "RESTRICTED_BETA_FINAL_BATCH_COMPLETE_SCOPED",
+    "version": "0.7.145-beta",
+    "state": "RESTRICTED_BETA_TEN_AIFA_COMPLETE_SCOPED",
+    "runtimeFilesVerified": 206,
     "sourceAndImageVerified": true,
-    "runtimeFilesVerified": 203,
     "ownRealReplay": true,
-    "ownRealFinalAnswers": 9,
+    "ownRealFinalAnswers": 8,
     "rollbackRetained": true
   },
   "currentVersionRealModelTests": 10,
@@ -194,10 +194,10 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.143-beta",
+    "observedOnVersion": "0.7.145-beta",
     "ownRealQuestions": 10,
-    "newRealQuestions": 6,
-    "replayedAuthorizedQuestions": 4,
+    "newRealQuestions": 10,
+    "replayedAuthorizedQuestions": 0,
     "paymentsActive": false,
     "futureAvailabilityGuaranteed": false
   },
@@ -234,22 +234,21 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "observedOnVersion": "0.7.143-beta",
-    "state": "TEN_CASE_SAMPLE_COMPLETED_SEE_OUTCOMES",
-    "historical139ExactRejectedSchemaRetained": false,
-    "historical139ExactCauseProved": false,
+    "observedOnVersion": "0.7.145-beta",
+    "ownRealQuestions": 10,
+    "delivered": 8,
     "futureAvailabilityGuaranteed": false
   },
   "latestCandidate": {
-    "version": "0.7.144-beta",
+    "version": "0.7.146-beta",
     "state": "RC_NO_GO_NOT_PUBLISHED",
-    "governanceOnly": true,
+    "governanceOnly": false,
     "ownRealTests": 0
   },
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.143-beta",
-    "SBOMApplicationVersion": "0.7.143-beta",
+    "currentApplicationVersion": "0.7.145-beta",
+    "SBOMApplicationVersion": "0.7.145-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
@@ -1027,7 +1026,7 @@
     "engine134ByteContinuityVerified": true
   },
   "latestInternalLanguageGate": {
-    "version": "0.7.143-beta",
+    "version": "0.7.145-beta",
     "cases": 54000,
     "passed": 54000,
     "checks": 540350,
@@ -1269,5 +1268,70 @@
     "newRealQuestions": 0,
     "currentModelAcceptanceMeasured": false,
     "knownOutputSchemaErrorRemainsOpen": true
+  },
+  "historicalPre145_qualification": {
+    "offlineChecksPassed": 2077,
+    "interfaceChecksPassed": 57,
+    "internalCasesPassed": 54000,
+    "internalChecksPassed": 540350,
+    "independentParaphrases": false,
+    "ownRealUIQuestions": 10,
+    "finalResponsesDelivered": 9,
+    "usefulScoped": 8,
+    "partial": 1,
+    "failed": 1,
+    "humanClinicalValidation": false,
+    "allRealTestsPassed": false
+  },
+  "historicalPre145_lastRealBattery": {
+    "version": "0.7.143-beta",
+    "submissions": 10,
+    "aifa": 7,
+    "normativa": 2,
+    "clinical": 1,
+    "delivered": 9,
+    "usefulScoped": 8,
+    "partial": 1,
+    "failed": 1,
+    "review": "AI_ASSISTED_NOT_HUMAN_CLINICAL_VALIDATION"
+  },
+  "historicalPre145_deployment": {
+    "version": "0.7.143-beta",
+    "state": "RESTRICTED_BETA_FINAL_BATCH_COMPLETE_SCOPED",
+    "sourceAndImageVerified": true,
+    "runtimeFilesVerified": 203,
+    "ownRealReplay": true,
+    "ownRealFinalAnswers": 9,
+    "rollbackRetained": true
+  },
+  "historicalPre145_availability": {
+    "observedOnVersion": "0.7.143-beta",
+    "ownRealQuestions": 10,
+    "newRealQuestions": 6,
+    "replayedAuthorizedQuestions": 4,
+    "paymentsActive": false,
+    "futureAvailabilityGuaranteed": false
+  },
+  "historicalPre145_latestInternalLanguageGate": {
+    "version": "0.7.143-beta",
+    "cases": 54000,
+    "passed": 54000,
+    "checks": 540350,
+    "gate": "PASS_INTERNAL_ONLY",
+    "independentParaphrases": false,
+    "realQuestionsInInternalGate": 0
+  },
+  "historicalPre145_latestCandidate": {
+    "version": "0.7.144-beta",
+    "state": "RC_NO_GO_NOT_PUBLISHED",
+    "governanceOnly": true,
+    "ownRealTests": 0
+  },
+  "historicalPre145_providerAvailability": {
+    "observedOnVersion": "0.7.143-beta",
+    "state": "TEN_CASE_SAMPLE_COMPLETED_SEE_OUTCOMES",
+    "historical139ExactRejectedSchemaRetained": false,
+    "historical139ExactCauseProved": false,
+    "futureAvailabilityGuaranteed": false
   }
 }
