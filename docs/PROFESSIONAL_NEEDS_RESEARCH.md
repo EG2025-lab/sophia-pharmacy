@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Current product reference, 1 November 2026: **124 deployed**, restricted access and payments inactive. More permissive professional privacy policy. Four new real AIFA inputs all admitted: two useful scoped answers (one with web recovery), one partial and one generated-text privacy failure. Candidate **125 not deployed**, 1,920 offline and 58 interface checks, zero own real questions; exact fourth-draft resolution unproved. No controlled speed gain or clinical validation. [Current status](STATUS.md).
+> Current product reference,1November2026: **126deployed**,restricted access and payments inactive. Shared AIFA reading,output privacy diagnostics and request-local reuse. Fourmatchedreplays:three useful scopedanswers,onegeneratedprivacyfailure;PHONE_LIKE/BLOCK_TEXTnowidentified,exactnumberunknown. Candidate **127notdeployed**,1937offline/58interfacechecks,zeroownrealquestions. No general timing guarantee or clinical validation. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 

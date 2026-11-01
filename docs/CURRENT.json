@@ -1,31 +1,33 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-01",
-  "appVersion": "0.7.124-beta",
+  "appVersion": "0.7.126-beta",
   "publicAppAccess": false,
-  "technicalRepair": "SHARED_PROFESSIONAL_PRIVACY_ADMISSION_PUBLIC_REFERENCES_NAMING_AND_ATTRIBUTED_QUOTES",
+  "technicalRepair": "SHARED_AIFA_BRANCH_READER_OUTPUT_PRIVACY_DIAGNOSTICS_REQUEST_LOCAL_REUSE",
   "qualification": {
-    "offlineChecksPassed": 1914,
+    "offlineChecksPassed": 1931,
     "interfaceChecksPassed": 58,
     "offlineSkipped": 0,
     "noNetworkRuntimeFiles": 195,
     "sourceAndImageVerified": true,
     "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions124": 4,
-    "ownRealModelBackedRequests124": 4,
-    "ownRealInternalModelCalls124": 20,
+    "ownRealUIQuestions126": 4,
+    "ownRealModelBackedRequests126": 4,
+    "ownRealInternalModelCalls126": 18,
     "independentCurrentOfficialPDFReadings": 14,
+    "same14PDFHashesAs124": true,
     "syntheticPrivacyFilterCases": 1266,
     "syntheticAdmissibleCasesPassed": 1170,
     "syntheticAdverseCasesBlocked": 96,
     "humanClinicalValidation": false,
     "generalRepeatabilityEstablished": false,
-    "controlledSpeedComparison": false,
+    "matchedSmallReplay": true,
+    "generalSpeedGainEstablished": false,
     "SLAEstablished": false
   },
-  "manualLiveAcceptance": "FOUR_REAL124_ADMITTED_THREE_ANSWERS_ONE_GENERATED_PRIVACY_FAILURE_NOT_GENERAL_ACCEPTANCE",
+  "manualLiveAcceptance": "FOUR_MATCHED126_REPLAYS_THREE_USEFUL_SCOPED_ANSWERS_ONE_OUTPUT_PRIVACY_FAILURE_NOT_GENERAL_ACCEPTANCE",
   "lastRealBattery": {
-    "version": "0.7.124-beta",
+    "version": "0.7.126-beta",
     "plannedInputs": 4,
     "submissions": 4,
     "notExecuted": 0,
@@ -33,27 +35,32 @@
     "modelBackedRequests": 4,
     "privacyAdmissionPass": 4,
     "finalAnswers": 3,
-    "usefulScopedAnswers": 2,
-    "usefulScopedWithWebRecovery": 1,
-    "partialAnswers": 1,
+    "usefulScopedAnswers": 3,
+    "usefulScopedWithWebRecovery": 0,
+    "partialAnswers": 0,
     "failedWithoutFinalAnswer": 1,
     "generatedOutputPrivacyFailures": 1,
     "blockedBeforeInference": 0,
     "allCasesPass": false,
-    "modelCallAttempts": 20,
-    "callsWithUsage": 20,
+    "fullStructuredPairReconciliationPass": false,
+    "modelCallAttempts": 18,
+    "callsWithUsage": 18,
     "usageUnavailableCalls": 0,
+    "inputTokens": 662560,
+    "outputTokens": 10003,
+    "cachedTokens": 39190,
     "notInvoice": true,
     "balanceRead": false,
     "topUpPerformedByThisWork": false,
     "humanClinicalValidation": false,
     "samePublishedVersionForAllFour": true,
     "midBatteryCodeChanges": false,
-    "assessment": "INTERNAL_AI_ASSISTED_DOCUMENTARY_SCOPE;T03USEFUL_CONTENT_WITH_STRUCTURED_READER_GAPS;NOT_FULL_WORKFLOW_PASS"
+    "matchedQuestionsAndPDFHashes": true,
+    "assessment": "INTERNAL_AI_ASSISTED_DOCUMENTARY_SCOPE_THREE_USEFUL_ONE_FAILURE_NOT_FULL_WORKFLOW_PASS"
   },
   "website": {
-    "publication": 102,
-    "snapshot": "2026-11-01-r68",
+    "publication": 103,
+    "snapshot": "2026-11-01-r69",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -115,9 +122,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-01-03",
-    "revision": "1.22",
-    "appReference": "0.7.124-beta"
+    "id": "ALG-CLIN-2026-11-01-05",
+    "revision": "1.24",
+    "appReference": "0.7.126-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -135,7 +142,7 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.124-beta",
+    "version": "0.7.126-beta",
     "state": "RESTRICTED_BETA_MIXED_REAL_OUTCOMES",
     "sourceAndImageVerified": true,
     "ownRealReplay": true,
@@ -207,10 +214,11 @@
     "actual120SavingsMeasured": false,
     "actual121SavingsMeasured": false,
     "actual122SavingsMeasured": false,
-    "actual124SavingsMeasured": false
+    "actual124SavingsMeasured": false,
+    "actual126GeneralSavingsEstablished": false
   },
   "availability": {
-    "modelBackedAnswers124": "THREE_FINAL_ANSWERS_ONE_GENERATED_OUTPUT_PRIVACY_FAILURE",
+    "modelBackedAnswers126": "THREE_USEFUL_SCOPED_ANSWERS_ONE_GENERATED_OUTPUT_PRIVACY_FAILURE",
     "futureAvailabilityGuaranteed": false,
     "paymentsActive": false
   },
@@ -247,28 +255,28 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "lastObservedState": "FOUR124_ADMITTED_THREE_FINAL_ANSWERS_ONE_OUTPUT_PRIVACY_FAILURE",
-    "observedOnVersion": "0.7.124-beta",
-    "callsWithUsage": 20,
+    "lastObservedState": "FOUR126_ADMITTED_THREE_USEFUL_SCOPED_ANSWERS_ONE_OUTPUT_PRIVACY_FAILURE",
+    "observedOnVersion": "0.7.126-beta",
+    "callsWithUsage": 18,
     "nextAnswerAvailabilityGuaranteed": false,
     "balanceRead": false,
     "topUpPerformedByThisWork": false
   },
   "latestCandidate": {
-    "version": "0.7.125-beta",
+    "version": "0.7.127-beta",
     "state": "NO_GO_NOT_DEPLOYED",
     "behavioralFixesImplemented": true,
-    "scope": "ADMINISTRATION_ROUTE_VS_ADDRESS_AND_PUBLIC_CODE_LABEL_GRAMMAR",
+    "scope": "CURRENT_OBSERVED_STRUCTURED_PUBLIC_AIC_REFERENCES_IN_OUTPUT",
     "specificFourthDraftResolutionEstablished": false,
     "discardedFourthDraftRetained": false,
-    "offlineChecksPassed": 1920,
+    "offlineChecksPassed": 1937,
     "interfaceChecksPassed": 58,
     "ownRealQuestions": 0
   },
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.124-beta",
-    "SBOMApplicationVersion": "0.7.124-beta",
+    "currentApplicationVersion": "0.7.126-beta",
+    "SBOMApplicationVersion": "0.7.126-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
@@ -276,7 +284,8 @@
     "frozen119Preserved": true,
     "frozen120Preserved": true,
     "frozen122Preserved": true,
-    "frozen124Preserved": true
+    "frozen124Preserved": true,
+    "frozen126Preserved": true
   },
   "metadataCandidate115Preserved": true,
   "historicalLastRealBattery114Before116Replay": {
@@ -630,7 +639,74 @@
     "Updated balanced magnesium comparison and ordinary partial dispensing from prior battery remain open",
     "Currentness, applicability, general repeatability, independent professional acceptance and human clinical validation remain open"
   ],
-  "openGaps124": [
+  "historical124Before126_qualification": {
+    "offlineChecksPassed": 1914,
+    "interfaceChecksPassed": 58,
+    "offlineSkipped": 0,
+    "noNetworkRuntimeFiles": 195,
+    "sourceAndImageVerified": true,
+    "productionStartupAndOwnerReviewReadBack": true,
+    "ownRealUIQuestions124": 4,
+    "ownRealModelBackedRequests124": 4,
+    "ownRealInternalModelCalls124": 20,
+    "independentCurrentOfficialPDFReadings": 14,
+    "syntheticPrivacyFilterCases": 1266,
+    "syntheticAdmissibleCasesPassed": 1170,
+    "syntheticAdverseCasesBlocked": 96,
+    "humanClinicalValidation": false,
+    "generalRepeatabilityEstablished": false,
+    "controlledSpeedComparison": false,
+    "SLAEstablished": false
+  },
+  "historical124Before126_lastRealBattery": {
+    "version": "0.7.124-beta",
+    "plannedInputs": 4,
+    "submissions": 4,
+    "notExecuted": 0,
+    "resubmissions": 0,
+    "modelBackedRequests": 4,
+    "privacyAdmissionPass": 4,
+    "finalAnswers": 3,
+    "usefulScopedAnswers": 2,
+    "usefulScopedWithWebRecovery": 1,
+    "partialAnswers": 1,
+    "failedWithoutFinalAnswer": 1,
+    "generatedOutputPrivacyFailures": 1,
+    "blockedBeforeInference": 0,
+    "allCasesPass": false,
+    "modelCallAttempts": 20,
+    "callsWithUsage": 20,
+    "usageUnavailableCalls": 0,
+    "notInvoice": true,
+    "balanceRead": false,
+    "topUpPerformedByThisWork": false,
+    "humanClinicalValidation": false,
+    "samePublishedVersionForAllFour": true,
+    "midBatteryCodeChanges": false,
+    "assessment": "INTERNAL_AI_ASSISTED_DOCUMENTARY_SCOPE;T03USEFUL_CONTENT_WITH_STRUCTURED_READER_GAPS;NOT_FULL_WORKFLOW_PASS"
+  },
+  "historical124Before126_providerAvailability": {
+    "lastObservedState": "FOUR124_ADMITTED_THREE_FINAL_ANSWERS_ONE_OUTPUT_PRIVACY_FAILURE",
+    "observedOnVersion": "0.7.124-beta",
+    "callsWithUsage": 20,
+    "nextAnswerAvailabilityGuaranteed": false,
+    "balanceRead": false,
+    "topUpPerformedByThisWork": false
+  },
+  "historical124Before126_availability": {
+    "modelBackedAnswers124": "THREE_FINAL_ANSWERS_ONE_GENERATED_OUTPUT_PRIVACY_FAILURE",
+    "futureAvailabilityGuaranteed": false,
+    "paymentsActive": false
+  },
+  "historical124Before126_deployment": {
+    "version": "0.7.124-beta",
+    "state": "RESTRICTED_BETA_MIXED_REAL_OUTCOMES",
+    "sourceAndImageVerified": true,
+    "ownRealReplay": true,
+    "rollbackRetained": true,
+    "ownRealFinalAnswers": 3
+  },
+  "historical124Before126_openGaps124": [
     "Generated fourth draft rejected asDIRECT_IDENTIFIER/OUTPUT; exact phrase and whether false positive unproven because draft not retained",
     "Rocefin multi-presentation FI/RCP branches not isolated; lidocaine/preparation question incomplete despite source content",
     "TachidolFI and Co-Efferalgan structured branches incomplete; declared official web recovery provides useful scoped content without proving full paired-reader completeness",
@@ -638,5 +714,24 @@
     "Large contexts and generic incomplete-verification boilerplate remain",
     "Updated magnesium comparison and ordinary partial dispensing from prior work remain open",
     "Independent professional acceptance, human clinical validation, currency, applicability and general repeatability remain open"
+  ],
+  "historical124Before126_latestCandidate": {
+    "version": "0.7.125-beta",
+    "state": "NO_GO_NOT_DEPLOYED",
+    "behavioralFixesImplemented": true,
+    "scope": "ADMINISTRATION_ROUTE_VS_ADDRESS_AND_PUBLIC_CODE_LABEL_GRAMMAR",
+    "specificFourthDraftResolutionEstablished": false,
+    "discardedFourthDraftRetained": false,
+    "offlineChecksPassed": 1920,
+    "interfaceChecksPassed": 58,
+    "ownRealQuestions": 0
+  },
+  "openGaps126": [
+    "Fourth generated draft rejected byPHONE_LIKE/BLOCK_TEXTafter3semanticrepairs;exactnumberandfalse-positivecharacterunprovenbecause draftnotretained",
+    "LexicalingredientreconciliationreviewRequiredin two useful comparisons;bounddocuments/sectionsdonot implyfullpairreconciliation",
+    "Semanticreviewstillrequiresunsupportedanduncitedclaimrepairs;noapprovedfourthanswer",
+    "127observed-referencegrammarofflineonly,notdeployedandnorealacceptance",
+    "Smallmatchedreplay,mixedtimings,nogeneralspeed/cost/accuracyclaim",
+    "Updatedmagnesiumcomparison,ordinarypartialdispensing,independentprofessionalacceptance,humanclinicalvalidation,currency/applicabilityandgeneralrepeatabilityremainopen"
   ]
 }
