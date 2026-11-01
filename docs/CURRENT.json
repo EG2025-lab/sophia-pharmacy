@@ -50,8 +50,8 @@
     "notInvoice": true
   },
   "website": {
-    "publication": 110,
-    "snapshot": "2026-11-01-r76",
+    "publication": 111,
+    "snapshot": "2026-11-01-r77",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -1036,5 +1036,30 @@
     "humanClinicalValidation": false,
     "humanLegalValidation": false,
     "engine134ByteContinuityVerified": true
+  },
+  "latestInternalLanguageGate": {
+    "version": "0.7.137-beta",
+    "cases": 30000,
+    "passed": 21166,
+    "failed": 8834,
+    "byDomain": {
+      "aifa": {
+        "passed": 4632,
+        "failed": 5368
+      },
+      "normativa": {
+        "passed": 9810,
+        "failed": 190
+      },
+      "clinical": {
+        "passed": 6724,
+        "failed": 3276
+      }
+    },
+    "gate": "NO_GO",
+    "construction": "300base formulations with context/reference/task combinations; not30000independent paraphrases",
+    "modelQuestions": 0,
+    "generatedAnswerAccuracyMeasured": false,
+    "nextPhaseStarted": false
   }
 }
