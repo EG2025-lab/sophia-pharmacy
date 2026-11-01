@@ -113,9 +113,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-01-12",
-    "revision": "1.31",
-    "appReference": "0.7.133-beta"
+    "id": "ALG-CLIN-2026-11-01-13",
+    "revision": "1.32",
+    "appReference": "0.7.137-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
