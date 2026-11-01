@@ -1,13 +1,15 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.128-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.131-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
 
-128 corrects the reproducible loss of verified public AIFA code context in short answer fields. Original contact and personal-data checks remain. The exact number behind the historical failed draft is unknown because rejected text was not retained. **1,944 offline checks, 58 interface checks and 195 exact image runtime files** passed qualification; bridges, models and access remain unchanged.
+A shared recognizer distinguishes **MinSan, AIC, EAN13 and GTIN14**, preserves complete values and leading zeros, and separates format checks from source-verified package identity. No barcode truncation, digit repair, inferred code crosswalk or model-weight training. AIFA reading adds natural preparation/use and storage topics, preserves wrapped RCP references and qualifies literal composition consensus across duplicate leaflets. Other branch instructions and prescription contexts remain unresolved.
 
-Exactly **ten new real questions — eight AIFA and two Italian pharmacy-law questions —** were submitted once each in five conversations after final 128 publication. An independent oracle, eight catalogue queries, eleven packages and eighteen official PDFs preceded submission. **Nine answers were delivered: six useful within internal scope and three partial; one input was blocked before inference. No new output privacy block.** The partial outcomes concern preparation instructions, quantitative formulation differences and reconciliation of prescription-data sources. Structured AIFA pair reconciliation remains incomplete. All **41 model calls** have known usage. This is a new selected internal set, not a matched speed comparison, accuracy benchmark or professional acceptance.
+Before real testing, **150 plus1,000 distinct targeted internal cases** passed on the exact frozen131 package, along with **1,970 offline regression checks, 58 interface checks and 197 exact image runtime files**. Contrary cases include contacts, wrong strengths, foreign products and discordant compositions. Sixteen official PDFs support internal fixtures. These are finite technical checks, not clinical accuracy or professional validation.
 
-Post-battery **RC 129 is complete and offline-qualified: 1,953 offline and 58 interface checks. It is not deployed, has zero own real questions and remains NO-GO for own real acceptance.** It unifies public-candidate grammar across the question and its clauses and adds natural preparation wording to section selection. It does not establish a real fix of the new cases, solve the shared-leaflet branch, complete quantitative comparison or reconcile legal sources. Report 128 and RC 129 are separately sealed. No eleventh real question, general FarmAI parity, SLA or human clinical/legal validation. FarmAI original GPTs and private Business plugins retain content **0.7.7.155**.
+Exactly **ten new real questions — eight AIFA and two Italian pharmacy-law questions —** were then submitted once each in five conversations, without source changes or resends. **10 answers delivered: 9 useful within internal scope, 1 partial and 0 inputs blocked before inference.** The oracle and preliminary official documents preceded submission. 51 model calls have known usage; not an invoice or general cost claim. New selected questions, not a matched timing comparison or general FarmAI-parity benchmark.
+
+Post-battery **RC 132 is complete and offline-qualified:1977 offline and 58 interface checks. It is not deployed, has zero own real questions and remains NO-GO for own real acceptance.** Report 131 andRC132 are separately sealed. Residual formal-code reporting is corrected locally; this does not establish its real-world resolution. No eleventh real question, no general SLA or human clinical/legal validation. FarmAI original GPTs and private Business plugins retain content **0.7.7.155**.
 
 
 ## Open collaboration opportunities
@@ -58,7 +60,7 @@ Our development work uses **[ToolUniverse](https://github.com/mims-harvard/ToolU
 
 ## Start a conversation
 
-Use **[Let's talk on the SOPHIA website](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners)** to select your areas of interest and prepare an email, or contact **[Enrico Giuliano](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20collaboration)** directly.
+Use **[Let's talk on the SOPHIA website](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners)** to select your areas of interest and prepare an email, or contact **[Enrico Giuliano](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20 collaboration)** directly.
 
 Tell us about your expertise, the question you would like to explore and a realistic first contribution. You can also comment on an opportunity above or help refine the [pilot protocol](pilot/README.md).
 

@@ -1,6 +1,6 @@
 # Professional-needs research
 
-> Current product reference, 1 November 2026: **128 deployed**, restricted access and payments inactive. Ten new real questions: six useful scoped answers, three partial, one input block; no new output privacy block. **129 not deployed**, 1,953 offline/58 interface checks and zero own real questions. Source selection and reconciliation remain open. No general speed guarantee or human clinical/legal validation. [Current status](STATUS.md).
+> Current product reference, 1 November2026:**131 deployed**, restricted access, payments inactive. 150+1000 internal cases PASS; ten new real questions: 10 answers delivered: 9 useful within internal scope, 1 partial and 0 inputs blocked before inference. **132 notdeployed**, offline-only, zero own real questions. No human clinical/legal validation. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.
 

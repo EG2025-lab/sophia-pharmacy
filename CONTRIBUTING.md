@@ -1,5 +1,5 @@
 # Contributing to SOPHIA
-> Current product reference, 1 November 2026: **128 deployed**, restricted access and payments inactive. Ten new real questions: six useful scoped answers, three partial, one input block; no new output privacy block. **129 not deployed**, 1,953 offline/58 interface checks and zero own real questions. Source selection and reconciliation remain open. No general speed guarantee or human clinical/legal validation. [Current status](docs/STATUS.md).
+> Current product reference, 1 November2026:**131 deployed**, restricted access, payments inactive. 150+1000 internal cases PASS; ten new real questions: 10 answers delivered: 9 useful within internal scope, 1 partial and 0 inputs blocked before inference. **132 notdeployed**, offline-only, zero own real questions. No human clinical/legal validation. [Current status](docs/STATUS.md).
 
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**
@@ -37,7 +37,7 @@ Do not commit patient data, credentials, private conversations, source code from
 
 Use issues for a concrete proposal or documentation correction and [Discussions](https://github.com/EG2025-lab/sophia-pharmacy/discussions) for general questions. Be respectful, explain evidence and disagreements, and avoid personal clinical cases. No response time, appointment or partnership is promised.
 
-For a private introduction or a security concern, use [Enrico's email](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20contact) or the [website contact route](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners). Do not post an exploitable vulnerability publicly.
+For a private introduction or a security concern, use [Enrico's email](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20 contact) or the [website contact route](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners). Do not post an exploitable vulnerability publicly.
 
 ## In italiano
 

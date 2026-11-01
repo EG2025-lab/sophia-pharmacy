@@ -1,12 +1,14 @@
 # SOPHIA
 
-La beta distribuita è **0.7.128-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](docs/STATUS.md).
+La beta distribuita è **0.7.131-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](docs/STATUS.md).
 
-128 corregge la perdita riproducibile del contesto dei codici AIFA pubblici verificati nei campi brevi della risposta. Restano i controlli su recapiti e dati personali. Il numero del precedente errore non è noto perché la bozza respinta non è conservata. Superati **1.944 controlli offline, 58 interfaccia e 195 file runtime esatti nell’immagine**; bridge, modelli e accessi invariati.
+Un riconoscitore comune distingue **MinSan, AIC, EAN13 e GTIN14**, conserva valori interi e zeri iniziali e separa il controllo del formato dall’identità della confezione verificata nella fonte. Nessun taglio di barcode, correzione di cifre, associazione dedotta o addestramento dei pesi. Il lettore AIFA unisce preparazione/uso e conservazione, mantiene i rinvii numerati del RCP e qualifica la composizione letteralmente concordante fra foglietti duplicati. Altre istruzioni e contesto prescrittivo dei rami restano non riconciliati.
 
-Eseguite esattamente **dieci nuove domande reali — otto AIFA e due normative —**, un invio ciascuna in cinque conversazioni dopo la pubblicazione della 128 finale. Oracle indipendente, otto controlli di catalogo, undici confezioni e diciotto stampati ufficiali precedono gli invii. **Nove risposte consegnate: sei utili nello scope interno e tre parziali; una domanda bloccata prima dell’inferenza. Nessun nuovo blocco privacy in uscita.** I casi parziali riguardano istruzioni di preparazione, differenze quantitative tra formulazioni e riconciliazione delle fonti sui dati della ricetta. La riconciliazione completa delle coppie AIFA resta aperta. Tutte le **41 chiamate del modello** hanno uso noto. Set nuovo e selezionato, non confronto abbinato dei tempi, benchmark di accuratezza o accettazione professionale.
+Prima delle prove reali, superati **150 più 1.000 casi interni distinti** sull’esatto pacchetto 131 sigillato, oltre a **1.970 regressioni offline, 58 interfaccia e 197 file runtime esatti nell’immagine**. I casi contrari comprendono recapiti, dosaggi errati, prodotti diversi e composizioni discordanti. Sedici PDF ufficiali sostengono le fixture interne. Controlli tecnici su un set finito, non accuratezza clinica o validazione professionale.
 
-La successiva **RC 129 è completa e qualificata offline: 1.953 controlli offline e 58 interfaccia. Non è distribuita, ha zero proprie domande reali e resta NO-GO per l’accettazione reale propria.** Uniforma la grammatica dei candidati pubblici tra domanda e frasi e aggiunge varianti naturali di preparazione alla selezione delle sezioni. Non dimostra la riparazione reale dei nuovi casi, il recupero del ramo condiviso del foglietto, il confronto quantitativo completo o la riconciliazione normativa. Report 128 e RC 129 sigillati separatamente. Nessuna undicesima domanda reale, parità generale FarmAI, SLA o validazione clinica/giuridica umana. FarmAI GPT originali e plugin Business conservano il contenuto **0.7.7.155**.
+Successivamente eseguite esattamente **dieci nuove domande reali — otto AIFA e due normative —**, un invio ciascuna in cinque chat, senza modifiche del sorgente o reinvii. **10 risposte consegnate: 9 utili nello scope interno, 1 parziale e 0 blocchi prima dell’inferenza.** Oracle e documenti ufficiali preliminari precedono gli invii. 51 chiamate del modello con uso noto; non fattura o stima generale dei costi. Domande nuove e selezionate, non confronto abbinato dei tempi o benchmark generale di parità FarmAI.
+
+La successiva **RC 132 è completa e qualificata offline:1977 controlli offline e 58 interfaccia. Non è distribuita, ha zero proprie domande reali e resta NO-GO per l’accettazione reale propria.** Report 131 eRC132 sigillati separatamente. La comunicazione residua del formato dei codici è corretta localmente; la sua risoluzione reale non è dimostrata. Nessuna undicesima domanda, garanzia generale sui tempi o validazione clinica/giuridica umana. FarmAI GPT originali e plugin Business mantengono il contenuto **0.7.7.155**.
 
 
 ### Un collega AI per la conoscenza professionale in farmacia
@@ -36,7 +38,7 @@ Il [pilota di 20 quesiti](pilot/README.md) è una proposta: non è ancora congel
 
 1. Leggi la [guida ai contributi](CONTRIBUTING.md) e scegli una delle opportunità.
 2. [Presenta una proposta](https://github.com/EG2025-lab/sophia-pharmacy/issues/new?template=collaboration.yml) indicando il tuo ruolo e un primo contributo concreto. Puoi scrivere in italiano o in inglese.
-3. Per un contatto riservato, usa [Parliamone sul sito](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners) oppure [scrivi a Enrico](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20collaborazione).
+3. Per un contatto riservato, usa [Parliamone sul sito](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners) oppure [scrivi a Enrico](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20 collaborazione).
 
 ## Stato e confini
 

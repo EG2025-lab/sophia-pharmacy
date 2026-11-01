@@ -1,6 +1,6 @@
 # Collaboration brief
 **SOPHIA · Public starting points · 12 October 2026**
-> Current product reference, 1 November 2026: **128 deployed**, restricted access and payments inactive. Ten new real questions: six useful scoped answers, three partial, one input block; no new output privacy block. **129 not deployed**, 1,953 offline/58 interface checks and zero own real questions. Source selection and reconciliation remain open. No general speed guarantee or human clinical/legal validation. [Current status](docs/STATUS.md).
+> Current product reference, 1 November2026:**131 deployed**, restricted access, payments inactive. 150+1000 internal cases PASS; ten new real questions: 10 answers delivered: 9 useful within internal scope, 1 partial and 0 inputs blocked before inference. **132 notdeployed**, offline-only, zero own real questions. No human clinical/legal validation. [Current status](docs/STATUS.md).
 
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.
@@ -59,7 +59,7 @@ This is an invitation to agree a protocol. Candidate question templates are avai
 
 **Enrico Giuliano · Pharmacist · Founder & Product Lead**
 
-[Select your collaboration interests](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners) · [Email Enrico](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20collaboration)
+[Select your collaboration interests](https://sophia-pharmacy.enricogiuliano.chatgpt.site/#partners) · [Email Enrico](mailto:enrico.giuliano000@gmail.com?subject=SOPHIA%20%E2%80%94%20 collaboration)
 
 For an initial message, please include:
 
