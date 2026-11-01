@@ -71,3 +71,6 @@ SOPHIA is in development. Regulatory assessment and clinical validation are ongo
 Please keep patient data, credentials and confidential material out of public issues, discussions and contributions. The [website privacy notice](https://sophia-pharmacy.enricogiuliano.chatgpt.site/privacy.html) explains contact and waitlist handling.
 
 Operational supervision is maintained separately from the app. The [latest status review](docs/STATUS.md#current-operational-reference) records version binding, alert deduplication and outstanding dated-source review without changing maturity scores.
+
+
+**Language and process gate — 1 November 2026: NO-GO.** Beta137: the new language and process gate has not passed.30,000internal combinations,10,000per domain:21,166PASS and8,834FAIL against technical oracles. These combine300formulations with contexts, references and task modes, not30,000AI answers or independent paraphrases. Gaps concern AIFA paraphrases/references, negation, clinical needs and a false block of a legal-document question. Cues are incomplete: a FAIL does not prove a wrong real answer.2,002Python regressions and57UI tests under the new command passed;0new model answers. Next phase held, no new app release or bridge change.
