@@ -1,24 +1,20 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-01",
-  "appVersion": "0.7.133-beta",
+  "appVersion": "0.7.134-beta",
   "publicAppAccess": false,
-  "technicalRepair": "PERSISTENT_PRODUCT_REFERENCE_NATURAL_FOLLOWUP_AND_AUTHORED_LEAFLET_AUDIENCE_ROLE",
+  "technicalRepair": "ACCOUNT_PERSON_ICONS_UI_ONLY_ENGINE133_BYTE_CONTINUITY",
   "qualification": {
-    "offlineChecksPassed": 1988,
     "interfaceChecksPassed": 58,
-    "additionalTargetedInternalCases": 1150,
-    "additionalTargetedPassed": 1150,
-    "additionalTargetedFailed": 0,
-    "offlineSkipped": 0,
+    "versionReferenceChecksPassed": 9,
     "noNetworkRuntimeFiles": 199,
     "sourceAndImageVerified": true,
+    "engine133ByteContinuityVerified": true,
     "ownRealUIQuestions": 0,
     "modelBackedRequests": 0,
     "modelCallAttempts": 0,
     "humanClinicalValidation": false,
-    "humanLegalValidation": false,
-    "unlimitedConversationMemory": false
+    "humanLegalValidation": false
   },
   "manualLiveAcceptance": "OWN_REAL_ACCEPTANCE_PENDING",
   "lastRealBattery": {
@@ -49,8 +45,8 @@
     "notInvoice": true
   },
   "website": {
-    "publication": 107,
-    "snapshot": "2026-11-01-r73",
+    "publication": 108,
+    "snapshot": "2026-11-01-r74",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -995,5 +991,21 @@
     "Own real answer usefulness, general source reconciliation and professional acceptance pending",
     "History reference retention checked; unlimited full-history model memory not established",
     "Legal applicability,clinical validation,speed/cost andFarmAIparity remain open"
-  ]
+  ],
+  "historical133CurrentQualification": {
+    "offlineChecksPassed": 1988,
+    "interfaceChecksPassed": 58,
+    "additionalTargetedInternalCases": 1150,
+    "additionalTargetedPassed": 1150,
+    "additionalTargetedFailed": 0,
+    "offlineSkipped": 0,
+    "noNetworkRuntimeFiles": 199,
+    "sourceAndImageVerified": true,
+    "ownRealUIQuestions": 0,
+    "modelBackedRequests": 0,
+    "modelCallAttempts": 0,
+    "humanClinicalValidation": false,
+    "humanLegalValidation": false,
+    "unlimitedConversationMemory": false
+  }
 }

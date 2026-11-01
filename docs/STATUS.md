@@ -2,32 +2,16 @@
 
 Reviewed 1 November 2026.
 
-The deployed professional beta is **0.7.133-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.134-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
 
-133 improves natural follow-up questions, persistent product focus and AIFA leaflet reading. The current product reference is separate from the chat inventory and survives the recent-message window; legacy chats receive a bounded chronological upgrade. New identities and source documents are read again. Joint product focus requires clarification, and topic changes or flagged references cannot silently select another medicine. This is not unlimited full-history memory or reuse of old medical facts as current evidence.
-
-An authored standalone audience/age line remains a source condition rather than being mistaken for a pharmaceutical-form qualifier. A local replay of the exact official PDF now binds the leaflet that previously triggered an independent read of the same AIFA PDF. No medicine-specific answer or identity exception was added.
-
-**1,988 offline Python regressions, 58 interface checks and a rerun of the same 150 plus 1,000 internal cases passed** on frozen 133; **199 exact runtime files** were checked in the image without network. No new real question was submitted on 133. These are technical checks, not clinical validation or measured answer usefulness.
-
-A reported historical provider request rejection remains without an established specific parameter cause because that detail was not retained. New failed-request audits preserve only limited status, code and parameter categories, without provider messages, bodies, input text or parameter values. No automatic retry, model change or weight training.
-
-The ten real questions on **131** remain historical: nine useful within internal documentary scope and one partial, with no privacy block in that selected set. Report 131 and RC 132 remain sealed; 133 includes the earlier local format-reporting correction, whose own real acceptance is still pending. Bridges, models, access and FarmAI content **0.7.7.155** are preserved. No human clinical/legal validation, general speed/cost gain, SLA or FarmAI parity established.
+134 gives both account menu entries the same stylized person icon. **58 existing UI checks and 9 version-reference checks passed.** The engines and bridges are byte-identical to 133 except for the app version number; clinical method1.31 and privacy27 are unchanged. No new real model question was submitted. The 1,988 regressions and 1,150 internal cases on133 remain historical evidence, not tests rerun on134. Previous feedback, professional acceptance and human clinical/legal validation remain open.
 
 
 ## In italiano
 
-La beta distribuita è **0.7.133-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Current status](CURRENT.json).
+La beta distribuita è **0.7.134-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
 
-133 migliora le domande successive naturali, il focus persistente del prodotto e la lettura dei FI AIFA. Il riferimento attivo è separato dall’inventario della chat e sopravvive alla finestra dei messaggi recenti; le chat precedenti ricevono un aggiornamento cronologico limitato. Identità e documenti vengono letti nuovamente. Un focus su più prodotti richiede chiarimento; cambi di argomento o riferimenti segnalati non selezionano silenziosamente un altro farmaco. Non è memoria integrale illimitata né riuso di vecchi fatti sanitari come prove attuali.
-
-La riga originale di destinatari/età resta una condizione del documento e viene distinta dai qualificatori della forma farmaceutica. Il replay locale sul medesimo PDF ufficiale lega ora il FI che aveva attivato una lettura indipendente dello stesso PDF AIFA. Nessuna risposta o eccezione di identità per il singolo medicinale.
-
-**1.988 regressioni Python offline, 58 controlli interfaccia e gli stessi 150 più 1.000 casi interni superati** sul sorgente 133 congelato; **199 file runtime esatti** verificati nell’immagine senza rete. Zero nuove domande reali sulla 133. Sono controlli tecnici, non validazione clinica o utilità misurata delle risposte.
-
-Il parametro specifico di un vecchio rifiuto tecnico del provider resta ignoto perché non era conservato. Per le nuove richieste fallite l’audit privato mantiene solo categorie limitate di stato, codice e parametro; niente messaggi o corpi del provider, testo della domanda o valori dei parametri. Nessun retry automatico, cambio modello o addestramento dei pesi.
-
-Le dieci domande reali della **131** restano storiche: nove utili nello scope documentale interno e una parziale, senza blocchi privacy nel set selezionato. Report 131 e RC 132 restano sigillati; la 133 incorpora la precedente correzione locale del formato dei codici, ancora senza accettazione reale propria. Bridge, modelli, accessi e contenuto FarmAI **0.7.7.155** preservati. Nessuna validazione clinica/giuridica umana, accelerazione generale, SLA o parità FarmAI dimostrata.
+134 usa la stessa sagoma stilizzata di persona nelle due voci account. **Superati 58 controlli UI esistenti e 9 controlli del riferimento di versione.** Motori e bridge byte-identici alla133 salvo il numero di versione; metodo clinico1.31 e privacy27 invariati. Zero nuove domande reali al modello. Le1.988regressioni e i1.150casi interni della133 restano prove storiche, non rieseguite sulla134. Feedback precedenti, accettazione professionale e validazione clinica/giuridica umana restano aperti.
 
 
 ## FarmAI continuity

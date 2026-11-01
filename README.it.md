@@ -1,16 +1,8 @@
 # SOPHIA
 
-La beta distribuita è **0.7.133-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Current status](docs/STATUS.md).
+La beta distribuita è **0.7.134-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
 
-133 migliora le domande successive naturali, il focus persistente del prodotto e la lettura dei FI AIFA. Il riferimento attivo è separato dall’inventario della chat e sopravvive alla finestra dei messaggi recenti; le chat precedenti ricevono un aggiornamento cronologico limitato. Identità e documenti vengono letti nuovamente. Un focus su più prodotti richiede chiarimento; cambi di argomento o riferimenti segnalati non selezionano silenziosamente un altro farmaco. Non è memoria integrale illimitata né riuso di vecchi fatti sanitari come prove attuali.
-
-La riga originale di destinatari/età resta una condizione del documento e viene distinta dai qualificatori della forma farmaceutica. Il replay locale sul medesimo PDF ufficiale lega ora il FI che aveva attivato una lettura indipendente dello stesso PDF AIFA. Nessuna risposta o eccezione di identità per il singolo medicinale.
-
-**1.988 regressioni Python offline, 58 controlli interfaccia e gli stessi 150 più 1.000 casi interni superati** sul sorgente 133 congelato; **199 file runtime esatti** verificati nell’immagine senza rete. Zero nuove domande reali sulla 133. Sono controlli tecnici, non validazione clinica o utilità misurata delle risposte.
-
-Il parametro specifico di un vecchio rifiuto tecnico del provider resta ignoto perché non era conservato. Per le nuove richieste fallite l’audit privato mantiene solo categorie limitate di stato, codice e parametro; niente messaggi o corpi del provider, testo della domanda o valori dei parametri. Nessun retry automatico, cambio modello o addestramento dei pesi.
-
-Le dieci domande reali della **131** restano storiche: nove utili nello scope documentale interno e una parziale, senza blocchi privacy nel set selezionato. Report 131 e RC 132 restano sigillati; la 133 incorpora la precedente correzione locale del formato dei codici, ancora senza accettazione reale propria. Bridge, modelli, accessi e contenuto FarmAI **0.7.7.155** preservati. Nessuna validazione clinica/giuridica umana, accelerazione generale, SLA o parità FarmAI dimostrata.
+134 usa la stessa sagoma stilizzata di persona nelle due voci account. **Superati 58 controlli UI esistenti e 9 controlli del riferimento di versione.** Motori e bridge byte-identici alla133 salvo il numero di versione; metodo clinico1.31 e privacy27 invariati. Zero nuove domande reali al modello. Le1.988regressioni e i1.150casi interni della133 restano prove storiche, non rieseguite sulla134. Feedback precedenti, accettazione professionale e validazione clinica/giuridica umana restano aperti.
 
 
 ### Un collega AI per la conoscenza professionale in farmacia

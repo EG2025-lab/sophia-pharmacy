@@ -1,5 +1,10 @@
 # Professional-needs research
 
+The deployed professional beta is **0.7.134-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
+
+134 gives both account menu entries the same stylized person icon. **58 existing UI checks and 9 version-reference checks passed.** The engines and bridges are byte-identical to 133 except for the app version number; clinical method1.31 and privacy27 are unchanged. No new real model question was submitted. The 1,988 regressions and 1,150 internal cases on133 remain historical evidence, not tests rerun on134. Previous feedback, professional acceptance and human clinical/legal validation remain open.
+
+
 > Current product reference, 1 November 2026: **133 deployed**, restricted access, payments inactive. 1,988 offline,58 interface and1,150 internal checks; zero own new real questions. Persistent product references and AIFA reader improved; historical provider error cause remains open. [Current status](STATUS.md).
 
 Reviewed **26 October 2026** against restricted beta **0.7.88** and the actual website flow. This is exploratory, self-selected research, not clinical or market validation.

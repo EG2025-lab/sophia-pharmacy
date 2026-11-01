@@ -1,17 +1,9 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.133-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.134-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
 
-133 improves natural follow-up questions, persistent product focus and AIFA leaflet reading. The current product reference is separate from the chat inventory and survives the recent-message window; legacy chats receive a bounded chronological upgrade. New identities and source documents are read again. Joint product focus requires clarification, and topic changes or flagged references cannot silently select another medicine. This is not unlimited full-history memory or reuse of old medical facts as current evidence.
-
-An authored standalone audience/age line remains a source condition rather than being mistaken for a pharmaceutical-form qualifier. A local replay of the exact official PDF now binds the leaflet that previously triggered an independent read of the same AIFA PDF. No medicine-specific answer or identity exception was added.
-
-**1,988 offline Python regressions, 58 interface checks and a rerun of the same 150 plus 1,000 internal cases passed** on frozen 133; **199 exact runtime files** were checked in the image without network. No new real question was submitted on 133. These are technical checks, not clinical validation or measured answer usefulness.
-
-A reported historical provider request rejection remains without an established specific parameter cause because that detail was not retained. New failed-request audits preserve only limited status, code and parameter categories, without provider messages, bodies, input text or parameter values. No automatic retry, model change or weight training.
-
-The ten real questions on **131** remain historical: nine useful within internal documentary scope and one partial, with no privacy block in that selected set. Report 131 and RC 132 remain sealed; 133 includes the earlier local format-reporting correction, whose own real acceptance is still pending. Bridges, models, access and FarmAI content **0.7.7.155** are preserved. No human clinical/legal validation, general speed/cost gain, SLA or FarmAI parity established.
+134 gives both account menu entries the same stylized person icon. **58 existing UI checks and 9 version-reference checks passed.** The engines and bridges are byte-identical to 133 except for the app version number; clinical method1.31 and privacy27 are unchanged. No new real model question was submitted. The 1,988 regressions and 1,150 internal cases on133 remain historical evidence, not tests rerun on134. Previous feedback, professional acceptance and human clinical/legal validation remain open.
 
 
 ## Open collaboration opportunities
