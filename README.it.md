@@ -1,6 +1,6 @@
 # SOPHIA
 
-La beta distribuita è **0.7.137-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
+La beta distribuita è **0.7.138-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
 
 137 riconosce dieci famiglie documentali: indicazioni, composizione, dosi/durata, modalità d’uso, conservazione/scadenza, controindicazioni/precauzioni, interazioni, popolazioni particolari, effetti indesiderati e dose dimenticata/eccessiva. Contesto, selezione delle sezioni, sintesi e controlloAI condividono gli stessi indizi incompleti; non sono risposte precompilate, identità o prove cliniche. **2.002regressioni offline e58UI superate.50formulazioni naturali passano200controlli interni, contro83sulla135con lo stesso oracle finale.** È un confronto tecnico di riconoscimento e routing, non coerenza reale o accuratezza clinica.0nuove domande reali; accettazione professionale e vecchi feedback specifici restano aperti. Bridge, configurazione modelli, accessi, pagamenti e UI135preservati; metodo esplicativo1.32aggiornato. Nessun addestramento dei pesi.
 
@@ -50,3 +50,6 @@ La supervisione operativa è aggiornata separatamente dall’app. Il [riesame de
 
 
 **Gate linguaggio e processo — 1 novembre 2026: NO-GO.** Beta137: il nuovo gate di linguaggio e processo non è superato.30.000 combinazioni interne,10.000 per dominio:21.166 PASS e8.834 FAIL secondo gli oracle tecnici. Sono combinazioni di300 formulazioni con contesti, riferimenti e modalità diverse, non30.000 risposte AI o parafrasi indipendenti. Emergono lacune in parafrasi e riferimenti AIFA, negazioni, bisogni clinici e un falso blocco di una domanda normativa. Gli indizi sono incompleti: un FAIL non dimostra una risposta reale sbagliata.2.002 regressioni Python e57 test UI del nuovo comando superati;0nuove risposte del modello. Fase successiva ferma, nessun nuovo rilascio dell’app o cambiamento dei bridge.
+
+
+**Versione138 pronta per i test reali.** Beta138: corrette le cause generali del gate di linguaggio e processo. Lo stesso corpus137 passa da21.166a30.000casi superati su30.000:10.000AIFA,10.000Normativa,10.000Clinical Evidence;315.600controlli PASS. Sono combinazioni di300formulazioni con contesti e modalità,non30.000risposteAI o parafrasi indipendenti.2.023regressioni Python e57UI PASS. Migliorati ambito delle negazioni,bisogni e riferimenti,oggetto documentale e versioni normative. Privacy28 e metodo1.33;stessi bridge e modelli. Pronta per test reali:0nuove risposte generate,qualità e utilità ancora da misurare. Il PASS tecnico non prova ogni variante possibile o validazione clinica/giuridica.
