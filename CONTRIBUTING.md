@@ -1,5 +1,5 @@
 # Contributing to SOPHIA
-> Current product reference, 1 November 2026: **122 deployed**, restricted access and payments inactive. Four real AIFA questions: one useful scoped answer, one partial, one engine failure and one false privacy block. Candidate **123 not deployed**, 1,893 offline checks and 58 interface checks, zero own real questions. No controlled speed gain or clinical validation. [Current status](docs/STATUS.md).
+> Current product reference, 1 November 2026: **124 deployed**, restricted access and payments inactive. More permissive professional privacy policy. Four new real AIFA inputs all admitted: two useful scoped answers (one with web recovery), one partial and one generated-text privacy failure. Candidate **125 not deployed**, 1,920 offline and 58 interface checks, zero own real questions; exact fourth-draft resolution unproved. No controlled speed gain or clinical validation. [Current status](docs/STATUS.md).
 
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**
