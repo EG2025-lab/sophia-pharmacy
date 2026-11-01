@@ -1,5 +1,13 @@
 # SOPHIA status and evaluation
 
+Beta 143 is deployed. Following two focused batches and general RCP/PIL comparison and shared-leaflet heading repairs, 54,000 internal cases and 540,350 checks passed; 2,077 Python and 57 UI. Synthetic protocols and regressions, not 54,000 independent questions or AI answers. Six new grammar errors were fixed and the same 3,000-case corpus now passes unchanged expected outcomes. Ten final real tests: 9 delivered answers; 8 useful within scope, 1 partial and 1 failed, assessed internally with AI assistance. Technical reading, scoped usefulness and professional validation remain distinct. Governance candidate 144 is not deployed; no human clinical validation.
+
+[Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence (historical)
+
 Beta 139 is live. New 10,000-case AIFA corpus and 180,400 internal checks passed; 2,031 Python and 57 UI. Ten new real AIFA tests: nine delivered answers, six useful within scope, three partial and one API error. Candidate 140 is NOT deployed: mandatory RCP/PIL comparison and EAN product-web path, with 2,050 Python/57 UI and 10,000 boundary cases passed; no own real test. API schema error remains open. No clinical validation.
 
 [Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
