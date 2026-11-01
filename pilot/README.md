@@ -84,3 +84,6 @@ Introduce yourself in the **[pilot discussion](https://github.com/EG2025-lab/sop
 Please share your role, relevant public experience, the workstream that interests you and a small first contribution. Participation, access to restricted beta material, publication credit and any commercial or research terms must be agreed separately. No institutional partnership, funding, compensation or outcome is promised by this invitation.
 
 Keep patient data, credentials and confidential material out of public comments. Source permissions must be checked individually; a public link does not permit unrestricted redistribution of its contents.
+
+
+**Language and process gate — 1 November 2026: NO-GO.** Beta137: the new language and process gate has not passed.30,000internal combinations,10,000per domain:21,166PASS and8,834FAIL against technical oracles. These combine300formulations with contexts, references and task modes, not30,000AI answers or independent paraphrases. Gaps concern AIFA paraphrases/references, negation, clinical needs and a false block of a legal-document question. Cues are incomplete: a FAIL does not prove a wrong real answer.2,002Python regressions and57UI tests under the new command passed;0new model answers. Next phase held, no new app release or bridge change.
