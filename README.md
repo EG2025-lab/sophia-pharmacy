@@ -1,13 +1,13 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.121-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.122-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
 
-Ten new natural counter questions were submitted once each on **120**. Ten final responses were delivered: **six useful within the internally assessed scope, two partial and two without the requested facts**. No engine timeout was observed. A safe abstention or delivered response is not a complete answer PASS. Full transcripts and primary-source comparisons are retained; this is not human clinical validation.
+Exactly **four new real AIFA questions** were submitted once each on **122**: **one useful documentary answer in the assessed scope, one partial answer with package-identity and structured-reader gaps, one engine failure without a final answer, and one erroneous privacy rejection before inference**. Two final answers were delivered. Fourteen current official AIFA PDFs were independently reread against a frozen oracle. This is internal AI-assisted assessment, not human clinical validation.
 
-**121** adds natural opening/refrigerator/expiry document topics, two reviewed national administrative publishers with distinct document roles, and neutral FI/RCP titles for official AIFA PDFs. **1,855 offline checks, 58 interface checks, 19 original-PDF readings and two national administrative originals** passed; 193 exact runtime files were verified in the image without network access.
+**122** introduces request-local exact-document pooling, broader source-section coverage and provenance-preserving AIFA handling derived from the FarmAI corpus. **1,881 offline checks, 58 interface checks and 195 exact runtime files** passed technical qualification. The real results are mixed: observed engine times were approximately **29.10 seconds** for the useful answer, **89.63 seconds** for the partial answer and **101.45 seconds** for the failed request. Different tasks and no matched live baseline mean no causal speed, accuracy or cost gain is established.
 
-No further real question was submitted after the ten. No own **121** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. A balanced updated magnesium evidence comparison and ordinary partial dispensing remain open. Technical source access does not prove legal currency, personal entitlement or applicability. Historical reports/packages remain intact; FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+Post-battery candidate **123** repairs the demonstrated false contact-intent detection for labelled medicine codes with contact-lens terminology. **1,893 offline checks and 58 interface checks** pass, including phone and personal-data counterexamples; **123 is not deployed, has zero own real questions and remains NO-GO for own real acceptance**. The generation failure, exact-dose selection and structured Tirosint reading remain open. Report122 and RC123 are separately sealed. No fifth question, general FarmAI parity, SLA, professional rollout or human clinical validation is claimed. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 
 ## Open collaboration opportunities

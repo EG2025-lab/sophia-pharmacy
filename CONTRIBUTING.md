@@ -1,5 +1,5 @@
 # Contributing to SOPHIA
-> Current product reference, 31 October 2026: **0.7.121-beta**, owner-approved access and payments inactive. Ten natural120questions: ten delivered responses,six useful in scope,two partial,two without requested facts.121repairs opening/storage selection,national administrative discovery andAIFA PDF titles;1,855offline checks,58interface,19PDF and2national originals. No own121real answer or clinical validation. [Current status](docs/STATUS.md).
+> Current product reference, 1 November 2026: **122 deployed**, restricted access and payments inactive. Four real AIFA questions: one useful scoped answer, one partial, one engine failure and one false privacy block. Candidate **123 not deployed**, 1,893 offline checks and 58 interface checks, zero own real questions. No controlled speed gain or clinical validation. [Current status](docs/STATUS.md).
 
 
 **English and Italian contributions are welcome. / Puoi contribuire in italiano o in inglese.**

@@ -1,25 +1,25 @@
 # SOPHIA status and evaluation
 
-Reviewed 31 October 2026.
+Reviewed 1 November 2026.
 
-The deployed professional beta is **0.7.121-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
+The deployed professional beta is **0.7.122-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](CURRENT.json).
 
-Ten new natural counter questions were submitted once each on **120**. Ten final responses were delivered: **six useful within the internally assessed scope, two partial and two without the requested facts**. No engine timeout was observed. A safe abstention or delivered response is not a complete answer PASS. Full transcripts and primary-source comparisons are retained; this is not human clinical validation.
+Exactly **four new real AIFA questions** were submitted once each on **122**: **one useful documentary answer in the assessed scope, one partial answer with package-identity and structured-reader gaps, one engine failure without a final answer, and one erroneous privacy rejection before inference**. Two final answers were delivered. Fourteen current official AIFA PDFs were independently reread against a frozen oracle. This is internal AI-assisted assessment, not human clinical validation.
 
-**121** adds natural opening/refrigerator/expiry document topics, two reviewed national administrative publishers with distinct document roles, and neutral FI/RCP titles for official AIFA PDFs. **1,855 offline checks, 58 interface checks, 19 original-PDF readings and two national administrative originals** passed; 193 exact runtime files were verified in the image without network access.
+**122** introduces request-local exact-document pooling, broader source-section coverage and provenance-preserving AIFA handling derived from the FarmAI corpus. **1,881 offline checks, 58 interface checks and 195 exact runtime files** passed technical qualification. The real results are mixed: observed engine times were approximately **29.10 seconds** for the useful answer, **89.63 seconds** for the partial answer and **101.45 seconds** for the failed request. Different tasks and no matched live baseline mean no causal speed, accuracy or cost gain is established.
 
-No further real question was submitted after the ten. No own **121** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. A balanced updated magnesium evidence comparison and ordinary partial dispensing remain open. Technical source access does not prove legal currency, personal entitlement or applicability. Historical reports/packages remain intact; FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+Post-battery candidate **123** repairs the demonstrated false contact-intent detection for labelled medicine codes with contact-lens terminology. **1,893 offline checks and 58 interface checks** pass, including phone and personal-data counterexamples; **123 is not deployed, has zero own real questions and remains NO-GO for own real acceptance**. The generation failure, exact-dose selection and structured Tirosint reading remain open. Report122 and RC123 are separately sealed. No fifth question, general FarmAI parity, SLA, professional rollout or human clinical validation is claimed. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 
 ## In italiano
 
-La beta distribuita è **0.7.121-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](CURRENT.json).
+La beta distribuita è **0.7.122-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi. [Stato corrente](CURRENT.json).
 
-Eseguite **dieci nuove domande naturali da banco sulla 120**, un solo invio per quesito. Dieci risposte finali consegnate: **sei utili nello scope interno, due parziali e due senza i fatti richiesti**. Nessun timeout del motore osservato. Una risposta sicura o consegnata non equivale a un PASS completo. Trascrizioni e confronti con fonti primarie conservati; nessuna validazione clinica umana.
+Eseguite esattamente **quattro nuove domande reali AIFA sulla 122**, un solo invio per quesito: **una risposta documentale utile nello scope valutato, una parziale con lacune di identità della confezione e lettura strutturata, un fallimento del motore senza risposta finale e un falso blocco privacy prima dell’inferenza**. Consegnate due risposte finali. Riletti indipendentemente quattordici PDF ufficiali AIFA correnti rispetto a un oracle fissato prima degli invii. Valutazione interna assistita da AI, senza validazione clinica umana.
 
-La **121** riconosce temi naturali su apertura/frigorifero/scadenza, ammette due editori amministrativi nazionali verificati con ruolo documentale distinto e usa titoli FI/RCP neutri per gli stampati AIFA. Superati **1.855 controlli offline, 58 interfaccia, 19 letture PDF e due originali amministrativi nazionali**; 193 file runtime esatti verificati nell’immagine senza rete.
+La **122** introduce riuso del documento esatto nella singola richiesta, copertura più ampia delle sezioni e gestione AIFA con provenienza, derivata dal corpus FarmAI. Superati **1.881 controlli offline, 58 interfaccia e 195 file runtime esatti** nella qualificazione tecnica. Esiti reali misti: circa **29,10 secondi** per la risposta utile, **89,63** per la parziale e **101,45** per il fallimento. Domande diverse e assenza di confronto reale abbinato impediscono di attribuire miglioramenti causali di velocità, accuratezza o costo.
 
-Nessuna ulteriore domanda reale dopo i dieci invii. Nessuna accettazione reale propria della **121**, ripetibilità generale, riduzione controllata di tempi/costi, parità FarmAI, SLA o validazione clinica umana dimostrata. Confronto clinico aggiornato sul magnesio e ritiro frazionato ordinario ancora aperti. Accesso tecnico alla fonte non prova vigenza, diritto individuale o applicabilità. Archivi preservati; FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
+La candidata successiva **123** corregge il falso intento di contatto telefonico dimostrato con codici farmaco etichettati e terminologia sulle lenti a contatto. Superati **1.893 controlli offline e 58 interfaccia**, inclusi casi contrari con telefoni e dati personali; **123 non distribuita, zero proprie domande reali, NO-GO per l’accettazione reale propria**. Fallimento della generazione, selezione del dosaggio esatto e lettura strutturata Tirosint restano aperti. Report122 e RC123 sigillati separatamente. Nessuna quinta domanda, parità generale FarmAI, SLA, apertura professionale generale o validazione clinica umana dichiarata. FarmAI GPT e plugin Business conservano il contenuto **0.7.7.155**.
 
 
 ## FarmAI continuity
