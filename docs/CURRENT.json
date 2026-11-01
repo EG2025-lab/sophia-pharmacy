@@ -1,12 +1,17 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-01",
-  "appVersion": "0.7.135-beta",
+  "appVersion": "0.7.137-beta",
   "publicAppAccess": false,
-  "technicalRepair": "COMPOSER_INNER_FOCUS_OUTLINE_REMOVED_UI_ONLY_ENGINE134_BYTE_CONTINUITY",
+  "technicalRepair": "TEN_SHARED_DOCUMENT_QUESTION_FAMILIES_NOT_CANNED_ANSWERS",
   "qualification": {
+    "offlineChecksPassed": 2002,
     "interfaceChecksPassed": 58,
-    "versionReferenceChecksPassed": 9,
+    "offlineSkipped": 0,
+    "naturalFormulations": 50,
+    "families": 10,
+    "familyChecksPassed": 200,
+    "baseline135SameOraclePassed": 83,
     "noNetworkRuntimeFiles": 199,
     "sourceAndImageVerified": true,
     "ownRealUIQuestions": 0,
@@ -14,7 +19,7 @@
     "modelCallAttempts": 0,
     "humanClinicalValidation": false,
     "humanLegalValidation": false,
-    "engine134ByteContinuityVerified": true
+    "actualAnswerCoherenceMeasured": false
   },
   "manualLiveAcceptance": "OWN_REAL_ACCEPTANCE_PENDING",
   "lastRealBattery": {
@@ -45,8 +50,8 @@
     "notInvoice": true
   },
   "website": {
-    "publication": 109,
-    "snapshot": "2026-11-01-r75",
+    "publication": 110,
+    "snapshot": "2026-11-01-r76",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -1019,5 +1024,17 @@
     "modelCallAttempts": 0,
     "humanClinicalValidation": false,
     "humanLegalValidation": false
+  },
+  "historical135CurrentQualification": {
+    "interfaceChecksPassed": 58,
+    "versionReferenceChecksPassed": 9,
+    "noNetworkRuntimeFiles": 199,
+    "sourceAndImageVerified": true,
+    "ownRealUIQuestions": 0,
+    "modelBackedRequests": 0,
+    "modelCallAttempts": 0,
+    "humanClinicalValidation": false,
+    "humanLegalValidation": false,
+    "engine134ByteContinuityVerified": true
   }
 }

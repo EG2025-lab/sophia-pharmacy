@@ -1,8 +1,8 @@
 # Professional-needs research
 
-The deployed professional beta is **0.7.135-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
+The deployed professional beta is **0.7.137-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
 
-135 removes the green rectangle inside the question field while preserving focus feedback around the composer and on other controls. **58 existing UI checks and 9 version-reference checks passed.** Engines and bridges are byte-identical to134 except for the app version number; clinical method1.31 and privacy27 are unchanged. No new real model question was submitted. The1988regressions and1150internal cases on133 remain historical evidence, not tests rerun on135. Previous feedback, professional acceptance and human clinical/legal validation remain open.
+137 adds shared recognition of ten medicine-document question families: indications, composition, dosing/duration, administration, storage/expiry, warnings/contraindications, interactions, special populations, adverse effects and missed/excess dose. Context, source-role selection, composition and AI review use the same incomplete cues. They provide no canned answers, identity or clinical evidence. **2,002 offline regressions and58UI checks passed.50natural formulations passed200internal checks, versus83on135using the same final oracle.** This measures technical recognition and routing, not real answer coherence or clinical accuracy.0new real model questions; professional acceptance and previous specific feedback remain open. Bridges, model configuration, access, payments and UI135are retained; clinical-method explanation1.32updated. No model weight training.
 
 
 > Current product reference, 1 November 2026: **133 deployed**, restricted access, payments inactive. 1,988 offline,58 interface and1,150 internal checks; zero own new real questions. Persistent product references and AIFA reader improved; historical provider error cause remains open. [Current status](STATUS.md).

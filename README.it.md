@@ -1,8 +1,8 @@
 # SOPHIA
 
-La beta distribuita è **0.7.135-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
+La beta distribuita è **0.7.137-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
 
-135 rimuove il rettangolo verde interno al campo domanda, conservando il segnale di focus del contenitore e degli altri controlli. **Superati58controlli UI esistenti e9del riferimento di versione.** Motori e bridge byte-identici alla134 salvo il numero di versione; metodo clinico1.31 e privacy27 invariati. Zero nuove domande reali al modello. Le1988regressioni e1150casi interni133 restano prove storiche, non rieseguite sulla135. Feedback precedenti, accettazione professionale e validazione clinica/giuridica umana restano aperti.
+137 riconosce dieci famiglie documentali: indicazioni, composizione, dosi/durata, modalità d’uso, conservazione/scadenza, controindicazioni/precauzioni, interazioni, popolazioni particolari, effetti indesiderati e dose dimenticata/eccessiva. Contesto, selezione delle sezioni, sintesi e controlloAI condividono gli stessi indizi incompleti; non sono risposte precompilate, identità o prove cliniche. **2.002regressioni offline e58UI superate.50formulazioni naturali passano200controlli interni, contro83sulla135con lo stesso oracle finale.** È un confronto tecnico di riconoscimento e routing, non coerenza reale o accuratezza clinica.0nuove domande reali; accettazione professionale e vecchi feedback specifici restano aperti. Bridge, configurazione modelli, accessi, pagamenti e UI135preservati; metodo esplicativo1.32aggiornato. Nessun addestramento dei pesi.
 
 
 ### Un collega AI per la conoscenza professionale in farmacia
