@@ -1,15 +1,17 @@
 # SOPHIA
 ### Pharmacist-led AI for medicine documents, Italian pharmacy law and clinical evidence
 
-The deployed professional beta is **0.7.131-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
+The deployed professional beta is **0.7.133-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](docs/STATUS.md).
 
-A shared recognizer distinguishes **MinSan, AIC, EAN13 and GTIN14**, preserves complete values and leading zeros, and separates format checks from source-verified package identity. No barcode truncation, digit repair, inferred code crosswalk or model-weight training. AIFA reading adds natural preparation/use and storage topics, preserves wrapped RCP references and qualifies literal composition consensus across duplicate leaflets. Other branch instructions and prescription contexts remain unresolved.
+133 improves natural follow-up questions, persistent product focus and AIFA leaflet reading. The current product reference is separate from the chat inventory and survives the recent-message window; legacy chats receive a bounded chronological upgrade. New identities and source documents are read again. Joint product focus requires clarification, and topic changes or flagged references cannot silently select another medicine. This is not unlimited full-history memory or reuse of old medical facts as current evidence.
 
-Before real testing, **150 plus1,000 distinct targeted internal cases** passed on the exact frozen131 package, along with **1,970 offline regression checks, 58 interface checks and 197 exact image runtime files**. Contrary cases include contacts, wrong strengths, foreign products and discordant compositions. Sixteen official PDFs support internal fixtures. These are finite technical checks, not clinical accuracy or professional validation.
+An authored standalone audience/age line remains a source condition rather than being mistaken for a pharmaceutical-form qualifier. A local replay of the exact official PDF now binds the leaflet that previously triggered an independent read of the same AIFA PDF. No medicine-specific answer or identity exception was added.
 
-Exactly **ten new real questions — eight AIFA and two Italian pharmacy-law questions —** were then submitted once each in five conversations, without source changes or resends. **10 answers delivered: 9 useful within internal scope, 1 partial and 0 inputs blocked before inference.** The oracle and preliminary official documents preceded submission. 51 model calls have known usage; not an invoice or general cost claim. New selected questions, not a matched timing comparison or general FarmAI-parity benchmark.
+**1,988 offline Python regressions, 58 interface checks and a rerun of the same 150 plus 1,000 internal cases passed** on frozen 133; **199 exact runtime files** were checked in the image without network. No new real question was submitted on 133. These are technical checks, not clinical validation or measured answer usefulness.
 
-Post-battery **RC 132 is complete and offline-qualified:1977 offline and 58 interface checks. It is not deployed, has zero own real questions and remains NO-GO for own real acceptance.** Report 131 andRC132 are separately sealed. Residual formal-code reporting is corrected locally; this does not establish its real-world resolution. No eleventh real question, no general SLA or human clinical/legal validation. FarmAI original GPTs and private Business plugins retain content **0.7.7.155**.
+A reported historical provider request rejection remains without an established specific parameter cause because that detail was not retained. New failed-request audits preserve only limited status, code and parameter categories, without provider messages, bodies, input text or parameter values. No automatic retry, model change or weight training.
+
+The ten real questions on **131** remain historical: nine useful within internal documentary scope and one partial, with no privacy block in that selected set. Report 131 and RC 132 remain sealed; 133 includes the earlier local format-reporting correction, whose own real acceptance is still pending. Bridges, models, access and FarmAI content **0.7.7.155** are preserved. No human clinical/legal validation, general speed/cost gain, SLA or FarmAI parity established.
 
 
 ## Open collaboration opportunities

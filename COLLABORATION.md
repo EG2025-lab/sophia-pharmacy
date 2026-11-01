@@ -1,6 +1,6 @@
 # Collaboration brief
 **SOPHIA · Public starting points · 12 October 2026**
-> Current product reference, 1 November2026:**131 deployed**, restricted access, payments inactive. 150+1000 internal cases PASS; ten new real questions: 10 answers delivered: 9 useful within internal scope, 1 partial and 0 inputs blocked before inference. **132 notdeployed**, offline-only, zero own real questions. No human clinical/legal validation. [Current status](docs/STATUS.md).
+> Current product reference, 1 November 2026: **133 deployed**, restricted access, payments inactive. 1,988 offline,58 interface and1,150 internal checks; zero own new real questions. Persistent product references and AIFA reader improved; historical provider error cause remains open. [Current status](docs/STATUS.md).
 
 
 We welcome exploratory conversations with researchers, developers, AI specialists, pharmacists and organisations. The following topics are proposed workstreams, not promises of an existing partnership or validated result.

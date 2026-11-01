@@ -1,29 +1,26 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-01",
-  "appVersion": "0.7.131-beta",
+  "appVersion": "0.7.133-beta",
   "publicAppAccess": false,
-  "technicalRepair": "SHARED_TYPED_PUBLIC_IDENTIFIERS_AND_AIFA_READER_LITERALLY_QUALIFIED_BRANCHES",
+  "technicalRepair": "PERSISTENT_PRODUCT_REFERENCE_NATURAL_FOLLOWUP_AND_AUTHORED_LEAFLET_AUDIENCE_ROLE",
   "qualification": {
-    "offlineChecksPassed": 1970,
+    "offlineChecksPassed": 1988,
     "interfaceChecksPassed": 58,
     "additionalTargetedInternalCases": 1150,
     "additionalTargetedPassed": 1150,
     "additionalTargetedFailed": 0,
     "offlineSkipped": 0,
-    "noNetworkRuntimeFiles": 197,
+    "noNetworkRuntimeFiles": 199,
     "sourceAndImageVerified": true,
-    "productionStartupAndOwnerReviewReadBack": true,
-    "ownRealUIQuestions": 10,
-    "modelBackedRequests": 9,
-    "modelCallAttempts": 51,
+    "ownRealUIQuestions": 0,
+    "modelBackedRequests": 0,
+    "modelCallAttempts": 0,
     "humanClinicalValidation": false,
     "humanLegalValidation": false,
-    "generalRepeatabilityEstablished": false,
-    "generalSpeedGainEstablished": false,
-    "SLAEstablished": false
+    "unlimitedConversationMemory": false
   },
-  "manualLiveAcceptance": "TEN_NEW_REAL_SCOPED_NOT_GENERAL_ACCEPTANCE",
+  "manualLiveAcceptance": "OWN_REAL_ACCEPTANCE_PENDING",
   "lastRealBattery": {
     "version": "0.7.131-beta",
     "plannedInputs": 10,
@@ -52,8 +49,8 @@
     "notInvoice": true
   },
   "website": {
-    "publication": 106,
-    "snapshot": "2026-11-01-r72",
+    "publication": 107,
+    "snapshot": "2026-11-01-r73",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -115,9 +112,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-01-10",
-    "revision": "1.29",
-    "appReference": "0.7.131-beta"
+    "id": "ALG-CLIN-2026-11-01-12",
+    "revision": "1.31",
+    "appReference": "0.7.133-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -135,19 +132,19 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.131-beta",
-    "state": "RESTRICTED_BETA_SCOPED_REAL_OUTCOMES",
+    "version": "0.7.133-beta",
+    "state": "RESTRICTED_BETA_TECHNICALLY_QUALIFIED_OWN_REAL_ACCEPTANCE_PENDING",
     "sourceAndImageVerified": true,
-    "ownRealReplay": true,
+    "ownRealReplay": false,
     "rollbackRetained": true,
-    "ownRealFinalAnswers": 10
+    "ownRealFinalAnswers": 0
   },
-  "currentVersionRealModelTests": 9,
+  "currentVersionRealModelTests": 0,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
-    "observedCurrentVersionInference": true,
+    "observedCurrentVersionInference": false,
     "historical106Profiles": [
       "gpt-6.1-sol/low",
       "gpt-6.1-sol/medium",
@@ -213,9 +210,8 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.131-beta",
-    "finalAnswers": 10,
-    "blockedBeforeInference": 0,
+    "observedOnVersion": "0.7.133-beta",
+    "newRealQuestions": 0,
     "futureAvailabilityGuaranteed": false,
     "paymentsActive": false
   },
@@ -252,26 +248,18 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "lastObservedState": "TEN_REQUESTS_RECORDED",
-    "observedOnVersion": "0.7.131-beta",
-    "callsWithUsage": 51,
+    "observedOnVersion": "0.7.133-beta",
+    "state": "NOT_TESTED_WITH_NEW_MODEL_QUESTIONS",
+    "historicalProviderInvalidRequestSpecificCauseOpen": true,
     "nextAnswerAvailabilityGuaranteed": false,
     "balanceRead": false,
     "topUpPerformedByThisWork": false
   },
-  "latestCandidate": {
-    "version": "0.7.132-beta",
-    "state": "NO_GO_NOT_DEPLOYED",
-    "scope": "DETERMINISTIC_FORMAT_REPORTING_GENERAL_MECHANISM",
-    "offlineChecksPassed": 1977,
-    "interfaceChecksPassed": 58,
-    "ownRealQuestions": 0,
-    "specificRealCaseResolutionEstablished": false
-  },
+  "latestCandidate": null,
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.131-beta",
-    "SBOMApplicationVersion": "0.7.131-beta",
+    "currentApplicationVersion": "0.7.133-beta",
+    "SBOMApplicationVersion": "0.7.133-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
@@ -282,7 +270,8 @@
     "frozen124Preserved": true,
     "frozen126Preserved": true,
     "frozen128Preserved": true,
-    "frozen131Preserved": true
+    "frozen131Preserved": true,
+    "frozen132Preserved": true
   },
   "metadataCandidate115Preserved": true,
   "historicalLastRealBattery114Before116Replay": {
@@ -903,13 +892,13 @@
     "specificRealCaseResolutionEstablished": false
   },
   "internal1150": {
-    "version": "0.7.131-beta",
+    "version": "0.7.133-beta",
     "tests": 1150,
     "passed": 1150,
     "failed": 0,
     "providerCalls": 0,
-    "weightTraining": false,
-    "scope": "FINITE_DETERMINISTIC_TECHNICAL_CASES_NOT_CLINICAL_VALIDATION"
+    "same150And1000Cases": true,
+    "weightTraining": false
   },
   "openGaps131": [
     "Formal check result not faithfully communicated in one observed mixed-code answer; local132fix has no own real acceptance",
@@ -940,5 +929,71 @@
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
     "surveyAndWaitlistIndependent": true,
     "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA"
-  }
+  },
+  "historical131Before133_qualification": {
+    "offlineChecksPassed": 1970,
+    "interfaceChecksPassed": 58,
+    "additionalTargetedInternalCases": 1150,
+    "additionalTargetedPassed": 1150,
+    "additionalTargetedFailed": 0,
+    "offlineSkipped": 0,
+    "noNetworkRuntimeFiles": 197,
+    "sourceAndImageVerified": true,
+    "productionStartupAndOwnerReviewReadBack": true,
+    "ownRealUIQuestions": 10,
+    "modelBackedRequests": 9,
+    "modelCallAttempts": 51,
+    "humanClinicalValidation": false,
+    "humanLegalValidation": false,
+    "generalRepeatabilityEstablished": false,
+    "generalSpeedGainEstablished": false,
+    "SLAEstablished": false
+  },
+  "historical131Before133_providerAvailability": {
+    "lastObservedState": "TEN_REQUESTS_RECORDED",
+    "observedOnVersion": "0.7.131-beta",
+    "callsWithUsage": 51,
+    "nextAnswerAvailabilityGuaranteed": false,
+    "balanceRead": false,
+    "topUpPerformedByThisWork": false
+  },
+  "historical131Before133_availability": {
+    "observedOnVersion": "0.7.131-beta",
+    "finalAnswers": 10,
+    "blockedBeforeInference": 0,
+    "futureAvailabilityGuaranteed": false,
+    "paymentsActive": false
+  },
+  "historical131Before133_deployment": {
+    "version": "0.7.131-beta",
+    "state": "RESTRICTED_BETA_SCOPED_REAL_OUTCOMES",
+    "sourceAndImageVerified": true,
+    "ownRealReplay": true,
+    "rollbackRetained": true,
+    "ownRealFinalAnswers": 10
+  },
+  "historical131Before133_latestCandidate": {
+    "version": "0.7.132-beta",
+    "state": "NO_GO_NOT_DEPLOYED",
+    "scope": "DETERMINISTIC_FORMAT_REPORTING_GENERAL_MECHANISM",
+    "offlineChecksPassed": 1977,
+    "interfaceChecksPassed": 58,
+    "ownRealQuestions": 0,
+    "specificRealCaseResolutionEstablished": false
+  },
+  "historical131Before133_internal1150": {
+    "version": "0.7.131-beta",
+    "tests": 1150,
+    "passed": 1150,
+    "failed": 0,
+    "providerCalls": 0,
+    "weightTraining": false,
+    "scope": "FINITE_DETERMINISTIC_TECHNICAL_CASES_NOT_CLINICAL_VALIDATION"
+  },
+  "openGaps133": [
+    "Specific cause of historical provider request rejection unknown; limited categories added for future failures",
+    "Own real answer usefulness, general source reconciliation and professional acceptance pending",
+    "History reference retention checked; unlimited full-history model memory not established",
+    "Legal applicability,clinical validation,speed/cost andFarmAIparity remain open"
+  ]
 }
