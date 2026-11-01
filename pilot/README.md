@@ -1,6 +1,6 @@
 # A 20-question pilot for professional pharmacy knowledge
 
-The deployed professional beta is **0.7.137-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
+The deployed professional beta is **0.7.138-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
 
 137 adds shared recognition of ten medicine-document question families: indications, composition, dosing/duration, administration, storage/expiry, warnings/contraindications, interactions, special populations, adverse effects and missed/excess dose. Context, source-role selection, composition and AI review use the same incomplete cues. They provide no canned answers, identity or clinical evidence. **2,002 offline regressions and58UI checks passed.50natural formulations passed200internal checks, versus83on135using the same final oracle.** This measures technical recognition and routing, not real answer coherence or clinical accuracy.0new real model questions; professional acceptance and previous specific feedback remain open. Bridges, model configuration, access, payments and UI135are retained; clinical-method explanation1.32updated. No model weight training.
 
@@ -87,3 +87,6 @@ Keep patient data, credentials and confidential material out of public comments.
 
 
 **Language and process gate — 1 November 2026: NO-GO.** Beta137: the new language and process gate has not passed.30,000internal combinations,10,000per domain:21,166PASS and8,834FAIL against technical oracles. These combine300formulations with contexts, references and task modes, not30,000AI answers or independent paraphrases. Gaps concern AIFA paraphrases/references, negation, clinical needs and a false block of a legal-document question. Cues are incomplete: a FAIL does not prove a wrong real answer.2,002Python regressions and57UI tests under the new command passed;0new model answers. Next phase held, no new app release or bridge change.
+
+
+**Version138 ready for real tests.** Beta138: shared causes behind the language/process gate corrected. The same137corpus improves from21,166to30,000passed cases out of30,000:10,000AIFA,10,000legislation,10,000Clinical Evidence;315,600checks passed. These combine300formulations with contexts and task modes,not30,000AI answers or independent paraphrases.2,023Python regressions and57UI tests passed. Negation scope,needs/references,documentary objects and legal-version requests improved. Privacy28and method1.33;same bridges and models. Ready for real tests:0new generated answers,quality and usefulness still need measurement. Technical PASS proves neither every possible variant nor clinical/legal validation.
