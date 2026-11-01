@@ -47,3 +47,6 @@ For a private introduction or a security concern, use [Enrico's email](mailto:en
 ## In italiano
 
 Scegli un contributo piccolo e verificabile, poi concorda il perimetro in una delle issue. Non serve saper programmare per proporre quesiti, controllare una fonte o migliorare la documentazione. Se vuoi iniziare dai documenti AIFA, prepara solo i metadati di una coppia RCP/FI: l'identità del medicinale e il successivo uso nel pilota devono essere riesaminati. Per un aiuto con GitHub, scrivi nella relativa issue. Il [README italiano](README.it.md) presenta progetto, opportunità e contatti.
+
+
+**Language and process gate — 1 November 2026: NO-GO.** Beta137: the new language and process gate has not passed.30,000internal combinations,10,000per domain:21,166PASS and8,834FAIL against technical oracles. These combine300formulations with contexts, references and task modes, not30,000AI answers or independent paraphrases. Gaps concern AIFA paraphrases/references, negation, clinical needs and a false block of a legal-document question. Cues are incomplete: a FAIL does not prove a wrong real answer.2,002Python regressions and57UI tests under the new command passed;0new model answers. Next phase held, no new app release or bridge change.
