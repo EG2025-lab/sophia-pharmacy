@@ -1,5 +1,13 @@
 # SOPHIA
 
+Beta 145 pubblicata: confronti AIFA con collegamento dei blocchi ai documenti, menu riordinato e avanzamento della risposta basato sulle fasi osservate. Superati 54.000 casi interni sintetici, 540.350 controlli, 2.090 test Python e 64 UI. Non sono 54.000 domande indipendenti o risposte AI. Dieci nuove prove reali solo AIFA: 8 risposte, 8 utili entro il quesito, 0 parziali, 2 fallite. Valutazione documentale interna assistita AI; candidata correttiva 146 non pubblicata. Nessuna validazione clinica umana.
+
+[Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence (historical)
+
 Beta 143 pubblicata. Dopo due batterie mirate e le correzioni generali del confronto RCP/FI e delle intestazioni dei fogli condivisi, 54.000 casi interni e 540.350 controlli superati; 2.077 Python e 57 UI. Protocolli sintetici e regressioni, non 54.000 domande indipendenti o risposte AI. Sei errori nella nuova grammatica sono stati corretti e lo stesso corpus di 3.000 casi passa senza cambiare gli esiti attesi. Dieci prove reali finali: 9 risposte consegnate; 8 utili nel quesito, 1 parziali, 1 fallite, secondo valutazione interna assistita AI. Lettura tecnica, utilità nel campione e validazione professionale restano distinte. Candidata 144 di governance non pubblicata; nessuna validazione clinica umana.
 
 [Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
