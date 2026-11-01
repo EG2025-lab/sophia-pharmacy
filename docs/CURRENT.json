@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-01",
-  "appVersion": "0.7.134-beta",
+  "appVersion": "0.7.135-beta",
   "publicAppAccess": false,
-  "technicalRepair": "ACCOUNT_PERSON_ICONS_UI_ONLY_ENGINE133_BYTE_CONTINUITY",
+  "technicalRepair": "COMPOSER_INNER_FOCUS_OUTLINE_REMOVED_UI_ONLY_ENGINE134_BYTE_CONTINUITY",
   "qualification": {
     "interfaceChecksPassed": 58,
     "versionReferenceChecksPassed": 9,
     "noNetworkRuntimeFiles": 199,
     "sourceAndImageVerified": true,
-    "engine133ByteContinuityVerified": true,
     "ownRealUIQuestions": 0,
     "modelBackedRequests": 0,
     "modelCallAttempts": 0,
     "humanClinicalValidation": false,
-    "humanLegalValidation": false
+    "humanLegalValidation": false,
+    "engine134ByteContinuityVerified": true
   },
   "manualLiveAcceptance": "OWN_REAL_ACCEPTANCE_PENDING",
   "lastRealBattery": {
@@ -45,8 +45,8 @@
     "notInvoice": true
   },
   "website": {
-    "publication": 108,
-    "snapshot": "2026-11-01-r74",
+    "publication": 109,
+    "snapshot": "2026-11-01-r75",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -1007,5 +1007,17 @@
     "humanClinicalValidation": false,
     "humanLegalValidation": false,
     "unlimitedConversationMemory": false
+  },
+  "historical134CurrentQualification": {
+    "interfaceChecksPassed": 58,
+    "versionReferenceChecksPassed": 9,
+    "noNetworkRuntimeFiles": 199,
+    "sourceAndImageVerified": true,
+    "engine133ByteContinuityVerified": true,
+    "ownRealUIQuestions": 0,
+    "modelBackedRequests": 0,
+    "modelCallAttempts": 0,
+    "humanClinicalValidation": false,
+    "humanLegalValidation": false
   }
 }

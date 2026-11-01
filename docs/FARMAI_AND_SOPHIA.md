@@ -23,7 +23,7 @@ Technical migration does not establish clinical validation, general repeatabilit
 
 ## In italiano
 
-La beta distribuita è **0.7.134-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
+La beta distribuita è **0.7.135-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
 
-134 usa la stessa sagoma stilizzata di persona nelle due voci account. **Superati 58 controlli UI esistenti e 9 controlli del riferimento di versione.** Motori e bridge byte-identici alla133 salvo il numero di versione; metodo clinico1.31 e privacy27 invariati. Zero nuove domande reali al modello. Le1.988regressioni e i1.150casi interni della133 restano prove storiche, non rieseguite sulla134. Feedback precedenti, accettazione professionale e validazione clinica/giuridica umana restano aperti.
+135 rimuove il rettangolo verde interno al campo domanda, conservando il segnale di focus del contenitore e degli altri controlli. **Superati58controlli UI esistenti e9del riferimento di versione.** Motori e bridge byte-identici alla134 salvo il numero di versione; metodo clinico1.31 e privacy27 invariati. Zero nuove domande reali al modello. Le1988regressioni e1150casi interni133 restano prove storiche, non rieseguite sulla135. Feedback precedenti, accettazione professionale e validazione clinica/giuridica umana restano aperti.
 

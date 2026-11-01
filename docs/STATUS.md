@@ -2,16 +2,16 @@
 
 Reviewed 1 November 2026.
 
-The deployed professional beta is **0.7.134-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
+The deployed professional beta is **0.7.135-beta**, restricted to owner-approved users; payments and answer charging remain inactive.
 
-134 gives both account menu entries the same stylized person icon. **58 existing UI checks and 9 version-reference checks passed.** The engines and bridges are byte-identical to 133 except for the app version number; clinical method1.31 and privacy27 are unchanged. No new real model question was submitted. The 1,988 regressions and 1,150 internal cases on133 remain historical evidence, not tests rerun on134. Previous feedback, professional acceptance and human clinical/legal validation remain open.
+135 removes the green rectangle inside the question field while preserving focus feedback around the composer and on other controls. **58 existing UI checks and 9 version-reference checks passed.** Engines and bridges are byte-identical to134 except for the app version number; clinical method1.31 and privacy27 are unchanged. No new real model question was submitted. The1988regressions and1150internal cases on133 remain historical evidence, not tests rerun on135. Previous feedback, professional acceptance and human clinical/legal validation remain open.
 
 
 ## In italiano
 
 La beta distribuita è **0.7.134-beta**, riservata agli utenti approvati dal titolare; pagamenti e addebiti delle risposte restano inattivi.
 
-134 usa la stessa sagoma stilizzata di persona nelle due voci account. **Superati 58 controlli UI esistenti e 9 controlli del riferimento di versione.** Motori e bridge byte-identici alla133 salvo il numero di versione; metodo clinico1.31 e privacy27 invariati. Zero nuove domande reali al modello. Le1.988regressioni e i1.150casi interni della133 restano prove storiche, non rieseguite sulla134. Feedback precedenti, accettazione professionale e validazione clinica/giuridica umana restano aperti.
+135 rimuove il rettangolo verde interno al campo domanda, conservando il segnale di focus del contenitore e degli altri controlli. **Superati58controlli UI esistenti e9del riferimento di versione.** Motori e bridge byte-identici alla134 salvo il numero di versione; metodo clinico1.31 e privacy27 invariati. Zero nuove domande reali al modello. Le1988regressioni e1150casi interni133 restano prove storiche, non rieseguite sulla135. Feedback precedenti, accettazione professionale e validazione clinica/giuridica umana restano aperti.
 
 
 ## FarmAI continuity
