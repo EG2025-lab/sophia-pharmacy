@@ -52,8 +52,8 @@
     "notInvoice": true
   },
   "website": {
-    "publication": 105,
-    "snapshot": "2026-11-01-r71",
+    "publication": 106,
+    "snapshot": "2026-11-01-r72",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -916,5 +916,29 @@
     "Full shared-leaflet and ingredient-label reconciliation remains incomplete",
     "Legal hierarchy,currency,applicability and independent professional acceptance remain open",
     "Updated magnesium comparison,ordinary partial dispensing,human clinical validation,general speed/cost andFarmAIparity remain open"
-  ]
+  ],
+  "historical131Website105Before106": {
+    "publication": 105,
+    "snapshot": "2026-11-01-r71",
+    "surveyGeography": "respondent_declared_region",
+    "visitGeography": "network_or_permissioned_device_estimate",
+    "separateDatasets": true,
+    "physicalAccuracyValidated": false,
+    "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
+    "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
+    "interface": "unified_regional_map_and_prioritized_owner_dashboard",
+    "surveyNotice": "sophia-public-2026-10-18-05",
+    "paymentPreferences": [
+      "monthly",
+      "annual",
+      "usage",
+      "unsure"
+    ],
+    "geographyTestsExcluded": true,
+    "mapReadout": "inline_below_map_no_overlay",
+    "surveyInterface": "survey_with_optional_waitlist_initially_selected",
+    "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
+    "surveyAndWaitlistIndependent": true,
+    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA"
+  }
 }
