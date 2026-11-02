@@ -1,5 +1,13 @@
 # SOPHIA
 
+Beta 148 pubblicata. La scaletta dell’attesa cresce verso il basso: le fasi già mostrate restano al loro posto e quella attiva viene aggiunta in fondo, anche quando riprende una lettura precedente. Nessun avanzamento inventato o attestazione di completamento. Superate 67 verifiche UI e 9 sui riferimenti di versione, con simulazione grafica senza inferenze. Motori, server e lettore RCP/FI integrato sono byte-identici alla 147, salvo metadati di versione. I 54.000 casi e 560.100 controlli della 147 restano evidenze storiche sui moduli invariati, non nuove risposte AI o una nuova esecuzione della 148. Zero nuove domande reali. Nessuna validazione clinica umana.
+
+[Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence (historical)
+
 Beta147 pubblicata. RCP e foglietto sono fonti complementari per una sola risposta: rimossi confronto dichiarato obbligatorio,verdetto separato e paragrafo standard. Restano lettura di entrambi,identità,hash,citazioni,condizioni,gap e controllo semantico ordinario. Menu compatto e progresso osservato preservati. Superati2.099 test Python,64 UI e54.000 casi interni/560.100 controlli:43.000 precedenti più11.000 di integrazione,in sostituzione del vecchio requisito di confronto. Fixture sintetiche,non54.000 risposteAI o parafrasi indipendenti. Zero nuove domande reali147. Il report145 resta storico:10invii,8risposte utili nel quesito,2confronti falliti;non attribuiti alla147. RC146 conservata,non pubblicata e superata dal nuovo mandato. Nessuna validazione clinica umana.
 
 [Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
