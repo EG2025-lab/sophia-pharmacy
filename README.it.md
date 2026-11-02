@@ -1,5 +1,15 @@
 # SOPHIA
 
+## Stato corrente — 3 novembre 2026
+
+Beta 150 correttiva riservata. Gli strumenti restano disponibili nelle domande miste; piano e copertura per quesiti esplicitamente composti, gestione delle revisioni cliniche e lettura di una via inalatoria omessa nel titolo FI migliorate. Le fasi osservate accompagnano lo scorrimento; risposta con movimento e dissolvenza più graduali. Superati 2.104 test Python e 74 UI, con rete esterna bloccata, e una rilettura locale di un PDF ufficiale conservato. Nessuna nuova domanda reale sulla 150: completezza, latenza e risoluzione dei casi restano da misurare. Storico 148: 20 invii, 18 risposte, 11 utili nello scope documentale interno, 7 parziali e 2 non pubblicate; valutazione assistita da AI, senza validazione professionale o clinica. Stessi bridge e configurazione, pagamenti inattivi. 16 voti, 19 stati e 6 gate confermati.
+
+[Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence — historical
+
 ## Stato corrente — 2 novembre 2026
 
 Beta 148 invariata, accesso riservato e pagamenti inattivi. Completati 20 invii reali naturali:8 AIFA,6 Normativa,6 Clinical Evidence;18 risposte,11 utili nello scope documentale interno,7 parziali e 2 non pubblicate dal controllo finale. Mediana del motore circa 46 s, massimo 196 s; non misura di tempo risparmiato o confronto causale. La valutazione è assistita daAI, non indipendente o professionale. I casi includono contesti condivisi, con due variazioni di navigazione registrate. Lacune in instradamento misto, foglietti condivisi, copertura dei punti, attualità delle evidenze e latenza. Report sigillato e candidata 149 completa di governance, NON PUBBLICATA/NO-GO, senza correzioni comportamentali o proprie domande reali.16 voti,19 stati e 6 gate confermati.
