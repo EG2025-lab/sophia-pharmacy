@@ -1,5 +1,13 @@
 # Collaboration brief
 
+Beta 148 deployed. Waiting steps grow downwards: existing rows stay in place and the active phase is appended at the bottom, including revisited reading. No invented progress or completion claim. Passed 67 UI and 9 version-reference checks, with a graphical simulation and no inference. Engines, server and integrated RCP/PIL reader are byte-identical to 147 except version metadata. The 54,000 cases and 560,100 checks on 147 remain historical evidence for unchanged modules, not new AI answers or a new 148 execution. Zero new real questions. No human clinical validation.
+
+[Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence (historical)
+
 Beta147 deployed. RCP and PIL are complementary sources for one answer: mandatory declared comparison,separate verdict and standard paragraph removed. Both-source reading,identity,hashes,citations,conditions,gaps and ordinary semantic review remain. Compact navigation and observed progress retained. Passed2,099 Python,64 UI and54,000 internal cases/560,100 checks:43,000 previous plus11,000 integration cases replacing the retired comparison requirement. Synthetic fixtures,not54,000 AI answers or independent paraphrases. Zero new147 real questions. Historical145 report:10submissions,8useful scoped answers,2failed comparisons;not attributed to147. Candidate146 preserved,not deployed,superseded by the new owner requirement. No human clinical validation.
 
 [Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
