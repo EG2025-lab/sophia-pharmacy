@@ -1,5 +1,15 @@
 # Professional-needs research
 
+## Current status — 3 November 2026
+
+Restricted corrective beta 150. Source tools remain available for mixed questions; planning and coverage for explicitly compound requests, clinical review repair ownership and an omitted inhalation route in a PIL title improved. Observed stages follow the viewport; answers enter with gentler movement and fade. Passed 2,104 Python and 74 UI tests with outbound network blocked, plus a local reread of a retained official PDF. No new real question on 150: completeness, latency and case resolution remain unmeasured. Historical 148: 20 submissions, 18 answers, 11 useful within internally checked documentary scope, 7 partial and 2 withheld; AI-assisted appraisal without professional or clinical validation. Same bridges and configuration, payments inactive. 16 scores, 19 states and 6 gates retained.
+
+[Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence — historical
+
 ## Current status — 2 November 2026
 
 Beta 148 unchanged, restricted access and payments inactive. Completed 20 natural real submissions:8 AIFA,6 legal and 6 Clinical Evidence;18 answers,11 useful within internally checked documentary scope,7 partial and 2 withheld by final verification. Engine median about 46 s, maximum 196 s; not time-saving or causal-comparison evidence. AI-assisted appraisal, not independent or professional validation. Cases include shared contexts, with two recorded navigation deviations. Gaps remain in mixed routing, shared leaflets, question coverage, evidence currentness and latency. Sealed report and complete governance candidate 149, NOT DEPLOYED/NO-GO, with no behavioural correction or own real questions.16 scores,19 states and 6 gates retained.
