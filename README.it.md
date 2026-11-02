@@ -1,5 +1,13 @@
 # SOPHIA
 
+Beta147 pubblicata. RCP e foglietto sono fonti complementari per una sola risposta: rimossi confronto dichiarato obbligatorio,verdetto separato e paragrafo standard. Restano lettura di entrambi,identità,hash,citazioni,condizioni,gap e controllo semantico ordinario. Menu compatto e progresso osservato preservati. Superati2.099 test Python,64 UI e54.000 casi interni/560.100 controlli:43.000 precedenti più11.000 di integrazione,in sostituzione del vecchio requisito di confronto. Fixture sintetiche,non54.000 risposteAI o parafrasi indipendenti. Zero nuove domande reali147. Il report145 resta storico:10invii,8risposte utili nel quesito,2confronti falliti;non attribuiti alla147. RC146 conservata,non pubblicata e superata dal nuovo mandato. Nessuna validazione clinica umana.
+
+[Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence (historical)
+
 Beta 145 pubblicata: confronti AIFA con collegamento dei blocchi ai documenti, menu riordinato e avanzamento della risposta basato sulle fasi osservate. Superati 54.000 casi interni sintetici, 540.350 controlli, 2.090 test Python e 64 UI. Non sono 54.000 domande indipendenti o risposte AI. Dieci nuove prove reali solo AIFA: 8 risposte, 8 utili entro il quesito, 0 parziali, 2 fallite. Valutazione documentale interna assistita AI; candidata correttiva 146 non pubblicata. Nessuna validazione clinica umana.
 
 [Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
