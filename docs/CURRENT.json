@@ -9,11 +9,18 @@
     "interfaceChecksPassed": 67,
     "internalCasesRerun": false,
     "engineAndServerBytesIdenticalTo147": true,
-    "ownRealUIQuestions": 0,
+    "ownRealUIQuestions": 20,
     "humanClinicalValidation": false,
-    "allRealTestsPassed": false
+    "allRealTestsPassed": false,
+    "realResponsesDelivered": 18,
+    "usefulWithinInternalScope": 11,
+    "partial": 7,
+    "failed": 2,
+    "retries": 0,
+    "realGrading": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT",
+    "priorStaticTestsMeaning": "Prior148 interface/version qualification preserved; not rerun in this real battery."
   },
-  "manualLiveAcceptance": "NO_NEW_REAL_QUESTIONS_AUTHORIZED",
+  "manualLiveAcceptance": "TWENTY_OWNER_UI_CASES_SCOPED_MIXED_OUTCOMES_NOT_PROFESSIONAL_VALIDATION",
   "lastRealBattery": {
     "version": "0.7.145-beta",
     "submissions": 10,
@@ -26,8 +33,8 @@
     "notCurrent147": true
   },
   "website": {
-    "publication": 119,
-    "snapshot": "2026-11-02-r85",
+    "publication": 120,
+    "snapshot": "2026-11-02-r86",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -120,19 +127,20 @@
   },
   "deployment": {
     "version": "0.7.148-beta",
-    "state": "RESTRICTED_BETA_FINAL_UI_ONLY_NO_NEW_REAL",
+    "state": "RESTRICTED_BETA_SCOPED_MIXED_REAL_EVALUATION",
     "runtimeFilesVerified": 207,
     "sourceAndImageVerified": true,
-    "ownRealReplay": false,
-    "ownRealFinalAnswers": 0,
-    "rollbackRetained": true
+    "ownRealReplay": true,
+    "ownRealFinalAnswers": 18,
+    "rollbackRetained": true,
+    "noNewEngineDeploymentFromBattery": true
   },
-  "currentVersionRealModelTests": 0,
+  "currentVersionRealModelTests": 20,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
-    "observedCurrentVersionInference": false,
+    "observedCurrentVersionInference": true,
     "historical106Profiles": [
       "gpt-6.1-sol/low",
       "gpt-6.1-sol/medium",
@@ -199,7 +207,7 @@
   },
   "availability": {
     "observedOnVersion": "0.7.148-beta",
-    "ownRealQuestions": 0,
+    "ownRealQuestions": 20,
     "paymentsActive": false,
     "futureAvailabilityGuaranteed": false
   },
@@ -1437,5 +1445,98 @@
     "gate": "PASS_INTERNAL_ONLY",
     "independentParaphrases": false,
     "realQuestionsInInternalGate": 0
+  },
+  "historicalBefore20Real148_qualification": {
+    "versionReferenceChecksPassed": 9,
+    "interfaceChecksPassed": 67,
+    "internalCasesRerun": false,
+    "engineAndServerBytesIdenticalTo147": true,
+    "ownRealUIQuestions": 0,
+    "humanClinicalValidation": false,
+    "allRealTestsPassed": false
+  },
+  "historicalBefore20Real148_deployment": {
+    "version": "0.7.148-beta",
+    "state": "RESTRICTED_BETA_FINAL_UI_ONLY_NO_NEW_REAL",
+    "runtimeFilesVerified": 207,
+    "sourceAndImageVerified": true,
+    "ownRealReplay": false,
+    "ownRealFinalAnswers": 0,
+    "rollbackRetained": true
+  },
+  "historicalBefore20Real148_availability": {
+    "observedOnVersion": "0.7.148-beta",
+    "ownRealQuestions": 0,
+    "paymentsActive": false,
+    "futureAvailabilityGuaranteed": false
+  },
+  "historicalBefore20Real148_manualLiveAcceptance": "NO_NEW_REAL_QUESTIONS_AUTHORIZED",
+  "historicalBefore20Real148_currentVersionRealModelTests": 0,
+  "historicalBefore20Real148_website": {
+    "publication": 120,
+    "snapshot": "2026-11-02-r86",
+    "surveyGeography": "respondent_declared_region",
+    "visitGeography": "network_or_permissioned_device_estimate",
+    "separateDatasets": true,
+    "physicalAccuracyValidated": false,
+    "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
+    "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
+    "interface": "unified_regional_map_and_prioritized_owner_dashboard",
+    "surveyNotice": "sophia-public-2026-10-18-05",
+    "paymentPreferences": [
+      "monthly",
+      "annual",
+      "usage",
+      "unsure"
+    ],
+    "geographyTestsExcluded": true,
+    "mapReadout": "inline_below_map_no_overlay",
+    "surveyInterface": "survey_with_optional_waitlist_initially_selected",
+    "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
+    "surveyAndWaitlistIndependent": true,
+    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
+    "privateAppEntry": {
+      "placement": "TOP_RIGHT_PERSISTENT",
+      "pages": [
+        "/riservata",
+        "/riservata/partnership"
+      ],
+      "label": "Apri SOPHIA",
+      "opensNewTab": true,
+      "appCodeChanged": false
+    }
+  },
+  "latestRealBattery": {
+    "version": "0.7.148-beta",
+    "questions": 20,
+    "domains": {
+      "aifa": 8,
+      "normativa": 6,
+      "clinical": 6
+    },
+    "delivered": 18,
+    "usefulScoped": 11,
+    "partial": 7,
+    "failed": 2,
+    "resubmissions": 0,
+    "engineMedianSeconds": 45.965,
+    "engineMaximumSeconds": 196.242,
+    "actualRequestChatGroups": 14,
+    "plannedRequestChatGroups": 16,
+    "navigationDeviationsDeclared": true,
+    "independentProfessionalReview": false,
+    "clinicalValidation": false,
+    "summary": {
+      "it": "Beta 148 invariata, accesso riservato e pagamenti inattivi. Completati 20 invii reali naturali:8 AIFA,6 Normativa,6 Clinical Evidence;18 risposte,11 utili nello scope documentale interno,7 parziali e 2 non pubblicate dal controllo finale. Mediana del motore circa 46 s, massimo 196 s; non misura di tempo risparmiato o confronto causale. La valutazione è assistita daAI, non indipendente o professionale. I casi includono contesti condivisi, con due variazioni di navigazione registrate. Lacune in instradamento misto, foglietti condivisi, copertura dei punti, attualità delle evidenze e latenza. Report sigillato e candidata 149 completa di governance, NON PUBBLICATA/NO-GO, senza correzioni comportamentali o proprie domande reali.16 voti,19 stati e 6 gate confermati.",
+      "en": "Beta 148 unchanged, restricted access and payments inactive. Completed 20 natural real submissions:8 AIFA,6 legal and 6 Clinical Evidence;18 answers,11 useful within internally checked documentary scope,7 partial and 2 withheld by final verification. Engine median about 46 s, maximum 196 s; not time-saving or causal-comparison evidence. AI-assisted appraisal, not independent or professional validation. Cases include shared contexts, with two recorded navigation deviations. Gaps remain in mixed routing, shared leaflets, question coverage, evidence currentness and latency. Sealed report and complete governance candidate 149, NOT DEPLOYED/NO-GO, with no behavioural correction or own real questions.16 scores,19 states and 6 gates retained."
+    },
+    "source": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency"
+  },
+  "latestGovernanceCandidate": {
+    "version": "0.7.149-beta",
+    "state": "NO_GO_NOT_DEPLOYED",
+    "ownRealQuestions": 0,
+    "behavioralChanges": 0,
+    "notAClaimOfResolvedFailures": true
   }
 }
