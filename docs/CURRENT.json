@@ -1,26 +1,21 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-02",
-  "appVersion": "0.7.148-beta",
+  "reviewedAt": "2026-11-03",
+  "appVersion": "0.7.150-beta",
   "publicAppAccess": false,
   "technicalRepair": "DOWNWARD_APPEND_ONLY_OBSERVED_PROGRESS_UI",
   "qualification": {
-    "versionReferenceChecksPassed": 9,
-    "interfaceChecksPassed": 67,
-    "internalCasesRerun": false,
-    "engineAndServerBytesIdenticalTo147": true,
-    "ownRealUIQuestions": 20,
+    "version": "0.7.150-beta",
+    "pythonTestsPassed": 2104,
+    "interfaceChecksPassed": 74,
+    "outboundNetworkBlocked": true,
+    "ownRealUIQuestions": 0,
+    "providerCalls": 0,
     "humanClinicalValidation": false,
     "allRealTestsPassed": false,
-    "realResponsesDelivered": 18,
-    "usefulWithinInternalScope": 11,
-    "partial": 7,
-    "failed": 2,
-    "retries": 0,
-    "realGrading": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT",
-    "priorStaticTestsMeaning": "Prior148 interface/version qualification preserved; not rerun in this real battery."
+    "realOutcomeResolutionValidated": false
   },
-  "manualLiveAcceptance": "TWENTY_OWNER_UI_CASES_SCOPED_MIXED_OUTCOMES_NOT_PROFESSIONAL_VALIDATION",
+  "manualLiveAcceptance": "NOT_RUN_ON150_INTERNAL_QUALIFICATION_ONLY",
   "lastRealBattery": {
     "version": "0.7.145-beta",
     "submissions": 10,
@@ -33,8 +28,8 @@
     "notCurrent147": true
   },
   "website": {
-    "publication": 120,
-    "snapshot": "2026-11-02-r86",
+    "publication": 121,
+    "snapshot": "2026-11-03-r87",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -108,7 +103,7 @@
   "clinicalAlgorithm": {
     "id": "ALG-CLIN-2026-11-02-04",
     "revision": "1.42",
-    "appReference": "0.7.148-beta"
+    "appReference": "0.7.150-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -126,21 +121,19 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.148-beta",
-    "state": "RESTRICTED_BETA_SCOPED_MIXED_REAL_EVALUATION",
-    "runtimeFilesVerified": 207,
+    "version": "0.7.150-beta",
+    "state": "RESTRICTED_CORRECTIVE_BETA_INTERNAL_QUALIFIED",
+    "ownRealReplay": false,
+    "ownRealFinalAnswers": 0,
     "sourceAndImageVerified": true,
-    "ownRealReplay": true,
-    "ownRealFinalAnswers": 18,
-    "rollbackRetained": true,
-    "noNewEngineDeploymentFromBattery": true
+    "rollbackRetained": true
   },
-  "currentVersionRealModelTests": 20,
+  "currentVersionRealModelTests": 0,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
-    "observedCurrentVersionInference": true,
+    "observedCurrentVersionInference": false,
     "historical106Profiles": [
       "gpt-6.1-sol/low",
       "gpt-6.1-sol/medium",
@@ -206,8 +199,8 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.148-beta",
-    "ownRealQuestions": 20,
+    "observedOnVersion": "0.7.150-beta",
+    "ownRealQuestions": 0,
     "paymentsActive": false,
     "futureAvailabilityGuaranteed": false
   },
@@ -257,8 +250,8 @@
   },
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.148-beta",
-    "SBOMApplicationVersion": "0.7.148-beta",
+    "currentApplicationVersion": "0.7.150-beta",
+    "SBOMApplicationVersion": "0.7.150-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
@@ -1538,5 +1531,88 @@
     "ownRealQuestions": 0,
     "behavioralChanges": 0,
     "notAClaimOfResolvedFailures": true
+  },
+  "historicalBefore150_qualification": {
+    "versionReferenceChecksPassed": 9,
+    "interfaceChecksPassed": 67,
+    "internalCasesRerun": false,
+    "engineAndServerBytesIdenticalTo147": true,
+    "ownRealUIQuestions": 20,
+    "humanClinicalValidation": false,
+    "allRealTestsPassed": false,
+    "realResponsesDelivered": 18,
+    "usefulWithinInternalScope": 11,
+    "partial": 7,
+    "failed": 2,
+    "retries": 0,
+    "realGrading": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT",
+    "priorStaticTestsMeaning": "Prior148 interface/version qualification preserved; not rerun in this real battery."
+  },
+  "historicalBefore150_deployment": {
+    "version": "0.7.148-beta",
+    "state": "RESTRICTED_BETA_SCOPED_MIXED_REAL_EVALUATION",
+    "runtimeFilesVerified": 207,
+    "sourceAndImageVerified": true,
+    "ownRealReplay": true,
+    "ownRealFinalAnswers": 18,
+    "rollbackRetained": true,
+    "noNewEngineDeploymentFromBattery": true
+  },
+  "historicalBefore150_availability": {
+    "observedOnVersion": "0.7.148-beta",
+    "ownRealQuestions": 20,
+    "paymentsActive": false,
+    "futureAvailabilityGuaranteed": false
+  },
+  "historicalBefore150_manualLiveAcceptance": "TWENTY_OWNER_UI_CASES_SCOPED_MIXED_OUTCOMES_NOT_PROFESSIONAL_VALIDATION",
+  "historicalBefore150_currentVersionRealModelTests": 20,
+  "historicalBefore150_website": {
+    "publication": 120,
+    "snapshot": "2026-11-02-r86",
+    "surveyGeography": "respondent_declared_region",
+    "visitGeography": "network_or_permissioned_device_estimate",
+    "separateDatasets": true,
+    "physicalAccuracyValidated": false,
+    "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
+    "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
+    "interface": "unified_regional_map_and_prioritized_owner_dashboard",
+    "surveyNotice": "sophia-public-2026-10-18-05",
+    "paymentPreferences": [
+      "monthly",
+      "annual",
+      "usage",
+      "unsure"
+    ],
+    "geographyTestsExcluded": true,
+    "mapReadout": "inline_below_map_no_overlay",
+    "surveyInterface": "survey_with_optional_waitlist_initially_selected",
+    "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
+    "surveyAndWaitlistIndependent": true,
+    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
+    "privateAppEntry": {
+      "placement": "TOP_RIGHT_PERSISTENT",
+      "pages": [
+        "/riservata",
+        "/riservata/partnership"
+      ],
+      "label": "Apri SOPHIA",
+      "opensNewTab": true,
+      "appCodeChanged": false
+    }
+  },
+  "historicalBefore150_clinicalAlgorithm": {
+    "id": "ALG-CLIN-2026-11-02-04",
+    "revision": "1.42",
+    "appReference": "0.7.148-beta"
+  },
+  "latestCorrectiveRelease": {
+    "version": "0.7.150-beta",
+    "summary": {
+      "it": "Beta 150 correttiva riservata. Gli strumenti restano disponibili nelle domande miste; piano e copertura per quesiti esplicitamente composti, gestione delle revisioni cliniche e lettura di una via inalatoria omessa nel titolo FI migliorate. Le fasi osservate accompagnano lo scorrimento; risposta con movimento e dissolvenza più graduali. Superati 2.104 test Python e 74 UI, con rete esterna bloccata, e una rilettura locale di un PDF ufficiale conservato. Nessuna nuova domanda reale sulla 150: completezza, latenza e risoluzione dei casi restano da misurare. Storico 148: 20 invii, 18 risposte, 11 utili nello scope documentale interno, 7 parziali e 2 non pubblicate; valutazione assistita da AI, senza validazione professionale o clinica. Stessi bridge e configurazione, pagamenti inattivi. 16 voti, 19 stati e 6 gate confermati.",
+      "en": "Restricted corrective beta 150. Source tools remain available for mixed questions; planning and coverage for explicitly compound requests, clinical review repair ownership and an omitted inhalation route in a PIL title improved. Observed stages follow the viewport; answers enter with gentler movement and fade. Passed 2,104 Python and 74 UI tests with outbound network blocked, plus a local reread of a retained official PDF. No new real question on 150: completeness, latency and case resolution remain unmeasured. Historical 148: 20 submissions, 18 answers, 11 useful within internally checked documentary scope, 7 partial and 2 withheld; AI-assisted appraisal without professional or clinical validation. Same bridges and configuration, payments inactive. 16 scores, 19 states and 6 gates retained."
+    },
+    "sourceManifestSHA256": "0514d306cc1297aadaa14c18590f238d57d1b3d37c9a252a2bac2d8400ef6b39",
+    "newRealQuestions": 0,
+    "priorRealCasesRemainHistorical": true
   }
 }
