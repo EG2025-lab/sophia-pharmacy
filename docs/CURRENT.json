@@ -1,23 +1,19 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-02",
-  "appVersion": "0.7.147-beta",
+  "appVersion": "0.7.148-beta",
   "publicAppAccess": false,
-  "technicalRepair": "COMPLEMENTARY_RCP_PIL_INTEGRATION_WITHOUT_MANDATORY_COMPARISON",
+  "technicalRepair": "DOWNWARD_APPEND_ONLY_OBSERVED_PROGRESS_UI",
   "qualification": {
-    "offlineChecksPassed": 2099,
-    "interfaceChecksPassed": 64,
-    "internalCasesPassed": 54000,
-    "internalChecksPassed": 560100,
-    "priorCases": 43000,
-    "newIntegrationCases": 11000,
-    "independentParaphrases": false,
+    "versionReferenceChecksPassed": 9,
+    "interfaceChecksPassed": 67,
+    "internalCasesRerun": false,
+    "engineAndServerBytesIdenticalTo147": true,
     "ownRealUIQuestions": 0,
-    "finalResponsesDelivered": 0,
     "humanClinicalValidation": false,
     "allRealTestsPassed": false
   },
-  "manualLiveAcceptance": "PENDING_CURRENT_VERSION_REAL_ANSWERS",
+  "manualLiveAcceptance": "NO_NEW_REAL_QUESTIONS_AUTHORIZED",
   "lastRealBattery": {
     "version": "0.7.145-beta",
     "submissions": 10,
@@ -30,8 +26,8 @@
     "notCurrent147": true
   },
   "website": {
-    "publication": 116,
-    "snapshot": "2026-11-02-r82",
+    "publication": 117,
+    "snapshot": "2026-11-02-r83",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -93,9 +89,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-02-03",
-    "revision": "1.41",
-    "appReference": "0.7.147-beta"
+    "id": "ALG-CLIN-2026-11-02-04",
+    "revision": "1.42",
+    "appReference": "0.7.148-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -113,8 +109,8 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.147-beta",
-    "state": "RESTRICTED_BETA_INTERNAL_PASS_OWN_REAL_PENDING",
+    "version": "0.7.148-beta",
+    "state": "RESTRICTED_BETA_FINAL_UI_ONLY_NO_NEW_REAL",
     "runtimeFilesVerified": 207,
     "sourceAndImageVerified": true,
     "ownRealReplay": false,
@@ -192,9 +188,8 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.147-beta",
+    "observedOnVersion": "0.7.148-beta",
     "ownRealQuestions": 0,
-    "newRealQuestions": 0,
     "paymentsActive": false,
     "futureAvailabilityGuaranteed": false
   },
@@ -244,8 +239,8 @@
   },
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.147-beta",
-    "SBOMApplicationVersion": "0.7.147-beta",
+    "currentApplicationVersion": "0.7.148-beta",
+    "SBOMApplicationVersion": "0.7.148-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
@@ -1394,5 +1389,43 @@
     "ownRealQuestions": 10,
     "delivered": 8,
     "futureAvailabilityGuaranteed": false
+  },
+  "historicalPre148_qualification": {
+    "offlineChecksPassed": 2099,
+    "interfaceChecksPassed": 64,
+    "internalCasesPassed": 54000,
+    "internalChecksPassed": 560100,
+    "priorCases": 43000,
+    "newIntegrationCases": 11000,
+    "independentParaphrases": false,
+    "ownRealUIQuestions": 0,
+    "finalResponsesDelivered": 0,
+    "humanClinicalValidation": false,
+    "allRealTestsPassed": false
+  },
+  "historicalPre148_deployment": {
+    "version": "0.7.147-beta",
+    "state": "RESTRICTED_BETA_INTERNAL_PASS_OWN_REAL_PENDING",
+    "runtimeFilesVerified": 207,
+    "sourceAndImageVerified": true,
+    "ownRealReplay": false,
+    "ownRealFinalAnswers": 0,
+    "rollbackRetained": true
+  },
+  "historicalPre148_availability": {
+    "observedOnVersion": "0.7.147-beta",
+    "ownRealQuestions": 0,
+    "newRealQuestions": 0,
+    "paymentsActive": false,
+    "futureAvailabilityGuaranteed": false
+  },
+  "historicalPre148_latestInternalLanguageGate": {
+    "version": "0.7.147-beta",
+    "cases": 54000,
+    "passed": 54000,
+    "checks": 560100,
+    "gate": "PASS_INTERNAL_ONLY",
+    "independentParaphrases": false,
+    "realQuestionsInInternalGate": 0
   }
 }
