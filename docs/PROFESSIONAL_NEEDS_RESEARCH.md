@@ -1,5 +1,13 @@
 # Professional-needs research
 
+Beta147 deployed. RCP and PIL are complementary sources for one answer: mandatory declared comparison,separate verdict and standard paragraph removed. Both-source reading,identity,hashes,citations,conditions,gaps and ordinary semantic review remain. Compact navigation and observed progress retained. Passed2,099 Python,64 UI and54,000 internal cases/560,100 checks:43,000 previous plus11,000 integration cases replacing the retired comparison requirement. Synthetic fixtures,not54,000 AI answers or independent paraphrases. Zero new147 real questions. Historical145 report:10submissions,8useful scoped answers,2failed comparisons;not attributed to147. Candidate146 preserved,not deployed,superseded by the new owner requirement. No human clinical validation.
+
+[Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence (historical)
+
 Beta 145 is deployed: AIFA comparisons with document-bound block selection, reorganized navigation and observed response progress. Passed 54,000 synthetic internal cases, 540,350 checks, 2,090 Python and 64 UI tests. These are not 54,000 independent questions or AI answers. Ten new AIFA-only real tests: 8 answers, 8 useful within scope, 0 partial, 2 failed. Internal AI-assisted documentary assessment; corrective candidate146 is not deployed. No human clinical validation.
 
 [Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
