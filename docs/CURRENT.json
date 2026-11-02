@@ -26,8 +26,8 @@
     "notCurrent147": true
   },
   "website": {
-    "publication": 117,
-    "snapshot": "2026-11-02-r83",
+    "publication": 118,
+    "snapshot": "2026-11-02-r84",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -47,7 +47,17 @@
     "surveyInterface": "survey_with_optional_waitlist_initially_selected",
     "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
     "surveyAndWaitlistIndependent": true,
-    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA"
+    "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
+    "privateAppEntry": {
+      "placement": "TOP_RIGHT_PERSISTENT",
+      "pages": [
+        "/riservata",
+        "/riservata/partnership"
+      ],
+      "label": "Apri SOPHIA",
+      "opensNewTab": true,
+      "appCodeChanged": false
+    }
   },
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
