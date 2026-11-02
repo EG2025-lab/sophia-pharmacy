@@ -1,5 +1,15 @@
 # SOPHIA
 
+## Stato corrente — 2 novembre 2026
+
+Beta 148 invariata, accesso riservato e pagamenti inattivi. Completati 20 invii reali naturali:8 AIFA,6 Normativa,6 Clinical Evidence;18 risposte,11 utili nello scope documentale interno,7 parziali e 2 non pubblicate dal controllo finale. Mediana del motore circa 46 s, massimo 196 s; non misura di tempo risparmiato o confronto causale. La valutazione è assistita daAI, non indipendente o professionale. I casi includono contesti condivisi, con due variazioni di navigazione registrate. Lacune in instradamento misto, foglietti condivisi, copertura dei punti, attualità delle evidenze e latenza. Report sigillato e candidata 149 completa di governance, NON PUBBLICATA/NO-GO, senza correzioni comportamentali o proprie domande reali.16 voti,19 stati e 6 gate confermati.
+
+[Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence — historical
+
 Beta 148 pubblicata. La scaletta dell’attesa cresce verso il basso: le fasi già mostrate restano al loro posto e quella attiva viene aggiunta in fondo, anche quando riprende una lettura precedente. Nessun avanzamento inventato o attestazione di completamento. Superate 67 verifiche UI e 9 sui riferimenti di versione, con simulazione grafica senza inferenze. Motori, server e lettore RCP/FI integrato sono byte-identici alla 147, salvo metadati di versione. I 54.000 casi e 560.100 controlli della 147 restano evidenze storiche sui moduli invariati, non nuove risposte AI o una nuova esecuzione della 148. Zero nuove domande reali. Nessuna validazione clinica umana.
 
 [Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
