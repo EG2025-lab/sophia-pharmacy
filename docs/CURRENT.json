@@ -1,39 +1,37 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-02",
-  "appVersion": "0.7.145-beta",
+  "appVersion": "0.7.147-beta",
   "publicAppAccess": false,
-  "technicalRepair": "AIFA_DOCUMENT_BOUND_COMPARISONS_AND_DURABLE_OBSERVED_PROGRESS",
+  "technicalRepair": "COMPLEMENTARY_RCP_PIL_INTEGRATION_WITHOUT_MANDATORY_COMPARISON",
   "qualification": {
-    "offlineChecksPassed": 2090,
+    "offlineChecksPassed": 2099,
     "interfaceChecksPassed": 64,
     "internalCasesPassed": 54000,
-    "internalChecksPassed": 540350,
+    "internalChecksPassed": 560100,
+    "priorCases": 43000,
+    "newIntegrationCases": 11000,
     "independentParaphrases": false,
-    "ownRealUIQuestions": 10,
-    "finalResponsesDelivered": 8,
-    "usefulScoped": 8,
-    "partial": 0,
-    "failed": 2,
+    "ownRealUIQuestions": 0,
+    "finalResponsesDelivered": 0,
     "humanClinicalValidation": false,
     "allRealTestsPassed": false
   },
-  "manualLiveAcceptance": "COMPLETED_SCOPED_AI_ASSISTED_PROFESSIONAL_ACCEPTANCE_PENDING",
+  "manualLiveAcceptance": "PENDING_CURRENT_VERSION_REAL_ANSWERS",
   "lastRealBattery": {
     "version": "0.7.145-beta",
     "submissions": 10,
     "aifa": 10,
-    "normativa": 0,
-    "clinical": 0,
     "delivered": 8,
     "usefulScoped": 8,
     "partial": 0,
     "failed": 2,
-    "review": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT_PROFESSIONAL_VALIDATION"
+    "review": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT_PROFESSIONAL_VALIDATION",
+    "notCurrent147": true
   },
   "website": {
-    "publication": 115,
-    "snapshot": "2026-11-02-r81",
+    "publication": 116,
+    "snapshot": "2026-11-02-r82",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -95,9 +93,9 @@
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-02-01",
-    "revision": "1.39",
-    "appReference": "0.7.145-beta"
+    "id": "ALG-CLIN-2026-11-02-03",
+    "revision": "1.41",
+    "appReference": "0.7.147-beta"
   },
   "privateExperience": {
     "version": "SOPHIA_PRIVATE_EXPERIENCE_JOURNAL_0805_1",
@@ -115,20 +113,20 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.145-beta",
-    "state": "RESTRICTED_BETA_TEN_AIFA_COMPLETE_SCOPED",
-    "runtimeFilesVerified": 206,
+    "version": "0.7.147-beta",
+    "state": "RESTRICTED_BETA_INTERNAL_PASS_OWN_REAL_PENDING",
+    "runtimeFilesVerified": 207,
     "sourceAndImageVerified": true,
-    "ownRealReplay": true,
-    "ownRealFinalAnswers": 8,
+    "ownRealReplay": false,
+    "ownRealFinalAnswers": 0,
     "rollbackRetained": true
   },
-  "currentVersionRealModelTests": 10,
+  "currentVersionRealModelTests": 0,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
     "controlledComplexReasoning": "medium",
-    "observedCurrentVersionInference": true,
+    "observedCurrentVersionInference": false,
     "historical106Profiles": [
       "gpt-6.1-sol/low",
       "gpt-6.1-sol/medium",
@@ -194,10 +192,9 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.145-beta",
-    "ownRealQuestions": 10,
-    "newRealQuestions": 10,
-    "replayedAuthorizedQuestions": 0,
+    "observedOnVersion": "0.7.147-beta",
+    "ownRealQuestions": 0,
+    "newRealQuestions": 0,
     "paymentsActive": false,
     "futureAvailabilityGuaranteed": false
   },
@@ -241,14 +238,14 @@
   },
   "latestCandidate": {
     "version": "0.7.146-beta",
-    "state": "RC_NO_GO_NOT_PUBLISHED",
+    "state": "SUPERSEDED_NOT_PUBLISHED",
     "governanceOnly": false,
     "ownRealTests": 0
   },
   "metadataCandidate112Preserved": true,
   "sourcePackagingMetadata": {
-    "currentApplicationVersion": "0.7.145-beta",
-    "SBOMApplicationVersion": "0.7.145-beta",
+    "currentApplicationVersion": "0.7.147-beta",
+    "SBOMApplicationVersion": "0.7.147-beta",
     "dependencyInventoryUnchanged": true,
     "frozen114And115Preserved": true,
     "frozen116And117Preserved": true,
@@ -1026,10 +1023,10 @@
     "engine134ByteContinuityVerified": true
   },
   "latestInternalLanguageGate": {
-    "version": "0.7.145-beta",
+    "version": "0.7.147-beta",
     "cases": 54000,
     "passed": 54000,
-    "checks": 540350,
+    "checks": 560100,
     "gate": "PASS_INTERNAL_ONLY",
     "independentParaphrases": false,
     "realQuestionsInInternalGate": 0
@@ -1332,6 +1329,70 @@
     "state": "TEN_CASE_SAMPLE_COMPLETED_SEE_OUTCOMES",
     "historical139ExactRejectedSchemaRetained": false,
     "historical139ExactCauseProved": false,
+    "futureAvailabilityGuaranteed": false
+  },
+  "historicalPre147_qualification": {
+    "offlineChecksPassed": 2090,
+    "interfaceChecksPassed": 64,
+    "internalCasesPassed": 54000,
+    "internalChecksPassed": 540350,
+    "independentParaphrases": false,
+    "ownRealUIQuestions": 10,
+    "finalResponsesDelivered": 8,
+    "usefulScoped": 8,
+    "partial": 0,
+    "failed": 2,
+    "humanClinicalValidation": false,
+    "allRealTestsPassed": false
+  },
+  "historicalPre147_lastRealBattery": {
+    "version": "0.7.145-beta",
+    "submissions": 10,
+    "aifa": 10,
+    "normativa": 0,
+    "clinical": 0,
+    "delivered": 8,
+    "usefulScoped": 8,
+    "partial": 0,
+    "failed": 2,
+    "review": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT_PROFESSIONAL_VALIDATION"
+  },
+  "historicalPre147_deployment": {
+    "version": "0.7.145-beta",
+    "state": "RESTRICTED_BETA_TEN_AIFA_COMPLETE_SCOPED",
+    "runtimeFilesVerified": 206,
+    "sourceAndImageVerified": true,
+    "ownRealReplay": true,
+    "ownRealFinalAnswers": 8,
+    "rollbackRetained": true
+  },
+  "historicalPre147_availability": {
+    "observedOnVersion": "0.7.145-beta",
+    "ownRealQuestions": 10,
+    "newRealQuestions": 10,
+    "replayedAuthorizedQuestions": 0,
+    "paymentsActive": false,
+    "futureAvailabilityGuaranteed": false
+  },
+  "historicalPre147_latestInternalLanguageGate": {
+    "version": "0.7.145-beta",
+    "cases": 54000,
+    "passed": 54000,
+    "checks": 540350,
+    "gate": "PASS_INTERNAL_ONLY",
+    "independentParaphrases": false,
+    "realQuestionsInInternalGate": 0
+  },
+  "historicalPre147_latestCandidate": {
+    "version": "0.7.146-beta",
+    "state": "RC_NO_GO_NOT_PUBLISHED",
+    "governanceOnly": false,
+    "ownRealTests": 0
+  },
+  "historicalPre147_providerAvailability": {
+    "observedOnVersion": "0.7.145-beta",
+    "ownRealQuestions": 10,
+    "delivered": 8,
     "futureAvailabilityGuaranteed": false
   }
 }
