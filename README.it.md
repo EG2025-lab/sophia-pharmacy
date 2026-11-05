@@ -2,7 +2,7 @@
 
 ## Stato corrente — 5 novembre 2026
 
-SOPHIA **0.7.170-beta** è attiva ad accesso riservato. Con un singolo PMID esplicito, Clinical Evidence apre prima lo studio indicato. Nelle sintesi verifica durata, riferimento temporale ed evento nei passaggi consultati e riporta in ricevuta l’uso dell’integrale. Il riconoscimento di AIC, MINSAN ed EAN distingue i codici di prodotto da recapiti e identificativi personali. Prima del rilascio sono passate sei prove mirate in staging, di cui quattro su tre studi e due sui codici. Superati 2.131 controlli Python offline, 514 verifiche del bridge e 78 controlli UI. Pagamenti inattivi. Valutazione professionale e misurazione dell’utilità sul campo pendenti.
+SOPHIA **0.7.178-beta** è attiva ad accesso riservato. Le prove da banco hanno verificato AIC, MINSAN ed EAN, anche isolati e incrociati. Le fonti documentano separatamente identità AIFA e riscontro commerciale. Il percorso misto tiene distinti stampati ed evidenza clinica. La batteria ha riguardato 15 domande in beta 0.7.170 e 15 controprove in staging con fonti reali. Verificati 2.148 casi Python offline e 78 controlli UI. Pagamenti inattivi. La revisione professionale e la misurazione dell’utilità sul campo restano pendenti.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
 
