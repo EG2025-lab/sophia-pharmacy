@@ -1,8 +1,8 @@
 # SOPHIA
 
-## Stato corrente — 3 novembre 2026
+## Stato corrente — 5 novembre 2026
 
-Beta 150 correttiva riservata. Gli strumenti restano disponibili nelle domande miste; piano e copertura per quesiti esplicitamente composti, gestione delle revisioni cliniche e lettura di una via inalatoria omessa nel titolo FI migliorate. Le fasi osservate accompagnano lo scorrimento; risposta con movimento e dissolvenza più graduali. Superati 2.104 test Python e 74 UI, con rete esterna bloccata, e una rilettura locale di un PDF ufficiale conservato. Nessuna nuova domanda reale sulla 150: completezza, latenza e risoluzione dei casi restano da misurare. Storico 148: 20 invii, 18 risposte, 11 utili nello scope documentale interno, 7 parziali e 2 non pubblicate; valutazione assistita da AI, senza validazione professionale o clinica. Stessi bridge e configurazione, pagamenti inattivi. 16 voti, 19 stati e 6 gate confermati.
+SOPHIA **0.7.166-beta** è disponibile ad accesso riservato. Con un singolo PMID esplicito, il percorso Clinical Evidence legge prima lo studio indicato, cerca l’integrale accessibile e registra in ricevuta se è stato usato. Composizione, revisione e verifica della ricevuta distinguono le finestre temporali riportate nello studio dall’attualità della fonte. Due prove mirate sulla 0.7.164 hanno documentato l’uso dell’integrale dello stesso studio; una ha evidenziato un’imprecisione metodologica che ha motivato le correzioni successive. I controlli sulla 0.7.166 includono 2.127 test Python, 511 verifiche del bridge e 78 controlli UI. AIFA: tre confezioni Lantus, con RCP e FI, verificate in un replay sulla 0.7.158. Pagamenti inattivi; nessuna validazione clinica umana o stima di accuratezza complessiva.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
 
