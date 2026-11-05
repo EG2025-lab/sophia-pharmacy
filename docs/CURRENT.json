@@ -1,36 +1,36 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-05",
-  "appVersion": "0.7.170-beta",
+  "appVersion": "0.7.178-beta",
   "publicAppAccess": false,
-  "technicalRepair": "EXACT_STUDY_SUMMARY_WINDOWS_AND_TYPED_PRODUCT_CODES",
+  "technicalRepair": "TYPED_PRODUCT_CODE_ROUTING_AND_SCOPED_SOURCE_RECOVERY",
   "qualification": {
-    "version": "0.7.170-beta",
-    "pythonTestsPassed": 2131,
+    "version": "0.7.178-beta",
+    "pythonTestsPassed": 2148,
     "bridgeChecksPassed": 514,
     "interfaceChecksPassed": 78,
     "outboundNetworkBlocked": true,
-    "ownRealUIQuestions": 0,
-    "realStagingQuestions": 6,
-    "realStagingPassedWithinScope": 6,
+    "ownRealUIQuestions": 6,
+    "realStagingQuestions": 15,
+    "realStagingPassedWithinScope": 15,
     "humanClinicalValidation": false,
-    "originalDocumentaryQuestionPassed": true
+    "originalDocumentaryQuestionPassed": true,
+    "bridgeChecksScope": "INHERITED_IDENTICAL_BRIDGE",
+    "browserBetaPassedWithinScope": 6
   },
-  "manualLiveAcceptance": "RESTRICTED_BETA_RELEASED_SCOPED_REAL_STAGING_QUALIFICATION",
+  "manualLiveAcceptance": "SIX_SCOPED_OWNER_BROWSER_CASES_NO_INDEPENDENT_PROFESSIONAL_ACCEPTANCE",
   "lastRealBattery": {
-    "version": "0.7.145-beta",
-    "submissions": 10,
-    "aifa": 10,
-    "delivered": 8,
-    "usefulScoped": 8,
-    "partial": 0,
-    "failed": 2,
-    "review": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT_PROFESSIONAL_VALIDATION",
-    "notCurrent147": true
+    "version": "0.7.170-beta",
+    "submissions": 15,
+    "passed": 7,
+    "commercialGaps": 4,
+    "falseBlocks": 3,
+    "timeouts": 1,
+    "review": "SCOPED_DOCUMENTARY_TESTS_NO_INDEPENDENT_PROFESSIONAL_VALIDATION"
   },
   "website": {
-    "publication": 124,
-    "snapshot": "2026-11-05-r91",
+    "publication": 125,
+    "snapshot": "2026-11-05-r92",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -63,11 +63,7 @@
     },
     "scoreReview": {
       "components": 16,
-      "clinicalEvidence": {
-        "before": 3,
-        "after": 4
-      },
-      "otherScoresUnchanged": 15,
+      "numericScoresChanged": 0,
       "architectureStatesUnchanged": 19,
       "roadmapGatesUnchanged": 6
     }
@@ -132,10 +128,10 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.170-beta",
-    "state": "RESTRICTED_BETA_RELEASED_SCOPED_REAL_STAGING_QUALIFICATION",
-    "realStagingQuestions": 6,
-    "productionRealQuestions": 0,
+    "version": "0.7.178-beta",
+    "state": "RESTRICTED_BETA_WITH_15_REAL_STAGING_AND_6_LIVE_REPLAYS",
+    "realStagingQuestions": 15,
+    "productionRealQuestions": 6,
     "sourceAndImageVerified": true,
     "rollbackRetained": true
   },
@@ -210,8 +206,8 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.170-beta",
-    "ownRealQuestions": 0,
+    "observedOnVersion": "0.7.178-beta",
+    "ownRealQuestions": 6,
     "paymentsActive": false,
     "futureAvailabilityGuaranteed": false
   },
@@ -1512,30 +1508,14 @@
     }
   },
   "latestRealBattery": {
-    "version": "0.7.148-beta",
-    "questions": 20,
-    "domains": {
-      "aifa": 8,
-      "normativa": 6,
-      "clinical": 6
-    },
-    "delivered": 18,
-    "usefulScoped": 11,
-    "partial": 7,
-    "failed": 2,
-    "resubmissions": 0,
-    "engineMedianSeconds": 45.965,
-    "engineMaximumSeconds": 196.242,
-    "actualRequestChatGroups": 14,
-    "plannedRequestChatGroups": 16,
-    "navigationDeviationsDeclared": true,
+    "version": "0.7.178-beta",
+    "questions": 6,
+    "passed": 6,
+    "environment": "RESTRICTED_BETA_AUTHENTICATED",
+    "separateRealStagingReplays": 15,
+    "separateRealStagingPassed": 15,
     "independentProfessionalReview": false,
-    "clinicalValidation": false,
-    "summary": {
-      "it": "Beta 148 invariata, accesso riservato e pagamenti inattivi. Completati 20 invii reali naturali:8 AIFA,6 Normativa,6 Clinical Evidence;18 risposte,11 utili nello scope documentale interno,7 parziali e 2 non pubblicate dal controllo finale. Mediana del motore circa 46 s, massimo 196 s; non misura di tempo risparmiato o confronto causale. La valutazione è assistita daAI, non indipendente o professionale. I casi includono contesti condivisi, con due variazioni di navigazione registrate. Lacune in instradamento misto, foglietti condivisi, copertura dei punti, attualità delle evidenze e latenza. Report sigillato e candidata 149 completa di governance, NON PUBBLICATA/NO-GO, senza correzioni comportamentali o proprie domande reali.16 voti,19 stati e 6 gate confermati.",
-      "en": "Beta 148 unchanged, restricted access and payments inactive. Completed 20 natural real submissions:8 AIFA,6 legal and 6 Clinical Evidence;18 answers,11 useful within internally checked documentary scope,7 partial and 2 withheld by final verification. Engine median about 46 s, maximum 196 s; not time-saving or causal-comparison evidence. AI-assisted appraisal, not independent or professional validation. Cases include shared contexts, with two recorded navigation deviations. Gaps remain in mixed routing, shared leaflets, question coverage, evidence currentness and latency. Sealed report and complete governance candidate 149, NOT DEPLOYED/NO-GO, with no behavioural correction or own real questions.16 scores,19 states and 6 gates retained."
-    },
-    "source": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency"
+    "clinicalValidation": false
   },
   "latestGovernanceCandidate": {
     "version": "0.7.149-beta",
@@ -1618,13 +1598,13 @@
     "appReference": "0.7.148-beta"
   },
   "latestCorrectiveRelease": {
-    "version": "0.7.170-beta",
+    "version": "0.7.178-beta",
     "summary": {
-      "it": "SOPHIA **0.7.170-beta** è attiva ad accesso riservato. Con un singolo PMID esplicito, Clinical Evidence apre prima lo studio indicato. Nelle sintesi verifica durata, riferimento temporale ed evento nei passaggi consultati e riporta in ricevuta l’uso dell’integrale. Il riconoscimento di AIC, MINSAN ed EAN distingue i codici di prodotto da recapiti e identificativi personali. Prima del rilascio sono passate sei prove mirate in staging, di cui quattro su tre studi e due sui codici. Superati 2.131 controlli Python offline, 514 verifiche del bridge e 78 controlli UI. Pagamenti inattivi. Valutazione professionale e misurazione dell’utilità sul campo pendenti.",
-      "en": "SOPHIA **0.7.170-beta** is the active restricted beta. With a single explicit PMID, Clinical Evidence opens the named study first. Summaries verify duration, time anchor and event against observed passages and record full-text use in the receipt. AIC, MINSAN and EAN recognition distinguishes product codes from contact details and personal identifiers. Six targeted staging cases passed before release, covering four questions across three studies and two code requests. Passed 2,131 offline Python tests, 514 bridge checks and 78 UI checks. Payments are disabled. Professional evaluation and measurement of usefulness in practice are pending."
+      "it": "SOPHIA **0.7.178-beta** è attiva ad accesso riservato. Le prove da banco hanno verificato AIC, MINSAN ed EAN, anche isolati e incrociati. Le fonti documentano separatamente identità AIFA e riscontro commerciale. Il percorso misto tiene distinti stampati ed evidenza clinica. La batteria ha riguardato 15 domande in beta 0.7.170 e 15 controprove in staging con fonti reali. Verificati 2.148 casi Python offline e 78 controlli UI. Pagamenti inattivi. La revisione professionale e la misurazione dell’utilità sul campo restano pendenti.",
+      "en": "SOPHIA **0.7.178-beta** is the active restricted beta. Pharmacy-counter cases checked AIC, MINSAN and EAN codes in isolation and cross-code questions. AIFA identity and commercial matches retain separate provenance. Mixed requests keep product documents and clinical evidence distinct. The session covered 15 questions on beta 0.7.170 and 15 staging replays with live sources. Checked 2,148 offline Python cases and 78 UI checks. Payments are disabled. Professional review and measurement of usefulness in practice remain pending."
     },
-    "realStagingQuestions": 6,
-    "productionRealQuestions": 0,
+    "realStagingQuestions": 15,
+    "productionRealQuestions": 6,
     "priorRealCasesRemainHistorical": true
   },
   "historicalBefore20261105": {
@@ -1786,5 +1766,127 @@
       "humanClinicalValidation": false
     }
   },
-  "currentVersionRealStagingQuestions": 6
+  "currentVersionRealStagingQuestions": 6,
+  "historicalBefore178": {
+    "appVersion": "0.7.170-beta",
+    "technicalRepair": "EXACT_STUDY_SUMMARY_WINDOWS_AND_TYPED_PRODUCT_CODES",
+    "qualification": {
+      "version": "0.7.170-beta",
+      "pythonTestsPassed": 2131,
+      "bridgeChecksPassed": 514,
+      "interfaceChecksPassed": 78,
+      "outboundNetworkBlocked": true,
+      "ownRealUIQuestions": 0,
+      "realStagingQuestions": 6,
+      "realStagingPassedWithinScope": 6,
+      "humanClinicalValidation": false,
+      "originalDocumentaryQuestionPassed": true
+    },
+    "deployment": {
+      "version": "0.7.170-beta",
+      "state": "RESTRICTED_BETA_RELEASED_SCOPED_REAL_STAGING_QUALIFICATION",
+      "realStagingQuestions": 6,
+      "productionRealQuestions": 0,
+      "sourceAndImageVerified": true,
+      "rollbackRetained": true
+    },
+    "availability": {
+      "observedOnVersion": "0.7.170-beta",
+      "ownRealQuestions": 0,
+      "paymentsActive": false,
+      "futureAvailabilityGuaranteed": false
+    },
+    "lastRealBattery": {
+      "version": "0.7.145-beta",
+      "submissions": 10,
+      "aifa": 10,
+      "delivered": 8,
+      "usefulScoped": 8,
+      "partial": 0,
+      "failed": 2,
+      "review": "AI_ASSISTED_DOCUMENTARY_SCOPE_NOT_INDEPENDENT_PROFESSIONAL_VALIDATION",
+      "notCurrent147": true
+    },
+    "latestRealBattery": {
+      "version": "0.7.148-beta",
+      "questions": 20,
+      "domains": {
+        "aifa": 8,
+        "normativa": 6,
+        "clinical": 6
+      },
+      "delivered": 18,
+      "usefulScoped": 11,
+      "partial": 7,
+      "failed": 2,
+      "resubmissions": 0,
+      "engineMedianSeconds": 45.965,
+      "engineMaximumSeconds": 196.242,
+      "actualRequestChatGroups": 14,
+      "plannedRequestChatGroups": 16,
+      "navigationDeviationsDeclared": true,
+      "independentProfessionalReview": false,
+      "clinicalValidation": false,
+      "summary": {
+        "it": "Beta 148 invariata, accesso riservato e pagamenti inattivi. Completati 20 invii reali naturali:8 AIFA,6 Normativa,6 Clinical Evidence;18 risposte,11 utili nello scope documentale interno,7 parziali e 2 non pubblicate dal controllo finale. Mediana del motore circa 46 s, massimo 196 s; non misura di tempo risparmiato o confronto causale. La valutazione è assistita daAI, non indipendente o professionale. I casi includono contesti condivisi, con due variazioni di navigazione registrate. Lacune in instradamento misto, foglietti condivisi, copertura dei punti, attualità delle evidenze e latenza. Report sigillato e candidata 149 completa di governance, NON PUBBLICATA/NO-GO, senza correzioni comportamentali o proprie domande reali.16 voti,19 stati e 6 gate confermati.",
+        "en": "Beta 148 unchanged, restricted access and payments inactive. Completed 20 natural real submissions:8 AIFA,6 legal and 6 Clinical Evidence;18 answers,11 useful within internally checked documentary scope,7 partial and 2 withheld by final verification. Engine median about 46 s, maximum 196 s; not time-saving or causal-comparison evidence. AI-assisted appraisal, not independent or professional validation. Cases include shared contexts, with two recorded navigation deviations. Gaps remain in mixed routing, shared leaflets, question coverage, evidence currentness and latency. Sealed report and complete governance candidate 149, NOT DEPLOYED/NO-GO, with no behavioural correction or own real questions.16 scores,19 states and 6 gates retained."
+      },
+      "source": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency"
+    },
+    "website": {
+      "publication": 124,
+      "snapshot": "2026-11-05-r91",
+      "surveyGeography": "respondent_declared_region",
+      "visitGeography": "network_or_permissioned_device_estimate",
+      "separateDatasets": true,
+      "physicalAccuracyValidated": false,
+      "privateAreaAnnotations": "editor_opening_confirmed_by_owner",
+      "internalTrafficExclusion": "EXPLICIT_OWNER_PROFILE_AND_RECOGNISED_AUTOMATION_NO_IP_GUESSING",
+      "interface": "unified_regional_map_and_prioritized_owner_dashboard",
+      "surveyNotice": "sophia-public-2026-10-18-05",
+      "paymentPreferences": [
+        "monthly",
+        "annual",
+        "usage",
+        "unsure"
+      ],
+      "geographyTestsExcluded": true,
+      "mapReadout": "inline_below_map_no_overlay",
+      "surveyInterface": "survey_with_optional_waitlist_initially_selected",
+      "emailRequired": "WAITLIST_OR_EXPLICIT_INTERVIEW_ONLY",
+      "surveyAndWaitlistIndependent": true,
+      "home": "RESTORED_STEALTH_SURVEY_NO_APP_ACCESS_CTA",
+      "privateAppEntry": {
+        "placement": "TOP_RIGHT_PERSISTENT",
+        "pages": [
+          "/riservata",
+          "/riservata/partnership"
+        ],
+        "label": "Apri SOPHIA",
+        "opensNewTab": true,
+        "appCodeChanged": false
+      },
+      "scoreReview": {
+        "components": 16,
+        "clinicalEvidence": {
+          "before": 3,
+          "after": 4
+        },
+        "otherScoresUnchanged": 15,
+        "architectureStatesUnchanged": 19,
+        "roadmapGatesUnchanged": 6
+      }
+    },
+    "latestCorrectiveRelease": {
+      "version": "0.7.170-beta",
+      "summary": {
+        "it": "SOPHIA **0.7.170-beta** è attiva ad accesso riservato. Con un singolo PMID esplicito, Clinical Evidence apre prima lo studio indicato. Nelle sintesi verifica durata, riferimento temporale ed evento nei passaggi consultati e riporta in ricevuta l’uso dell’integrale. Il riconoscimento di AIC, MINSAN ed EAN distingue i codici di prodotto da recapiti e identificativi personali. Prima del rilascio sono passate sei prove mirate in staging, di cui quattro su tre studi e due sui codici. Superati 2.131 controlli Python offline, 514 verifiche del bridge e 78 controlli UI. Pagamenti inattivi. Valutazione professionale e misurazione dell’utilità sul campo pendenti.",
+        "en": "SOPHIA **0.7.170-beta** is the active restricted beta. With a single explicit PMID, Clinical Evidence opens the named study first. Summaries verify duration, time anchor and event against observed passages and record full-text use in the receipt. AIC, MINSAN and EAN recognition distinguishes product codes from contact details and personal identifiers. Six targeted staging cases passed before release, covering four questions across three studies and two code requests. Passed 2,131 offline Python tests, 514 bridge checks and 78 UI checks. Payments are disabled. Professional evaluation and measurement of usefulness in practice are pending."
+      },
+      "realStagingQuestions": 6,
+      "productionRealQuestions": 0,
+      "priorRealCasesRemainHistorical": true
+    },
+    "manualLiveAcceptance": "RESTRICTED_BETA_RELEASED_SCOPED_REAL_STAGING_QUALIFICATION"
+  }
 }
