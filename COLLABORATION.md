@@ -1,8 +1,8 @@
 # Collaboration brief
 
-## Current status — 3 November 2026
+## Current status — 5 November 2026
 
-Restricted corrective beta 150. Source tools remain available for mixed questions; planning and coverage for explicitly compound requests, clinical review repair ownership and an omitted inhalation route in a PIL title improved. Observed stages follow the viewport; answers enter with gentler movement and fade. Passed 2,104 Python and 74 UI tests with outbound network blocked, plus a local reread of a retained official PDF. No new real question on 150: completeness, latency and case resolution remain unmeasured. Historical 148: 20 submissions, 18 answers, 11 useful within internally checked documentary scope, 7 partial and 2 withheld; AI-assisted appraisal without professional or clinical validation. Same bridges and configuration, payments inactive. 16 scores, 19 states and 6 gates retained.
+SOPHIA **0.7.166-beta** is available with restricted access. With a single explicit PMID, Clinical Evidence reads the named study first, seeks accessible full text, and records whether it was used in the receipt. Drafting, review and receipt verification distinguish study time windows from source currentness. Two targeted checks on 0.7.164 documented full-text use for the same study; one exposed a methodological imprecision that led to subsequent fixes. Checks on 0.7.166 include 2,127 Python tests, 511 bridge checks and 78 interface checks. Three Lantus packs were checked with their SmPC and PIL in a 0.7.158 replay. Payments are disabled; no human clinical validation or overall accuracy estimate.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
 
