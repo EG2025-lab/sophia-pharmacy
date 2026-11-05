@@ -2,7 +2,7 @@
 
 ## Current status — 5 November 2026
 
-SOPHIA **0.7.170-beta** is the active restricted beta. With a single explicit PMID, Clinical Evidence opens the named study first. Summaries verify duration, time anchor and event against observed passages and record full-text use in the receipt. AIC, MINSAN and EAN recognition distinguishes product codes from contact details and personal identifiers. Six targeted staging cases passed before release, covering four questions across three studies and two code requests. Passed 2,131 offline Python tests, 514 bridge checks and 78 UI checks. Payments are disabled. Professional evaluation and measurement of usefulness in practice are pending.
+SOPHIA **0.7.178-beta** is the active restricted beta. Pharmacy-counter cases checked AIC, MINSAN and EAN codes in isolation and cross-code questions. AIFA identity and commercial matches retain separate provenance. Mixed requests keep product documents and clinical evidence distinct. The session covered 15 questions on beta 0.7.170 and 15 staging replays with live sources. Checked 2,148 offline Python cases and 78 UI checks. Payments are disabled. Professional review and measurement of usefulness in practice remain pending.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
 
