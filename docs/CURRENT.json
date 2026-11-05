@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-05",
-  "appVersion": "0.7.164-beta",
+  "appVersion": "0.7.170-beta",
   "publicAppAccess": false,
-  "technicalRepair": "EXACT_PMID_DOCUMENTARY_READ_RESTORED_AFTER_REPLAY",
+  "technicalRepair": "EXACT_STUDY_SUMMARY_WINDOWS_AND_TYPED_PRODUCT_CODES",
   "qualification": {
-    "version": "0.7.164-beta",
-    "pythonTestsPassed": 2126,
+    "version": "0.7.170-beta",
+    "pythonTestsPassed": 2131,
+    "bridgeChecksPassed": 514,
     "interfaceChecksPassed": 78,
     "outboundNetworkBlocked": true,
-    "ownRealUIQuestions": 2,
-    "providerCalls": 5,
+    "ownRealUIQuestions": 0,
+    "realStagingQuestions": 6,
+    "realStagingPassedWithinScope": 6,
     "humanClinicalValidation": false,
-    "allRealTestsPassed": false,
-    "realOutcomeResolutionValidated": false,
     "originalDocumentaryQuestionPassed": true
   },
-  "manualLiveAcceptance": "SCOPED_REPLAY_ORIGINAL_PASS_SUMMARY_PARTIAL",
+  "manualLiveAcceptance": "RESTRICTED_BETA_RELEASED_SCOPED_REAL_STAGING_QUALIFICATION",
   "lastRealBattery": {
     "version": "0.7.145-beta",
     "submissions": 10,
@@ -29,8 +29,8 @@
     "notCurrent147": true
   },
   "website": {
-    "publication": 123,
-    "snapshot": "2026-11-05-r90",
+    "publication": 124,
+    "snapshot": "2026-11-05-r91",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -132,14 +132,14 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.164-beta",
-    "state": "RESTRICTED_BETA_RESTORED_AFTER_SCOPED_REPLAY",
-    "ownRealReplay": true,
-    "ownRealFinalAnswers": 2,
+    "version": "0.7.170-beta",
+    "state": "RESTRICTED_BETA_RELEASED_SCOPED_REAL_STAGING_QUALIFICATION",
+    "realStagingQuestions": 6,
+    "productionRealQuestions": 0,
     "sourceAndImageVerified": true,
     "rollbackRetained": true
   },
-  "currentVersionRealModelTests": 2,
+  "currentVersionRealModelTests": 0,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
@@ -210,8 +210,8 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.164-beta",
-    "ownRealQuestions": 2,
+    "observedOnVersion": "0.7.170-beta",
+    "ownRealQuestions": 0,
     "paymentsActive": false,
     "futureAvailabilityGuaranteed": false
   },
@@ -248,9 +248,10 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "observedOnVersion": "0.7.164-beta",
-    "ownRealQuestions": 2,
-    "delivered": 2,
+    "observedOnVersion": "0.7.170-beta",
+    "scope": "STAGING",
+    "ownRealQuestions": 6,
+    "delivered": 6,
     "futureAvailabilityGuaranteed": false
   },
   "latestCandidate": {
@@ -1617,13 +1618,13 @@
     "appReference": "0.7.148-beta"
   },
   "latestCorrectiveRelease": {
-    "version": "0.7.164-beta",
+    "version": "0.7.170-beta",
     "summary": {
-      "it": "SOPHIA **0.7.164-beta** è la versione attiva ad accesso riservato. Con un singolo PMID esplicito, il percorso Clinical Evidence apre prima lo studio indicato, cerca l’integrale accessibile e registra se è stato usato. Nel replay della domanda originale ha risposto ai due dettagli richiesti usando l’integrale dell’editore. Una sintesi dello stesso studio ha descritto la finestra del prelievo in modo impreciso. Le successive 0.7.165 e 0.7.166 hanno superato i controlli tecnici ma non il replay richiesto, quindi è stata ripristinata la 0.7.164. Controlli 0.7.164: 2.126 Python e 78 UI. Tre confezioni Lantus, con RCP e FI, verificate in un replay sulla 0.7.158. Pagamenti inattivi; nessuna validazione clinica umana o stima di accuratezza complessiva.",
-      "en": "SOPHIA **0.7.164-beta** is the active restricted beta. With a single explicit PMID, Clinical Evidence opens the named study first, seeks accessible full text, and records whether it was used. A replay of the original question returned both requested details using the publisher’s full text. A summary of the same study described the measurement window imprecisely. Subsequent builds 0.7.165 and 0.7.166 passed technical checks but did not pass the required replay, so 0.7.164 was restored. Checks on 0.7.164: 2,126 Python and 78 UI. Three Lantus packs were checked with their SmPC and PIL in a 0.7.158 replay. Payments are disabled; no human clinical validation or overall accuracy estimate."
+      "it": "SOPHIA **0.7.170-beta** è attiva ad accesso riservato. Con un singolo PMID esplicito, Clinical Evidence apre prima lo studio indicato. Nelle sintesi verifica durata, riferimento temporale ed evento nei passaggi consultati e riporta in ricevuta l’uso dell’integrale. Il riconoscimento di AIC, MINSAN ed EAN distingue i codici di prodotto da recapiti e identificativi personali. Prima del rilascio sono passate sei prove mirate in staging, di cui quattro su tre studi e due sui codici. Superati 2.131 controlli Python offline, 514 verifiche del bridge e 78 controlli UI. Pagamenti inattivi. Valutazione professionale e misurazione dell’utilità sul campo pendenti.",
+      "en": "SOPHIA **0.7.170-beta** is the active restricted beta. With a single explicit PMID, Clinical Evidence opens the named study first. Summaries verify duration, time anchor and event against observed passages and record full-text use in the receipt. AIC, MINSAN and EAN recognition distinguishes product codes from contact details and personal identifiers. Six targeted staging cases passed before release, covering four questions across three studies and two code requests. Passed 2,131 offline Python tests, 514 bridge checks and 78 UI checks. Payments are disabled. Professional evaluation and measurement of usefulness in practice are pending."
     },
-    "sourceManifestSHA256": "ac432325fa9dba5210fa0e7cf88046c858408e4d9c053701a10a00d9adb6baf4",
-    "newRealQuestions": 2,
+    "realStagingQuestions": 6,
+    "productionRealQuestions": 0,
     "priorRealCasesRemainHistorical": true
   },
   "historicalBefore20261105": {
@@ -1700,7 +1701,7 @@
     }
   },
   "currentExactArticleWorkflow": {
-    "appVersion": "0.7.164-beta",
+    "appVersion": "0.7.170-beta",
     "firstRead": "EXPLICIT_PUBMED_ID",
     "fullTextReceipt": [
       "USED",
@@ -1708,15 +1709,82 @@
       "UNAVAILABLE"
     ],
     "currentScopedTests": {
-      "studyCount": 1,
+      "scope": "STAGING",
+      "studyCount": 3,
+      "passedQuestions": 4,
       "originalQuestion": "PASS",
-      "summary": "PARTIAL",
-      "bothUsedPublisherFullText": true
+      "methodWindows": "PASS_WITH_REGAIN_ANCHOR_LIMIT",
+      "fullTextUsedInAllFourReceipts": true
     },
-    "laterBuildsWithdrawn": [
-      "0.7.165-beta",
-      "0.7.166-beta"
-    ],
     "humanClinicalValidation": false
-  }
+  },
+  "historicalBefore170": {
+    "appVersion": "0.7.164-beta",
+    "technicalRepair": "EXACT_PMID_DOCUMENTARY_READ_RESTORED_AFTER_REPLAY",
+    "qualification": {
+      "version": "0.7.164-beta",
+      "pythonTestsPassed": 2126,
+      "interfaceChecksPassed": 78,
+      "outboundNetworkBlocked": true,
+      "ownRealUIQuestions": 2,
+      "providerCalls": 5,
+      "humanClinicalValidation": false,
+      "allRealTestsPassed": false,
+      "realOutcomeResolutionValidated": false,
+      "originalDocumentaryQuestionPassed": true
+    },
+    "manualLiveAcceptance": "SCOPED_REPLAY_ORIGINAL_PASS_SUMMARY_PARTIAL",
+    "deployment": {
+      "version": "0.7.164-beta",
+      "state": "RESTRICTED_BETA_RESTORED_AFTER_SCOPED_REPLAY",
+      "ownRealReplay": true,
+      "ownRealFinalAnswers": 2,
+      "sourceAndImageVerified": true,
+      "rollbackRetained": true
+    },
+    "availability": {
+      "observedOnVersion": "0.7.164-beta",
+      "ownRealQuestions": 2,
+      "paymentsActive": false,
+      "futureAvailabilityGuaranteed": false
+    },
+    "providerAvailability": {
+      "observedOnVersion": "0.7.164-beta",
+      "ownRealQuestions": 2,
+      "delivered": 2,
+      "futureAvailabilityGuaranteed": false
+    },
+    "currentVersionRealModelTests": 2,
+    "latestCorrectiveRelease": {
+      "version": "0.7.164-beta",
+      "summary": {
+        "it": "SOPHIA **0.7.164-beta** è la versione attiva ad accesso riservato. Con un singolo PMID esplicito, il percorso Clinical Evidence apre prima lo studio indicato, cerca l’integrale accessibile e registra se è stato usato. Nel replay della domanda originale ha risposto ai due dettagli richiesti usando l’integrale dell’editore. Una sintesi dello stesso studio ha descritto la finestra del prelievo in modo impreciso. Le successive 0.7.165 e 0.7.166 hanno superato i controlli tecnici ma non il replay richiesto, quindi è stata ripristinata la 0.7.164. Controlli 0.7.164: 2.126 Python e 78 UI. Tre confezioni Lantus, con RCP e FI, verificate in un replay sulla 0.7.158. Pagamenti inattivi; nessuna validazione clinica umana o stima di accuratezza complessiva.",
+        "en": "SOPHIA **0.7.164-beta** is the active restricted beta. With a single explicit PMID, Clinical Evidence opens the named study first, seeks accessible full text, and records whether it was used. A replay of the original question returned both requested details using the publisher’s full text. A summary of the same study described the measurement window imprecisely. Subsequent builds 0.7.165 and 0.7.166 passed technical checks but did not pass the required replay, so 0.7.164 was restored. Checks on 0.7.164: 2,126 Python and 78 UI. Three Lantus packs were checked with their SmPC and PIL in a 0.7.158 replay. Payments are disabled; no human clinical validation or overall accuracy estimate."
+      },
+      "sourceManifestSHA256": "ac432325fa9dba5210fa0e7cf88046c858408e4d9c053701a10a00d9adb6baf4",
+      "newRealQuestions": 2,
+      "priorRealCasesRemainHistorical": true
+    },
+    "currentExactArticleWorkflow": {
+      "appVersion": "0.7.164-beta",
+      "firstRead": "EXPLICIT_PUBMED_ID",
+      "fullTextReceipt": [
+        "USED",
+        "READ_NOT_USED",
+        "UNAVAILABLE"
+      ],
+      "currentScopedTests": {
+        "studyCount": 1,
+        "originalQuestion": "PASS",
+        "summary": "PARTIAL",
+        "bothUsedPublisherFullText": true
+      },
+      "laterBuildsWithdrawn": [
+        "0.7.165-beta",
+        "0.7.166-beta"
+      ],
+      "humanClinicalValidation": false
+    }
+  },
+  "currentVersionRealStagingQuestions": 6
 }
