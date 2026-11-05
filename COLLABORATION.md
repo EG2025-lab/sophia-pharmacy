@@ -2,7 +2,7 @@
 
 ## Current status — 5 November 2026
 
-SOPHIA **0.7.164-beta** is the active restricted beta. With a single explicit PMID, Clinical Evidence opens the named study first, seeks accessible full text, and records whether it was used. A replay of the original question returned both requested details using the publisher’s full text. A summary of the same study described the measurement window imprecisely. Subsequent builds 0.7.165 and 0.7.166 passed technical checks but did not pass the required replay, so 0.7.164 was restored. Checks on 0.7.164: 2,126 Python and 78 UI. Three Lantus packs were checked with their SmPC and PIL in a 0.7.158 replay. Payments are disabled; no human clinical validation or overall accuracy estimate.
+SOPHIA **0.7.170-beta** is the active restricted beta. With a single explicit PMID, Clinical Evidence opens the named study first. Summaries verify duration, time anchor and event against observed passages and record full-text use in the receipt. AIC, MINSAN and EAN recognition distinguishes product codes from contact details and personal identifiers. Six targeted staging cases passed before release, covering four questions across three studies and two code requests. Passed 2,131 offline Python tests, 514 bridge checks and 78 UI checks. Payments are disabled. Professional evaluation and measurement of usefulness in practice are pending.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
 
