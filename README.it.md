@@ -2,7 +2,7 @@
 
 ## Stato corrente — 5 novembre 2026
 
-SOPHIA **0.7.166-beta** è disponibile ad accesso riservato. Con un singolo PMID esplicito, il percorso Clinical Evidence legge prima lo studio indicato, cerca l’integrale accessibile e registra in ricevuta se è stato usato. Composizione, revisione e verifica della ricevuta distinguono le finestre temporali riportate nello studio dall’attualità della fonte. Due prove mirate sulla 0.7.164 hanno documentato l’uso dell’integrale dello stesso studio; una ha evidenziato un’imprecisione metodologica che ha motivato le correzioni successive. I controlli sulla 0.7.166 includono 2.127 test Python, 511 verifiche del bridge e 78 controlli UI. AIFA: tre confezioni Lantus, con RCP e FI, verificate in un replay sulla 0.7.158. Pagamenti inattivi; nessuna validazione clinica umana o stima di accuratezza complessiva.
+SOPHIA **0.7.164-beta** è la versione attiva ad accesso riservato. Con un singolo PMID esplicito, il percorso Clinical Evidence apre prima lo studio indicato, cerca l’integrale accessibile e registra se è stato usato. Nel replay della domanda originale ha risposto ai due dettagli richiesti usando l’integrale dell’editore. Una sintesi dello stesso studio ha descritto la finestra del prelievo in modo impreciso. Le successive 0.7.165 e 0.7.166 hanno superato i controlli tecnici ma non il replay richiesto, quindi è stata ripristinata la 0.7.164. Controlli 0.7.164: 2.126 Python e 78 UI. Tre confezioni Lantus, con RCP e FI, verificate in un replay sulla 0.7.158. Pagamenti inattivi; nessuna validazione clinica umana o stima di accuratezza complessiva.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
 
