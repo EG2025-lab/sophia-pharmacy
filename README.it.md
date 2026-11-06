@@ -2,6 +2,20 @@
 
 ## Stato corrente — 6 novembre 2026
 
+SOPHIA **0.7.190-beta** è pubblicata in beta riservata. La lettura di RCP e FI tramite API AIFA ora usa indice, paragrafi pertinenti e rimandi, con controllo dell’identità della confezione e lettura completa quando necessaria. Corrette cause di risposte incomplete e stabilizzata la cronologia laterale; conservati il salvataggio delle domande ammesse dopo errore e la risposta al testo selezionato.
+
+**2.235 test Python, 85 UI e 541 bridge superati; 42 test bridge saltati localmente.** Il self-test dell’SDK nel container è passato. Negli 84 confronti su sette confezioni sono stati conservati tutti i passaggi selezionati dal lettore completo. Sei tentativi locali con modello reale durante lo sviluppo: quattro risposte e due blocchi intermedi prima della correzione; l’ultimo caso con dosaggio ambiguo richiede un chiarimento. Un conflitto tra confezione e stampato nella fonte resta aperto. Queste prove non sono una nuova batteria formale sulla beta pubblicata, un benchmark di velocità o validazione clinica.
+
+Le 16 valutazioni sono riesaminate e confermate; nessun gate di diffusione avanzato. Modello, accessi e budget invariati. Accettazione professionale, copertura generale, carico e sicurezza indipendente restano da verificare.
+
+[Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation — historical
+
+## Stato corrente — 6 novembre 2026
+
 SOPHIA **0.7.185-beta** è pubblicata in beta riservata. Corrette letture AIFA, recupero della conversazione, selezione degli studi e coerenza delle ricevute degli integrali; aggiunto un singolo recupero controllato degli errori temporanei del modello anche durante la verifica. **2.848 controlli interni superati** sulla correzione finale. Sono stati ripetuti soltanto i cinque casi precedentemente non riusciti: gli esiti finali sono utili nel perimetro verificato, su versioni correttive successive 182–185, dopo 11 tentativi complessivi di cui due interrotti da errori del provider. L’ultimo caso misto sulla 185 è completato: AIFA in 25,3 s, risposta in 50,4 s. Il testo integrale è stato usato nel caso clinico sulla 184; il caso misto sulla 185 è basato su abstract e lo dichiara. Non sono dieci nuovi test, un confronto causale di velocità o una validazione clinica. Le 16 valutazioni qualitative sono state riesaminate e confermate; nessun gate di diffusione avanzato. La RC186 è solo continuità documentale, NO-GO e non pubblicata. Restano aperti valutazione professionale indipendente, copertura, attualità, disponibilità delle fonti, carico e riqualificazione del monitoraggio.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
