@@ -2,6 +2,20 @@
 
 ## Current status — 6 November 2026
 
+SOPHIA **0.7.190-beta** is deployed in restricted beta. SmPC and leaflet reading through AIFA APIs now uses headings, relevant sections and cross-references, with exact pack identity checks and full reading when required. Causes of incomplete answers addressed and sidebar history stabilized; admitted questions remain saved after failure and selected-text replies are preserved.
+
+**2,235 Python, 85 UI and 541 bridge tests passed; 42 bridge tests skipped locally.** The container SDK self-test passed. All passages selected by the full reader were retained in 84 comparisons across seven packs. Six local live-model attempts during development yielded four responses and two intermediate blocks before repair; the final ambiguous-dose case asks for clarification. An upstream pack/document conflict remains open. These tests are not a new formal battery on the deployed beta, a speed benchmark or clinical validation.
+
+All 16 ratings reviewed and retained; no rollout gates advanced. Model, access and budgets unchanged. Professional acceptance, general coverage, load and independent security remain unverified.
+
+[Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation — historical
+
+## Current status — 6 November 2026
+
 SOPHIA **0.7.185-beta** is deployed in restricted beta. AIFA reading, conversation recall, study selection and full-text receipt consistency repaired; one controlled recovery of transient model failures now also covers verification. **2,848 internal checks passed** on the final correction. Only the five previously unsuccessful cases were replayed: final outcomes are useful within the checked scope across corrective versions 182–185, after 11 total attempts including two provider failures. The final mixed case on 185 completed: AIFA in 25.3 s and the answer in 50.4 s. Full text was used in the clinical case on 184; the mixed case on 185 is transparently abstract-based. These are not ten new tests, a causal speed comparison or clinical validation. All 16 qualitative ratings were reviewed and retained; no rollout gate advanced. RC186 is governance continuity only, NO-GO and not deployed. Independent professional evaluation, evidence coverage and currency, source availability, load and monitoring requalification remain open.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
