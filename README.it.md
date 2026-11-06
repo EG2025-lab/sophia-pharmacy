@@ -2,6 +2,16 @@
 
 ## Stato corrente — 6 novembre 2026
 
+SOPHIA **0.7.185-beta** è pubblicata in beta riservata. Corrette letture AIFA, recupero della conversazione, selezione degli studi e coerenza delle ricevute degli integrali; aggiunto un singolo recupero controllato degli errori temporanei del modello anche durante la verifica. **2.848 controlli interni superati** sulla correzione finale. Sono stati ripetuti soltanto i cinque casi precedentemente non riusciti: gli esiti finali sono utili nel perimetro verificato, su versioni correttive successive 182–185, dopo 11 tentativi complessivi di cui due interrotti da errori del provider. L’ultimo caso misto sulla 185 è completato: AIFA in 25,3 s, risposta in 50,4 s. Il testo integrale è stato usato nel caso clinico sulla 184; il caso misto sulla 185 è basato su abstract e lo dichiara. Non sono dieci nuovi test, un confronto causale di velocità o una validazione clinica. Le 16 valutazioni qualitative sono state riesaminate e confermate; nessun gate di diffusione avanzato. La RC186 è solo continuità documentale, NO-GO e non pubblicata. Restano aperti valutazione professionale indipendente, copertura, attualità, disponibilità delle fonti, carico e riqualificazione del monitoraggio.
+
+[Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation — historical
+
+## Stato corrente — 6 novembre 2026
+
 SOPHIA **0.7.180-beta** è pubblicata in beta riservata. Dieci domande inviate nella chat reale: cinque risposte utili nel perimetro documentale verificato, tre parziali e due test falliti. Nove risposte restituite e un errore tecnico; l’altro fallimento riguarda il recupero del contesto. Nel quesito misto la parte AIFA è comparsa prima della clinica. Restano aperti completamento, memoria tra argomenti, lettura dei documenti condivisi e selezione/integrale degli studi. Mediana del ciclo richiesta server 32,7 secondi, massimo 78,6: non è una misura di utilità né un confronto causale. Superati 41 controlli interni della pubblicazione; i 2.734 della base 179 sono evidenza storica distinta. Cronologia ridotta da 6 a 5/10; altre 15 valutazioni e gate confermati. Candidata 181 di sola continuità, NO-GO e non pubblicata, senza correzioni comportamentali. Nessuna validazione clinica umana.
 
 [Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
