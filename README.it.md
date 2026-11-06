@@ -1,5 +1,15 @@
 # SOPHIA
 
+## Stato corrente — 6 novembre 2026
+
+SOPHIA **0.7.180-beta** è pubblicata in beta riservata. Dieci domande inviate nella chat reale: cinque risposte utili nel perimetro documentale verificato, tre parziali e due test falliti. Nove risposte restituite e un errore tecnico; l’altro fallimento riguarda il recupero del contesto. Nel quesito misto la parte AIFA è comparsa prima della clinica. Restano aperti completamento, memoria tra argomenti, lettura dei documenti condivisi e selezione/integrale degli studi. Mediana del ciclo richiesta server 32,7 secondi, massimo 78,6: non è una misura di utilità né un confronto causale. Superati 41 controlli interni della pubblicazione; i 2.734 della base 179 sono evidenza storica distinta. Cronologia ridotta da 6 a 5/10; altre 15 valutazioni e gate confermati. Candidata 181 di sola continuità, NO-GO e non pubblicata, senza correzioni comportamentali. Nessuna validazione clinica umana.
+
+[Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Documentazione precedente — storica
+
 ## Stato corrente — 5 novembre 2026
 
 SOPHIA **0.7.178-beta** è attiva ad accesso riservato. Le prove da banco hanno verificato AIC, MINSAN ed EAN, anche isolati e incrociati. Le fonti documentano separatamente identità AIFA e riscontro commerciale. Il percorso misto tiene distinti stampati ed evidenza clinica. La batteria ha riguardato 15 domande in beta 0.7.170 e 15 controprove in staging con fonti reali. Verificati 2.148 casi Python offline e 78 controlli UI. Pagamenti inattivi. La revisione professionale e la misurazione dell’utilità sul campo restano pendenti.
