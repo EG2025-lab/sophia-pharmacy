@@ -1,36 +1,37 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-05",
-  "appVersion": "0.7.178-beta",
+  "reviewedAt": "2026-11-06",
+  "appVersion": "0.7.180-beta",
   "publicAppAccess": false,
-  "technicalRepair": "TYPED_PRODUCT_CODE_ROUTING_AND_SCOPED_SOURCE_RECOVERY",
+  "technicalRepair": "ARCHITECTURE179_PUBLISHED_WITH_UNRESOLVED_REAL_TEST_FAILURES",
   "qualification": {
-    "version": "0.7.178-beta",
-    "pythonTestsPassed": 2148,
-    "bridgeChecksPassed": 514,
-    "interfaceChecksPassed": 78,
-    "outboundNetworkBlocked": true,
-    "ownRealUIQuestions": 6,
-    "realStagingQuestions": 15,
-    "realStagingPassedWithinScope": 15,
-    "humanClinicalValidation": false,
-    "originalDocumentaryQuestionPassed": true,
-    "bridgeChecksScope": "INHERITED_IDENTICAL_BRIDGE",
-    "browserBetaPassedWithinScope": 6
+    "version": "0.7.180-beta",
+    "freshInternalChecksPassed": 41,
+    "historicalParent179Checks": 2734,
+    "parentChecksNotRerun": true,
+    "ownRealUIQuestions": 10,
+    "humanClinicalValidation": false
   },
-  "manualLiveAcceptance": "SIX_SCOPED_OWNER_BROWSER_CASES_NO_INDEPENDENT_PROFESSIONAL_ACCEPTANCE",
+  "manualLiveAcceptance": "COMPLETED_WITH_UNRESOLVED_FAILURES",
   "lastRealBattery": {
-    "version": "0.7.170-beta",
-    "submissions": 15,
-    "passed": 7,
-    "commercialGaps": 4,
-    "falseBlocks": 3,
-    "timeouts": 1,
-    "review": "SCOPED_DOCUMENTARY_TESTS_NO_INDEPENDENT_PROFESSIONAL_VALIDATION"
+    "version": "0.7.180-beta",
+    "questions": 10,
+    "delivered": 9,
+    "usefulScoped": 5,
+    "partial": 3,
+    "failed": 2,
+    "technicalFailure": 1,
+    "resubmissions": 0,
+    "transport": "REAL_BROWSER_UI_RESTRICTED_BETA",
+    "requestLifecycleMedianSeconds": 32.672,
+    "requestLifecycleMaximumSeconds": 78.579,
+    "allPassed": false,
+    "independentProfessionalReview": false,
+    "clinicalValidation": false
   },
   "website": {
-    "publication": 125,
-    "snapshot": "2026-11-05-r92",
+    "publication": 126,
+    "snapshot": "2026-11-06-r93",
     "surveyGeography": "respondent_declared_region",
     "visitGeography": "network_or_permissioned_device_estimate",
     "separateDatasets": true,
@@ -63,7 +64,11 @@
     },
     "scoreReview": {
       "components": 16,
-      "numericScoresChanged": 0,
+      "history": {
+        "before": 6,
+        "after": 5
+      },
+      "otherScoresUnchanged": 15,
       "architectureStatesUnchanged": 19,
       "roadmapGatesUnchanged": 6
     }
@@ -128,14 +133,13 @@
     "candidates": "AWAITING_REVIEW"
   },
   "deployment": {
-    "version": "0.7.178-beta",
-    "state": "RESTRICTED_BETA_WITH_15_REAL_STAGING_AND_6_LIVE_REPLAYS",
-    "realStagingQuestions": 15,
-    "productionRealQuestions": 6,
+    "version": "0.7.180-beta",
+    "state": "RESTRICTED_BETA_PUBLISHED_MIXED_TEST_OUTCOMES",
+    "productionRealQuestions": 10,
     "sourceAndImageVerified": true,
     "rollbackRetained": true
   },
-  "currentVersionRealModelTests": 0,
+  "currentVersionRealModelTests": 10,
   "model": {
     "default": "gpt-6.1-sol",
     "defaultReasoning": "low",
@@ -172,7 +176,10 @@
     "curatedMethodLessons": 14,
     "recentConversationContextMaxMessages": 8,
     "rawHistoricChatRAG": false,
-    "automaticClinicalLessonApproval": false
+    "automaticClinicalLessonApproval": false,
+    "hashedSameChatIndexMaxMessages": 96,
+    "additionalReadLimit": 4,
+    "recallAcrossTopics": "FAILED_IN_UI_CAUSE_REPRODUCED_OFFLINE"
   },
   "accountLegacyHandling": "EXISTING_AUTHORIZED_MEMBERS_CAN_OPEN_PROFILE_AND_EXPERIENCE_WITHOUT_CREATING_A_CREDIT_ACCOUNT",
   "historyPolicy": "CURRENT_ONLY_PRIOR_SNAPSHOTS_PRESERVED_IN_GIT_COMMITS_NOT_RECURSIVELY_EMBEDDED",
@@ -206,8 +213,9 @@
     "actual131GeneralSavingsEstablished": false
   },
   "availability": {
-    "observedOnVersion": "0.7.178-beta",
-    "ownRealQuestions": 6,
+    "observedOnVersion": "0.7.180-beta",
+    "ownRealQuestions": 10,
+    "deliveredResponses": 9,
     "paymentsActive": false,
     "futureAvailabilityGuaranteed": false
   },
@@ -244,16 +252,18 @@
     "SLAEstablished": false
   },
   "providerAvailability": {
-    "observedOnVersion": "0.7.170-beta",
-    "scope": "STAGING",
-    "ownRealQuestions": 6,
-    "delivered": 6,
+    "observedOnVersion": "0.7.180-beta",
+    "scope": "RESTRICTED_BETA_UI",
+    "ownRealQuestions": 10,
+    "delivered": 9,
+    "technicalFailure": 1,
     "futureAvailabilityGuaranteed": false
   },
   "latestCandidate": {
-    "version": "0.7.146-beta",
-    "state": "SUPERSEDED_NOT_PUBLISHED",
-    "governanceOnly": false,
+    "version": "0.7.181-beta",
+    "state": "NO_GO_NOT_DEPLOYED",
+    "governanceOnly": true,
+    "behavioralFixesImplemented": false,
     "ownRealTests": 0
   },
   "metadataCandidate112Preserved": true,
@@ -1508,21 +1518,27 @@
     }
   },
   "latestRealBattery": {
-    "version": "0.7.178-beta",
-    "questions": 6,
-    "passed": 6,
-    "environment": "RESTRICTED_BETA_AUTHENTICATED",
-    "separateRealStagingReplays": 15,
-    "separateRealStagingPassed": 15,
+    "version": "0.7.180-beta",
+    "questions": 10,
+    "delivered": 9,
+    "usefulScoped": 5,
+    "partial": 3,
+    "failed": 2,
+    "technicalFailure": 1,
+    "resubmissions": 0,
+    "transport": "REAL_BROWSER_UI_RESTRICTED_BETA",
+    "requestLifecycleMedianSeconds": 32.672,
+    "requestLifecycleMaximumSeconds": 78.579,
+    "allPassed": false,
     "independentProfessionalReview": false,
     "clinicalValidation": false
   },
   "latestGovernanceCandidate": {
-    "version": "0.7.149-beta",
+    "version": "0.7.181-beta",
     "state": "NO_GO_NOT_DEPLOYED",
-    "ownRealQuestions": 0,
-    "behavioralChanges": 0,
-    "notAClaimOfResolvedFailures": true
+    "governanceOnly": true,
+    "behavioralFixesImplemented": false,
+    "ownRealTests": 0
   },
   "historicalBefore150_qualification": {
     "versionReferenceChecksPassed": 9,
@@ -1598,13 +1614,12 @@
     "appReference": "0.7.148-beta"
   },
   "latestCorrectiveRelease": {
-    "version": "0.7.178-beta",
+    "version": "0.7.180-beta",
     "summary": {
-      "it": "SOPHIA **0.7.178-beta** è attiva ad accesso riservato. Le prove da banco hanno verificato AIC, MINSAN ed EAN, anche isolati e incrociati. Le fonti documentano separatamente identità AIFA e riscontro commerciale. Il percorso misto tiene distinti stampati ed evidenza clinica. La batteria ha riguardato 15 domande in beta 0.7.170 e 15 controprove in staging con fonti reali. Verificati 2.148 casi Python offline e 78 controlli UI. Pagamenti inattivi. La revisione professionale e la misurazione dell’utilità sul campo restano pendenti.",
-      "en": "SOPHIA **0.7.178-beta** is the active restricted beta. Pharmacy-counter cases checked AIC, MINSAN and EAN codes in isolation and cross-code questions. AIFA identity and commercial matches retain separate provenance. Mixed requests keep product documents and clinical evidence distinct. The session covered 15 questions on beta 0.7.170 and 15 staging replays with live sources. Checked 2,148 offline Python cases and 78 UI checks. Payments are disabled. Professional review and measurement of usefulness in practice remain pending."
+      "it": "SOPHIA **0.7.180-beta** è pubblicata in beta riservata. Dieci domande inviate nella chat reale: cinque risposte utili nel perimetro documentale verificato, tre parziali e due test falliti. Nove risposte restituite e un errore tecnico; l’altro fallimento riguarda il recupero del contesto. Nel quesito misto la parte AIFA è comparsa prima della clinica. Restano aperti completamento, memoria tra argomenti, lettura dei documenti condivisi e selezione/integrale degli studi. Mediana del ciclo richiesta server 32,7 secondi, massimo 78,6: non è una misura di utilità né un confronto causale. Superati 41 controlli interni della pubblicazione; i 2.734 della base 179 sono evidenza storica distinta. Cronologia ridotta da 6 a 5/10; altre 15 valutazioni e gate confermati. Candidata 181 di sola continuità, NO-GO e non pubblicata, senza correzioni comportamentali. Nessuna validazione clinica umana.",
+      "en": "SOPHIA **0.7.180-beta** is deployed in restricted beta. Ten questions submitted through the real chat: five useful answers within the checked documentary scope, three partial answers and two failed tests. Nine responses returned and one technical failure; the other failure concerns conversation recall. In the mixed question, the AIFA section appeared before clinical completion. Completion, recall across topics, shared-document reading and study selection/full-text use remain open. Median server request lifecycle 32.7 seconds, maximum 78.6: not a usefulness measure or causal comparison.41 publication checks passed;2,734 checks on the 179 base remain separate historical evidence. History rating reduced from 6 to 5/10;15 other ratings and gates retained. Candidate 181 is governance-only, NO-GO and not deployed, with no behavioural repair. No human clinical validation."
     },
-    "realStagingQuestions": 15,
-    "productionRealQuestions": 6,
+    "productionRealQuestions": 10,
     "priorRealCasesRemainHistorical": true
   },
   "historicalBefore20261105": {
@@ -1681,20 +1696,19 @@
     }
   },
   "currentExactArticleWorkflow": {
-    "appVersion": "0.7.170-beta",
-    "firstRead": "EXPLICIT_PUBMED_ID",
+    "appVersion": "0.7.180-beta",
+    "explicitPMIDPath": "UNCHANGED_NOT_RETESTED_IN_THIS_BATTERY",
     "fullTextReceipt": [
       "USED",
       "READ_NOT_USED",
       "UNAVAILABLE"
     ],
     "currentScopedTests": {
-      "scope": "STAGING",
-      "studyCount": 3,
-      "passedQuestions": 4,
-      "originalQuestion": "PASS",
-      "methodWindows": "PASS_WITH_REGAIN_ANCHOR_LIMIT",
-      "fullTextUsedInAllFourReceipts": true
+      "scope": "BETA_UI_TWO_NATURAL_CLINICAL_QUESTIONS",
+      "fullTextUsedInAnswers": 0,
+      "readNotUsedObserved": true,
+      "unavailableObserved": true,
+      "selectionGapStillOpen": true
     },
     "humanClinicalValidation": false
   },
@@ -1766,7 +1780,7 @@
       "humanClinicalValidation": false
     }
   },
-  "currentVersionRealStagingQuestions": 6,
+  "currentVersionRealStagingQuestions": 0,
   "historicalBefore178": {
     "appVersion": "0.7.170-beta",
     "technicalRepair": "EXACT_STUDY_SUMMARY_WINDOWS_AND_TYPED_PRODUCT_CODES",
@@ -1888,5 +1902,117 @@
       "priorRealCasesRemainHistorical": true
     },
     "manualLiveAcceptance": "RESTRICTED_BETA_RELEASED_SCOPED_REAL_STAGING_QUALIFICATION"
+  },
+  "historicalBefore180": {
+    "reviewedAt": "2026-11-05",
+    "appVersion": "0.7.178-beta",
+    "technicalRepair": "TYPED_PRODUCT_CODE_ROUTING_AND_SCOPED_SOURCE_RECOVERY",
+    "qualification": {
+      "version": "0.7.178-beta",
+      "pythonTestsPassed": 2148,
+      "bridgeChecksPassed": 514,
+      "interfaceChecksPassed": 78,
+      "outboundNetworkBlocked": true,
+      "ownRealUIQuestions": 6,
+      "realStagingQuestions": 15,
+      "realStagingPassedWithinScope": 15,
+      "humanClinicalValidation": false,
+      "originalDocumentaryQuestionPassed": true,
+      "bridgeChecksScope": "INHERITED_IDENTICAL_BRIDGE",
+      "browserBetaPassedWithinScope": 6
+    },
+    "manualLiveAcceptance": "SIX_SCOPED_OWNER_BROWSER_CASES_NO_INDEPENDENT_PROFESSIONAL_ACCEPTANCE",
+    "lastRealBattery": {
+      "version": "0.7.170-beta",
+      "submissions": 15,
+      "passed": 7,
+      "commercialGaps": 4,
+      "falseBlocks": 3,
+      "timeouts": 1,
+      "review": "SCOPED_DOCUMENTARY_TESTS_NO_INDEPENDENT_PROFESSIONAL_VALIDATION"
+    },
+    "latestRealBattery": {
+      "version": "0.7.178-beta",
+      "questions": 6,
+      "passed": 6,
+      "environment": "RESTRICTED_BETA_AUTHENTICATED",
+      "separateRealStagingReplays": 15,
+      "separateRealStagingPassed": 15,
+      "independentProfessionalReview": false,
+      "clinicalValidation": false
+    },
+    "deployment": {
+      "version": "0.7.178-beta",
+      "state": "RESTRICTED_BETA_WITH_15_REAL_STAGING_AND_6_LIVE_REPLAYS",
+      "realStagingQuestions": 15,
+      "productionRealQuestions": 6,
+      "sourceAndImageVerified": true,
+      "rollbackRetained": true
+    },
+    "availability": {
+      "observedOnVersion": "0.7.178-beta",
+      "ownRealQuestions": 6,
+      "paymentsActive": false,
+      "futureAvailabilityGuaranteed": false
+    },
+    "providerAvailability": {
+      "observedOnVersion": "0.7.170-beta",
+      "scope": "STAGING",
+      "ownRealQuestions": 6,
+      "delivered": 6,
+      "futureAvailabilityGuaranteed": false
+    },
+    "latestCandidate": {
+      "version": "0.7.146-beta",
+      "state": "SUPERSEDED_NOT_PUBLISHED",
+      "governanceOnly": false,
+      "ownRealTests": 0
+    },
+    "latestGovernanceCandidate": {
+      "version": "0.7.149-beta",
+      "state": "NO_GO_NOT_DEPLOYED",
+      "ownRealQuestions": 0,
+      "behavioralChanges": 0,
+      "notAClaimOfResolvedFailures": true
+    },
+    "latestCorrectiveRelease": {
+      "version": "0.7.178-beta",
+      "summary": {
+        "it": "SOPHIA **0.7.178-beta** è attiva ad accesso riservato. Le prove da banco hanno verificato AIC, MINSAN ed EAN, anche isolati e incrociati. Le fonti documentano separatamente identità AIFA e riscontro commerciale. Il percorso misto tiene distinti stampati ed evidenza clinica. La batteria ha riguardato 15 domande in beta 0.7.170 e 15 controprove in staging con fonti reali. Verificati 2.148 casi Python offline e 78 controlli UI. Pagamenti inattivi. La revisione professionale e la misurazione dell’utilità sul campo restano pendenti.",
+        "en": "SOPHIA **0.7.178-beta** is the active restricted beta. Pharmacy-counter cases checked AIC, MINSAN and EAN codes in isolation and cross-code questions. AIFA identity and commercial matches retain separate provenance. Mixed requests keep product documents and clinical evidence distinct. The session covered 15 questions on beta 0.7.170 and 15 staging replays with live sources. Checked 2,148 offline Python cases and 78 UI checks. Payments are disabled. Professional review and measurement of usefulness in practice remain pending."
+      },
+      "realStagingQuestions": 15,
+      "productionRealQuestions": 6,
+      "priorRealCasesRemainHistorical": true
+    },
+    "currentExactArticleWorkflow": {
+      "appVersion": "0.7.170-beta",
+      "firstRead": "EXPLICIT_PUBMED_ID",
+      "fullTextReceipt": [
+        "USED",
+        "READ_NOT_USED",
+        "UNAVAILABLE"
+      ],
+      "currentScopedTests": {
+        "scope": "STAGING",
+        "studyCount": 3,
+        "passedQuestions": 4,
+        "originalQuestion": "PASS",
+        "methodWindows": "PASS_WITH_REGAIN_ANCHOR_LIMIT",
+        "fullTextUsedInAllFourReceipts": true
+      },
+      "humanClinicalValidation": false
+    },
+    "currentVersionRealModelTests": 0,
+    "currentVersionRealStagingQuestions": 6,
+    "experienceMemory": {
+      "curatedMethodLessons": 14,
+      "recentConversationContextMaxMessages": 8,
+      "rawHistoricChatRAG": false,
+      "automaticClinicalLessonApproval": false,
+      "hashedSameChatIndexMaxMessages": 96,
+      "additionalReadLimit": 4,
+      "recallAcrossTopics": "FAILED_IN_UI_CAUSE_REPRODUCED_OFFLINE"
+    }
   }
 }
