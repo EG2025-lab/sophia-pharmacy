@@ -1,51 +1,57 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-06",
-  "appVersion": "0.7.185-beta",
+  "appVersion": "0.7.190-beta",
   "publicAppAccess": false,
   "appURL": null,
   "accountURL": null,
-  "availability": "RESTRICTED_BETA_TECHNICAL_AND_TARGETED_REPLAY_PASS",
+  "availability": "RESTRICTED_BETA_TECHNICAL_QA_PASS_FIELD_ACCEPTANCE_PENDING",
   "humanClinicalValidation": false,
   "generalProfessionalRollout": "NO_GO",
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "snapshot": "2026-11-06-r94",
+    "snapshot": "2026-11-06-r97",
     "scoresReviewed": 16,
     "scoreDelta": {},
     "gatesAdvanced": false
   },
   "technicalRepair": [
-    "Shared AIFA document reading",
-    "Recall across topic changes",
-    "Relevance-first study discovery with comparator normalization and same-concept indexing",
-    "Full-text acquisition/use distinction and identity reconciliation",
-    "One budget-bound transient recovery during generation or verification"
+    "AIFA headings and section reading with references, identity checks and full fallback",
+    "Incomplete-answer source routing",
+    "Literal shared leaflet composition and negative documentary privacy false positives",
+    "Stable sidebar history",
+    "Admitted failed-question retention and selected-text reply preserved"
   ],
   "qualification": {
-    "appPython": 2192,
-    "bridgeNode": 577,
-    "interfaceNode": 79,
-    "totalDistinctTopLevel": 2848,
-    "passed": true,
-    "kind": "INTERNAL_TECHNICAL_NOT_CLINICAL"
+    "appPython": 2235,
+    "bridgeNode": 541,
+    "bridgeSkipped": 42,
+    "interfaceNode": 85,
+    "totalDistinctPassed": 2861,
+    "failed": 0,
+    "kind": "INTERNAL_TECHNICAL_NOT_CLINICAL",
+    "containerSdkSelfTest": "PASS",
+    "documentComparisons": 84,
+    "missingOriginalSelectedPassages": 0
   },
   "currentVersionRealModelTests": {
-    "submissions": 1,
-    "completed": 1,
-    "scopedPass": 1,
-    "failed": 0,
-    "observedModelCalls": 7,
-    "automaticRecoveryTriggered": false
+    "surface": "LOCAL_PREPUBLICATION_INTERMEDIATE_CANDIDATES",
+    "attempts": 6,
+    "delivered": 4,
+    "failedBeforeRepair": 2,
+    "allPassed": false,
+    "finalAmbiguousDoseCase": "CLARIFICATION_REQUIRED_SOURCE_CONFLICT_OPEN",
+    "formalPostPublicationBattery": false
   },
   "lastRealBattery": {
-    "version": "0.7.185-beta",
+    "version": "0.7.187-beta",
     "surface": "PUBLISHED_BETA_UI",
-    "scope": "ONE_PREVIOUSLY_FAILED_MIXED_QUESTION",
-    "engineSeconds": 50.3745,
-    "aifaBranchSeconds": 25.2881,
-    "requestLifecycleSeconds": 51.854,
-    "allOwnPassedWithinScope": true
+    "scope": "THREE_TARGETED_REQUESTS",
+    "submitted": 3,
+    "delivered": 3,
+    "scopedPass": 3,
+    "technicalFailure": 0,
+    "clinicalValidation": false
   },
   "correctiveReplayChain": {
     "originalVersion": "0.7.180-beta",
@@ -74,9 +80,9 @@
     ]
   },
   "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-06-02",
-    "revision": "1.44",
-    "appReference": "0.7.185-beta"
+    "id": "ALG-CLIN-2026-11-06-05",
+    "revision": "1.47",
+    "appReference": "0.7.190-beta"
   },
   "model": {
     "default": "gpt-6.1-sol",
@@ -101,16 +107,19 @@
     "modelWeightTrainingPerformed": false
   },
   "latestCandidate": {
-    "version": "0.7.186-beta",
-    "state": "GOVERNANCE_REPACK_RC_NO_GO_NOT_DEPLOYED",
-    "behavioralChanges": false
+    "version": "0.7.188-beta",
+    "state": "HISTORICAL_POST187_GOVERNANCE_RC_NOT_DEPLOYED",
+    "currentApp": "0.7.190-beta",
+    "newPost190RCRequired": false,
+    "basis": "NO_NEW_FORMAL_POSTPUBLICATION_BATTERY"
   },
   "openLimits": [
-    "Independent professional validation",
-    "Broader evidence coverage and currentness",
-    "Permitted full-text availability",
-    "No load or independent security assessment",
-    "Existing monitoring configuration not requalified for185"
+    "Upstream pack/document identity conflict",
+    "Professional acceptance and independent clinical validation",
+    "Broader evidence coverage/currentness and permitted full text",
+    "No causal latency or load benchmark",
+    "Independent security audit and monitoring requalification",
+    "Three old failed questions were never retained; future admitted questions now persist"
   ],
   "historyPolicy": "CURRENT_ONLY_PRIOR_SNAPSHOTS_PRESERVED_IN_GIT_COMMITS_NOT_RECURSIVELY_EMBEDDED",
   "farmAIChannels": {
@@ -147,5 +156,19 @@
     "offerActive": false,
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
-  "accountLegacyHandling": "EXISTING_AUTHORIZED_MEMBERS_CAN_OPEN_PROFILE_AND_EXPERIENCE_WITHOUT_CREATING_A_CREDIT_ACCOUNT"
+  "accountLegacyHandling": "EXISTING_AUTHORIZED_MEMBERS_CAN_OPEN_PROFILE_AND_EXPERIENCE_WITHOUT_CREATING_A_CREDIT_ACCOUNT",
+  "aifaReading": {
+    "channel": "AIFA_APIS_ONLY",
+    "mode": "OUTLINE_THEN_ORIGINAL_SECTION_PAGES",
+    "referencesFollowed": true,
+    "identityChecks": true,
+    "fullDocumentFallback": true,
+    "universalSpeedGainProven": false
+  },
+  "questionRetention": {
+    "introduced": "0.7.189-beta",
+    "acceptedInputSavedBeforeProcessing": true,
+    "failedTurnsRetained": true,
+    "rejectedPersonalInputStored": false
+  }
 }
