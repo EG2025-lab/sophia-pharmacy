@@ -1,5 +1,15 @@
 # Contributing to SOPHIA
 
+## Current status — 6 November 2026
+
+SOPHIA **0.7.180-beta** is deployed in restricted beta. Ten questions submitted through the real chat: five useful answers within the checked documentary scope, three partial answers and two failed tests. Nine responses returned and one technical failure; the other failure concerns conversation recall. In the mixed question, the AIFA section appeared before clinical completion. Completion, recall across topics, shared-document reading and study selection/full-text use remain open. Median server request lifecycle 32.7 seconds, maximum 78.6: not a usefulness measure or causal comparison.41 publication checks passed;2,734 checks on the 179 base remain separate historical evidence. History rating reduced from 6 to 5/10;15 other ratings and gates retained. Candidate 181 is governance-only, NO-GO and not deployed, with no behavioural repair. No human clinical validation.
+
+[Stato e trasparenza / Current status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation — historical
+
 ## Current status — 5 November 2026
 
 SOPHIA **0.7.178-beta** is the active restricted beta. Pharmacy-counter cases checked AIC, MINSAN and EAN codes in isolation and cross-code questions. AIFA identity and commercial matches retain separate provenance. Mixed requests keep product documents and clinical evidence distinct. The session covered 15 questions on beta 0.7.170 and 15 staging replays with live sources. Checked 2,148 offline Python cases and 78 UI checks. Payments are disabled. Professional review and measurement of usefulness in practice remain pending.
