@@ -24,7 +24,7 @@
   },
   "qualification": {
     "scope": "Candidate196 exact images and offline contracts, not beta190 clinical validation",
-    "appTests": 2411,
+    "appTests": 2413,
     "bridgeTests": 627,
     "containerSkips": 0,
     "fixedOfflineCases": 200,
@@ -34,7 +34,14 @@
       "failuresPreserved": true
     },
     "uiContracts": 12,
-    "native196Cancellation": "not_tested"
+    "native196Cancellation": "not_tested",
+    "rejectedSourcePreparations": 2,
+    "secondSourceRejected": {
+      "failedCases": 3,
+      "failuresPreserved": true,
+      "neverLoaded": true
+    },
+    "sourcePreparation": "third_frozen_source_independently_qualified"
   },
   "lastRealBattery": {
     "versions": [
