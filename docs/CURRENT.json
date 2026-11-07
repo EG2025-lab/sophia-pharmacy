@@ -1,148 +1,68 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-06",
+  "reviewedAt": "2026-11-07",
   "appVersion": "0.7.190-beta",
-  "publicAppAccess": false,
+  "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
-  "availability": "RESTRICTED_BETA_TECHNICAL_QA_PASS_FIELD_ACCEPTANCE_PENDING",
-  "humanClinicalValidation": false,
-  "generalProfessionalRollout": "NO_GO",
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "snapshot": "2026-11-06-r97",
+    "siteVersion": 132,
+    "snapshot": "2026-11-07-r99",
     "scoresReviewed": 16,
-    "scoreDelta": {},
+    "scoresChanged": 0,
+    "roomStatesReviewed": 19,
+    "gatesReviewed": 6,
     "gatesAdvanced": false
   },
-  "technicalRepair": [
-    "AIFA headings and section reading with references, identity checks and full fallback",
-    "Incomplete-answer source routing",
-    "Literal shared leaflet composition and negative documentary privacy false positives",
-    "Stable sidebar history",
-    "Admitted failed-question retention and selected-text reply preserved"
-  ],
-  "qualification": {
-    "appPython": 2235,
-    "bridgeNode": 541,
-    "bridgeSkipped": 42,
-    "interfaceNode": 85,
-    "totalDistinctPassed": 2861,
-    "failed": 0,
-    "kind": "INTERNAL_TECHNICAL_NOT_CLINICAL",
-    "containerSdkSelfTest": "PASS",
-    "documentComparisons": 84,
-    "missingOriginalSelectedPassages": 0
+  "latestCandidate": {
+    "version": "0.7.196-rc",
+    "promoted": false,
+    "status": "NO_GO_PENDING_OWN_REAL_VALIDATION_AND_OPEN_GATES",
+    "sourceFiles": 997,
+    "ownRealModelReplays": 0
   },
-  "currentVersionRealModelTests": {
-    "surface": "LOCAL_PREPUBLICATION_INTERMEDIATE_CANDIDATES",
-    "attempts": 6,
-    "delivered": 4,
-    "failedBeforeRepair": 2,
-    "allPassed": false,
-    "finalAmbiguousDoseCase": "CLARIFICATION_REQUIRED_SOURCE_CONFLICT_OPEN",
-    "formalPostPublicationBattery": false
+  "qualification": {
+    "scope": "Candidate196 exact images and offline contracts, not beta190 clinical validation",
+    "appTests": 2411,
+    "bridgeTests": 627,
+    "containerSkips": 0,
+    "fixedOfflineCases": 200,
+    "newMechanismCases": 160,
+    "firstSourceRejected": {
+      "failedCases": 8,
+      "failuresPreserved": true
+    },
+    "uiContracts": 12,
+    "native196Cancellation": "not_tested"
   },
   "lastRealBattery": {
-    "version": "0.7.187-beta",
-    "surface": "PUBLISHED_BETA_UI",
-    "scope": "THREE_TARGETED_REQUESTS",
-    "submitted": 3,
-    "delivered": 3,
-    "scopedPass": 3,
-    "technicalFailure": 0,
-    "clinicalValidation": false
-  },
-  "correctiveReplayChain": {
-    "originalVersion": "0.7.180-beta",
-    "previouslyUnsuccessfulCases": 5,
-    "totalAttempts": 11,
-    "delivered": 9,
-    "technicalFailures": 2,
-    "finalScopedPassVersions": {
-      "T03": "0.7.183-beta",
-      "T05": "0.7.185-beta",
-      "T07": "0.7.184-beta",
-      "T08": "0.7.182-beta",
-      "T10": "0.7.182-beta"
+    "versions": [
+      191,
+      192,
+      193,
+      194,
+      195
+    ],
+    "environment": "private_staging",
+    "actualAttempts": 42,
+    "originalCases": 40,
+    "authorizedRepeats": 2,
+    "outcomes": {
+      "usefulScopedAnswers": 15,
+      "insufficientPartial": 14,
+      "correctSourceGap": 1,
+      "technicalOutcomes": 12,
+      "expectedSyntheticFaultsWithinTechnicalOutcomes": 1
     },
-    "allHistoricalAttemptsPassed": false
-  },
-  "clinicalFullText": {
-    "usedInScoped184Case": true,
-    "final185MixedCase": "ABSTRACT_BASED_DECLARED",
-    "accessAndUseGuaranteed": false,
-    "receipts": [
-      "USED",
-      "READ_NOT_USED",
-      "UNAVAILABLE",
-      "NOT_ACQUIRED"
-    ]
-  },
-  "clinicalAlgorithm": {
-    "id": "ALG-CLIN-2026-11-06-05",
-    "revision": "1.47",
-    "appReference": "0.7.190-beta"
+    "allAdmittedQuestionsRetained": true,
+    "notSingleVersionAccuracyBenchmark": true,
+    "professionalAcceptance": false
   },
   "model": {
-    "default": "gpt-6.1-sol",
-    "defaultReasoning": "low",
-    "controlledComplexReasoning": "medium",
-    "observed185": [
-      "gpt-6.1-sol/low",
-      "gpt-6.1-sol/medium"
-    ],
-    "configurationChanged": false
-  },
-  "experienceMemory": {
-    "curatedMethodLessons": 14,
-    "automaticClinicalLessonApproval": false,
-    "rawHistoricChatRAG": false,
-    "recallAcrossTopics": "SCOPED_REPLAY_PASSED182_INHERITED_WITH_SOURCE_CONTINUITY",
-    "unlimitedRecallGuaranteed": false
-  },
-  "privateExperience": {
-    "rawChatsShared": false,
-    "sharingDefault": false,
-    "modelWeightTrainingPerformed": false
-  },
-  "latestCandidate": {
-    "version": "0.7.188-beta",
-    "state": "HISTORICAL_POST187_GOVERNANCE_RC_NOT_DEPLOYED",
-    "currentApp": "0.7.190-beta",
-    "newPost190RCRequired": false,
-    "basis": "NO_NEW_FORMAL_POSTPUBLICATION_BATTERY"
-  },
-  "openLimits": [
-    "Upstream pack/document identity conflict",
-    "Professional acceptance and independent clinical validation",
-    "Broader evidence coverage/currentness and permitted full text",
-    "No causal latency or load benchmark",
-    "Independent security audit and monitoring requalification",
-    "Three old failed questions were never retained; future admitted questions now persist"
-  ],
-  "historyPolicy": "CURRENT_ONLY_PRIOR_SNAPSHOTS_PRESERVED_IN_GIT_COMMITS_NOT_RECURSIVELY_EMBEDDED",
-  "farmAIChannels": {
-    "originalGPTsPreserved": true,
-    "privateBusinessPluginsFromCopies": true,
-    "modelControlledByChatHost": true,
-    "contentVersion": "0.7.7.155",
-    "pluginPackageVersions": {
-      "EVO": "0.8.0",
-      "Support": "0.5.0"
-    },
-    "new155ChatTestsAfterPublication": 0,
-    "independentSecondMemberInstallVerified": false
-  },
-  "accountPolicy": {
-    "registration": "OWNER_REVIEW",
-    "verifiedGoogleRequired": true,
-    "professionalDeclarationRequired": true,
-    "professionalRegistrationVerified": false,
-    "newPharmacistIndependentAcceptance": "PENDING",
-    "automaticAdmission": false,
-    "ownerApprovalRequired": true,
-    "existingDataAndCreditsPreserved": true
+    "routing": "Sol adaptive, unchanged",
+    "astraActivated": false,
+    "astraComparisonExecuted": false
   },
   "payments": {
     "realPaymentsActive": false,
@@ -156,19 +76,39 @@
     "offerActive": false,
     "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
   },
-  "accountLegacyHandling": "EXISTING_AUTHORIZED_MEMBERS_CAN_OPEN_PROFILE_AND_EXPERIENCE_WITHOUT_CREATING_A_CREDIT_ACCOUNT",
-  "aifaReading": {
-    "channel": "AIFA_APIS_ONLY",
-    "mode": "OUTLINE_THEN_ORIGINAL_SECTION_PAGES",
-    "referencesFollowed": true,
-    "identityChecks": true,
-    "fullDocumentFallback": true,
-    "universalSpeedGainProven": false
+  "farmAIChannels": {
+    "originalGPTsPreserved": true,
+    "privateBusinessPluginsFromCopies": true,
+    "modelControlledByChatHost": true,
+    "contentVersion": "0.7.7.155",
+    "pluginPackageVersions": {
+      "EVO": "0.8.0",
+      "Support": "0.5.0"
+    },
+    "new155ChatTestsAfterPublication": 0,
+    "independentSecondMemberInstallVerified": false
   },
+  "monitoring": {
+    "boundToActualBeta": "0.7.190-beta",
+    "ordinaryAlertChannelsConfigured": 3,
+    "syntheticDetectionNotificationAcknowledgementRecoveryTested": true,
+    "currentReport": "WARN",
+    "remainingWarning": "scientific_sdk_workers"
+  },
+  "humanClinicalValidation": "not_completed",
+  "generalProfessionalRollout": false,
+  "openLimits": [
+    "Final candidate has no own real-model replay or native cancellation trial.",
+    "Medicine coverage, source availability/currentness, legal and clinical completeness remain bounded.",
+    "Professional acceptance, conflicting medicine document and three unreconstructed historical questions remain open.",
+    "Privacy/data-lifecycle/supplier/regulatory/privileged-access and normal-production financial decisions remain separate gates.",
+    "Remaining moderate build-tool advisories are disclosed in scoped reachability review; no blanket vulnerability-free claim."
+  ],
   "questionRetention": {
-    "introduced": "0.7.189-beta",
-    "acceptedInputSavedBeforeProcessing": true,
-    "failedTurnsRetained": true,
-    "rejectedPersonalInputStored": false
-  }
+    "currentAdmittedRequests": "42 of42 recoverable at observed terminal states",
+    "missingHistoricalQuestions": 3,
+    "reconstructed": false
+  },
+  "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
+  "previousPointerCommit": "834e4ca2ca731eae4a223bdb2b824825abe0611c"
 }

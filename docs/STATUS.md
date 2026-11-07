@@ -1,5 +1,23 @@
 # SOPHIA status and evaluation
 
+## Current status — 7 November 2026
+
+SOPHIA **0.7.190-beta remains the restricted operational beta**. The audit records 40 findings across confirmed defects, risks and missing evidence; it is not a list of 40 confirmed vulnerabilities.
+
+The authorized staging batch completed **40 original cases and two repeats across candidates 191–195**. Its 42 submissions comprise 15 useful scoped answers, 14 insufficient partial answers, one correct source gap and 12 technical outcomes, including one expected synthetic provider fault. These are heterogeneous, AI-assisted source reviews, not single-version accuracy or professional validation. Both monetary repeats completed without the former per-answer monetary stop.
+
+Candidate **0.7.196-rc is not promoted** and has no own real-model replay. Its exact images passed 2,411 app tests and 627 bridge tests with no skips, plus 200 fixed offline cases and 160 fresh mechanism cases; these sets are not added together as independent clinical answers. It repairs general document-obligation, privacy-grammar and cancellation mechanisms. A first frozen source failed eight contrary cases and was rejected before loading; the successor retains those failures and passes its own new checks. Useful answers, missing sources, inappropriate blocks and human acceptance remain distinct.
+
+Native staging checks covered the exact selected-text occurrence, reload, a long synthetic history and immediate visual sign-out. Standalone cancellation was not exercised in the last real case; server work continued after visual sign-out. Candidate 196's direct-cancel control has offline contracts and still needs a real workflow trial. Professional acceptance of the requested medicine/laboratory cases and the correct conflicting medicine document remain open; three older questions never retained remain unknown.
+
+The actual beta's monitor and three authorized ordinary alert channels were checked again. A scientific-worker warning remains visible. The public website is **Sites 132 / snapshot 2026-11-07-r99**; all 16 qualitative scores, 19 room states and six rollout gates were reviewed and retained. Beta access, pilot size, customer payments and model routing have not expanded; Astra was not activated. Further candidate validation and human/source/privacy decisions precede promotion.
+
+[Current public status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation — historical
+
 ## Current status — 6 November 2026
 
 SOPHIA **0.7.190-beta** is deployed in restricted beta. SmPC and leaflet reading through AIFA APIs now uses headings, relevant sections and cross-references, with exact pack identity checks and full reading when required. Causes of incomplete answers addressed and sidebar history stabilized; admitted questions remain saved after failure and selected-text replies are preserved.

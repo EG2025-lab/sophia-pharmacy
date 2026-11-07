@@ -1,5 +1,23 @@
 # SOPHIA
 
+## Stato corrente — 7 novembre 2026
+
+SOPHIA **0.7.190-beta resta la beta riservata operativa**. I 40 rilievi dell’audit comprendono difetti confermati, rischi e prove mancanti: non sono 40 vulnerabilità confermate.
+
+Il lotto autorizzato ha completato **40 casi originali e due ripetizioni su candidati 191–195**. I 42 invii comprendono 15 risposte utili nel proprio ambito, 14 parziali insufficienti, una lacuna corretta della fonte e 12 esiti tecnici, incluso un guasto sintetico atteso del provider. Sono riesami eterogenei assistiti da AI, non accuratezza di una singola versione né validazione professionale. Entrambe le ripetizioni monetarie sono terminate senza il precedente limite economico per risposta.
+
+La candidata **0.7.196-rc non è promossa** e non ha propri replay con modello reale. Le immagini esatte hanno superato 2.411 test app e 627 bridge, senza test saltati; inoltre passano 200 casi offline fissi e 160 casi nuovi sui meccanismi. Questi insiemi non si sommano come risposte cliniche indipendenti. Le correzioni riguardano obblighi documentali, grammatica dei filtri personali e annullamento. Una prima sorgente congelata ha fallito otto casi contrari ed è stata scartata prima del caricamento; la successiva conserva quei FAIL e supera verifiche proprie. Utilità, lacune, blocchi impropri e accettazione umana restano distinti.
+
+In staging sono stati verificati selezione dell’occorrenza esatta, ricarica, cronologia sintetica lunga e uscita visiva immediata. Nell’ultimo caso reale l’annullamento autonomo non è stato esercitato: il lavoro server è proseguito dopo l’uscita visiva. Il comando diretto della 196 ha contratti offline e richiede ancora una prova reale. Restano aperti accettazione professionale dei casi richiesti e conflitto del documento del medicinale; tre vecchie domande mai conservate restano sconosciute.
+
+Monitor della beta effettiva e canale dei tre allarmi ordinari autorizzati sono stati ricontrollati; resta visibile un avviso sui worker scientifici. La vetrina è **Sites 132 / snapshot 2026-11-07-r99**. Confermati dopo riesame tutti i 16 voti qualitativi, i 19 stati e i sei gate. Nessun ampliamento di accessi, pilota, pagamenti o routing; Astra non attivato. Nuove verifiche della candidata e decisioni umane, di fonte e privacy precedono la promozione.
+
+[Stato pubblico corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Documentazione precedente — storica
+
 ## Stato corrente — 6 novembre 2026
 
 SOPHIA **0.7.190-beta** è pubblicata in beta riservata. La lettura di RCP e FI tramite API AIFA ora usa indice, paragrafi pertinenti e rimandi, con controllo dell’identità della confezione e lettura completa quando necessaria. Corrette cause di risposte incomplete e stabilizzata la cronologia laterale; conservati il salvataggio delle domande ammesse dopo errore e la risposta al testo selezionato.
