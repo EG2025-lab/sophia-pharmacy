@@ -1,3 +1,17 @@
+## Verified status — 8 November 2026
+
+The available restricted beta remains **SOPHIA 0.7.190**. Candidate **0.7.199** is technically qualified and loaded in private staging, with its version visible in the app; it has not been promoted for pharmacy-counter use.
+
+All 60 authorized submissions across candidates 191–198 are complete. The last two on 198 yielded one useful scoped answer with explicitly partial reading and one partial answer, with no unexpected technical error. 199 fixes general AIFA role-word routing. Its own evidence is technical: 2,452 app and 632 bridge tests without skips, 200 regressions, 200 new offline cases and complete-document checks. It has **no real answers of its own**.
+
+The review retains all 16 qualitative assessments, 19 room states and six gates. Morphine/PSA acceptance, the correct Daflon source, representative completeness, privacy/providers, restore and ordinary spending policy remain open. Technical quality, measured usefulness and professional acceptance remain distinct; no new clinical validation, Astra activation, payments or pilot expansion is implied.
+
+[Status and limitations](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+Earlier documentation is retained below as history; the current status is stated above.
+
 # Contributing to SOPHIA
 
 ## Current status — 8 November 2026

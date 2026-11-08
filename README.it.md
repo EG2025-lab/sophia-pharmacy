@@ -1,3 +1,17 @@
+## Stato verificato — 8 novembre 2026
+
+La beta riservata utilizzabile resta **SOPHIA 0.7.190**. Il candidato **0.7.199** è qualificato tecnicamente e caricato nello staging privato, con versione visibile nell’app; non è promosso al banco.
+
+Sono conclusi 60 invii autorizzati su candidati 191–198. Gli ultimi due della 198 hanno prodotto una risposta utile nel proprio ambito, con lettura parziale dichiarata, e una risposta ancora parziale; nessun errore tecnico imprevisto. La 199 corregge il riconoscimento generale dei ruoli nelle domande AIFA. Le sue prove proprie sono tecniche: 2.452 test app e 632 bridge senza skip, 200 regressioni, 200 nuovi casi offline e verifiche su documenti completi. Ha **zero risposte reali proprie**.
+
+Il riesame conferma 16 valutazioni qualitative, 19 stati delle stanze e sei gate. Morfina/PSA, fonte Daflon, completezza rappresentativa, privacy/fornitori, restore e costi ordinari restano questioni aperte. Tecnica, utilità misurata e accettazione professionale sono distinte; nessuna nuova validazione clinica, attivazione Astra, pagamento o estensione del pilota.
+
+[Stato e limiti](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+Documentazione precedente conservata come storico; lo stato corrente è quello sopra.
+
 # SOPHIA
 
 ## Stato corrente — 8 novembre 2026

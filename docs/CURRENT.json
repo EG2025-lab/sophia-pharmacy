@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "reviewedAt": "2026-11-08",
   "appVersion": "0.7.190-beta",
   "publicAppAccess": "restricted_owner_approved",
@@ -7,8 +7,8 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 134,
-    "snapshot": "2026-11-08-r100",
+    "siteVersion": 135,
+    "snapshot": "2026-11-08-r102",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
@@ -16,16 +16,17 @@
     "gatesAdvanced": false
   },
   "latestCandidate": {
-    "version": "0.7.198-rc",
+    "version": "0.7.199-rc",
     "promoted": false,
     "status": "QUALIFIED_PRIVATE_STAGING_NO_GO_BETA",
-    "sourceFiles": 1014,
-    "sourcePreparation": "second_frozen_source",
-    "ownRealModelReplays": 0
+    "sourceFiles": 1015,
+    "sourcePreparation": "frozen_source",
+    "ownRealModelReplays": 0,
+    "loadedPrivateStaging": "0.7.199-beta"
   },
   "qualification": {
-    "scope": "Own 198 exact images, offline, source and resource qualification for existing private staging; no paid 198 answers or clinical validation of beta 190.",
-    "appTests": 2440,
+    "scope": "Own199 exact images, offline, original-source and resource qualification for existing private staging; no own199 real answer or clinical validation of beta190.",
+    "appTests": 2452,
     "bridgeTests": 632,
     "containerSkips": 0,
     "fixedOfflineCases": 200,
@@ -34,21 +35,19 @@
       "documents": 14,
       "pages": 195,
       "questions": 56,
-      "differentStrengthFormContraries": true
+      "differentStrengthFormContraries": true,
+      "additionalSourceReadsFrom198Questions": 4
     },
     "uiControllers": 18,
-    "stagingOpsGuards": 16,
-    "source01Rejected": {
-      "bridgeFailures": 1,
-      "failuresPreserved": true,
-      "originalOracleUnchanged": true
-    },
+    "stagingOpsGuards": 18,
     "resourceMemoryPeakFraction": {
-      "app": 0.15240859985351562,
-      "bridge": 0.4182453155517578
+      "app": 0.15348052978515625,
+      "bridge": 0.3999652862548828
     },
     "unpatchedNativeResidualsDisclosed": true,
-    "native198Scope": "Login/version/keyboard at actual 756 CSS pixels only; responsive and authenticated workspace not established."
+    "native199Scope": "Authenticated workspace and visible actual server version at measured756 CSS pixels; no new question,logout or cancellation.",
+    "historical198ResponsiveScope": "Authenticated1280/390/320 measured CSS pixels; finite checks,not every phone/screenreader.",
+    "historicalFailuresPreserved": true
   },
   "lastRealBattery": {
     "versions": [
@@ -58,15 +57,16 @@
       194,
       195,
       196,
-      197
+      197,
+      198
     ],
     "environment": "private_staging",
-    "actualAttempts": 58,
+    "actualAttempts": 60,
     "originalCases": 40,
-    "authorizedAdditionalSubmissions": 18,
+    "authorizedAdditionalSubmissions": 20,
     "outcomes": {
-      "usefulScopedAnswers": 22,
-      "insufficientPartial": 17,
+      "usefulScopedAnswers": 23,
+      "insufficientPartial": 18,
       "correctSourceGap": 2,
       "technicalOutcomes": 14,
       "expectedSyntheticFaultsWithinTechnicalOutcomes": 1,
@@ -117,33 +117,33 @@
   "humanClinicalValidation": "not_completed",
   "generalProfessionalRollout": false,
   "openLimits": [
-    "Candidate 198 has no own real-model answers; earlier source and image failures remain preserved.",
-    "Medicine coverage, source availability/currentness/pack discrepancies, mixed legal completeness and the insufficient retraction task remain open.",
-    "Morfina/PSA professional acceptance and the correct Daflon source remain open; three historical questions are not reconstructed.",
-    "Privacy, data lifecycle, supplier, regulatory, privileged access, operational restore and ordinary-bank financial decisions remain separate gates.",
-    "Unpatched native and moderate build-tool advisories have only scoped precondition/containment review; no universal unreachability claim."
+    "Candidate199 has no own real-model answers;198 contributed one useful scoped response and one partial response,not two complete successes.",
+    "Unrecognized/output-only medicine coverage,source availability/currentness/pack discrepancies,mixed legal completeness and the insufficient retraction task remain open.",
+    "Morfina/PSA professional acceptance and the correct Daflon source remain open;three historical questions are not reconstructed.",
+    "Privacy,data lifecycle,supplier,regulatory,privileged access,operational restore and ordinary-bank financial decisions remain separate gates.",
+    "Native and moderate build-tool advisories have scoped precondition/containment reviews,not universal binary unreachability proof."
   ],
   "questionRetention": {
-    "currentAdmittedRequests": "All 58 admitted requests reconstructible at observed terminal states; real 197 cancellation retained.",
+    "currentAdmittedRequests": "All60 admitted requests reconstructible in observed terminal states; historical197 cancellation retained. Three earlier unsaved questions remain unreconstructed.",
     "missingHistoricalQuestions": 3,
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "4232de8776e4c0d70e592b95331290b88607885c",
+  "previousPointerCommit": "295b4203dd47b0bf2547c99555354ad960acf6d4",
   "latestVersionBattery": {
-    "version": "0.7.197-beta",
-    "submissions": 9,
-    "usefulScopedAnswers": 5,
-    "insufficientPartial": 2,
-    "necessaryClarification": 1,
-    "expectedRetainedCancellation": 1,
+    "version": "0.7.198-beta",
+    "submissions": 2,
+    "usefulScopedAnswers": 1,
+    "insufficientPartial": 1,
     "unexpectedTechnicalFailures": 0,
+    "allQuestionsRetained": true,
     "humanAcceptance": false,
-    "engineLatencyCompleted8": {
-      "P50Seconds": 50.01,
-      "P95NearestRankSeconds": 108.82,
-      "heterogeneousNotSLO": true,
+    "engineLatencyCompleted2": {
+      "P50Seconds": 37.605,
+      "P95NearestRankSeconds": 41.92,
+      "smallHeterogeneousNotSLO": true,
       "insufficientAnswersIncluded": true
-    }
+    },
+    "sourceLimits": "Useful requested facts do not imply complete leaflet review. One comparison remains partial; role routing repaired offline in199 has no own real synthesis proof."
   }
 }
