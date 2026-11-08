@@ -1,6 +1,18 @@
 # SOPHIA
 
-## Stato corrente — 7 novembre 2026
+## Stato corrente — 8 novembre 2026
+
+**0.7.190-beta resta la beta riservata operativa di SOPHIA.** I 40 rilievi comprendono difetti, rischi e prove mancanti, non 40 vulnerabilità confermate. Nessun ampliamento del pilota o attivazione dei pagamenti.
+
+Sono conclusi tutti i **58 invii autorizzati in staging sui candidati 191–197**. Gli ultimi nove della 197: cinque risposte utili nel proprio ambito, due incomplete o parziali, un chiarimento necessario e un annullamento intenzionale conservato in cronologia; nessun errore tecnico imprevisto. Tutte le nove domande sono rimaste disponibili. La prova di annullamento/logout è partita da un job osservato in corso, senza contenuti privati o risposte tardive dopo 157 secondi; non prova l'arresto di ogni calcolo del provider né rimborsi. Il campione eterogeneo e il riesame assistito da AI non sono un benchmark di accuratezza su una singola versione o una validazione professionale.
+
+**La candidata 0.7.198-rc, seconda sorgente congelata, è caricata soltanto nello staging privato, resta NO-GO per la promozione beta e ha zero proprie risposte reali.** Nelle immagini esatte passano 2.440 test app e 632 bridge, senza test saltati. Le proprie 200 regressioni offline, 200 nuovi casi dopo il congelamento, 18 contratti UI e 56 verifiche del lettore su 14 PDF originali completi sono prove tecniche distinte. Le correzioni generali riguardano etichette originali degli ingredienti, indici ambigui e passaggi della dose scelta nei FI ordinari condivisi, mantenendo testo letterale e copertura parziale. Il fallimento del bridge nella prima preparazione resta conservato, con oracle originale invariato. Le prove native responsive e di annullamento reale appartengono alla 197; il controllo circoscritto di accesso/versione/tastiera della 198 non prova comportamento responsive o della chat autenticata.
+
+Restano aperti disponibilità e conflitti delle fonti, discrepanze della confezione, completezza normativa/mista, il quesito insufficiente sulle ritrattazioni, accettazione professionale di morfina/PSA e decisioni su privacy, fornitori, restore, accessi privilegiati e costi ordinari del banco. Tre domande storiche mai conservate restano sconosciute. Residui delle dipendenze e delle librerie native sono dichiarati con contenimenti circoscritti; nessuna assenza universale di vulnerabilità. Sol adattivo resta default; nessun confronto Astra, nuovo budget, rinnovo automatico o policy ordinaria del banco attivati.
+
+Il sito pubblico è alla versione 134, snapshot r100. Confermati 16 voti di maturità, 19 stati delle stanze e 6 gate. Controlli sugli accessi del sito e qualità dell'app restano distinti. FarmAI GPT/plugin invariati. I passaggi datati sotto conservano il proprio ambito; riferimento corrente leggibile dalla macchina: [docs/CURRENT.json](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/CURRENT.json).
+
+## Passaggio storico — 7 novembre 2026
 
 SOPHIA **0.7.190-beta resta la beta riservata operativa**. I 40 rilievi dell’audit comprendono difetti confermati, rischi e prove mancanti: non sono 40 vulnerabilità confermate.
 

@@ -1,6 +1,18 @@
 # Collaboration brief
 
-## Current status — 7 November 2026
+## Current status — 8 November 2026
+
+**0.7.190-beta remains SOPHIA’s restricted operational beta.** The audit’s 40 findings include defects, risks and missing evidence, rather than 40 confirmed vulnerabilities. There has been no pilot expansion or payment activation.
+
+All **58 authorized staging submissions across candidates 191–197** are complete. The latest nine on 197 produced five useful scoped answers, two incomplete or partial answers, one necessary clarification and one intentionally cancelled request retained in history; there were no unexpected technical failures. All nine questions remained available. The cancellation/logout check started from an observed running job and found no late private content or answer after 157 seconds; it does not prove provider compute stopped or any charge was refunded. These heterogeneous trials are AI-assisted source reviews, not a single-version accuracy benchmark or professional validation.
+
+**Candidate 0.7.198-rc, second frozen preparation, is loaded only in private staging, remains NO-GO for beta promotion and has zero own real-model answers.** Its exact images passed 2,440 app and 632 bridge tests with no skips. Its own 200 fixed offline cases, 200 new post-freeze mechanism cases, 18 UI controller checks and 56 reader checks on 14 complete original PDFs are separate technical evidence. General fixes address an authored ingredient label, ambiguous leaflet indices and selected-dose passages in ordinary shared leaflets, keeping literal source spans and partial coverage. The first preparation’s bridge characterization failure remains preserved; the original oracle was not changed. Native responsive layout and real cancellation evidence belongs to 197; the finite 198 login/version/keyboard check does not establish responsive or authenticated workspace behavior.
+
+Source availability and pack discrepancies, incomplete mixed/legal answers, the insufficient retraction task, professional acceptance of morphine/PSA, privacy/provider/restore/privileged-access and ordinary bank financial decisions remain open. Three historical questions never retained remain unknown. Dependency and native-library residuals are disclosed with limited-scope containment; no blanket vulnerability-free claim is made. Sol adaptive remains the default; no Astra comparison, new budget, automatic renewal or ordinary-bank spending policy has been activated.
+
+The public website is version 134, snapshot r100. All 16 maturity scores, 19 room states and 6 roadmap gates are retained. Website ownership/access checks and app quality remain distinct. FarmAI GPT/plugin versions are unchanged. Earlier dated checkpoints below retain their original scope; the current machine-readable reference is [docs/CURRENT.json](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/CURRENT.json).
+
+## Historical checkpoint — 7 November 2026
 
 SOPHIA **0.7.190-beta remains the restricted operational beta**. The audit records 40 findings across confirmed defects, risks and missing evidence; it is not a list of 40 confirmed vulnerabilities.
 

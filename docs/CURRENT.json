@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-07",
+  "reviewedAt": "2026-11-08",
   "appVersion": "0.7.190-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 132,
-    "snapshot": "2026-11-07-r99",
+    "siteVersion": 134,
+    "snapshot": "2026-11-08-r100",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
@@ -16,32 +16,39 @@
     "gatesAdvanced": false
   },
   "latestCandidate": {
-    "version": "0.7.196-rc",
+    "version": "0.7.198-rc",
     "promoted": false,
-    "status": "NO_GO_PENDING_OWN_REAL_VALIDATION_AND_OPEN_GATES",
-    "sourceFiles": 997,
+    "status": "QUALIFIED_PRIVATE_STAGING_NO_GO_BETA",
+    "sourceFiles": 1014,
+    "sourcePreparation": "second_frozen_source",
     "ownRealModelReplays": 0
   },
   "qualification": {
-    "scope": "Candidate196 exact images and offline contracts, not beta190 clinical validation",
-    "appTests": 2413,
-    "bridgeTests": 627,
+    "scope": "Own 198 exact images, offline, source and resource qualification for existing private staging; no paid 198 answers or clinical validation of beta 190.",
+    "appTests": 2440,
+    "bridgeTests": 632,
     "containerSkips": 0,
     "fixedOfflineCases": 200,
-    "newMechanismCases": 160,
-    "firstSourceRejected": {
-      "failedCases": 8,
-      "failuresPreserved": true
+    "newPostFreezeMechanismCases": 200,
+    "originalFullPDFReaderChecks": {
+      "documents": 14,
+      "pages": 195,
+      "questions": 56,
+      "differentStrengthFormContraries": true
     },
-    "uiContracts": 12,
-    "native196Cancellation": "not_tested",
-    "rejectedSourcePreparations": 2,
-    "secondSourceRejected": {
-      "failedCases": 3,
+    "uiControllers": 18,
+    "stagingOpsGuards": 16,
+    "source01Rejected": {
+      "bridgeFailures": 1,
       "failuresPreserved": true,
-      "neverLoaded": true
+      "originalOracleUnchanged": true
     },
-    "sourcePreparation": "third_frozen_source_independently_qualified"
+    "resourceMemoryPeakFraction": {
+      "app": 0.15240859985351562,
+      "bridge": 0.4182453155517578
+    },
+    "unpatchedNativeResidualsDisclosed": true,
+    "native198Scope": "Login/version/keyboard at actual 756 CSS pixels only; responsive and authenticated workspace not established."
   },
   "lastRealBattery": {
     "versions": [
@@ -49,18 +56,23 @@
       192,
       193,
       194,
-      195
+      195,
+      196,
+      197
     ],
     "environment": "private_staging",
-    "actualAttempts": 42,
+    "actualAttempts": 58,
     "originalCases": 40,
-    "authorizedRepeats": 2,
+    "authorizedAdditionalSubmissions": 18,
     "outcomes": {
-      "usefulScopedAnswers": 15,
-      "insufficientPartial": 14,
-      "correctSourceGap": 1,
-      "technicalOutcomes": 12,
-      "expectedSyntheticFaultsWithinTechnicalOutcomes": 1
+      "usefulScopedAnswers": 22,
+      "insufficientPartial": 17,
+      "correctSourceGap": 2,
+      "technicalOutcomes": 14,
+      "expectedSyntheticFaultsWithinTechnicalOutcomes": 1,
+      "proceduralContextLimit": 1,
+      "necessaryClarification": 1,
+      "expectedCancellation": 1
     },
     "allAdmittedQuestionsRetained": true,
     "notSingleVersionAccuracyBenchmark": true,
@@ -105,17 +117,33 @@
   "humanClinicalValidation": "not_completed",
   "generalProfessionalRollout": false,
   "openLimits": [
-    "Final candidate has no own real-model replay or native cancellation trial.",
-    "Medicine coverage, source availability/currentness, legal and clinical completeness remain bounded.",
-    "Professional acceptance, conflicting medicine document and three unreconstructed historical questions remain open.",
-    "Privacy/data-lifecycle/supplier/regulatory/privileged-access and normal-production financial decisions remain separate gates.",
-    "Remaining moderate build-tool advisories are disclosed in scoped reachability review; no blanket vulnerability-free claim."
+    "Candidate 198 has no own real-model answers; earlier source and image failures remain preserved.",
+    "Medicine coverage, source availability/currentness/pack discrepancies, mixed legal completeness and the insufficient retraction task remain open.",
+    "Morfina/PSA professional acceptance and the correct Daflon source remain open; three historical questions are not reconstructed.",
+    "Privacy, data lifecycle, supplier, regulatory, privileged access, operational restore and ordinary-bank financial decisions remain separate gates.",
+    "Unpatched native and moderate build-tool advisories have only scoped precondition/containment review; no universal unreachability claim."
   ],
   "questionRetention": {
-    "currentAdmittedRequests": "42 of42 recoverable at observed terminal states",
+    "currentAdmittedRequests": "All 58 admitted requests reconstructible at observed terminal states; real 197 cancellation retained.",
     "missingHistoricalQuestions": 3,
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "834e4ca2ca731eae4a223bdb2b824825abe0611c"
+  "previousPointerCommit": "4232de8776e4c0d70e592b95331290b88607885c",
+  "latestVersionBattery": {
+    "version": "0.7.197-beta",
+    "submissions": 9,
+    "usefulScopedAnswers": 5,
+    "insufficientPartial": 2,
+    "necessaryClarification": 1,
+    "expectedRetainedCancellation": 1,
+    "unexpectedTechnicalFailures": 0,
+    "humanAcceptance": false,
+    "engineLatencyCompleted8": {
+      "P50Seconds": 50.01,
+      "P95NearestRankSeconds": 108.82,
+      "heterogeneousNotSLO": true,
+      "insufficientAnswersIncluded": true
+    }
+  }
 }
