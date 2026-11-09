@@ -1,5 +1,22 @@
 ## Stato verificato — 8 novembre 2026
 
+Stato corrente — 9 novembre 2026
+
+SOPHIA 0.7.210 beta è pubblicata per gli utenti già autorizzati. Sito pubblico versione 138, riesame 2026-11-09-r105. Accessi e confine del rollout generale restano invariati.
+
+Il nuovo lotto comprende 20 invii UI (15 ordinari, 5 Ultrafast): 17 sulla 208 e 3 sulla 209; 19 ammessi e un falso blocco prima dei modelli, corretto localmente nella 210. Gli ultimi due quesiti misti si fermano al controllo prudenziale di budget. Gli esiti sono misti: non sono 20 risposte corrette o 20 test sulla versione finale.
+
+Le correzioni generali conservano tutte le classificazioni AIFA e migliorano selezione FI/RCP e legame alla presentazione esatta. Su dieci binding problematici noti, la rilettura locale passa da 3 a 10, con controprove. La 210 supera 2.581 test nella propria immagine; il bridge qualificato identico supera 639 test senza skip. L’ulteriore correzione di ammissione supera 12 varianti generali e 11 controprove. Nessuna nuova risposta completa a pagamento sulla 210. Lo studio precedente di 2.500 controlli fonte resta sotto la soglia documentale; nessun set è un benchmark cieco di accuratezza.
+
+Confermati 16 punteggi di maturità, 19 stati delle stanze e 6 gate. Restano aperti accettazione dei farmacisti, ripetibilità più ampia, limiti fonte/modello e validazione clinica umana. FarmAI Builder e SOPHIA mantengono versioni distinte. I bot autonomi GitHub restano sospesi: questo è un aggiornamento manuale.
+
+[Stato e limiti attuali](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+La documentazione precedente conserva sotto il proprio ambito datato; non è il puntatore del deployment corrente.
+
+
 La beta riservata utilizzabile resta **SOPHIA 0.7.190**. Il candidato **0.7.199** è qualificato tecnicamente e caricato nello staging privato, con versione visibile nell’app; non è promosso al banco.
 
 Sono conclusi 60 invii autorizzati su candidati 191–198. Gli ultimi due della 198 hanno prodotto una risposta utile nel proprio ambito, con lettura parziale dichiarata, e una risposta ancora parziale; nessun errore tecnico imprevisto. La 199 corregge il riconoscimento generale dei ruoli nelle domande AIFA. Le sue prove proprie sono tecniche: 2.452 test app e 632 bridge senza skip, 200 regressioni, 200 nuovi casi offline e verifiche su documenti completi. Ha **zero risposte reali proprie**.

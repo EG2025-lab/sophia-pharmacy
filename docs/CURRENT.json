@@ -1,82 +1,58 @@
 {
   "schemaVersion": 2,
-  "reviewedAt": "2026-11-08",
-  "appVersion": "0.7.190-beta",
+  "reviewedAt": "2026-11-09",
+  "appVersion": "0.7.210-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 135,
-    "snapshot": "2026-11-08-r102",
+    "siteVersion": 138,
+    "snapshot": "2026-11-09-r105",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
-    "gatesAdvanced": false
+    "gatesAdvanced": false,
+    "version": 138,
+    "sourceCommit": "73cc868be4b807f00867f9335d59c8c15a7c3433",
+    "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site"
   },
   "latestCandidate": {
-    "version": "0.7.199-rc",
-    "promoted": false,
-    "status": "QUALIFIED_PRIVATE_STAGING_NO_GO_BETA",
-    "sourceFiles": 1015,
-    "sourcePreparation": "frozen_source",
-    "ownRealModelReplays": 0,
-    "loadedPrivateStaging": "0.7.199-beta"
+    "version": "0.7.210-beta",
+    "state": "published_restricted_beta_own_technical_qualification_with_declared_residuals"
   },
   "qualification": {
-    "scope": "Own199 exact images, offline, original-source and resource qualification for existing private staging; no own199 real answer or clinical validation of beta190.",
-    "appTests": 2452,
-    "bridgeTests": 632,
-    "containerSkips": 0,
-    "fixedOfflineCases": 200,
-    "newPostFreezeMechanismCases": 200,
-    "originalFullPDFReaderChecks": {
-      "documents": 14,
-      "pages": 195,
-      "questions": 56,
-      "differentStrengthFormContraries": true,
-      "additionalSourceReadsFrom198Questions": 4
+    "scope": "Own app image and exact qualified bridge image; finite source and contrary tests",
+    "appTests": 2581,
+    "bridgeTests": 639,
+    "skipped": 0,
+    "sourceReaderControls": 48,
+    "knownProblemBindings": {
+      "before": 3,
+      "after": 10,
+      "total": 10,
+      "blind": false
     },
-    "uiControllers": 18,
-    "stagingOpsGuards": 18,
-    "resourceMemoryPeakFraction": {
-      "app": 0.15348052978515625,
-      "bridge": 0.3999652862548828
-    },
-    "unpatchedNativeResidualsDisclosed": true,
-    "native199Scope": "Authenticated workspace and visible actual server version at measured756 CSS pixels; no new question,logout or cancellation.",
-    "historical198ResponsiveScope": "Authenticated1280/390/320 measured CSS pixels; finite checks,not every phone/screenreader.",
-    "historicalFailuresPreserved": true
+    "inputScopeVariants": 12,
+    "inputScopeContraries": 11,
+    "clinicalValidation": false
   },
   "lastRealBattery": {
     "versions": [
-      191,
-      192,
-      193,
-      194,
-      195,
-      196,
-      197,
-      198
+      "0.7.208-beta",
+      "0.7.209-beta"
     ],
-    "environment": "private_staging",
-    "actualAttempts": 60,
-    "originalCases": 40,
-    "authorizedAdditionalSubmissions": 20,
-    "outcomes": {
-      "usefulScopedAnswers": 23,
-      "insufficientPartial": 18,
-      "correctSourceGap": 2,
-      "technicalOutcomes": 14,
-      "expectedSyntheticFaultsWithinTechnicalOutcomes": 1,
-      "proceduralContextLimit": 1,
-      "necessaryClarification": 1,
-      "expectedCancellation": 1
-    },
-    "allAdmittedQuestionsRetained": true,
-    "notSingleVersionAccuracyBenchmark": true,
-    "professionalAcceptance": false
+    "UIInvocations": 20,
+    "on208": 17,
+    "on209": 3,
+    "admitted": 19,
+    "preAdmissionRejected": 1,
+    "ordinary": 15,
+    "ultrafast": 5,
+    "lastTwoStoppedByBudgetGuard": true,
+    "outcome": "mixed_not_20_passes",
+    "source2500Threshold": "not_met_preserved"
   },
   "model": {
     "routing": "Sol adaptive, unchanged",
@@ -108,20 +84,34 @@
     "independentSecondMemberInstallVerified": false
   },
   "monitoring": {
-    "boundToActualBeta": "0.7.190-beta",
-    "ordinaryAlertChannelsConfigured": 3,
-    "syntheticDetectionNotificationAcknowledgementRecoveryTested": true,
-    "currentReport": "WARN",
-    "remainingWarning": "scientific_sdk_workers"
+    "currentBeta": "0.7.210-beta",
+    "boundToActualBeta": null,
+    "bindingState": "not_requalified_for_current_release",
+    "currentReport": "not_rerun",
+    "currentQualifiedHealth": {
+      "appVersion": "0.7.210-beta",
+      "scientificSdk": "READY",
+      "workers": 2
+    },
+    "githubAutonomousWorkflow": "disabled_manually",
+    "localRoadmapAutomation": "paused",
+    "historicalPreviousMonitoring": {
+      "boundToActualBeta": "0.7.190-beta",
+      "ordinaryAlertChannelsConfigured": 3,
+      "syntheticDetectionNotificationAcknowledgementRecoveryTested": true,
+      "currentReport": "WARN",
+      "remainingWarning": "scientific_sdk_workers"
+    }
   },
   "humanClinicalValidation": "not_completed",
   "generalProfessionalRollout": false,
   "openLimits": [
-    "Candidate199 has no own real-model answers;198 contributed one useful scoped response and one partial response,not two complete successes.",
-    "Unrecognized/output-only medicine coverage,source availability/currentness/pack discrepancies,mixed legal completeness and the insufficient retraction task remain open.",
-    "Morfina/PSA professional acceptance and the correct Daflon source remain open;three historical questions are not reconstructed.",
-    "Privacy,data lifecycle,supplier,regulatory,privileged access,operational restore and ordinary-bank financial decisions remain separate gates.",
-    "Native and moderate build-tool advisories have scoped precondition/containment reviews,not universal binary unreachability proof."
+    "Original 2,500 source study below documentary threshold; known sample.",
+    "Known 10-bindings local improvement is not population accuracy.",
+    "Some 208 model/source verification failure causes remain unproven.",
+    "Two 209 mixed responses stopped before completion by budget reservation.",
+    "210 admission fix has local and own-image contrary tests, without another paid replay.",
+    "Human pharmacist acceptance and clinical validation remain open."
   ],
   "questionRetention": {
     "currentAdmittedRequests": "All60 admitted requests reconstructible in observed terminal states; historical197 cancellation retained. Three earlier unsaved questions remain unreconstructed.",
@@ -129,21 +119,11 @@
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "295b4203dd47b0bf2547c99555354ad960acf6d4",
+  "previousPointerCommit": "d2aa51f95b85a21cf3e7ca64689f6500c459ee14",
   "latestVersionBattery": {
-    "version": "0.7.198-beta",
-    "submissions": 2,
-    "usefulScopedAnswers": 1,
-    "insufficientPartial": 1,
-    "unexpectedTechnicalFailures": 0,
-    "allQuestionsRetained": true,
-    "humanAcceptance": false,
-    "engineLatencyCompleted2": {
-      "P50Seconds": 37.605,
-      "P95NearestRankSeconds": 41.92,
-      "smallHeterogeneousNotSLO": true,
-      "insufficientAnswersIncluded": true
-    },
-    "sourceLimits": "Useful requested facts do not imply complete leaflet review. One comparison remains partial; role routing repaired offline in199 has no own real synthesis proof."
+    "version": "0.7.210-beta",
+    "paidFullResponses": 0,
+    "status": "not_run_after_final_local_admission_fix",
+    "AifaAndBridgeCodeIdenticalTo209": true
   }
 }

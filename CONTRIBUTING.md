@@ -1,5 +1,22 @@
 ## Verified status — 8 November 2026
 
+Current status — 9 November 2026
+
+SOPHIA 0.7.210 beta is published for existing authorized users. The public site is version 138, assessment 2026-11-09-r105. Access and general-rollout boundaries are unchanged.
+
+The new evaluation lot contains 20 UI submissions (15 ordinary, 5 Ultrafast): 17 on 208 and 3 on 209; 19 admitted and one false pre-model rejection, corrected locally in 210. The final two mixed requests stopped at the conservative budget guard. Results are mixed; this is not 20 correct answers or 20 tests on the final version.
+
+General source corrections preserve all AIFA supply classifications and improve FI/SmPC selection and exact presentation binding. On ten known problematic bindings, local replay improved from 3 to 10, with contrary cases. Version 210 passes 2,581 tests in its own app image; its unchanged qualified bridge passes 639 without skips. A further input-admission correction passes 12 general variants and 11 contrary cases. No paid full answer was run on 210. The earlier 2,500 source-check study remains below its documentary threshold; neither set is a blind accuracy benchmark.
+
+All 16 maturity scores, 19 room states and 6 roadmap gates are retained. Pharmacist acceptance, broader repeatability, unresolved model/source gaps and human clinical validation remain open. FarmAI Builder packages and SOPHIA keep distinct versions. Autonomous GitHub bots remain suspended; this is a manual documentation update.
+
+[Current status and limitations](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+Earlier documentation below retains its dated scope; it is not the current deployment pointer.
+
+
 The available restricted beta remains **SOPHIA 0.7.190**. Candidate **0.7.199** is technically qualified and loaded in private staging, with its version visible in the app; it has not been promoted for pharmacy-counter use.
 
 All 60 authorized submissions across candidates 191–198 are complete. The last two on 198 yielded one useful scoped answer with explicitly partial reading and one partial answer, with no unexpected technical error. 199 fixes general AIFA role-word routing. Its own evidence is technical: 2,452 app and 632 bridge tests without skips, 200 regressions, 200 new offline cases and complete-document checks. It has **no real answers of its own**.
