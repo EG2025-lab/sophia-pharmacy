@@ -1,63 +1,61 @@
 {
   "schemaVersion": 2,
-  "reviewedAt": "2026-11-10",
-  "appVersion": "0.7.222-beta",
+  "reviewedAt": "2026-11-11",
+  "appVersion": "0.7.231-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 140,
-    "snapshot": "2026-11-10-r107",
+    "siteVersion": 141,
+    "snapshot": "2026-11-11-r108",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
-    "gatesAdvanced": false,
-    "version": 140,
-    "sourceCommit": "79e5c685f84884e6efd4c9ee7797f11bf64f6610",
+    "gatesAdvanced": 0,
+    "version": 141,
+    "sourceCommit": "f7b39185beb2fcf22b63d8d0b57412295a2a954d",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site"
   },
   "latestCandidate": {
-    "version": "0.7.222-beta",
-    "state": "published_restricted_beta_own_technical_qualification_mixed_real_limits_declared"
+    "version": "0.7.231-rc",
+    "state": "Released as restricted beta after private staging and technical qualification"
   },
   "qualification": {
-    "scope": "Own immutable app and bridge images; finite technical qualification,not clinical validation",
-    "appTests": 2691,
-    "bridgeTests": 692,
+    "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
+    "appTests": 2771,
+    "bridgeTests": 702,
     "skipped": 0,
     "sourceReaderControls": 48,
     "readerInvocations": 96,
-    "knownFinalFamilyTests": 10,
+    "knownFinalFamilyTests": 8,
     "historicalSourceReplay": {
-      "cases": 5000,
-      "savedAdapterCalls": 13128,
-      "newHTTP": 0,
-      "inferences": 0,
-      "allOriginalOutcomesPreserved": true
+      "cases": 12000,
+      "inferenceCalls": 0,
+      "newHttpReads": 0
     },
     "clinicalValidation": false
   },
   "lastRealBattery": {
     "versions": [
-      "0.7.213-beta",
-      "0.7.215-beta",
-      "0.7.216-beta",
-      "0.7.217-beta",
-      "0.7.221-beta"
+      227,
+      228,
+      229,
+      230
     ],
     "plannedUIInvocations": 20,
-    "actualUIInvocations": 16,
-    "ordinary": 11,
+    "actualUIInvocations": 20,
+    "ordinary": 15,
     "ultrafast": 5,
-    "technicalCompleted": 12,
-    "technicalFailed": 4,
-    "notRun": 4,
+    "technicalCompleted": 14,
+    "technicalFailed": 6,
+    "fullUseful": 10,
+    "usefulWithExplicitGap": 4,
+    "notRun": 0,
     "technicalCompletionIsNotAllNeedsMet": true,
-    "finalStop": "conservative_financial_reservation_guard",
-    "outcome": "mixed_not_20_passes",
-    "all20CompleteAnswerGate": "NOT_MET"
+    "finalStop": "All 20 authorised inputs executed; batch closed",
+    "all20CompleteAnswerGate": false
   },
   "model": {
     "routing": "Sol adaptive, unchanged",
@@ -89,15 +87,11 @@
     "independentSecondMemberInstallVerified": false
   },
   "monitoring": {
-    "currentBeta": "0.7.222-beta",
-    "boundToActualBeta": null,
-    "bindingState": "not_requalified_for_current_release",
-    "currentReport": "not_rerun",
-    "currentQualifiedHealth": {
-      "appVersion": "0.7.222-beta",
-      "scientificSdk": "READY",
-      "workers": 2
-    },
+    "currentBeta": "0.7.231-beta",
+    "boundToActualBeta": false,
+    "bindingState": "Autonomous monitoring not requalified on231",
+    "currentReport": null,
+    "currentQualifiedHealth": true,
     "githubAutonomousWorkflow": "disabled_manually",
     "localRoadmapAutomation": "paused",
     "historicalPreviousMonitoring": {
@@ -114,13 +108,9 @@
   "humanClinicalValidation": "not_completed",
   "generalProfessionalRollout": false,
   "openLimits": [
-    "The final222version has no own paid complete answer;natural clinical discovery and counter usefulness after the final corrections remain unverified.",
-    "Six presentation-binding holds and180 metadata-only negative cases remain in the correlated5000-scenario engineering study.",
-    "Four real inputs failed and four planned questions were not run because of conservative financial reservation.",
-    "Technical completions include partial answers and unmet needs.",
-    "Precise hidden rejected-draft causes of some intermediate failures were not retained and are not fabricated.",
-    "Historical security,monitoring,privacy,provider,governance and missing-question findings are not closed in bulk.",
-    "Human pharmacist acceptance and clinical validation remain open."
+    "Clinical web fallback was verified on one real abstract in both modes, without generating an answer.",
+    "Natural complete answer repeatability, exact commercial variant acquisition, and human validation remain open.",
+    "Source gaps and incomplete synthesis remain possible; reports distinguish causes and observed limits."
   ],
   "questionRetention": {
     "currentAdmittedRequests": "All16 admitted requests in this new lot are retained in observed terminal states. Earlier dated retention reviews keep their scope;three historical unsaved questions remain unreconstructed.",
@@ -128,11 +118,11 @@
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "f7b0edcfbe0025cc74f8dbd2b0e65d6a040ef02f",
+  "previousPointerCommit": "802952259319fab829557034fc7b5a1d23633636",
   "latestVersionBattery": {
-    "version": "0.7.222-beta",
+    "version": "0.7.231-beta",
     "paidFullResponses": 0,
-    "status": "not_run_after_final_local_corrections",
+    "status": "Technical qualification with source-only checks; complete real answers not repeated",
     "ownTechnicalQualification": true
   },
   "historical210Before222": {
@@ -189,6 +179,76 @@
     "strictTechnicalPasses": 4814,
     "metadataOnlyAbstentions": 180,
     "presentationBindingHolds": 6,
+    "blindBenchmark": false,
+    "clinicalAnswers": false
+  },
+  "historical222Before231": {
+    "appVersion": "0.7.222-beta",
+    "qualification": {
+      "scope": "Own immutable app and bridge images; finite technical qualification,not clinical validation",
+      "appTests": 2691,
+      "bridgeTests": 692,
+      "skipped": 0,
+      "sourceReaderControls": 48,
+      "readerInvocations": 96,
+      "knownFinalFamilyTests": 10,
+      "historicalSourceReplay": {
+        "cases": 5000,
+        "savedAdapterCalls": 13128,
+        "newHTTP": 0,
+        "inferences": 0,
+        "allOriginalOutcomesPreserved": true
+      },
+      "clinicalValidation": false
+    },
+    "lastRealBattery": {
+      "versions": [
+        "0.7.213-beta",
+        "0.7.215-beta",
+        "0.7.216-beta",
+        "0.7.217-beta",
+        "0.7.221-beta"
+      ],
+      "plannedUIInvocations": 20,
+      "actualUIInvocations": 16,
+      "ordinary": 11,
+      "ultrafast": 5,
+      "technicalCompleted": 12,
+      "technicalFailed": 4,
+      "notRun": 4,
+      "technicalCompletionIsNotAllNeedsMet": true,
+      "finalStop": "conservative_financial_reservation_guard",
+      "outcome": "mixed_not_20_passes",
+      "all20CompleteAnswerGate": "NOT_MET"
+    },
+    "latestVersionBattery": {
+      "version": "0.7.222-beta",
+      "paidFullResponses": 0,
+      "status": "not_run_after_final_local_corrections",
+      "ownTechnicalQualification": true
+    },
+    "website": {
+      "siteVersion": 140,
+      "snapshot": "2026-11-10-r107",
+      "scoresReviewed": 16,
+      "scoresChanged": 0,
+      "roomStatesReviewed": 19,
+      "gatesReviewed": 6,
+      "gatesAdvanced": false,
+      "version": 140,
+      "sourceCommit": "79e5c685f84884e6efd4c9ee7797f11bf64f6610",
+      "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site"
+    }
+  },
+  "sourceStudy12000": {
+    "version": "0.7.223-beta",
+    "cases": 12000,
+    "aifa": 4000,
+    "legislation": 4000,
+    "clinicalToolUniverse": 4000,
+    "technicalPass": 7792,
+    "safeGap": 4208,
+    "modelCalls": 0,
     "blindBenchmark": false,
     "clinicalAnswers": false
   }

@@ -1,3 +1,19 @@
+## Current verified status — 2026-11-11
+
+**SOPHIA 0.7.231 beta** is available to existing authorised users. It prioritises clinical databases and can recover relevant public source text when the direct clinical route yields no usable passage. An abstract is labelled as such. AIFA medicine documents remain tied to the exact pack and official API, with mismatches reported explicitly.
+
+The pre-AI source study comprised **12,000 scenarios**: 4,000 AIFA, 4,000 legislation and 4,000 Clinical Evidence with ToolUniverse, with supplement and cosmetic web paths also exercised. It recorded **7,792 technical passes and 4,208 safe gaps**, without model generation. These are engineering scenarios, not complete answers or exhaustive database coverage.
+
+The **20 real staging submissions** on versions 227–230 each included AIFA: **15 ordinary and five Ultrafast**, with 10 useful complete answers, four useful partial answers and six failures. Four paired cases agreed on core facts. The final 231 app image passed **2,771 tests**, with **702 tests on the exact previously qualified bridge**, no skips, and fresh resource and source checks. No new paid complete answer ran on 231. Counter acceptance and human clinical validation remain open.
+
+Site version **141**, assessment **2026-11-11-r108**. All 16 maturity ratings, 19 room states and six roadmap gates were reviewed and retained. FarmAI Builder and private Business plugins are separate product channels. The mandated autonomous GitHub workflow suspension remains in place.
+
+[Current status and limits](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+Dated material below is historical.
+
 ## Current verified status — 2026-11-10
 
 **SOPHIA 0.7.222 beta** is published for existing authorized users after general corrections to AIFA reading, clinical source discovery and cross-domain coordination. Its own immutable images pass **2,691 app tests and 692 bridge tests, without skips**. Forty-eight repeated reader controls and replay of 5,000 saved source observations preserve the original gaps and negative outcomes; replay is not a new live API or clinical-answer battery.
