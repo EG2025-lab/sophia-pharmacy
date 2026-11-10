@@ -1,58 +1,63 @@
 {
   "schemaVersion": 2,
-  "reviewedAt": "2026-11-09",
-  "appVersion": "0.7.210-beta",
+  "reviewedAt": "2026-11-10",
+  "appVersion": "0.7.222-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 138,
-    "snapshot": "2026-11-09-r105",
+    "siteVersion": 139,
+    "snapshot": "2026-11-10-r106",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": false,
-    "version": 138,
-    "sourceCommit": "73cc868be4b807f00867f9335d59c8c15a7c3433",
+    "version": 139,
+    "sourceCommit": "882afb618a6ff6c7228dbcb0079e2e9baf956f85",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site"
   },
   "latestCandidate": {
-    "version": "0.7.210-beta",
-    "state": "published_restricted_beta_own_technical_qualification_with_declared_residuals"
+    "version": "0.7.222-beta",
+    "state": "published_restricted_beta_own_technical_qualification_mixed_real_limits_declared"
   },
   "qualification": {
-    "scope": "Own app image and exact qualified bridge image; finite source and contrary tests",
-    "appTests": 2581,
-    "bridgeTests": 639,
+    "scope": "Own immutable app and bridge images; finite technical qualification,not clinical validation",
+    "appTests": 2691,
+    "bridgeTests": 692,
     "skipped": 0,
     "sourceReaderControls": 48,
-    "knownProblemBindings": {
-      "before": 3,
-      "after": 10,
-      "total": 10,
-      "blind": false
+    "readerInvocations": 96,
+    "knownFinalFamilyTests": 10,
+    "historicalSourceReplay": {
+      "cases": 5000,
+      "savedAdapterCalls": 13128,
+      "newHTTP": 0,
+      "inferences": 0,
+      "allOriginalOutcomesPreserved": true
     },
-    "inputScopeVariants": 12,
-    "inputScopeContraries": 11,
     "clinicalValidation": false
   },
   "lastRealBattery": {
     "versions": [
-      "0.7.208-beta",
-      "0.7.209-beta"
+      "0.7.213-beta",
+      "0.7.215-beta",
+      "0.7.216-beta",
+      "0.7.217-beta",
+      "0.7.221-beta"
     ],
-    "UIInvocations": 20,
-    "on208": 17,
-    "on209": 3,
-    "admitted": 19,
-    "preAdmissionRejected": 1,
-    "ordinary": 15,
+    "plannedUIInvocations": 20,
+    "actualUIInvocations": 16,
+    "ordinary": 11,
     "ultrafast": 5,
-    "lastTwoStoppedByBudgetGuard": true,
+    "technicalCompleted": 12,
+    "technicalFailed": 4,
+    "notRun": 4,
+    "technicalCompletionIsNotAllNeedsMet": true,
+    "finalStop": "conservative_financial_reservation_guard",
     "outcome": "mixed_not_20_passes",
-    "source2500Threshold": "not_met_preserved"
+    "all20CompleteAnswerGate": "NOT_MET"
   },
   "model": {
     "routing": "Sol adaptive, unchanged",
@@ -84,12 +89,12 @@
     "independentSecondMemberInstallVerified": false
   },
   "monitoring": {
-    "currentBeta": "0.7.210-beta",
+    "currentBeta": "0.7.222-beta",
     "boundToActualBeta": null,
     "bindingState": "not_requalified_for_current_release",
     "currentReport": "not_rerun",
     "currentQualifiedHealth": {
-      "appVersion": "0.7.210-beta",
+      "appVersion": "0.7.222-beta",
       "scientificSdk": "READY",
       "workers": 2
     },
@@ -101,29 +106,90 @@
       "syntheticDetectionNotificationAcknowledgementRecoveryTested": true,
       "currentReport": "WARN",
       "remainingWarning": "scientific_sdk_workers"
-    }
+    },
+    "githubWorkflowLastObservedDate": "2026-11-07",
+    "githubWorkflowStateRequalifiedThisCycle": false,
+    "localRoadmapAutomationVerifiedAt": "2026-11-10"
   },
   "humanClinicalValidation": "not_completed",
   "generalProfessionalRollout": false,
   "openLimits": [
-    "Original 2,500 source study below documentary threshold; known sample.",
-    "Known 10-bindings local improvement is not population accuracy.",
-    "Some 208 model/source verification failure causes remain unproven.",
-    "Two 209 mixed responses stopped before completion by budget reservation.",
-    "210 admission fix has local and own-image contrary tests, without another paid replay.",
+    "The final222version has no own paid complete answer;natural clinical discovery and counter usefulness after the final corrections remain unverified.",
+    "Six presentation-binding holds and180 metadata-only negative cases remain in the correlated5000-scenario engineering study.",
+    "Four real inputs failed and four planned questions were not run because of conservative financial reservation.",
+    "Technical completions include partial answers and unmet needs.",
+    "Precise hidden rejected-draft causes of some intermediate failures were not retained and are not fabricated.",
+    "Historical security,monitoring,privacy,provider,governance and missing-question findings are not closed in bulk.",
     "Human pharmacist acceptance and clinical validation remain open."
   ],
   "questionRetention": {
-    "currentAdmittedRequests": "All60 admitted requests reconstructible in observed terminal states; historical197 cancellation retained. Three earlier unsaved questions remain unreconstructed.",
+    "currentAdmittedRequests": "All16 admitted requests in this new lot are retained in observed terminal states. Earlier dated retention reviews keep their scope;three historical unsaved questions remain unreconstructed.",
     "missingHistoricalQuestions": 3,
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "d2aa51f95b85a21cf3e7ca64689f6500c459ee14",
+  "previousPointerCommit": "7ef847e2e7b5292368d3c69143314c0cf72c9bc9",
   "latestVersionBattery": {
-    "version": "0.7.210-beta",
+    "version": "0.7.222-beta",
     "paidFullResponses": 0,
-    "status": "not_run_after_final_local_admission_fix",
-    "AifaAndBridgeCodeIdenticalTo209": true
+    "status": "not_run_after_final_local_corrections",
+    "ownTechnicalQualification": true
+  },
+  "historical210Before222": {
+    "appVersion": "0.7.210-beta",
+    "qualification": {
+      "scope": "Own app image and exact qualified bridge image; finite source and contrary tests",
+      "appTests": 2581,
+      "bridgeTests": 639,
+      "skipped": 0,
+      "sourceReaderControls": 48,
+      "knownProblemBindings": {
+        "before": 3,
+        "after": 10,
+        "total": 10,
+        "blind": false
+      },
+      "inputScopeVariants": 12,
+      "inputScopeContraries": 11,
+      "clinicalValidation": false
+    },
+    "lastRealBattery": {
+      "versions": [
+        "0.7.208-beta",
+        "0.7.209-beta"
+      ],
+      "UIInvocations": 20,
+      "on208": 17,
+      "on209": 3,
+      "admitted": 19,
+      "preAdmissionRejected": 1,
+      "ordinary": 15,
+      "ultrafast": 5,
+      "lastTwoStoppedByBudgetGuard": true,
+      "outcome": "mixed_not_20_passes",
+      "source2500Threshold": "not_met_preserved"
+    },
+    "latestVersionBattery": {
+      "version": "0.7.210-beta",
+      "paidFullResponses": 0,
+      "status": "not_run_after_final_local_admission_fix",
+      "AifaAndBridgeCodeIdenticalTo209": true
+    }
+  },
+  "sourceStudy5000": {
+    "version": "0.7.212-beta",
+    "cases": 5000,
+    "families": 130,
+    "AICs": 400,
+    "PMIDs": 20,
+    "acts": 5,
+    "adapterCallsIncludingRecoveries": 13162,
+    "technicalRecoveries": 19,
+    "scopedSourceGate": "PASS_WITH_EXPLICIT_GAPS",
+    "strictTechnicalPasses": 4814,
+    "metadataOnlyAbstentions": 180,
+    "presentationBindingHolds": 6,
+    "blindBenchmark": false,
+    "clinicalAnswers": false
   }
 }
