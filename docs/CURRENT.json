@@ -7,15 +7,15 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 139,
-    "snapshot": "2026-11-10-r106",
+    "siteVersion": 140,
+    "snapshot": "2026-11-10-r107",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": false,
-    "version": 139,
-    "sourceCommit": "882afb618a6ff6c7228dbcb0079e2e9baf956f85",
+    "version": 140,
+    "sourceCommit": "79e5c685f84884e6efd4c9ee7797f11bf64f6610",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site"
   },
   "latestCandidate": {
@@ -128,7 +128,7 @@
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "7ef847e2e7b5292368d3c69143314c0cf72c9bc9",
+  "previousPointerCommit": "f7b0edcfbe0025cc74f8dbd2b0e65d6a040ef02f",
   "latestVersionBattery": {
     "version": "0.7.222-beta",
     "paidFullResponses": 0,
