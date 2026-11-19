@@ -1,3 +1,11 @@
+## Public programme update — 19 November 2026
+
+SOPHIA’s counter objective is to qualify a specialised pharmacist assistant by 11 December 2026. The three source areas advance in parallel. The earlier FarmAI comparison remains a dated documentary baseline. The programme now tracks new source and end-to-end tests, practical counter checks, and a separately documented human clinical validation status.
+
+[Current context](STATUS.md) · [Testing workflow](TESTING.md) · [Counter roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#al-banco-11-dicembre)
+
+---
+
 ## Current verified status — 2026-11-11
 
 **SOPHIA 0.7.231 beta** is available to existing authorised users. It prioritises clinical databases and can recover relevant public source text when the direct clinical route yields no usable passage. An abstract is labelled as such. AIFA medicine documents remain tied to the exact pack and official API, with mismatches reported explicitly.

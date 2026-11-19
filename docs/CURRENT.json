@@ -1,26 +1,27 @@
 {
   "schemaVersion": 2,
-  "reviewedAt": "2026-11-11",
+  "reviewedAt": "2026-11-19",
   "appVersion": "0.7.231-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 141,
-    "snapshot": "2026-11-11-r108",
+    "siteVersion": 146,
+    "snapshot": "2026-11-19-r113",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 141,
-    "sourceCommit": "f7b39185beb2fcf22b63d8d0b57412295a2a954d",
-    "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site"
+    "version": 146,
+    "sourceCommit": "fb5874c729b54aa54da43e269f455ff3366e1c5b",
+    "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
+    "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.231-rc",
-    "state": "Released as restricted beta after private staging and technical qualification"
+    "version": "0.7.498-rc",
+    "state": "Technically qualified as a private preview; full answer sample pending on this release"
   },
   "qualification": {
     "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
@@ -38,29 +39,21 @@
     "clinicalValidation": false
   },
   "lastRealBattery": {
-    "versions": [
-      227,
-      228,
-      229,
-      230
+    "version": "0.7.495-beta",
+    "environment": "private_preview",
+    "actualUIInvocations": 2,
+    "delivery": "Both reached chat. One documented mixed answer and one clinically partial answer with explicit limits.",
+    "secondsFromAdmissionToTerminal": [
+      24.84,
+      85.53
     ],
-    "plannedUIInvocations": 20,
-    "actualUIInvocations": 20,
-    "ordinary": 15,
-    "ultrafast": 5,
-    "technicalCompleted": 14,
-    "technicalFailed": 6,
-    "fullUseful": 10,
-    "usefulWithExplicitGap": 4,
-    "notRun": 0,
-    "technicalCompletionIsNotAllNeedsMet": true,
-    "finalStop": "All 20 authorised inputs executed; batch closed",
-    "all20CompleteAnswerGate": false
+    "technicalCompletionIsNotAllNeedsMet": true
   },
   "model": {
     "routing": "Sol adaptive, unchanged",
     "astraActivated": false,
-    "astraComparisonExecuted": false
+    "astraComparisonExecuted": false,
+    "developmentWorkflow": "Luna interprets and routes retrieval. Sol drafts once from read sources, then a final review and targeted correction are applied when needed."
   },
   "payments": {
     "realPaymentsActive": false,
@@ -108,9 +101,9 @@
   "humanClinicalValidation": "not_completed",
   "generalProfessionalRollout": false,
   "openLimits": [
-    "Clinical web fallback was verified on one real abstract in both modes, without generating an answer.",
-    "Natural complete answer repeatability, exact commercial variant acquisition, and human validation remain open.",
-    "Source gaps and incomplete synthesis remain possible; reports distinguish causes and observed limits."
+    "Restricted beta request-processing recovery remains to be verified.",
+    "Professional counter acceptance, independent benchmarking and human clinical validation remain open.",
+    "Preview observations preserve separate results for source coverage, final verification and delivery."
   ],
   "questionRetention": {
     "currentAdmittedRequests": "All16 admitted requests in this new lot are retained in observed terminal states. Earlier dated retention reviews keep their scope;three historical unsaved questions remain unreconstructed.",
@@ -118,12 +111,10 @@
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "802952259319fab829557034fc7b5a1d23633636",
+  "previousPointerCommit": "8060f38a02d7997c6f2d8ca0966538dd2132bf92",
   "latestVersionBattery": {
     "version": "0.7.231-beta",
-    "paidFullResponses": 0,
-    "status": "Technical qualification with source-only checks; complete real answers not repeated",
-    "ownTechnicalQualification": true
+    "status": "Deployed restricted beta. Operational recovery needs separate verification on this version."
   },
   "historical210Before222": {
     "appVersion": "0.7.210-beta",
@@ -251,5 +242,79 @@
     "modelCalls": 0,
     "blindBenchmark": false,
     "clinicalAnswers": false
+  },
+  "historical2026-11-11WebsiteAndBattery": {
+    "website": {
+      "siteVersion": 141,
+      "snapshot": "2026-11-11-r108",
+      "scoresReviewed": 16,
+      "scoresChanged": 0,
+      "roomStatesReviewed": 19,
+      "gatesReviewed": 6,
+      "gatesAdvanced": 0,
+      "version": 141,
+      "sourceCommit": "f7b39185beb2fcf22b63d8d0b57412295a2a954d",
+      "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site"
+    },
+    "lastRealBattery": {
+      "versions": [
+        227,
+        228,
+        229,
+        230
+      ],
+      "plannedUIInvocations": 20,
+      "actualUIInvocations": 20,
+      "ordinary": 15,
+      "ultrafast": 5,
+      "technicalCompleted": 14,
+      "technicalFailed": 6,
+      "fullUseful": 10,
+      "usefulWithExplicitGap": 4,
+      "notRun": 0,
+      "technicalCompletionIsNotAllNeedsMet": true,
+      "finalStop": "All 20 authorised inputs executed; batch closed",
+      "all20CompleteAnswerGate": false
+    },
+    "latestVersionBattery": {
+      "version": "0.7.231-beta",
+      "paidFullResponses": 0,
+      "status": "Technical qualification with source-only checks; complete real answers not repeated",
+      "ownTechnicalQualification": true
+    }
+  },
+  "environments": {
+    "restrictedBeta": {
+      "version": "0.7.231-beta",
+      "operationalRecovery": "open"
+    },
+    "standardStaging": {
+      "version": "0.7.453-beta",
+      "qualification": "technical"
+    },
+    "privatePreview": {
+      "version": "0.7.498-beta",
+      "qualification": "technical",
+      "localAppTestsPassed": 3696
+    },
+    "latestCheckedEndToEndSample": {
+      "version": "0.7.495-beta",
+      "questions": 2
+    }
+  },
+  "testing": {
+    "candidateQuestions": 10000,
+    "actualExecutionBoundedBySpendingLimit": true,
+    "privateReceiptForEachExecutedChat": true,
+    "originalVisibleLunaOutputWhenAvailable": true,
+    "preSolBoundary": [
+      "interpretation",
+      "routing",
+      "source_reading"
+    ],
+    "candidateReviewEveryVerifiedCorrectCases": 50,
+    "fullAnswerSamplesPerBatch": 2,
+    "counterObjectiveDate": "2026-12-11",
+    "humanClinicalValidation": "not_completed"
   }
 }

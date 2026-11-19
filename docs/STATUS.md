@@ -1,3 +1,23 @@
+## Verified status — 19 November 2026
+
+| Environment | Version | Observed status |
+| --- | --- | --- |
+| Restricted beta | **0.7.231-beta** | Deployed version. Operational recovery still needs verification. |
+| Standard staging | **0.7.453-beta** | Technical qualification on natural questions and source retrieval. |
+| Private preview | **0.7.498-beta** | Technical qualification of legal routing scope and Luna’s original visible output in private details. |
+
+Two end-to-end tests were verified on preview 0.7.495. The mixed answer delivered the original patient leaflet, SmPC and legal source. The clinical answer stated its coverage limits.
+
+**Test Luna** checks interpretation, routing and source reading before Sol. The candidate corpus contains 10,000 questions and execution stops at the spending limit. Each executed chat has a private receipt. Every 50 newly verified correct cases, the team reviews defects, tests fixes on replays and variants and qualifies the next candidate in staging. Selected pairs also run end to end, with one synthesis, a final review and targeted correction when needed.
+
+The counter objective is **11 December 2026**. AIFA, legislation and Clinical Evidence progress in parallel. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r113** on public website **Sites 146** retained all 16 maturity scores and six roadmap gate states for the deployed beta.
+
+[Testing strategy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing) · [Evidence and limits](TESTING.md) · [State](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
+
+---
+
+The dated notes below retain their original scope.
+
 ## Current verified status — 2026-11-11
 
 **SOPHIA 0.7.231 beta** is available to existing authorised users. It prioritises clinical databases and can recover relevant public source text when the direct clinical route yields no usable passage. An abstract is labelled as such. AIFA medicine documents remain tied to the exact pack and official API, with mismatches reported explicitly.
