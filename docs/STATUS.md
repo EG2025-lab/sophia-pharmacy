@@ -4,15 +4,15 @@
 | --- | --- | --- |
 | Restricted beta | **0.7.231-beta** | Deployed version. Operational recovery still needs verification. |
 | Standard staging | **0.7.453-beta** | Technical qualification on natural questions and source retrieval. |
-| Private preview | **0.7.529-beta** | Technical qualification and Test Luna through the checkpoint. |
+| Private preview | **0.7.560-beta** | Technical qualification with profile, memory and history continuity. |
 
-Private preview 0.7.529 passed 3,803 app tests and six source-retrieval replays. Test Luna v1.1 on 0.7.528 paused at 25 new verified outcomes. The cumulative log contains 5,462 outcomes and 5,441 receipts.
+The **0.7.560** preview passed **3,883 application tests**. It includes an updated home, certified-email onboarding with self-declared professional status, institutional sources for supplements and devices, and credit and review accounting. A synthetic-account test recorded half a credit for a verified partial answer and a half-credit reward for a first signed review, including private or critical reviews. Stripe sandbox Checkout opened and closed an unpaid session. Certified-email testing in the target environments and confirmation of a sandbox payment and credit posting remain open. Payments and answer charging are disabled in the preview.
 
-**Test Luna v1.2** alternates counter questions on AIFA, legislation, Clinical Evidence, web search and conversation. Expectations are set before testing. Luna and the engines operate on live sources up to the point where Sol would start. Each executed chat has a private receipt that explains any interruption. The 10,000 questions form a candidate corpus with a **USD 20** cumulative cap. Submissions pause after **25 new verified outcomes** for review, fixes and replays on variants. Testing resumes on the candidate qualified in staging. Separately, **Test completo v1.0** samples up to **10 real questions in staging**, with **USD 4 per batch**, to check sources, Sol’s answer and final review.
+**Test Luna v1.2** on 0.7.556 paused at its 25th new verified outcome in 49 tests. The cumulative log contains 5,777 outcomes and 5,748 source-path receipts. The separate **Test completo v1.0** run on 0.7.558 recorded **five complete results, three partial, one gap and one block** in 10 staging questions, with **USD 3.21** recorded against a USD 4 cap.
 
-The counter objective is **11 December 2026**. AIFA, legislation and Clinical Evidence progress in parallel. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r131** on public website **Sites 165** retained all 16 maturity scores and six roadmap gate states for the deployed beta.
+The counter objective remains **11 December 2026**. AIFA, legislation and Clinical Evidence progress in parallel. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r132** on **Sites 166** retains the 16 maturity scores and six rollout stages.
 
-[Testing strategy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing) · [Evidence and limits](TESTING.md) · [State](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
+[Testing strategy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Evidence and limits](TESTING.md) · [Status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency)
 
 ---
 

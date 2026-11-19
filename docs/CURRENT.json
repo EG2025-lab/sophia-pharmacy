@@ -7,21 +7,27 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 165,
-    "snapshot": "2026-11-19-r131",
+    "siteVersion": 166,
+    "snapshot": "2026-11-19-r132",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 165,
-    "sourceCommit": "53ec7112070145a874321d329c6582f8f4dd94e8",
+    "version": 166,
+    "sourceCommit": "a806bb1e226d1978ffee7a563e15b6fd2d05c2cb",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.529-rc",
-    "state": "Technically qualified private preview. One complete mixed AIFA and legislation sample delivered, one clinical sample ended with a gap. Counter acceptance remains open."
+    "version": "0.7.560-rc",
+    "state": "Technically qualified private preview with profile, memory and history continuity. Target-environment release checks remain open.",
+    "includes": [
+      "Updated home",
+      "Certified-email onboarding and self-declared professional status",
+      "EU supplement claims register and Italian medical-device index",
+      "Credit and signed-review accounting"
+    ]
   },
   "qualification": {
     "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
@@ -39,18 +45,16 @@
     "clinicalValidation": false
   },
   "lastRealBattery": {
-    "version": "0.7.515-beta",
+    "version": "0.7.558-beta",
     "environment": "private_preview",
-    "actualUIInvocations": 2,
-    "delivery": "Device clarification and a mixed AIFA leaflet plus partial clinical answer.",
-    "backendSeconds": [
-      10.28,
-      177.63
-    ],
-    "modelCalls": [
-      1,
-      9
-    ],
+    "actualUIInvocations": 10,
+    "complete": 5,
+    "partial": 3,
+    "gap": 1,
+    "blocked": 1,
+    "accountedUSD": 3.21176338,
+    "capUSD": 4,
+    "modelCalls": 50,
     "technicalCompletionIsNotAllNeedsMet": true
   },
   "model": {
@@ -69,7 +73,16 @@
       "renewal": false
     },
     "offerActive": false,
-    "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS"
+    "APIProviderCosts": "OPERATOR_PROJECT_SEPARATE_FROM_PERSONAL_APP_CREDITS",
+    "privatePreviewCreditAccounting": {
+      "complete": 1,
+      "partial": 0.5,
+      "withoutUsableAnswer": 0,
+      "initialSignedReviewReward": 0.5,
+      "maxRewardedReviewsPerAccountPerDay": 3,
+      "checks": "local_synthetic"
+    },
+    "stripeSandbox": "unpaid_checkout_opened_and_closed; payment_confirmation_and_credit_posting_open"
   },
   "farmAIChannels": {
     "originalGPTsPreserved": true,
@@ -107,10 +120,11 @@
   "openLimits": [
     "Restricted beta request-processing recovery remains to be verified.",
     "Professional counter acceptance, independent benchmarking and human clinical validation remain open.",
-    "Preview observations preserve separate results for source coverage, final verification and delivery."
+    "Preview observations preserve separate results for source coverage, final verification and delivery.",
+    "In the 0.7.560 preview, PEC onboarding awaits checks in the target environments. Sandbox payment confirmation and credit posting remain open."
   ],
   "questionRetention": {
-    "currentAdmittedRequests": "All16 admitted requests in this new lot are retained in observed terminal states. Earlier dated retention reviews keep their scope;three historical unsaved questions remain unreconstructed.",
+    "currentAdmittedRequests": "All ten staged 0.7.558 requests have their scoped outcomes. Historical retention limits remain recorded separately.",
     "missingHistoricalQuestions": 3,
     "reconstructed": false
   },
@@ -297,13 +311,14 @@
       "qualification": "technical"
     },
     "privatePreview": {
-      "version": "0.7.529-beta",
+      "version": "0.7.560-beta",
       "qualification": "technical",
-      "localAppTestsPassed": 3803
+      "localAppTestsPassed": 3883,
+      "profileMemoryHistoryContinuityVerified": true
     },
     "latestCheckedEndToEndSample": {
-      "version": "0.7.515-beta",
-      "questions": 2
+      "version": "0.7.558-beta",
+      "questions": 10
     }
   },
   "testing": {
@@ -321,12 +336,11 @@
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
     "resumeAfter": "fixes_and_new_version_staging_qualification",
-    "latestObservedCheckpointVersion": "0.7.528-beta",
-    "latestPrivatePreview": "0.7.529-beta",
-    "earlyPauseReason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption.",
+    "latestObservedCheckpointVersion": "0.7.556-beta",
+    "latestPrivatePreview": "0.7.560-beta",
     "verifiedAtCheckpoint": 25,
-    "cumulativeOutcomes": 5462,
-    "cumulativeReceipts": 5441,
+    "cumulativeOutcomes": 5777,
+    "cumulativeReceipts": 5748,
     "currentProtocol": "Test Luna v1.2",
     "lunaCumulativeCapUSD": 20,
     "reviewEveryNewVerifiedOutcomes": 25,
@@ -353,6 +367,11 @@
         "final_review",
         "delivered_answer"
       ]
-    }
+    },
+    "historicalEarlyPause": {
+      "version": "0.7.510-beta",
+      "reason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption."
+    },
+    "testsInCheckpoint": 49
   }
 }

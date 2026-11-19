@@ -4,15 +4,15 @@
 | --- | --- | --- |
 | Beta riservata | **0.7.231-beta** | Versione distribuita. Ripristino operativo da verificare. |
 | Staging ordinario | **0.7.453-beta** | Qualifica tecnica su domande naturali e recupero delle fonti. |
-| Anteprima privata | **0.7.529-beta** | Qualifica tecnica e Test Luna fino al checkpoint. |
+| Anteprima privata | **0.7.560-beta** | Qualifica tecnica con continuità di profilo, memoria e cronologia. |
 
-L’anteprima 0.7.529 ha superato 3.803 test applicativi e sei riprove sui lettori. Il Test Luna v1.1 sulla 0.7.528 si è fermato al 25º nuovo esito verificato. Il registro conserva 5.462 esiti e 5.441 ricevute.
+L’anteprima **0.7.560** ha superato **3.883 test applicativi**. Include la home aggiornata, l’iscrizione PEC con qualifica professionale autodichiarata, fonti istituzionali su integratori e dispositivi e la gestione di crediti e revisioni. Un collaudo con conto sintetico ha registrato mezzo credito per una risposta parziale verificata e un premio di mezzo credito per la prima revisione firmata, anche se privata o critica. In sandbox Stripe è stata aperta e chiusa una sessione Checkout non pagata. Restano da concludere il collaudo PEC negli ambienti di destinazione e la conferma di un pagamento di prova con accredito. Pagamenti e addebito delle risposte sono disattivati nell’anteprima.
 
-Il **Test Luna v1.2** alterna domande da banco su AIFA, Normativa, Clinical Evidence, web e conversazione. Le attese sono fissate prima. Luna e i motori operano sulle fonti reali fino a prima di Sol. Ogni chat eseguita ha una ricevuta privata. I 10.000 quesiti sono il corpus candidato, con un tetto cumulativo di **20 USD**. Dopo **25 nuovi esiti verificati** gli invii si fermano per riesame, correzioni e riprove su varianti. Il lotto riparte dalla candidata qualificata in staging. Separatamente, il **Test completo v1.0** verifica a campione fino a **10 domande reali in staging**, con **4 USD per lotto**, fonti, risposta di Sol e verifica finale.
+Il **Test Luna v1.2** sulla 0.7.556 si è fermato al 25º nuovo esito verificato dopo 49 prove. Il registro cumulativo conserva 5.777 esiti e 5.748 ricevute del percorso. Il **Test completo v1.0** sulla 0.7.558 ha registrato **cinque esiti completi, tre parziali, una lacuna e un blocco** su 10 domande in staging, con **3,21 USD** contabilizzati su un tetto di 4 USD.
 
-L’obiettivo al banco è l’**11 dicembre 2026**. AIFA, Normativa e Clinical Evidence avanzano in parallelo. Restano aperte l’accettazione al banco, la valutazione indipendente e la validazione clinica umana. Il riesame **2026-11-19-r131** della vetrina **Sites 165** conferma i 16 punteggi e gli stati dei sei gate della beta distribuita.
+L’obiettivo al banco resta l’**11 dicembre 2026**. AIFA, Normativa e Clinical Evidence avanzano in parallelo. Restano aperte l’accettazione al banco, la valutazione indipendente e la validazione clinica umana. Il riesame **2026-11-19-r132** su **Sites 166** conferma i 16 punteggi e gli stati delle sei fasi.
 
-[Strategia di testing](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing) · [Evidenze e limiti](docs/TESTING.md) · [Stato](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
+[Strategia di testing](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Evidenze e limiti](docs/TESTING.md) · [Stato](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency)
 
 ---
 

@@ -35,6 +35,12 @@ flowchart LR
 
 Select varied samples independently of the 25-outcome checkpoint, with a separate cap of **USD 4 per batch**. Review the sources, Sol’s synthesis, the final check and the answer actually delivered. Record gaps, time and interruptions. Apply targeted corrections when needed.
 
+## Latest observed evidence
+
+- **0.7.556 · Test Luna v1.2.** 49 private preview tests reached 25 newly verified outcomes. The cumulative log contains 5,777 outcomes and 5,748 source-path receipts.
+- **0.7.558 · Test completo v1.0.** Ten staging questions yielded five complete outcomes, three partial, one gap and one block. Recorded spend was USD 3.21 against a USD 4 cap. Complete cases include exact pack and original AIFA documents and Normattiva text. One mixed request stopped at final verification.
+- **0.7.560 · Private preview.** 3,883 application tests and profile, memory and history continuity checks passed. The scoped credit and signed-review checks used a synthetic account. The prior 0.7.558 end-to-end results retain their version. Counter acceptance and human clinical validation remain open.
+
 ## Earlier evidence
 
 Private preview 0.7.529 passed 3,803 app tests and six source-retrieval replays. Test Luna v1.1 on 0.7.528 paused at 25 new verified outcomes. The cumulative log contains 5,462 outcomes and 5,441 receipts. A complete sample from that round answered both parts of a mixed package and legislation question. A clinical sample read relevant abstracts via web fallback and ended with a gap.
