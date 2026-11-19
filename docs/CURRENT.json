@@ -7,21 +7,21 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 152,
-    "snapshot": "2026-11-19-r119",
+    "siteVersion": 153,
+    "snapshot": "2026-11-19-r120",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 152,
-    "sourceCommit": "b017b4ccdb37e0258e5dffdfa8bb361b51ed29d5",
+    "version": 153,
+    "sourceCommit": "0409eb0eff6054a3e5268f8465c0bebaad0bbfc8",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.515-rc",
-    "state": "Technically qualified private preview with two end-to-end tests. Mixed-answer latency and counter acceptance remain open."
+    "version": "0.7.516-rc",
+    "state": "Technically qualified private preview and source replays through the checkpoint. Counter acceptance is open."
   },
   "qualification": {
     "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
@@ -297,9 +297,9 @@
       "qualification": "technical"
     },
     "privatePreview": {
-      "version": "0.7.515-beta",
+      "version": "0.7.516-beta",
       "qualification": "technical",
-      "localAppTestsPassed": 3759
+      "localAppTestsPassed": 3763
     },
     "latestCheckedEndToEndSample": {
       "version": "0.7.515-beta",
@@ -322,11 +322,11 @@
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
     "resumeAfter": "fixes_and_new_version_staging_qualification",
-    "latestObservedCheckpointVersion": "0.7.515-beta",
-    "latestPrivatePreview": "0.7.515-beta",
+    "latestObservedCheckpointVersion": "0.7.516-beta",
+    "latestPrivatePreview": "0.7.516-beta",
     "earlyPauseReason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption.",
     "verifiedAtCheckpoint": 25,
-    "cumulativeOutcomes": 4338,
-    "cumulativeReceipts": 4326
+    "cumulativeOutcomes": 4418,
+    "cumulativeReceipts": 4406
   }
 }
