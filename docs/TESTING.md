@@ -1,39 +1,43 @@
 # SOPHIA · Testing in development
 
-As of 19 November 2026. [Visual roadmap in Italian and English](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing).
+As of 19 November 2026. [Visual roadmap in Italian and English](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing).
 
-## Test Luna
+## Test Luna v1.2 · Through source reading
 
 ```mermaid
 flowchart LR
-    question[Counter question] --> luna[Luna interprets and routes]
-    luna --> sources[Engines read sources]
+    question[Counter question and expected outcome] --> luna[Luna interprets and routes]
+    luna --> sources[Live engines read sources when needed]
     sources --> receipt[Private receipt before Sol]
 ```
 
-Checks cover AIFA, Italian pharmacy legislation and Clinical Evidence, including questions that combine them and relevant web fallbacks. The 10,000-question candidate corpus supplies inputs. Execution stops at the spending limit, so the executed count can be lower. Each executed chat has a private receipt with its version and observed outcome, including gaps and interruptions. The private detail includes Luna’s original visible output when available.
+Before submission we set the expected outcome for varied practical questions across AIFA, Italian pharmacy legislation, Clinical Evidence, web search and conversation. The 10,000 questions form a candidate corpus. Test Luna stops at its cumulative **USD 20** cap, so the executed count may be lower. Each executed chat has a private receipt with the version, outcome and reason for any interruption. The private detail shows Luna’s original visible output when available.
 
-## Correct and retest
-
-```mermaid
-flowchart LR
-    verified[25 newly verified correct cases] --> causes[Review defects and correct causes]
-    causes --> variants[Replay and check variants]
-    variants --> staging[Qualify the candidate in staging]
-```
-
-Correctness requires checking the observed outcomes against expected findings. At 25 verified outcomes, the runner pauses new submissions. It resumes on a new version after fixes and staging qualification. Fixes are checked on the original and similar questions, including cases that would expose an overly broad correction. The qualified candidate takes over subsequent tests and earlier receipts retain their versions.
-
-## End-to-end samples
+## Review, fix and retest
 
 ```mermaid
 flowchart LR
-    sample[Two questions from Test Luna] --> draft[Sol drafts from read sources]
-    draft --> verify[Final review and targeted correction]
-    verify --> chat[Check the delivered chat answer]
+    verified[Pause at 25 new verified outcomes] --> causes[Review issues and fix common causes]
+    causes --> variants[Replay originals and test variants]
+    variants --> staging[Resume on the qualified staging candidate]
 ```
 
-Samples assess source support, completeness, concrete gaps, timing and repeatability. Private preview 0.7.529 passed 3,803 app tests and six source-retrieval replays. Test Luna v1.1 on 0.7.528 paused at 25 new verified outcomes. The cumulative log contains 5,462 outcomes and 5,441 receipts. The latest complete sample answered both parts of a mixed package and legislation question. A clinical sample read relevant abstracts via web fallback and ended with a gap.
+At **25 new verified outcomes** the runner pauses submissions. Outcomes count after checking against expectations set in advance. Fixes are verified on the original question, new variants and counterexamples. The campaign resumes on the candidate qualified in staging after the review. Earlier receipts retain their original versions.
+
+## Test completo v1.0 · End-to-end samples
+
+```mermaid
+flowchart LR
+    sample[Up to 10 real questions in staging] --> sources[Luna retrieves sources]
+    sources --> draft[Sol synthesises and checks the answer]
+    draft --> chat[Review the answer delivered in chat]
+```
+
+Select varied samples independently of the 25-outcome checkpoint, with a separate cap of **USD 4 per batch**. Review the sources, Sol’s synthesis, the final check and the answer actually delivered. Record gaps, time and interruptions. Apply targeted corrections when needed.
+
+## Earlier evidence
+
+Private preview 0.7.529 passed 3,803 app tests and six source-retrieval replays. Test Luna v1.1 on 0.7.528 paused at 25 new verified outcomes. The cumulative log contains 5,462 outcomes and 5,441 receipts. A complete sample from that round answered both parts of a mixed package and legislation question. A clinical sample read relevant abstracts via web fallback and ended with a gap.
 
 Private preview 0.7.524 passed 3,790 app tests. Two complete chats exercised the medicine-substitution legal workflow and preserved the clinical contribution during an AIFA document failure. A separate replay retrieved the leaflet. Test Luna v1.0 on 0.7.524 reached 25 new verified outcomes. The cumulative log includes 5,196 outcomes and 5,180 source-path receipts. Reliability on new questions, counter acceptance, and human clinical validation remain open.
 

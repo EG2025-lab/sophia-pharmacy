@@ -8,9 +8,9 @@
 
 L’anteprima 0.7.529 ha superato 3.803 test applicativi e sei riprove sui lettori. Il Test Luna v1.1 sulla 0.7.528 si è fermato al 25º nuovo esito verificato. Il registro conserva 5.462 esiti e 5.441 ricevute.
 
-Il **Test Luna** verifica comprensione, instradamento e lettura delle fonti prima di Sol. Il corpus candidato comprende 10.000 domande. L’esecuzione si ferma al tetto di spesa e ogni chat eseguita ha una ricevuta privata. Dopo 25 nuovi esiti verificati, il tester sospende gli invii. Le prove ripartono con la nuova versione dopo il riesame, le correzioni e la qualifica in staging. Coppie di domande selezionate percorrono anche sintesi, verifica finale e correzione mirata, quando serve.
+Il **Test Luna v1.2** alterna domande da banco su AIFA, Normativa, Clinical Evidence, web e conversazione. Le attese sono fissate prima. Luna e i motori operano sulle fonti reali fino a prima di Sol. Ogni chat eseguita ha una ricevuta privata. I 10.000 quesiti sono il corpus candidato, con un tetto cumulativo di **20 USD**. Dopo **25 nuovi esiti verificati** gli invii si fermano per riesame, correzioni e riprove su varianti. Il lotto riparte dalla candidata qualificata in staging. Separatamente, il **Test completo v1.0** verifica a campione fino a **10 domande reali in staging**, con **4 USD per lotto**, fonti, risposta di Sol e verifica finale.
 
-L’obiettivo al banco è l’**11 dicembre 2026**. AIFA, Normativa e Clinical Evidence avanzano in parallelo. Restano aperte l’accettazione al banco, la valutazione indipendente e la validazione clinica umana. Il riesame **2026-11-19-r130** della vetrina **Sites 164** conferma i 16 punteggi e gli stati dei sei gate della beta distribuita.
+L’obiettivo al banco è l’**11 dicembre 2026**. AIFA, Normativa e Clinical Evidence avanzano in parallelo. Restano aperte l’accettazione al banco, la valutazione indipendente e la validazione clinica umana. Il riesame **2026-11-19-r131** della vetrina **Sites 165** conferma i 16 punteggi e gli stati dei sei gate della beta distribuita.
 
 [Strategia di testing](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing) · [Evidenze e limiti](docs/TESTING.md) · [Stato](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
 

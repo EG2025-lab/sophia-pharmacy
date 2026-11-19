@@ -7,15 +7,15 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 164,
-    "snapshot": "2026-11-19-r130",
+    "siteVersion": 165,
+    "snapshot": "2026-11-19-r131",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 164,
-    "sourceCommit": "eff50503f077d449d2291269474c568425764173",
+    "version": 165,
+    "sourceCommit": "53ec7112070145a874321d329c6582f8f4dd94e8",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
@@ -314,10 +314,9 @@
     "preSolBoundary": [
       "interpretation",
       "routing",
-      "source_reading"
+      "source_reading_when_applicable",
+      "private_receipt"
     ],
-    "candidateReviewEveryVerifiedCorrectCases": 25,
-    "fullAnswerSamplesPerBatch": 2,
     "counterObjectiveDate": "2026-12-11",
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
@@ -328,6 +327,32 @@
     "verifiedAtCheckpoint": 25,
     "cumulativeOutcomes": 5462,
     "cumulativeReceipts": 5441,
-    "currentProtocol": "Test Luna v1.1"
+    "currentProtocol": "Test Luna v1.2",
+    "lunaCumulativeCapUSD": 20,
+    "reviewEveryNewVerifiedOutcomes": 25,
+    "expectationsSetBeforeSubmission": true,
+    "realEnginesWhenApplicable": true,
+    "questionAreas": [
+      "AIFA",
+      "Normativa",
+      "Clinical Evidence",
+      "web",
+      "conversation"
+    ],
+    "privateReceiptIncludesInterruptionReason": true,
+    "sampleFullAnswer": {
+      "protocol": "Test completo v1.0",
+      "maxRealQuestionsPerBatch": 10,
+      "spendingCapUSDPerBatch": 4,
+      "environment": "staging",
+      "scheduledIndependentlyOfLunaCheckpoint": true,
+      "checks": [
+        "Luna",
+        "source_retrieval",
+        "Sol_synthesis",
+        "final_review",
+        "delivered_answer"
+      ]
+    }
   }
 }

@@ -8,9 +8,9 @@
 
 Private preview 0.7.529 passed 3,803 app tests and six source-retrieval replays. Test Luna v1.1 on 0.7.528 paused at 25 new verified outcomes. The cumulative log contains 5,462 outcomes and 5,441 receipts.
 
-**Test Luna** checks interpretation, routing and source reading before Sol. The candidate corpus contains 10,000 questions and execution stops at the spending limit. Each executed chat has a private receipt. After 25 newly verified correct cases, the runner pauses new submissions. Testing resumes on the new version after review, fixes and staging qualification. Selected pairs also run end to end, with one synthesis, a final review and targeted correction when needed.
+**Test Luna v1.2** alternates counter questions on AIFA, legislation, Clinical Evidence, web search and conversation. Expectations are set before testing. Luna and the engines operate on live sources up to the point where Sol would start. Each executed chat has a private receipt that explains any interruption. The 10,000 questions form a candidate corpus with a **USD 20** cumulative cap. Submissions pause after **25 new verified outcomes** for review, fixes and replays on variants. Testing resumes on the candidate qualified in staging. Separately, **Test completo v1.0** samples up to **10 real questions in staging**, with **USD 4 per batch**, to check sources, Sol’s answer and final review.
 
-The counter objective is **11 December 2026**. AIFA, legislation and Clinical Evidence progress in parallel. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r130** on public website **Sites 164** retained all 16 maturity scores and six roadmap gate states for the deployed beta.
+The counter objective is **11 December 2026**. AIFA, legislation and Clinical Evidence progress in parallel. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r131** on public website **Sites 165** retained all 16 maturity scores and six roadmap gate states for the deployed beta.
 
 [Testing strategy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing) · [Evidence and limits](docs/TESTING.md) · [State](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
 
