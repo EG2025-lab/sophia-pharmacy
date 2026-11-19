@@ -4,13 +4,13 @@
 | --- | --- | --- |
 | Restricted beta | **0.7.231-beta** | Deployed version. Operational recovery still needs verification. |
 | Standard staging | **0.7.453-beta** | Technical qualification on natural questions and source retrieval. |
-| Private preview | **0.7.511-beta** | Technical qualification. Receipts distinguish original PDFs from excerpts. |
+| Private preview | **0.7.512-beta** | Technical qualification and one successful end-to-end sample. |
 
-Two end-to-end tests on preview 0.7.509 delivered a sourced mixed answer covering AIFA, legislation and Clinical Evidence, and an original patient leaflet with an explicit gap on storage. The 0.7.510 Test Luna block paused early after an original PDF was labelled as an excerpt. Two live-source replays and 3,748 local checks qualified the 0.7.511 preview for the corrected receipt. A full Ultrafast replay remains open.
+Preview 0.7.512 passed 3,752 local checks and eight live-source replays. One complete Ultrafast sample delivered a sourced answer in 24.78 seconds and three calls. A second question covering AIFA, legislation and Clinical Evidence stopped at final verification. Test Luna reached 25 verified outcomes and paused.
 
 **Test Luna** checks interpretation, routing and source reading before Sol. The candidate corpus contains 10,000 questions and execution stops at the spending limit. Each executed chat has a private receipt. After 25 newly verified correct cases, the runner pauses new submissions. Testing resumes on the new version after review, fixes and staging qualification. Selected pairs also run end to end, with one synthesis, a final review and targeted correction when needed.
 
-The counter objective is **11 December 2026**. AIFA, legislation and Clinical Evidence progress in parallel. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r116** on public website **Sites 149** retained all 16 maturity scores and six roadmap gate states for the deployed beta.
+The counter objective is **11 December 2026**. AIFA, legislation and Clinical Evidence progress in parallel. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r117** on public website **Sites 150** retained all 16 maturity scores and six roadmap gate states for the deployed beta.
 
 [Testing strategy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing) · [Evidence and limits](TESTING.md) · [State](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
 

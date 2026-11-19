@@ -7,21 +7,21 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 149,
-    "snapshot": "2026-11-19-r116",
+    "siteVersion": 150,
+    "snapshot": "2026-11-19-r117",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 149,
-    "sourceCommit": "f8bcb72b1f5ecc959b2ce70cd90f10a4b8f2e0e4",
+    "version": 150,
+    "sourceCommit": "b88a39c71969db358ef1e1141faa57ebec39387c",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.511-rc",
-    "state": "Technically qualified on private preview after two live-source receipt replays; full Ultrafast replay and counter qualification open"
+    "version": "0.7.512-rc",
+    "state": "Private preview technically qualified with eight live-source replays. An Ultrafast sample passed. Three-domain delivery and counter acceptance remain open."
   },
   "qualification": {
     "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
@@ -39,13 +39,17 @@
     "clinicalValidation": false
   },
   "lastRealBattery": {
-    "version": "0.7.509-beta",
+    "version": "0.7.512-beta",
     "environment": "private_preview",
     "actualUIInvocations": 2,
-    "delivery": "One sourced mixed answer and one original patient leaflet with the storage question unresolved.",
+    "delivery": "An Ultrafast sample delivered a sourced answer. A three-domain sample stopped at final verification.",
     "backendSeconds": [
-      51.78,
-      65.39
+      24.78,
+      151.82
+    ],
+    "modelCalls": [
+      3,
+      8
     ],
     "technicalCompletionIsNotAllNeedsMet": true
   },
@@ -293,12 +297,12 @@
       "qualification": "technical"
     },
     "privatePreview": {
-      "version": "0.7.511-beta",
+      "version": "0.7.512-beta",
       "qualification": "technical",
-      "localAppTestsPassed": 3699
+      "localAppTestsPassed": 3752
     },
     "latestCheckedEndToEndSample": {
-      "version": "0.7.495-beta",
+      "version": "0.7.512-beta",
       "questions": 2
     }
   },
@@ -318,8 +322,9 @@
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
     "resumeAfter": "fixes_and_new_version_staging_qualification",
-    "latestObservedCheckpointVersion": "0.7.509-beta",
-    "latestPrivatePreview": "0.7.511-beta",
-    "earlyPauseReason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption."
+    "latestObservedCheckpointVersion": "0.7.512-beta",
+    "latestPrivatePreview": "0.7.512-beta",
+    "earlyPauseReason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption.",
+    "verifiedAtCheckpoint": 25
   }
 }
