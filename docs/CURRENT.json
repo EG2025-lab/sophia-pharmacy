@@ -7,21 +7,21 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 162,
-    "snapshot": "2026-11-19-r129",
+    "siteVersion": 164,
+    "snapshot": "2026-11-19-r130",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 162,
-    "sourceCommit": "6514f397f6788c4fe8fc6e118299718d0a9cb9f5",
+    "version": 164,
+    "sourceCommit": "eff50503f077d449d2291269474c568425764173",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.526-rc",
-    "state": "Technically qualified private preview. Test Luna v1.0 checkpoint complete. Counter acceptance remains open."
+    "version": "0.7.529-rc",
+    "state": "Technically qualified private preview. One complete mixed AIFA and legislation sample delivered, one clinical sample ended with a gap. Counter acceptance remains open."
   },
   "qualification": {
     "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
@@ -297,9 +297,9 @@
       "qualification": "technical"
     },
     "privatePreview": {
-      "version": "0.7.526-beta",
+      "version": "0.7.529-beta",
       "qualification": "technical",
-      "localAppTestsPassed": 3792
+      "localAppTestsPassed": 3803
     },
     "latestCheckedEndToEndSample": {
       "version": "0.7.515-beta",
@@ -322,12 +322,12 @@
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
     "resumeAfter": "fixes_and_new_version_staging_qualification",
-    "latestObservedCheckpointVersion": "0.7.526-beta",
-    "latestPrivatePreview": "0.7.526-beta",
+    "latestObservedCheckpointVersion": "0.7.528-beta",
+    "latestPrivatePreview": "0.7.529-beta",
     "earlyPauseReason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption.",
     "verifiedAtCheckpoint": 25,
-    "cumulativeOutcomes": 5304,
-    "cumulativeReceipts": 5288,
+    "cumulativeOutcomes": 5462,
+    "cumulativeReceipts": 5441,
     "currentProtocol": "Test Luna v1.1"
   }
 }

@@ -33,7 +33,7 @@ flowchart LR
     verify --> chat[Check the delivered chat answer]
 ```
 
-Samples assess source support, completeness, concrete gaps, timing and repeatability. Private preview 0.7.526 passed 3,792 app tests. Test Luna v1.0 on 0.7.526 paused at 25 new verified outcomes. The cumulative log contains 5,304 outcomes and 5,288 receipts. Test Luna v1.1 introduces individually authored counter scenarios across six areas and a fresh interpretation of each new request that needs Luna.
+Samples assess source support, completeness, concrete gaps, timing and repeatability. Private preview 0.7.529 passed 3,803 app tests and six source-retrieval replays. Test Luna v1.1 on 0.7.528 paused at 25 new verified outcomes. The cumulative log contains 5,462 outcomes and 5,441 receipts. The latest complete sample answered both parts of a mixed package and legislation question. A clinical sample read relevant abstracts via web fallback and ended with a gap.
 
 Private preview 0.7.524 passed 3,790 app tests. Two complete chats exercised the medicine-substitution legal workflow and preserved the clinical contribution during an AIFA document failure. A separate replay retrieved the leaflet. Test Luna v1.0 on 0.7.524 reached 25 new verified outcomes. The cumulative log includes 5,196 outcomes and 5,180 source-path receipts. Reliability on new questions, counter acceptance, and human clinical validation remain open.
 

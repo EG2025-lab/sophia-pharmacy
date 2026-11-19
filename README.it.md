@@ -4,13 +4,13 @@
 | --- | --- | --- |
 | Beta riservata | **0.7.231-beta** | Versione distribuita. Ripristino operativo da verificare. |
 | Staging ordinario | **0.7.453-beta** | Qualifica tecnica su domande naturali e recupero delle fonti. |
-| Anteprima privata | **0.7.526-beta** | Qualifica tecnica e Test Luna fino al checkpoint. |
+| Anteprima privata | **0.7.529-beta** | Qualifica tecnica e Test Luna fino al checkpoint. |
 
-L’anteprima 0.7.526 ha superato 3.792 test applicativi. Il Test Luna v1.0 sulla 0.7.526 si è fermato a 25 nuovi esiti verificati. Il registro conserva 5.304 esiti e 5.288 ricevute. Il metodo Test Luna v1.1 introduce scenari da banco scritti singolarmente, distribuiti su sei aree, e prevede l’interpretazione di Luna sul nuovo ingresso.
+L’anteprima 0.7.529 ha superato 3.803 test applicativi e sei riprove sui lettori. Il Test Luna v1.1 sulla 0.7.528 si è fermato al 25º nuovo esito verificato. Il registro conserva 5.462 esiti e 5.441 ricevute.
 
 Il **Test Luna** verifica comprensione, instradamento e lettura delle fonti prima di Sol. Il corpus candidato comprende 10.000 domande. L’esecuzione si ferma al tetto di spesa e ogni chat eseguita ha una ricevuta privata. Dopo 25 nuovi esiti verificati, il tester sospende gli invii. Le prove ripartono con la nuova versione dopo il riesame, le correzioni e la qualifica in staging. Coppie di domande selezionate percorrono anche sintesi, verifica finale e correzione mirata, quando serve.
 
-L’obiettivo al banco è l’**11 dicembre 2026**. AIFA, Normativa e Clinical Evidence avanzano in parallelo. Restano aperte l’accettazione al banco, la valutazione indipendente e la validazione clinica umana. Il riesame **2026-11-19-r129** della vetrina **Sites 162** conferma i 16 punteggi e gli stati dei sei gate della beta distribuita.
+L’obiettivo al banco è l’**11 dicembre 2026**. AIFA, Normativa e Clinical Evidence avanzano in parallelo. Restano aperte l’accettazione al banco, la valutazione indipendente e la validazione clinica umana. Il riesame **2026-11-19-r130** della vetrina **Sites 164** conferma i 16 punteggi e gli stati dei sei gate della beta distribuita.
 
 [Strategia di testing](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing) · [Evidenze e limiti](docs/TESTING.md) · [Stato](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
 
