@@ -2,15 +2,15 @@
 
 | Environment | Version | Observed status |
 | --- | --- | --- |
-| Restricted beta | **0.7.231-beta** | Deployed version. Operational recovery still needs verification. |
-| Standard staging | **0.7.453-beta** | Technical qualification on natural questions and source retrieval. |
-| Private preview | **0.7.560-beta** | Technical qualification with profile, memory and history continuity. |
+| Restricted beta | **0.7.561-beta** | 100% of traffic. The home page was verified on the beta domain. |
+| Standard staging | **0.7.561-beta** | 100% of traffic on the same image as beta. Technical qualification complete. |
+| Earlier private preview | **0.7.560-beta** | Credit and signed-review checks retain their original scope. |
 
-The **0.7.560** preview passed **3,883 application tests**. It includes an updated home, certified-email onboarding with self-declared professional status, institutional sources for supplements and devices, and credit and review accounting. A synthetic-account test recorded half a credit for a verified partial answer and a half-credit reward for a first signed review, including private or critical reviews. Stripe sandbox Checkout opened and closed an unpaid session. Certified-email testing in the target environments and confirmation of a sandbox payment and credit posting remain open. Payments and answer charging are disabled in the preview.
+**0.7.561** passed **3,886 local tests**. It includes the updated home, certified-email onboarding with self-declared professional status, institutional sources for supplements and devices, and the credit ledger. The owner can invite a **Special Guest** to sign in without certified email. The first actual guest sign-in and a fresh certified delivery to a different provider remain open. Live payments and credit charges remain disabled.
 
-**Test Luna v1.2** on 0.7.556 paused at its 25th new verified outcome in 49 tests. The cumulative log contains 5,777 outcomes and 5,748 source-path receipts. The separate **Test completo v1.0** run on 0.7.558 recorded **five complete results, three partial, one gap and one block** in 10 staging questions, with **USD 3.21** recorded against a USD 4 cap.
+The **0.7.561** release is a one-off exception. The regular cadence resumes every **20 versions**, starting with **0.7.580**. The latest completed end-to-end batch was on **0.7.558**, with five complete outcomes, three partial outcomes, one gap and one block in 10 staging questions. A new complete chat evaluation on **0.7.561** remains open.
 
-The counter objective remains **11 December 2026**. AIFA, legislation and Clinical Evidence progress in parallel. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r132** on **Sites 166** retains the 16 maturity scores and six rollout stages.
+The counter objective remains **11 December 2026**. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r133** on **Sites 167** retains the 16 maturity scores and six roadmap gate states.
 
 [Testing strategy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Evidence and limits](TESTING.md) · [Status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency)
 

@@ -35,6 +35,10 @@ flowchart LR
 
 Select varied samples independently of the 25-outcome checkpoint, with a separate cap of **USD 4 per batch**. Review the sources, Sol’s synthesis, the final check and the answer actually delivered. Record gaps, time and interruptions. Apply targeted corrections when needed.
 
+## Deployment and current version checks
+
+**0.7.561** passed **3,886 local tests** and was released to 100% of standard staging and restricted beta traffic. The owner-invited Special Guest route was checked locally. The first actual guest sign-in and a new end-to-end chat evaluation on 0.7.561 remain open. The 0.7.558 results below retain their original version. The regular cadence resumes every 20 versions after this one-off release, starting with 0.7.580.
+
 ## Latest observed evidence
 
 - **0.7.556 · Test Luna v1.2.** 49 private preview tests reached 25 newly verified outcomes. The cumulative log contains 5,777 outcomes and 5,748 source-path receipts.

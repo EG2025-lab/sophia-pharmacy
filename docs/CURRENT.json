@@ -1,47 +1,34 @@
 {
   "schemaVersion": 2,
   "reviewedAt": "2026-11-19",
-  "appVersion": "0.7.231-beta",
+  "appVersion": "0.7.561-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 166,
-    "snapshot": "2026-11-19-r132",
+    "siteVersion": 167,
+    "snapshot": "2026-11-19-r133",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 166,
-    "sourceCommit": "a806bb1e226d1978ffee7a563e15b6fd2d05c2cb",
+    "version": 167,
+    "sourceCommit": "5b1f7b3e205ffc14d9aa2adb15dba6d28fd6cce2",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
     "version": "0.7.560-rc",
-    "state": "Technically qualified private preview with profile, memory and history continuity. Target-environment release checks remain open.",
-    "includes": [
-      "Updated home",
-      "Certified-email onboarding and self-declared professional status",
-      "EU supplement claims register and Italian medical-device index",
-      "Credit and signed-review accounting"
-    ]
+    "state": "Earlier private preview, superseded in standard staging and restricted beta by 0.7.561-beta. Scoped local credit and signed-review evidence remains attributable to 0.7.560."
   },
   "qualification": {
-    "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
-    "appTests": 2771,
-    "bridgeTests": 702,
-    "skipped": 0,
-    "sourceReaderControls": 48,
-    "readerInvocations": 96,
-    "knownFinalFamilyTests": 8,
-    "historicalSourceReplay": {
-      "cases": 12000,
-      "inferenceCalls": 0,
-      "newHttpReads": 0
-    },
+    "scope": "Technical deployment at 100% in standard staging and restricted beta",
+    "version": "0.7.561-beta",
+    "appTests": 3886,
+    "qualifiedSameImageForBothEnvironments": true,
+    "profileHistoryAndMemoryStatePreservedWithinSample": true,
     "clinicalValidation": false
   },
   "lastRealBattery": {
@@ -97,9 +84,9 @@
     "independentSecondMemberInstallVerified": false
   },
   "monitoring": {
-    "currentBeta": "0.7.231-beta",
+    "currentBeta": "0.7.561-beta",
     "boundToActualBeta": false,
-    "bindingState": "Autonomous monitoring not requalified on231",
+    "bindingState": "Autonomous monitoring has not been qualified for the deployed 0.7.561 revision.",
     "currentReport": null,
     "currentQualifiedHealth": true,
     "githubAutonomousWorkflow": "disabled_manually",
@@ -118,10 +105,10 @@
   "humanClinicalValidation": "not_completed",
   "generalProfessionalRollout": false,
   "openLimits": [
-    "Restricted beta request-processing recovery remains to be verified.",
+    "First actual Special Guest sign-in and a fresh certified-email delivery to a different provider remain open.",
+    "A new complete real chat evaluation on 0.7.561 remains open. The last full batch is reported under its original 0.7.558 version.",
     "Professional counter acceptance, independent benchmarking and human clinical validation remain open.",
-    "Preview observations preserve separate results for source coverage, final verification and delivery.",
-    "In the 0.7.560 preview, PEC onboarding awaits checks in the target environments. Sandbox payment confirmation and credit posting remain open."
+    "Live payments and per-answer credit debits are disabled. A confirmed sandbox payment and credit posting remain to be tested."
   ],
   "questionRetention": {
     "currentAdmittedRequests": "All ten staged 0.7.558 requests have their scoped outcomes. Historical retention limits remain recorded separately.",
@@ -129,10 +116,10 @@
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "2fef53acb26a6d64eff2855cfe42f4e501a2a27e",
+  "previousPointerCommit": "10cb67a7736d5707b50b80b11d3ae4529d9d0ca6",
   "latestVersionBattery": {
-    "version": "0.7.231-beta",
-    "status": "Deployed restricted beta. Operational recovery needs separate verification on this version."
+    "version": "0.7.561-beta",
+    "status": "Technical deployment checked in standard staging and restricted beta. End-to-end real-chat evaluation on this version remains open."
   },
   "historical210Before222": {
     "appVersion": "0.7.210-beta",
@@ -303,18 +290,22 @@
   },
   "environments": {
     "restrictedBeta": {
-      "version": "0.7.231-beta",
-      "operationalRecovery": "open"
+      "version": "0.7.561-beta",
+      "trafficPercent": 100,
+      "qualification": "technical",
+      "firstEndToEndEvaluation": "open"
     },
     "standardStaging": {
-      "version": "0.7.453-beta",
+      "version": "0.7.561-beta",
+      "trafficPercent": 100,
       "qualification": "technical"
     },
     "privatePreview": {
       "version": "0.7.560-beta",
       "qualification": "technical",
       "localAppTestsPassed": 3883,
-      "profileMemoryHistoryContinuityVerified": true
+      "profileMemoryHistoryContinuityVerified": true,
+      "historicalBeforeRelease": "0.7.561-beta"
     },
     "latestCheckedEndToEndSample": {
       "version": "0.7.558-beta",
@@ -372,6 +363,34 @@
       "version": "0.7.510-beta",
       "reason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption."
     },
-    "testsInCheckpoint": 49
+    "testsInCheckpoint": 49,
+    "latestPrivatePreviewHistoricalBeforeRelease": "0.7.561-beta"
+  },
+  "previousBetaQualification": {
+    "version": "0.7.231-beta",
+    "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
+    "appTests": 2771,
+    "bridgeTests": 702,
+    "skipped": 0,
+    "sourceReaderControls": 48,
+    "readerInvocations": 96,
+    "knownFinalFamilyTests": 8,
+    "historicalSourceReplay": {
+      "cases": 12000,
+      "inferenceCalls": 0,
+      "newHttpReads": 0
+    },
+    "clinicalValidation": false
+  },
+  "releaseCadence": {
+    "exceptionVersion": "0.7.561-beta",
+    "regularEveryVersions": 20,
+    "nextRegularVersion": "0.7.580"
+  },
+  "access": {
+    "professionalRegistration": "self_declared",
+    "certifiedEmailOnboardingAvailable": true,
+    "specialGuest": "owner_invitation_without_pec",
+    "firstRealGuestSignIn": "open"
   }
 }
