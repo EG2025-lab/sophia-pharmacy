@@ -33,7 +33,7 @@ flowchart LR
     verify --> chat[Check the delivered chat answer]
 ```
 
-Samples assess source support, completeness, concrete gaps, timing and repeatability. Private preview 0.7.513 passed 3,754 local checks and seven live-source replays. The replays preserved an original AIFA leaflet in a mixed question and retrieved studies on the named procedure. Test Luna paused after 25 new verified outcomes. The two end-to-end samples on 0.7.512 included one sourced Ultrafast answer and one mixed question that stopped at final verification.
+Samples assess source support, completeness, concrete gaps, timing and repeatability. Private preview 0.7.515 passed 3,759 local checks and six technical replays. The full staging sample on applicator instructions asked for the missing identifier in 10.28 seconds with one Luna call. The mixed sample returned an AIFA leaflet and a partial clinical answer in 177.63 seconds with nine calls. Test Luna paused after 25 new verified outcomes.
 
 Verified outcomes at the checkpoint have frozen expectations for the exact AIFA pack and documents or the official article read. Clinical relevance and unanswered evidence needs are reviewed separately. Running and archiving a chat does not qualify it for the checkpoint.
 
