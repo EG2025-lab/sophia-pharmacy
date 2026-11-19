@@ -4,13 +4,13 @@
 | --- | --- | --- |
 | Beta riservata | **0.7.231-beta** | Versione distribuita. Ripristino operativo da verificare. |
 | Staging ordinario | **0.7.453-beta** | Qualifica tecnica su domande naturali e recupero delle fonti. |
-| Anteprima privata | **0.7.519-beta** | Qualifica tecnica e Test Luna fino al checkpoint. |
+| Anteprima privata | **0.7.520-beta** | Qualifica tecnica e Test Luna fino al checkpoint. |
 
-L’anteprima 0.7.519 ha superato 3.774 controlli locali e dodici riprove. Le riprove hanno verificato il recupero della scheda e del foglietto AIFA, del testo originale sui magistrali e delle fonti cliniche in quesiti misti. La 0.7.519 si è fermata al 25º nuovo esito verificato. Il registro cumulativo riporta 4.726 esiti e 4.710 ricevute. Le dodici riprove si fermano prima della sintesi finale.
+L’anteprima 0.7.520 ha superato 3.777 controlli locali e sei riprove. Le riprove hanno verificato la distinzione fra richieste normative, cliniche e di identificazione AIFA e i chiarimenti sul prodotto. La 0.7.520 si è fermata al 25º nuovo esito verificato. Il registro cumulativo riporta 4.817 esiti e 4.801 ricevute. Le sei riprove si fermano prima della sintesi finale.
 
 Il **Test Luna** verifica comprensione, instradamento e lettura delle fonti prima di Sol. Il corpus candidato comprende 10.000 domande. L’esecuzione si ferma al tetto di spesa e ogni chat eseguita ha una ricevuta privata. Dopo 25 nuovi esiti verificati, il tester sospende gli invii. Le prove ripartono con la nuova versione dopo il riesame, le correzioni e la qualifica in staging. Coppie di domande selezionate percorrono anche sintesi, verifica finale e correzione mirata, quando serve.
 
-L’obiettivo al banco è l’**11 dicembre 2026**. AIFA, Normativa e Clinical Evidence avanzano in parallelo. Restano aperte l’accettazione al banco, la valutazione indipendente e la validazione clinica umana. Il riesame **2026-11-19-r123** della vetrina **Sites 156** conferma i 16 punteggi e gli stati dei sei gate della beta distribuita.
+L’obiettivo al banco è l’**11 dicembre 2026**. AIFA, Normativa e Clinical Evidence avanzano in parallelo. Restano aperte l’accettazione al banco, la valutazione indipendente e la validazione clinica umana. Il riesame **2026-11-19-r124** della vetrina **Sites 157** conferma i 16 punteggi e gli stati dei sei gate della beta distribuita.
 
 [Strategia di testing](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap.html#strategia-testing) · [Evidenze e limiti](docs/TESTING.md) · [Stato](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency.html)
 
