@@ -7,21 +7,21 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 147,
-    "snapshot": "2026-11-19-r114",
+    "siteVersion": 149,
+    "snapshot": "2026-11-19-r116",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 147,
-    "sourceCommit": "b651ca2fc4bd07d68b08f30efe34cd26d839cc70",
+    "version": 149,
+    "sourceCommit": "f8bcb72b1f5ecc959b2ce70cd90f10a4b8f2e0e4",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.500-rc",
-    "state": "Technically qualified as a private preview with two AIFA document-retrieval replays; end-to-end testing pending"
+    "version": "0.7.511-rc",
+    "state": "Technically qualified on private preview after two live-source receipt replays; full Ultrafast replay and counter qualification open"
   },
   "qualification": {
     "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
@@ -39,13 +39,13 @@
     "clinicalValidation": false
   },
   "lastRealBattery": {
-    "version": "0.7.495-beta",
+    "version": "0.7.509-beta",
     "environment": "private_preview",
     "actualUIInvocations": 2,
-    "delivery": "Both reached chat. One documented mixed answer and one clinically partial answer with explicit limits.",
-    "secondsFromAdmissionToTerminal": [
-      24.84,
-      85.53
+    "delivery": "One sourced mixed answer and one original patient leaflet with the storage question unresolved.",
+    "backendSeconds": [
+      51.78,
+      65.39
     ],
     "technicalCompletionIsNotAllNeedsMet": true
   },
@@ -293,7 +293,7 @@
       "qualification": "technical"
     },
     "privatePreview": {
-      "version": "0.7.500-beta",
+      "version": "0.7.511-beta",
       "qualification": "technical",
       "localAppTestsPassed": 3699
     },
@@ -317,6 +317,9 @@
     "counterObjectiveDate": "2026-12-11",
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
-    "resumeAfter": "fixes_and_new_version_staging_qualification"
+    "resumeAfter": "fixes_and_new_version_staging_qualification",
+    "latestObservedCheckpointVersion": "0.7.509-beta",
+    "latestPrivatePreview": "0.7.511-beta",
+    "earlyPauseReason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption."
   }
 }

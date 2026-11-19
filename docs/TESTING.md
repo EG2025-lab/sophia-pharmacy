@@ -33,8 +33,8 @@ flowchart LR
     verify --> chat[Check the delivered chat answer]
 ```
 
-Samples assess source support, completeness, concrete gaps, timing and repeatability. The 0.7.495 preview produced one mixed answer with two original AIFA documents and a legal source in 24.84 seconds. A second, clinical answer used a more relevant source and stated the limit of its coverage after a targeted correction, taking 85.53 seconds. These observations concern two specific tests in private preview. Further testing under counter conditions and human clinical validation remain open.
+Samples assess source support, completeness, concrete gaps, timing and repeatability. Two end-to-end tests on preview 0.7.509 delivered a sourced mixed answer covering AIFA, legislation and Clinical Evidence, and an original patient leaflet with an explicit gap on storage. The 0.7.510 Test Luna block paused early after an original PDF was labelled as an excerpt. Two live-source replays and 3,748 local checks qualified the 0.7.511 preview for the corrected receipt. A full Ultrafast replay remains open.
 
-Private preview **0.7.500-beta** passed technical qualification with 3,699 local tests and two AIFA document-retrieval replays. The changes preserve explicitly requested AIFA documents in mixed questions and limit repeated review of an unchanged draft. End-to-end testing on 0.7.500 remains open.
+Verified outcomes at the checkpoint have frozen expectations for the exact AIFA pack and documents or the official article read. Clinical relevance and unanswered evidence needs are reviewed separately. Running and archiving a chat does not qualify it for the checkpoint.
 
 The restricted beta remains on **0.7.231-beta**, with operational recovery still to be verified. Standard staging is **0.7.453-beta**. [Current state and evidence](STATUS.md).
