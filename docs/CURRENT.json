@@ -7,21 +7,21 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 146,
-    "snapshot": "2026-11-19-r113",
+    "siteVersion": 147,
+    "snapshot": "2026-11-19-r114",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 146,
-    "sourceCommit": "fb5874c729b54aa54da43e269f455ff3366e1c5b",
+    "version": 147,
+    "sourceCommit": "b651ca2fc4bd07d68b08f30efe34cd26d839cc70",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.498-rc",
-    "state": "Technically qualified as a private preview; full answer sample pending on this release"
+    "version": "0.7.500-rc",
+    "state": "Technically qualified as a private preview with two AIFA document-retrieval replays; end-to-end testing pending"
   },
   "qualification": {
     "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
@@ -111,7 +111,7 @@
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "8060f38a02d7997c6f2d8ca0966538dd2132bf92",
+  "previousPointerCommit": "2fef53acb26a6d64eff2855cfe42f4e501a2a27e",
   "latestVersionBattery": {
     "version": "0.7.231-beta",
     "status": "Deployed restricted beta. Operational recovery needs separate verification on this version."
@@ -293,9 +293,9 @@
       "qualification": "technical"
     },
     "privatePreview": {
-      "version": "0.7.498-beta",
+      "version": "0.7.500-beta",
       "qualification": "technical",
-      "localAppTestsPassed": 3696
+      "localAppTestsPassed": 3699
     },
     "latestCheckedEndToEndSample": {
       "version": "0.7.495-beta",
@@ -312,9 +312,11 @@
       "routing",
       "source_reading"
     ],
-    "candidateReviewEveryVerifiedCorrectCases": 50,
+    "candidateReviewEveryVerifiedCorrectCases": 25,
     "fullAnswerSamplesPerBatch": 2,
     "counterObjectiveDate": "2026-12-11",
-    "humanClinicalValidation": "not_completed"
+    "humanClinicalValidation": "not_completed",
+    "pauseAtReviewCheckpoint": true,
+    "resumeAfter": "fixes_and_new_version_staging_qualification"
   }
 }
