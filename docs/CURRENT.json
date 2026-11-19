@@ -7,20 +7,20 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 154,
-    "snapshot": "2026-11-19-r121",
+    "siteVersion": 155,
+    "snapshot": "2026-11-19-r122",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 154,
-    "sourceCommit": "49dea6c26c4ced4d2e30da2f6258fe5a57a6917d",
+    "version": 155,
+    "sourceCommit": "c20bbdc4981435f6b57a576252dcf4a2a8f21b7e",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.517-rc",
+    "version": "0.7.518-rc",
     "state": "Technically qualified private preview and source replays through the checkpoint. Counter acceptance is open."
   },
   "qualification": {
@@ -297,9 +297,9 @@
       "qualification": "technical"
     },
     "privatePreview": {
-      "version": "0.7.517-beta",
+      "version": "0.7.518-beta",
       "qualification": "technical",
-      "localAppTestsPassed": 3768
+      "localAppTestsPassed": 3771
     },
     "latestCheckedEndToEndSample": {
       "version": "0.7.515-beta",
@@ -322,11 +322,11 @@
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
     "resumeAfter": "fixes_and_new_version_staging_qualification",
-    "latestObservedCheckpointVersion": "0.7.517-beta",
-    "latestPrivatePreview": "0.7.517-beta",
+    "latestObservedCheckpointVersion": "0.7.518-beta",
+    "latestPrivatePreview": "0.7.518-beta",
     "earlyPauseReason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption.",
     "verifiedAtCheckpoint": 25,
-    "cumulativeOutcomes": 4495,
-    "cumulativeReceipts": 4479
+    "cumulativeOutcomes": 4608,
+    "cumulativeReceipts": 4592
   }
 }
