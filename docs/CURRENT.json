@@ -7,21 +7,21 @@
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 160,
-    "snapshot": "2026-11-19-r127",
+    "siteVersion": 161,
+    "snapshot": "2026-11-19-r128",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 160,
-    "sourceCommit": "1d0ec1c4d02d1d5640701848946b9d8a4e8c9fb9",
+    "version": 161,
+    "sourceCommit": "58ea09bdeb7e5a6cd9bb0558058a586e5e1b96c7",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.523-rc",
-    "state": "Technically qualified private preview. Complete answers and counter acceptance remain open."
+    "version": "0.7.524-rc",
+    "state": "Technically qualified private preview. Two complete staging chats observed. Counter acceptance remains open."
   },
   "qualification": {
     "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
@@ -297,9 +297,9 @@
       "qualification": "technical"
     },
     "privatePreview": {
-      "version": "0.7.523-beta",
+      "version": "0.7.524-beta",
       "qualification": "technical",
-      "localAppTestsPassed": 3786
+      "localAppTestsPassed": 3790
     },
     "latestCheckedEndToEndSample": {
       "version": "0.7.515-beta",
@@ -322,11 +322,11 @@
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
     "resumeAfter": "fixes_and_new_version_staging_qualification",
-    "latestObservedCheckpointVersion": "0.7.523-beta",
-    "latestPrivatePreview": "0.7.523-beta",
+    "latestObservedCheckpointVersion": "0.7.524-beta",
+    "latestPrivatePreview": "0.7.524-beta",
     "earlyPauseReason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption.",
     "verifiedAtCheckpoint": 25,
-    "cumulativeOutcomes": 5119,
-    "cumulativeReceipts": 5103
+    "cumulativeOutcomes": 5196,
+    "cumulativeReceipts": 5180
   }
 }

@@ -33,7 +33,9 @@ flowchart LR
     verify --> chat[Check the delivered chat answer]
 ```
 
-Samples assess source support, completeness, concrete gaps, timing and repeatability. Private preview 0.7.523 passed 3,786 app tests. Replays checked delivery of original AIFA documents from product name and package code, retention of independent sources, and the manufacturer-document route. Test Luna on 0.7.523 reached 25 new verified outcomes. The cumulative log includes 5,119 outcomes and 5,103 source-path receipts. Complete answers on 0.7.523, counter acceptance, and human clinical validation remain open.
+Samples assess source support, completeness, concrete gaps, timing and repeatability. Private preview 0.7.524 passed 3,790 app tests. Two complete chats exercised the medicine-substitution legal workflow and preserved the clinical contribution during an AIFA document failure. A separate replay retrieved the leaflet. Test Luna v1.0 on 0.7.524 reached 25 new verified outcomes. The cumulative log includes 5,196 outcomes and 5,180 source-path receipts. Reliability on new questions, counter acceptance, and human clinical validation remain open.
+
+Private preview 0.7.523 passed 3,786 app tests. Replays checked delivery of original AIFA documents from product name and package code, retention of independent sources, and the manufacturer-document route. Test Luna on 0.7.523 reached 25 new verified outcomes. The cumulative log includes 5,119 outcomes and 5,103 source-path receipts. Complete answers on 0.7.523, counter acceptance, and human clinical validation remain open.
 
 Private preview 0.7.522 passed 3,781 app tests and 13 targeted clinical-reader regressions. Replays checked an AIFA leaflet with an omitted title unit, the implementing act on online-sale logos, and retrieval of the authors’ certainty statement for the requested clinical outcome. Test Luna on 0.7.522 reached 25 new verified outcomes. The cumulative log includes 5,006 outcomes and 4,990 source-path receipts. Complete answers on 0.7.522, counter acceptance, and human clinical validation remain open.
 
