@@ -1,59 +1,56 @@
 {
   "schemaVersion": 2,
-  "reviewedAt": "2026-11-19",
-  "appVersion": "0.7.561-beta",
+  "reviewedAt": "2026-11-20",
+  "appVersion": "0.7.602-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 167,
-    "snapshot": "2026-11-19-r133",
+    "siteVersion": 179,
+    "snapshot": "2026-11-20-r145",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 167,
-    "sourceCommit": "5b1f7b3e205ffc14d9aa2adb15dba6d28fd6cce2",
+    "version": 179,
+    "sourceCommit": "49c78ba3310ebe7771078f040488a8fee57f42f1",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.560-rc",
-    "state": "Earlier private preview, superseded in standard staging and restricted beta by 0.7.561-beta. Scoped local credit and signed-review evidence remains attributable to 0.7.560."
+    "version": "0.7.603-rc",
+    "state": "Local candidate for additional source-navigation changes at this checkpoint."
   },
   "qualification": {
     "scope": "Technical deployment at 100% in standard staging and restricted beta",
-    "version": "0.7.561-beta",
-    "appTests": 3886,
+    "version": "0.7.602-beta",
+    "appTests": 4209,
     "qualifiedSameImageForBothEnvironments": true,
     "profileHistoryAndMemoryStatePreservedWithinSample": true,
     "clinicalValidation": false
   },
   "lastRealBattery": {
-    "version": "0.7.558-beta",
-    "environment": "private_preview",
-    "actualUIInvocations": 10,
-    "complete": 5,
-    "partial": 3,
-    "gap": 1,
-    "blocked": 1,
-    "accountedUSD": 3.21176338,
-    "capUSD": 4,
-    "modelCalls": 50,
-    "technicalCompletionIsNotAllNeedsMet": true
+    "version": "0.7.602-beta",
+    "environment": "standard_staging",
+    "actualUIInvocations": 2,
+    "complete": 2,
+    "partial": 0,
+    "blocked": 0,
+    "failed": 0,
+    "accountedUSD": 0.22554475,
+    "capUSD": 2,
+    "modelCalls": 3,
+    "scope": "AIFA pack form and two different original medicine documents"
   },
   "model": {
-    "routing": "Sol adaptive, unchanged",
-    "astraActivated": false,
-    "astraComparisonExecuted": false,
-    "developmentWorkflow": "Luna interprets and routes retrieval. Sol drafts once from read sources, then a final review and targeted correction are applied when needed."
+    "routing": "Luna interprets the question and routes retrieval. Sol drafts and performs a final review when needed.",
+    "verifiedCatalogueFacts": "A verified catalogue-only answer can use zero model calls."
   },
   "payments": {
     "realPaymentsActive": false,
-    "answerChargingActive": false,
-    "initialCredits": 0,
+    "answerChargingActive": true,
     "approvedFuturePack": {
       "EUR": 10,
       "credits": 100,
@@ -69,7 +66,11 @@
       "maxRewardedReviewsPerAccountPerDay": 3,
       "checks": "local_synthetic"
     },
-    "stripeSandbox": "unpaid_checkout_opened_and_closed; payment_confirmation_and_credit_posting_open"
+    "stripeSandbox": "unpaid_checkout_opened_and_closed; payment_confirmation_and_credit_posting_open",
+    "reviewReward": 0.5,
+    "reviewRewardDailyLimit": 3,
+    "checks": "ordinary_602_service_configuration",
+    "welcomeCreditUnits": 10
   },
   "farmAIChannels": {
     "originalGPTsPreserved": true,
@@ -84,9 +85,9 @@
     "independentSecondMemberInstallVerified": false
   },
   "monitoring": {
-    "currentBeta": "0.7.561-beta",
+    "currentBeta": "0.7.602-beta",
     "boundToActualBeta": false,
-    "bindingState": "Autonomous monitoring has not been qualified for the deployed 0.7.561 revision.",
+    "bindingState": "Autonomous monitoring has not been requalified for this revision.",
     "currentReport": null,
     "currentQualifiedHealth": true,
     "githubAutonomousWorkflow": "disabled_manually",
@@ -106,20 +107,20 @@
   "generalProfessionalRollout": false,
   "openLimits": [
     "First actual Special Guest sign-in and a fresh certified-email delivery to a different provider remain open.",
-    "A new complete real chat evaluation on 0.7.561 remains open. The last full batch is reported under its original 0.7.558 version.",
-    "Professional counter acceptance, independent benchmarking and human clinical validation remain open.",
-    "Live payments and per-answer credit debits are disabled. A confirmed sandbox payment and credit posting remain to be tested."
+    "Professional counter acceptance, independent benchmarking and human clinical validation remain open. The 602 sample covers only two questions.",
+    "Live payments remain disabled."
   ],
   "questionRetention": {
-    "currentAdmittedRequests": "All ten staged 0.7.558 requests have their scoped outcomes. Historical retention limits remain recorded separately.",
+    "currentAdmittedRequests": "Both admitted 602 ordinary staging requests have matched receipts and transcripts.",
     "missingHistoricalQuestions": 3,
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
   "previousPointerCommit": "10cb67a7736d5707b50b80b11d3ae4529d9d0ca6",
   "latestVersionBattery": {
-    "version": "0.7.561-beta",
-    "status": "Technical deployment checked in standard staging and restricted beta. End-to-end real-chat evaluation on this version remains open."
+    "version": "0.7.602-beta",
+    "status": "Two distinct ordinary staging chats met both sets of frozen criteria.",
+    "restrictedBetaPromotionVerified": true
   },
   "historical210Before222": {
     "appVersion": "0.7.210-beta",
@@ -290,26 +291,26 @@
   },
   "environments": {
     "restrictedBeta": {
-      "version": "0.7.561-beta",
+      "version": "0.7.602-beta",
       "trafficPercent": 100,
-      "qualification": "technical",
-      "firstEndToEndEvaluation": "open"
+      "qualification": "technical_and_two_targeted_staging_chats"
     },
     "standardStaging": {
-      "version": "0.7.561-beta",
+      "version": "0.7.602-beta",
       "trafficPercent": 100,
-      "qualification": "technical"
+      "asObserved": "at the 602 counter promotion"
     },
     "privatePreview": {
       "version": "0.7.560-beta",
       "qualification": "technical",
       "localAppTestsPassed": 3883,
       "profileMemoryHistoryContinuityVerified": true,
-      "historicalBeforeRelease": "0.7.561-beta"
+      "historicalBeforeRelease": "0.7.561-beta",
+      "status": "historical_retired"
     },
     "latestCheckedEndToEndSample": {
-      "version": "0.7.558-beta",
-      "questions": 10
+      "version": "0.7.602-beta",
+      "questions": 2
     }
   },
   "testing": {
@@ -327,11 +328,8 @@
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
     "resumeAfter": "fixes_and_new_version_staging_qualification",
-    "latestObservedCheckpointVersion": "0.7.556-beta",
+    "latestObservedCheckpointVersion": "0.7.602-beta",
     "latestPrivatePreview": "0.7.560-beta",
-    "verifiedAtCheckpoint": 25,
-    "cumulativeOutcomes": 5777,
-    "cumulativeReceipts": 5748,
     "currentProtocol": "Test Luna v1.2",
     "lunaCumulativeCapUSD": 20,
     "reviewEveryNewVerifiedOutcomes": 25,
@@ -363,34 +361,54 @@
       "version": "0.7.510-beta",
       "reason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption."
     },
-    "testsInCheckpoint": 49,
-    "latestPrivatePreviewHistoricalBeforeRelease": "0.7.561-beta"
+    "latestPrivatePreviewHistoricalBeforeRelease": "0.7.561-beta",
+    "latestNativeMiniBatch": {
+      "questions": 2,
+      "verified": 2,
+      "metCriteria": 1,
+      "limitUSD": 20,
+      "cumulativeBookedUSD": 11.5948603825
+    },
+    "latestBroadEvaluation": {
+      "version": "0.7.598-beta",
+      "environment": "standard_staging",
+      "questions": 10,
+      "passed": 3,
+      "partial": 2,
+      "failed": 5
+    }
   },
   "previousBetaQualification": {
-    "version": "0.7.231-beta",
-    "scope": "Own final app and exact immutable bridge continuity; new resource and source controls",
-    "appTests": 2771,
-    "bridgeTests": 702,
-    "skipped": 0,
-    "sourceReaderControls": 48,
-    "readerInvocations": 96,
-    "knownFinalFamilyTests": 8,
-    "historicalSourceReplay": {
-      "cases": 12000,
-      "inferenceCalls": 0,
-      "newHttpReads": 0
-    },
+    "scope": "Technical deployment at 100% in standard staging and restricted beta",
+    "version": "0.7.561-beta",
+    "appTests": 3886,
+    "qualifiedSameImageForBothEnvironments": true,
+    "profileHistoryAndMemoryStatePreservedWithinSample": true,
     "clinicalValidation": false
   },
   "releaseCadence": {
-    "exceptionVersion": "0.7.561-beta",
     "regularEveryVersions": 20,
-    "nextRegularVersion": "0.7.580"
+    "publicationCheckpoint": "0.7.600",
+    "nextRegularVersion": "0.7.620",
+    "channels": [
+      "GitHub",
+      "public site"
+    ],
+    "stagingPolicy": "forward only"
   },
   "access": {
     "professionalRegistration": "self_declared",
     "certifiedEmailOnboardingAvailable": true,
     "specialGuest": "owner_invitation_without_pec",
     "firstRealGuestSignIn": "open"
+  },
+  "previousPointerBlob": "ee14a1f731009b9156e7f8118692be2129886149",
+  "lastBroadBattery": {
+    "version": "0.7.598-beta",
+    "environment": "standard_staging",
+    "questions": 10,
+    "passed": 3,
+    "partial": 2,
+    "failed": 5
   }
 }
