@@ -1,18 +1,12 @@
-## Verified status — 19 November 2026
+## Verified status · 20 November 2026
 
-| Environment | Version | Observed status |
-| --- | --- | --- |
-| Restricted beta | **0.7.561-beta** | 100% of traffic. The home page was verified on the beta domain. |
-| Standard staging | **0.7.561-beta** | 100% of traffic on the same image as beta. Technical qualification complete. |
-| Earlier private preview | **0.7.560-beta** | Credit and signed-review checks retain their original scope. |
+At the 600 publication checkpoint, **0.7.602-beta** served 100% of restricted beta traffic. Standard staging and the counter were verified on the same image at promotion. Staging is used for application tests, with account data kept separate from the counter.
 
-**0.7.561** passed **3,886 local tests**. It includes the updated home, certified-email onboarding with self-declared professional status, institutional sources for supplements and devices, and the credit ledger. The owner can invite a **Special Guest** to sign in without certified email. The first actual guest sign-in and a fresh certified delivery to a different provider remain open. Live payments and credit charges remain disabled.
+In the broad 0.7.598 sample, three of ten questions met all frozen criteria, two partially met them and five failed. Two targeted 0.7.600 questions met their criteria. On 0.7.601, two of three met all criteria. On 0.7.602, both targeted checks passed. The shared AIFA catalogue entry answered the pack question in 3.855 seconds in the UI with zero model calls. The two-document question used Luna for retrieval and Sol for composition and review, with 28.527 seconds on the server. The cost recorded for both 602 chats was USD 0.22554475. These samples leave counter acceptance, independent benchmarking and human clinical validation open.
 
-The **0.7.561** release is a one-off exception. The regular cadence resumes every **20 versions**, starting with **0.7.580**. The latest completed end-to-end batch was on **0.7.558**, with five complete outcomes, three partial outcomes, one gap and one block in 10 staging questions. A new complete chat evaluation on **0.7.561** remains open.
+The restricted service uses application credits. Live payments are off. The next combined GitHub and website checkpoint is 0.7.620.
 
-The counter objective remains **11 December 2026**. Counter acceptance, independent evaluation and human clinical validation remain open. Assessment **2026-11-19-r133** on **Sites 167** retains the 16 maturity scores and six roadmap gate states.
-
-[Testing strategy](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Evidence and limits](docs/TESTING.md) · [Status](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency)
+[Testing and limitations](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md) · [Stato e trasparenza](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
 
 ---
 
