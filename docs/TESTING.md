@@ -1,6 +1,6 @@
 # SOPHIA · Testing in development
 
-As of 19 November 2026. [Visual roadmap in Italian and English](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing).
+As of 20 November 2026. [Visual roadmap in Italian and English](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing).
 
 ## Test Luna v1.2 · Through source reading
 
@@ -35,11 +35,21 @@ flowchart LR
 
 Select varied samples independently of the 25-outcome checkpoint, with a separate cap of **USD 4 per batch**. Review the sources, Sol’s synthesis, the final check and the answer actually delivered. Record gaps, time and interruptions. Apply targeted corrections when needed.
 
-## Deployment and current version checks
+## Checkpoint 600
+
+At the 600 publication checkpoint, **0.7.602-beta** served 100% of restricted beta traffic. Standard staging and the counter were verified on the same image at promotion. Staging is used for application tests, with account data kept separate from the counter.
+
+In the broad 0.7.598 sample, three of ten questions met all frozen criteria, two partially met them and five failed. Two targeted 0.7.600 questions met their criteria. On 0.7.601, two of three met all criteria. On 0.7.602, both targeted checks passed. The shared AIFA catalogue entry answered the pack question in 3.855 seconds in the UI with zero model calls. The two-document question used Luna for retrieval and Sol for composition and review, with 28.527 seconds on the server. The cost recorded for both 602 chats was USD 0.22554475. These samples leave counter acceptance, independent benchmarking and human clinical validation open.
+
+The restricted service uses application credits. Live payments are off. The next combined GitHub and website checkpoint is 0.7.620.
+
+Test Luna on 602 separately reviewed two pre-Sol source-path cases. One met the expected outcome. The other identified both requested documents but acquired one additional document. These are separate from the two complete AIFA chats.
+
+## Historical deployment at 0.7.561
 
 **0.7.561** passed **3,886 local tests** and was released to 100% of standard staging and restricted beta traffic. The owner-invited Special Guest route was checked locally. The first actual guest sign-in and a new end-to-end chat evaluation on 0.7.561 remain open. The 0.7.558 results below retain their original version. The regular cadence resumes every 20 versions after this one-off release, starting with 0.7.580.
 
-## Latest observed evidence
+## Earlier results at 0.7.556–560
 
 - **0.7.556 · Test Luna v1.2.** 49 private preview tests reached 25 newly verified outcomes. The cumulative log contains 5,777 outcomes and 5,748 source-path receipts.
 - **0.7.558 · Test completo v1.0.** Ten staging questions yielded five complete outcomes, three partial, one gap and one block. Recorded spend was USD 3.21 against a USD 4 cap. Complete cases include exact pack and original AIFA documents and Normattiva text. One mixed request stopped at final verification.
