@@ -1,4 +1,14 @@
-## Verified status · 20 November 2026
+## Checkpoint 620 · 21 November 2026
+
+SOPHIA 0.7.620-beta is qualified for restricted beta. Promotion verified matching app and bridge images in standard staging and at the counter. Three consecutive turns in one conversation clarified the time period and retained its context. Three further cases, including a mobile check, covered a pack lookup, an interaction follow-up and a separate medicine document question.
+
+In two new chats, SOPHIA read an Italian manufacturer publication again and linked the product variant to a previously cited passage. For the same question, Luna made one discovery call on 619 and zero on 620, with server times of 22.195 and 11.773 seconds respectively. A paraphrase triggered independent discovery. These observations cover the individual requests. Broader counter evaluation and human clinical validation remain open.
+
+[Stato e trasparenza](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Testing](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
+
+---
+
+## Historical checkpoint 600 · 20 November 2026
 
 At the 600 publication checkpoint, **0.7.602-beta** served 100% of restricted beta traffic. Standard staging and the counter were verified on the same image at promotion. Staging is used for application tests, with account data kept separate from the counter.
 

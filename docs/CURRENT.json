@@ -1,48 +1,63 @@
 {
   "schemaVersion": 2,
-  "reviewedAt": "2026-11-20",
-  "appVersion": "0.7.602-beta",
+  "reviewedAt": "2026-11-21",
+  "appVersion": "0.7.620-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 179,
-    "snapshot": "2026-11-20-r145",
+    "siteVersion": 180,
+    "snapshot": "2026-11-21-r146",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 179,
-    "sourceCommit": "49c78ba3310ebe7771078f040488a8fee57f42f1",
+    "version": 180,
+    "sourceCommit": "2fb3c23492d117badb3df59abbd32a43d9e9c98e",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.603-rc",
-    "state": "Local candidate for additional source-navigation changes at this checkpoint."
+    "version": "0.7.620-rc",
+    "state": "Canonical local packaging reference; deployment is recorded separately."
   },
   "qualification": {
-    "scope": "Technical deployment at 100% in standard staging and restricted beta",
-    "version": "0.7.602-beta",
-    "appTests": 4209,
+    "scope": "Staging and restricted beta at 100%, with three targeted staging batches; human clinical validation remains open.",
+    "version": "0.7.620-beta",
+    "appTests": 4463,
     "qualifiedSameImageForBothEnvironments": true,
     "profileHistoryAndMemoryStatePreservedWithinSample": true,
     "clinicalValidation": false
   },
   "lastRealBattery": {
-    "version": "0.7.602-beta",
+    "version": "0.7.620-beta",
     "environment": "standard_staging",
-    "actualUIInvocations": 2,
-    "complete": 2,
-    "partial": 0,
-    "blocked": 0,
-    "failed": 0,
-    "accountedUSD": 0.22554475,
-    "capUSD": 2,
-    "modelCalls": 3,
-    "scope": "AIFA pack form and two different original medicine documents"
+    "scope": "Three scoped qualification batches. Observational clinical work is independent.",
+    "batches": [
+      {
+        "scope": "three_successive_turns",
+        "requests": 3,
+        "passed": 3,
+        "accountedUSD": "1.1190130",
+        "capUSD": "3"
+      },
+      {
+        "scope": "mobile_and_independent_medicine_question",
+        "requests": 3,
+        "passed": 3,
+        "accountedUSD": "0.7897758",
+        "capUSD": "3"
+      },
+      {
+        "scope": "manufacturer_publication_reuse",
+        "requests": 2,
+        "passed": 2,
+        "accountedUSD": "0.124619530",
+        "capUSD": "2"
+      }
+    ]
   },
   "model": {
     "routing": "Luna interprets the question and routes retrieval. Sol drafts and performs a final review when needed.",
@@ -69,7 +84,7 @@
     "stripeSandbox": "unpaid_checkout_opened_and_closed; payment_confirmation_and_credit_posting_open",
     "reviewReward": 0.5,
     "reviewRewardDailyLimit": 3,
-    "checks": "ordinary_602_service_configuration",
+    "checks": "ordinary_620_service_configuration",
     "welcomeCreditUnits": 10
   },
   "farmAIChannels": {
@@ -85,7 +100,7 @@
     "independentSecondMemberInstallVerified": false
   },
   "monitoring": {
-    "currentBeta": "0.7.602-beta",
+    "currentBeta": "0.7.620-beta",
     "boundToActualBeta": false,
     "bindingState": "Autonomous monitoring has not been requalified for this revision.",
     "currentReport": null,
@@ -107,19 +122,19 @@
   "generalProfessionalRollout": false,
   "openLimits": [
     "First actual Special Guest sign-in and a fresh certified-email delivery to a different provider remain open.",
-    "Professional counter acceptance, independent benchmarking and human clinical validation remain open. The 602 sample covers only two questions.",
+    "Professional counter acceptance, independent comparison and human clinical validation remain open. Eight qualification requests were targeted.",
     "Live payments remain disabled."
   ],
   "questionRetention": {
-    "currentAdmittedRequests": "Both admitted 602 ordinary staging requests have matched receipts and transcripts.",
+    "currentAdmittedRequests": "Each of the eight admitted qualification requests is tied to a stored result and transcript.",
     "missingHistoricalQuestions": 3,
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "10cb67a7736d5707b50b80b11d3ae4529d9d0ca6",
+  "previousPointerCommit": "de57c661b6b80026909eb1faa3d699ef0c30b2a3",
   "latestVersionBattery": {
-    "version": "0.7.602-beta",
-    "status": "Two distinct ordinary staging chats met both sets of frozen criteria.",
+    "version": "0.7.620-beta",
+    "status": "3/3 consecutive turns, 3/3 mobile checks and 2/2 product cases",
     "restrictedBetaPromotionVerified": true
   },
   "historical210Before222": {
@@ -291,14 +306,14 @@
   },
   "environments": {
     "restrictedBeta": {
-      "version": "0.7.602-beta",
+      "version": "0.7.620-beta",
       "trafficPercent": 100,
-      "qualification": "technical_and_two_targeted_staging_chats"
+      "qualification": "technical_and_three_targeted_staging_batches"
     },
     "standardStaging": {
-      "version": "0.7.602-beta",
+      "version": "0.7.620-beta",
       "trafficPercent": 100,
-      "asObserved": "at the 602 counter promotion"
+      "asObserved": "at 620 counter promotion"
     },
     "privatePreview": {
       "version": "0.7.560-beta",
@@ -309,8 +324,13 @@
       "status": "historical_retired"
     },
     "latestCheckedEndToEndSample": {
-      "version": "0.7.602-beta",
-      "questions": 2
+      "version": "0.7.620-beta",
+      "requests": 8,
+      "groupSizes": [
+        3,
+        3,
+        2
+      ]
     }
   },
   "testing": {
@@ -328,7 +348,7 @@
     "humanClinicalValidation": "not_completed",
     "pauseAtReviewCheckpoint": true,
     "resumeAfter": "fixes_and_new_version_staging_qualification",
-    "latestObservedCheckpointVersion": "0.7.602-beta",
+    "latestObservedCheckpointVersion": "0.7.604-beta",
     "latestPrivatePreview": "0.7.560-beta",
     "currentProtocol": "Test Luna v1.2",
     "lunaCumulativeCapUSD": 20,
@@ -363,11 +383,13 @@
     },
     "latestPrivatePreviewHistoricalBeforeRelease": "0.7.561-beta",
     "latestNativeMiniBatch": {
-      "questions": 2,
-      "verified": 2,
+      "version": "0.7.604-beta",
+      "questions": 3,
+      "verified": 3,
       "metCriteria": 1,
       "limitUSD": 20,
-      "cumulativeBookedUSD": 11.5948603825
+      "cumulativeBookedUSD": 11.6222072425,
+      "scope": "Sealed 20 November 604 native batch; separate from 620 qualification."
     },
     "latestBroadEvaluation": {
       "version": "0.7.598-beta",
@@ -380,16 +402,16 @@
   },
   "previousBetaQualification": {
     "scope": "Technical deployment at 100% in standard staging and restricted beta",
-    "version": "0.7.561-beta",
-    "appTests": 3886,
+    "version": "0.7.602-beta",
+    "appTests": 4209,
     "qualifiedSameImageForBothEnvironments": true,
     "profileHistoryAndMemoryStatePreservedWithinSample": true,
     "clinicalValidation": false
   },
   "releaseCadence": {
     "regularEveryVersions": 20,
-    "publicationCheckpoint": "0.7.600",
-    "nextRegularVersion": "0.7.620",
+    "publicationCheckpoint": "0.7.620",
+    "nextRegularVersion": "0.7.640",
     "channels": [
       "GitHub",
       "public site"
@@ -402,7 +424,7 @@
     "specialGuest": "owner_invitation_without_pec",
     "firstRealGuestSignIn": "open"
   },
-  "previousPointerBlob": "ee14a1f731009b9156e7f8118692be2129886149",
+  "previousPointerBlob": "ac77a7fdb063435dd583d36e665e7e7a8e13ee6e",
   "lastBroadBattery": {
     "version": "0.7.598-beta",
     "environment": "standard_staging",
@@ -410,5 +432,151 @@
     "passed": 3,
     "partial": 2,
     "failed": 5
+  },
+  "historicalCheckpoint600At602": {
+    "website": {
+      "siteVersion": 179,
+      "snapshot": "2026-11-20-r145",
+      "scoresReviewed": 16,
+      "scoresChanged": 0,
+      "roomStatesReviewed": 19,
+      "gatesReviewed": 6,
+      "gatesAdvanced": 0,
+      "version": 179,
+      "sourceCommit": "49c78ba3310ebe7771078f040488a8fee57f42f1",
+      "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
+      "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
+    },
+    "latestCandidate": {
+      "version": "0.7.603-rc",
+      "state": "Local candidate for additional source-navigation changes at this checkpoint."
+    },
+    "lastRealBattery": {
+      "version": "0.7.602-beta",
+      "environment": "standard_staging",
+      "actualUIInvocations": 2,
+      "complete": 2,
+      "partial": 0,
+      "blocked": 0,
+      "failed": 0,
+      "accountedUSD": 0.22554475,
+      "capUSD": 2,
+      "modelCalls": 3,
+      "scope": "AIFA pack form and two different original medicine documents"
+    },
+    "latestVersionBattery": {
+      "version": "0.7.602-beta",
+      "status": "Two distinct ordinary staging chats met both sets of frozen criteria.",
+      "restrictedBetaPromotionVerified": true
+    },
+    "testing": {
+      "candidateQuestions": 10000,
+      "actualExecutionBoundedBySpendingLimit": true,
+      "privateReceiptForEachExecutedChat": true,
+      "originalVisibleLunaOutputWhenAvailable": true,
+      "preSolBoundary": [
+        "interpretation",
+        "routing",
+        "source_reading_when_applicable",
+        "private_receipt"
+      ],
+      "counterObjectiveDate": "2026-12-11",
+      "humanClinicalValidation": "not_completed",
+      "pauseAtReviewCheckpoint": true,
+      "resumeAfter": "fixes_and_new_version_staging_qualification",
+      "latestObservedCheckpointVersion": "0.7.602-beta",
+      "latestPrivatePreview": "0.7.560-beta",
+      "currentProtocol": "Test Luna v1.2",
+      "lunaCumulativeCapUSD": 20,
+      "reviewEveryNewVerifiedOutcomes": 25,
+      "expectationsSetBeforeSubmission": true,
+      "realEnginesWhenApplicable": true,
+      "questionAreas": [
+        "AIFA",
+        "Normativa",
+        "Clinical Evidence",
+        "web",
+        "conversation"
+      ],
+      "privateReceiptIncludesInterruptionReason": true,
+      "sampleFullAnswer": {
+        "protocol": "Test completo v1.0",
+        "maxRealQuestionsPerBatch": 10,
+        "spendingCapUSDPerBatch": 4,
+        "environment": "staging",
+        "scheduledIndependentlyOfLunaCheckpoint": true,
+        "checks": [
+          "Luna",
+          "source_retrieval",
+          "Sol_synthesis",
+          "final_review",
+          "delivered_answer"
+        ]
+      },
+      "historicalEarlyPause": {
+        "version": "0.7.510-beta",
+        "reason": "An acquisition receipt misclassified a downloaded original PDF as an excerpt; repaired and replayed before resumption."
+      },
+      "latestPrivatePreviewHistoricalBeforeRelease": "0.7.561-beta",
+      "latestNativeMiniBatch": {
+        "questions": 2,
+        "verified": 2,
+        "metCriteria": 1,
+        "limitUSD": 20,
+        "cumulativeBookedUSD": 11.5948603825
+      },
+      "latestBroadEvaluation": {
+        "version": "0.7.598-beta",
+        "environment": "standard_staging",
+        "questions": 10,
+        "passed": 3,
+        "partial": 2,
+        "failed": 5
+      }
+    },
+    "environments": {
+      "restrictedBeta": {
+        "version": "0.7.602-beta",
+        "trafficPercent": 100,
+        "qualification": "technical_and_two_targeted_staging_chats"
+      },
+      "standardStaging": {
+        "version": "0.7.602-beta",
+        "trafficPercent": 100,
+        "asObserved": "at the 602 counter promotion"
+      },
+      "privatePreview": {
+        "version": "0.7.560-beta",
+        "qualification": "technical",
+        "localAppTestsPassed": 3883,
+        "profileMemoryHistoryContinuityVerified": true,
+        "historicalBeforeRelease": "0.7.561-beta",
+        "status": "historical_retired"
+      },
+      "latestCheckedEndToEndSample": {
+        "version": "0.7.602-beta",
+        "questions": 2
+      }
+    },
+    "qualification": {
+      "scope": "Technical deployment at 100% in standard staging and restricted beta",
+      "version": "0.7.602-beta",
+      "appTests": 4209,
+      "qualifiedSameImageForBothEnvironments": true,
+      "profileHistoryAndMemoryStatePreservedWithinSample": true,
+      "clinicalValidation": false
+    }
+  },
+  "clinicalObservation": {
+    "version": "0.7.620-beta",
+    "scope": "Separate observational batch",
+    "questions": 2,
+    "fullySupportedAndCompleteAnswers": 1,
+    "methodBehaviorMatchedOracle": 2,
+    "methodAppliedToQuestions": 1,
+    "appropriateInactiveControls": 1,
+    "citedDocumentMemoryReuse": 0,
+    "limit": "One sourced estimate omitted intervention timing and the population to which it applied.",
+    "clinicalValidation": false
   }
 }
