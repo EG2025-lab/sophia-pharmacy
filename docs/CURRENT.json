@@ -1,63 +1,45 @@
 {
   "schemaVersion": 2,
-  "reviewedAt": "2026-11-21",
-  "appVersion": "0.7.620-beta",
+  "reviewedAt": "2026-11-22",
+  "appVersion": "0.7.680-beta",
   "publicAppAccess": "restricted_owner_approved",
   "appURL": null,
   "accountURL": null,
   "canonicalStatus": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency",
   "website": {
-    "siteVersion": 180,
-    "snapshot": "2026-11-21-r146",
+    "siteVersion": 181,
+    "snapshot": "2026-11-22-r147",
     "scoresReviewed": 16,
     "scoresChanged": 0,
     "roomStatesReviewed": 19,
     "gatesReviewed": 6,
     "gatesAdvanced": 0,
-    "version": 180,
-    "sourceCommit": "2fb3c23492d117badb3df59abbd32a43d9e9c98e",
+    "version": 181,
+    "sourceCommit": "8592b0a53183421251cbcf09f96a5ef21c1d946e",
     "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
     "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
   },
   "latestCandidate": {
-    "version": "0.7.620-rc",
-    "state": "Canonical local packaging reference; deployment is recorded separately."
+    "version": "0.7.680-beta",
+    "state": "Observed in standard staging; restricted counter qualification is reported separately."
   },
   "qualification": {
-    "scope": "Staging and restricted beta at 100%, with three targeted staging batches; human clinical validation remains open.",
-    "version": "0.7.620-beta",
-    "appTests": 4463,
-    "qualifiedSameImageForBothEnvironments": true,
-    "profileHistoryAndMemoryStatePreservedWithinSample": true,
+    "scope": "100% counter traffic, with matching app and source-service images at deployment; functional check failed.",
+    "technicalDeploymentChecks": "passed",
+    "version": "0.7.680-beta",
+    "matchingImagesAtDeployment": true,
+    "functionalQualificationPassed": false,
+    "latestFunctionallyQualifiedVersion": "0.7.655-beta",
     "clinicalValidation": false
   },
   "lastRealBattery": {
-    "version": "0.7.620-beta",
+    "version": "0.7.680-beta",
     "environment": "standard_staging",
-    "scope": "Three scoped qualification batches. Observational clinical work is independent.",
-    "batches": [
-      {
-        "scope": "three_successive_turns",
-        "requests": 3,
-        "passed": 3,
-        "accountedUSD": "1.1190130",
-        "capUSD": "3"
-      },
-      {
-        "scope": "mobile_and_independent_medicine_question",
-        "requests": 3,
-        "passed": 3,
-        "accountedUSD": "0.7897758",
-        "capUSD": "3"
-      },
-      {
-        "scope": "manufacturer_publication_reuse",
-        "requests": 2,
-        "passed": 2,
-        "accountedUSD": "0.124619530",
-        "capUSD": "2"
-      }
-    ]
+    "requests": 1,
+    "state": "failed",
+    "deliveredAnswers": 0,
+    "elapsedSeconds": 78.157,
+    "scope": "Targeted retest of a non-repeatable prescription question; case remains open."
   },
   "model": {
     "routing": "Luna interprets the question and routes retrieval. Sol drafts and performs a final review when needed.",
@@ -84,7 +66,7 @@
     "stripeSandbox": "unpaid_checkout_opened_and_closed; payment_confirmation_and_credit_posting_open",
     "reviewReward": 0.5,
     "reviewRewardDailyLimit": 3,
-    "checks": "ordinary_620_service_configuration",
+    "checks": "ordinary_service_configuration",
     "welcomeCreditUnits": 10
   },
   "farmAIChannels": {
@@ -100,7 +82,7 @@
     "independentSecondMemberInstallVerified": false
   },
   "monitoring": {
-    "currentBeta": "0.7.620-beta",
+    "currentBeta": "0.7.680-beta",
     "boundToActualBeta": false,
     "bindingState": "Autonomous monitoring has not been requalified for this revision.",
     "currentReport": null,
@@ -122,20 +104,25 @@
   "generalProfessionalRollout": false,
   "openLimits": [
     "First actual Special Guest sign-in and a fresh certified-email delivery to a different provider remain open.",
-    "Professional counter acceptance, independent comparison and human clinical validation remain open. Eight qualification requests were targeted.",
+    "Professional counter acceptance, independent comparison and human clinical validation remain open.",
     "Live payments remain disabled."
   ],
   "questionRetention": {
-    "currentAdmittedRequests": "Each of the eight admitted qualification requests is tied to a stored result and transcript.",
+    "currentAdmittedRequests": "Requests reported in the scoped qualification keep private results and transcripts.",
     "missingHistoricalQuestions": 3,
     "reconstructed": false
   },
   "historyPolicy": "Earlier CURRENT snapshots and reports remain in Git history; no retroactive sealed-report edits.",
-  "previousPointerCommit": "de57c661b6b80026909eb1faa3d699ef0c30b2a3",
+  "previousPointerCommit": "0cc816ab0578eaaa906d562c98506380ac7d78e2",
   "latestVersionBattery": {
-    "version": "0.7.620-beta",
-    "status": "3/3 consecutive turns, 3/3 mobile checks and 2/2 product cases",
-    "restrictedBetaPromotionVerified": true
+    "version": "0.7.680-beta",
+    "requests": 1,
+    "state": "failed",
+    "deliveredAnswers": 0,
+    "elapsedSeconds": 78.157,
+    "scope": "Targeted retest of a non-repeatable prescription question; case remains open.",
+    "counterTrafficVerified": true,
+    "functionalQualificationPassed": false
   },
   "historical210Before222": {
     "appVersion": "0.7.210-beta",
@@ -306,14 +293,14 @@
   },
   "environments": {
     "restrictedBeta": {
-      "version": "0.7.620-beta",
+      "version": "0.7.680-beta",
       "trafficPercent": 100,
-      "qualification": "technical_and_three_targeted_staging_batches"
+      "qualification": "extraordinary_traffic_override_after_failed_functional_check"
     },
     "standardStaging": {
-      "version": "0.7.620-beta",
+      "version": "0.7.680-beta",
       "trafficPercent": 100,
-      "asObserved": "at 620 counter promotion"
+      "asObserved": "at the cumulative documentation update"
     },
     "privatePreview": {
       "version": "0.7.560-beta",
@@ -324,13 +311,12 @@
       "status": "historical_retired"
     },
     "latestCheckedEndToEndSample": {
-      "version": "0.7.620-beta",
-      "requests": 8,
-      "groupSizes": [
-        3,
-        3,
-        2
-      ]
+      "version": "0.7.680-beta",
+      "requests": 1,
+      "state": "failed",
+      "deliveredAnswers": 0,
+      "elapsedSeconds": 78.157,
+      "scope": "Targeted retest of a non-repeatable prescription question; case remains open."
     }
   },
   "testing": {
@@ -401,22 +387,23 @@
     }
   },
   "previousBetaQualification": {
-    "scope": "Technical deployment at 100% in standard staging and restricted beta",
-    "version": "0.7.602-beta",
-    "appTests": 4209,
+    "scope": "Staging and restricted beta at 100%, with three targeted staging batches; human clinical validation remains open.",
+    "version": "0.7.620-beta",
+    "appTests": 4463,
     "qualifiedSameImageForBothEnvironments": true,
     "profileHistoryAndMemoryStatePreservedWithinSample": true,
     "clinicalValidation": false
   },
   "releaseCadence": {
     "regularEveryVersions": 20,
-    "publicationCheckpoint": "0.7.620",
-    "nextRegularVersion": "0.7.640",
+    "publicationCheckpoint": "0.7.640",
+    "nextRegularVersion": "0.7.660",
     "channels": [
       "GitHub",
       "public site"
     ],
-    "stagingPolicy": "forward only"
+    "stagingPolicy": "forward only",
+    "publicationType": "extraordinary"
   },
   "access": {
     "professionalRegistration": "self_declared",
@@ -424,7 +411,7 @@
     "specialGuest": "owner_invitation_without_pec",
     "firstRealGuestSignIn": "open"
   },
-  "previousPointerBlob": "ac77a7fdb063435dd583d36e665e7e7a8e13ee6e",
+  "previousPointerBlob": "a333518513687ba96935d2e087405f26bd562392",
   "lastBroadBattery": {
     "version": "0.7.598-beta",
     "environment": "standard_staging",
@@ -568,15 +555,98 @@
     }
   },
   "clinicalObservation": {
-    "version": "0.7.620-beta",
-    "scope": "Separate observational batch",
-    "questions": 2,
-    "fullySupportedAndCompleteAnswers": 1,
-    "methodBehaviorMatchedOracle": 2,
-    "methodAppliedToQuestions": 1,
-    "appropriateInactiveControls": 1,
-    "citedDocumentMemoryReuse": 0,
-    "limit": "One sourced estimate omitted intervention timing and the population to which it applied.",
+    "scope": "Targeted staging observations",
+    "versions": [
+      "0.7.645-beta",
+      "0.7.657-beta"
+    ],
+    "limits": "Some citations and partial findings were observed. In one comparison the sources did not fit the question.",
     "clinicalValidation": false
+  },
+  "historicalCheckpoint620": {
+    "website": {
+      "siteVersion": 180,
+      "snapshot": "2026-11-21-r146",
+      "scoresReviewed": 16,
+      "scoresChanged": 0,
+      "roomStatesReviewed": 19,
+      "gatesReviewed": 6,
+      "gatesAdvanced": 0,
+      "version": 180,
+      "sourceCommit": "2fb3c23492d117badb3df59abbd32a43d9e9c98e",
+      "url": "https://sophia-pharmacy.enricogiuliano.chatgpt.site",
+      "testingStrategyURL": "https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing"
+    },
+    "qualification": {
+      "scope": "Staging and restricted beta at 100%, with three targeted staging batches; human clinical validation remains open.",
+      "version": "0.7.620-beta",
+      "appTests": 4463,
+      "qualifiedSameImageForBothEnvironments": true,
+      "profileHistoryAndMemoryStatePreservedWithinSample": true,
+      "clinicalValidation": false
+    },
+    "lastRealBattery": {
+      "version": "0.7.620-beta",
+      "environment": "standard_staging",
+      "scope": "Three scoped qualification batches. Observational clinical work is independent.",
+      "batches": [
+        {
+          "scope": "three_successive_turns",
+          "requests": 3,
+          "passed": 3,
+          "accountedUSD": "1.1190130",
+          "capUSD": "3"
+        },
+        {
+          "scope": "mobile_and_independent_medicine_question",
+          "requests": 3,
+          "passed": 3,
+          "accountedUSD": "0.7897758",
+          "capUSD": "3"
+        },
+        {
+          "scope": "manufacturer_publication_reuse",
+          "requests": 2,
+          "passed": 2,
+          "accountedUSD": "0.124619530",
+          "capUSD": "2"
+        }
+      ]
+    },
+    "latestVersionBattery": {
+      "version": "0.7.620-beta",
+      "status": "3/3 consecutive turns, 3/3 mobile checks and 2/2 product cases",
+      "restrictedBetaPromotionVerified": true
+    },
+    "clinicalObservation": {
+      "version": "0.7.620-beta",
+      "scope": "Separate observational batch",
+      "questions": 2,
+      "fullySupportedAndCompleteAnswers": 1,
+      "methodBehaviorMatchedOracle": 2,
+      "methodAppliedToQuestions": 1,
+      "appropriateInactiveControls": 1,
+      "citedDocumentMemoryReuse": 0,
+      "limit": "One sourced estimate omitted intervention timing and the population to which it applied.",
+      "clinicalValidation": false
+    }
+  },
+  "cumulativeReview": {
+    "fromPublished": "0.7.620-beta",
+    "confirmedQualifiedCounterPromotions": [
+      "0.7.646-beta",
+      "0.7.654-beta",
+      "0.7.655-beta"
+    ],
+    "mostRecentFunctionallyQualifiedVersion": "0.7.655-beta",
+    "summary": {
+      "it": "Dalla 0.7.620 tre promozioni mirate hanno verificato confezioni, ricerca normativa e quesiti misti. Le prove cliniche hanno mostrato risultati parziali. In staging sono stati osservati il riuso di passaggi istituzionali e l’evidenziazione delle informazioni da verificare. La riprova della 0.7.680 sulla ricetta non ripetibile ha ammesso la domanda e fermato la risposta prima della consegna. Il caso resta aperto.",
+      "en": "Since version 0.7.620, three targeted promotions checked pack details, legislative search and mixed questions. Clinical tests yielded partial results. Staging showed reuse of institutional passages and highlighting of information requiring verification. Version 0.7.680 admitted the non-repeatable prescription question and withheld the generated answer before delivery. The case remains open."
+    },
+    "publicationType": "extraordinary",
+    "pendingRegularThresholds": [
+      "0.7.660",
+      "0.7.680"
+    ]
   }
 }

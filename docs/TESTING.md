@@ -1,6 +1,6 @@
 # SOPHIA · Testing in development
 
-As of 20 November 2026. [Visual roadmap in Italian and English](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing).
+Updated 22 November 2026. [Visual roadmap in Italian and English](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing).
 
 ## Test Luna v1.2 · Through source reading
 
@@ -34,6 +34,16 @@ flowchart LR
 ```
 
 Select varied samples independently of the 25-outcome checkpoint, with a separate cap of **USD 4 per batch**. Review the sources, Sol’s synthesis, the final check and the answer actually delivered. Record gaps, time and interruptions. Apply targeted corrections when needed.
+
+## Cumulative update · 22 November 2026
+
+The restricted counter beta serves version 0.7.680-beta. The latest observed standard staging version is 0.7.680-beta. The environments use separate account data. Counter deployment was authorised as an exception, and the functional check for 0.7.680-beta failed. The latest functionally qualified version remains 0.7.655-beta.
+
+Since version 0.7.620, three targeted promotions checked pack details, legislative search and mixed questions. Clinical tests yielded partial results. Staging showed reuse of institutional passages and highlighting of information requiring verification. Version 0.7.680 admitted the non-repeatable prescription question and withheld the generated answer before delivery. The case remains open.
+
+Broader professional assessment, independent comparison and human clinical validation remain open. The results are limited to the observed cases.
+
+[Stato e trasparenza](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Testing](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
 
 ## Checkpoint 620 · 21 November 2026
 
